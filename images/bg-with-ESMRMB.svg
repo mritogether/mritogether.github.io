@@ -38,7 +38,7 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
      id="defs6" /><g
-     transform="matrix(0.88380297,0,0,-0.88380297,1345.6657,154.12791)"
+     transform="matrix(0.72470138,0,0,-0.72470138,1390.7888,154.12791)"
      id="g10"><g
        transform="scale(0.1)"
        id="g12"><path
@@ -228,9 +228,9 @@
          id="path136"
          style="fill:#5e6061;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="m 2020.18,659.27 h 44.35 c 17.58,0 27.71,7.703 27.71,25.304 0,15.184 -13.01,20.969 -26.03,20.969 h -46.03 z m 0,75.437 h 42.42 c 14.23,0 25.53,5.539 25.53,19.281 0,14.219 -10.11,18.567 -26.51,18.567 h -41.44 z m -34.71,67.731 h 84.12 c 42.41,0 53.26,-26.512 53.26,-44.344 0,-24.832 -13.98,-31.821 -21.21,-35.438 21.21,-7.953 26.76,-24.828 26.76,-41.937 0,-13.746 -5.78,-26.758 -14.95,-35.676 -9.89,-9.637 -19.28,-15.668 -54.71,-15.668 h -73.27 v 173.063" /></g></g><rect
-     style="fill:#009080;stroke-width:0.90058;fill-opacity:1;stroke:none"
+     style="fill:#009080;fill-opacity:1;stroke:none;stroke-width:1.10298"
      id="rect894"
      width="2048"
-     height="20"
+     height="30"
      x="0"
      y="0" /></svg>
