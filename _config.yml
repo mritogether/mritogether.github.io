@@ -1,1 +1,10 @@
 theme: jekyll-theme-slate
+
+repository: mritogether/mritogether.github.io
+
+plugins:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji
