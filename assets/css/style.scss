@@ -11,10 +11,11 @@
   background: url('../images/blacktocat.png') #167CA8 no-repeat 95% 50%;
 }
 
-#project-title {
-  color: #000;
+#project_title {
+  color: #222;
+  text-shadow: #aaa 0px 0px 10px;
 }
 
 #main_content_wrap {
-  border-bottom: 0px;
+  border-top: 0px;
 }
