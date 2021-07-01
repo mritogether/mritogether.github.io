@@ -9,3 +9,8 @@ plugins:
 - jekyll-redirect-from
 - jekyll-sitemap
 - jemoji
+
+header:
+  links:
+    - label: Home
+      url: /

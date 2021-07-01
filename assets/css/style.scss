@@ -27,3 +27,15 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color: #5e6061;
 }
+
+#nav-menu {
+  display: flex;
+  padding: 5px;
+}
+
+.menu-item {
+  padding: 5px;
+  flex-grow: 1;
+  text-align: center;
+  font-weight: bold;
+}
