@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+.inner {
+    max-width: 1024px;
+}
+
+#footer_wrap {
+  background: #f2f2f2;
+}
+
 #header_wrap {
   background: url('/images/bg-with-ESMRMB.svg') #f2f2f2 no-repeat center top;
 }
