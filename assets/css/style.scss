@@ -8,7 +8,11 @@
 }
 
 #footer_wrap {
-  background: #f2f2f2;
+  background: #f0f0f0;
+}
+
+footer a {
+  color: #000
 }
 
 #header_wrap {
@@ -21,7 +25,7 @@
 
 #project_title {
   color: #5e6061;
-  text-shadow: #aaa 0px 0px 10px;
+  text-shadow: #aaa 0px 0px 0px;
 }
 
 #project_tagline {
