@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 title: MRI Together
+description: A virtual workshop on Open Science and Reproducible MR Research
 
 repository: mritogether/mritogether.github.io
 
