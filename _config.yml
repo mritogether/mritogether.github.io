@@ -17,5 +17,14 @@ header:
       url: /
     - label: Program
       url: /program
-    - label: Contact
-      url: /contact
+    - label: Timetable
+      url: /timetable
+    - laber: Registration
+      url: /registration
+    - label: Call for abstracts
+      url: /abstracts
+    - label: Organizers
+      url: /committee
+    - label: Sponsors
+      url: /sponsors
+    
