@@ -6,7 +6,7 @@ layout: default
 * **Laura Bell** (co-chair) - Genentech, USA
 * **Francesco Santini** (co-chair) - University of Basel, Switzerland
 * **Sanam Assili** - University of Oulu, Finland
-* **Emma Biondetti** - University of Chieti and Pescara, Italy
+* **Emma Biondetti** - D'Annunzio University of Chieti-Pescara, Italy
 * **Stephen Kaczmarz** - Munich Technical University, Germany
 * **Maxim Zaitsev** - University of Vienna, Austria
 
