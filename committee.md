@@ -13,6 +13,6 @@ layout: default
 <img src="/images/committee.jpg" style="max-width: max-content; width: 1024px"/>
 
 # Advisors
-* **Edwin Oei** - Erasmus MC Rotterdam, The Netherlands
 * **Ozlem Ipek** - King's College London, United Kingdom
+* **Edwin Oei** - Erasmus MC Rotterdam, The Netherlands
 * **Steven Sourbron** - University of Sheffield, United Kingdom
