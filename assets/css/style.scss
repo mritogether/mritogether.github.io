@@ -15,7 +15,7 @@ footer a {
   color: #000
 }
 
-footer P {
+footer p {
   color: #000
 }
 
@@ -63,4 +63,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .menu-item a {
     color: #5e6061;
+}
+
+p img {
+    display: block;
+    padding: 10px;
+    float: right;
+    max-width: 400px;
 }
