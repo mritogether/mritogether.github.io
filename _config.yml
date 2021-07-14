@@ -19,7 +19,7 @@ header:
       url: /program
     - label: Timetable
       url: /timetable
-    - laber: Registration
+    - label: Registration
       url: /registration
     - label: Call for abstracts
       url: /abstracts
