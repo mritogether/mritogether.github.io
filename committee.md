@@ -8,7 +8,7 @@ layout: default
 * **Sanam Assili** - University of Oulu, Finland
 * **Emma Biondetti** - D'Annunzio University of Chieti-Pescara, Italy
 * **Stephan Kaczmarz** - Munich Technical University, Germany
-* **Maxim Zaitsev** - University of Vienna, Austria
+* **Maxim Zaitsev** - Medical University of Vienna, Austria
 
 <img src="/images/committee.jpg" style="max-width: max-content; width: 1024px"/>
 
