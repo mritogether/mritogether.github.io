@@ -16,6 +16,18 @@
     color: aliceblue;
 }
 
+.icon_image {
+    box-shadow: 0 0 5px #ebebeb;
+    -webkit-box-shadow: 0 0 0 0;
+    -moz-box-shadow: 0 0 0 0;
+    -o-box-shadow: 0 0 0 0;
+    -ms-box-shadow: 0 0 0 0;
+    vertical-align: middle;
+    border: none;
+    padding: 0px 10px 0px 0px;
+    margin: 0;
+}
+
 #email_span {
     position: absolute;
     right: 0px;
