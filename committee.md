@@ -10,7 +10,7 @@ layout: default
 * **Stephan Kaczmarz** - Munich Technical University, Germany
 * **Maxim Zaitsev** - Medical University of Vienna, Austria
 
-<img src="/images/committee.jpg" style="max-width: max-content; width: 1024px"/>
+<img src="/images/committee.jpg" style="max-width: 100%;"/>
 
 # Advisors
 * **Ozlem Ipek** - King's College London, United Kingdom
