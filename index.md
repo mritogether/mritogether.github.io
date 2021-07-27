@@ -9,7 +9,7 @@ layout: default
 ![World](/images/nasa_world.jpg)
 
 ## When
-The dates of the workshop are **December 13 to 17**. We will have sessions in all time zones, and all the talks will be recorded and available offline for immediate use. No matter where you are in the world, you will have two exciting live sessions during your daytime, and lots of contents to watch at your convenience!
+The dates of the workshop are **December 13 to 17, 2021**. We will have sessions in all time zones, and all the talks will be recorded and available offline for immediate use. No matter where you are in the world, you will have two exciting live sessions during your daytime, and lots of contents to watch at your convenience!
 We will also have a social platform to gather and discuss! 
 
 ## What
@@ -24,4 +24,4 @@ Topics will include:
 
 ## Who
 
-We are a [team](/committee) of MRI scientists from different aspects of the MRI world, with a passion for Open Science. [ESMRMB](https://esmrmb.org/) is helping us organize this global workshop aimed at scientists from multiple backgrounds. So, no matter if you are a physicist, MD, computer scientist, neuroscientist. If you are passionate about Open Science, [join us](/registration)!
+We are a [team](/committee) of MRI scientists from different aspects of the MRI world with a passion for Open Science. [ESMRMB](https://esmrmb.org/) is helping us organize this global workshop aimed at scientists from multiple backgrounds -- no matter if you are a physicist, engineer, computer scientist, radiographer, physician. If you are passionate about Open Science, [join us](/registration)!
