@@ -13,6 +13,7 @@ The content will be offered live across multiple time zones, this means that eac
 ## Opening
 ### Opening Session (Atlantic)
 Focus: **Reproducible science**
+Date: December 13, 2021 @ 12:00-14:00 UTC/13:00-15:00 CET/07:00-09:00 EST/17:30-19:30 IST
 ### Opening Session (Pacific)
 Focus: **Open Source and Commercial development**
 
