@@ -24,4 +24,4 @@ Topics will include:
 
 ## Who
 
-We are a [team](/committee) of MRI scientists from different aspects of the MRI world with a passion for Open Science. [ESMRMB](https://esmrmb.org/) is helping us organize this global workshop aimed at scientists from diverse backgrounds -- no matter if you are a physicist, engineer, computer scientist, radiographer, or physician. If you are passionate about Open Science, [join us](/registration)!
+We are a [team](/committee) of MRI scientists from different aspects of the MRI world with a passion for Open Science. With the support from [ESMRMB](https://esmrmb.org/) this global workshop aims to bring MRI scientists together -- no matter if you are a physicist, engineer, computer scientist, radiographer, or physician. If you are passionate about Open Science, [join us](/registration)!
