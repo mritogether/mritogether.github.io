@@ -10,11 +10,25 @@ The meeting will consists of lectures and panel discussions in the Opening and C
 
 The content will be offered live across multiple time zones, this means that each workshop will be repeated twice. While the general topics will be the same for the two time zones, the speakers and the content of the specific talks will change.
 
-## Opening
-### Opening Session (Atlantic)
+# Time Zones
+We have identified 4 time zones....<keep this session or smaller table within each of the sessions?>
+
+| | Time (UTC) | Time (CET) | Time (EST) | Time (PST) | Time (JST) | Time (IST) |
+| ------------- | ------------- | ------------- | ------------- |------------- | ------------- | ------------- |
+| Atlantic | 12:00-14:00 | 13:00-15:00 | 07:00-09:00 | 04:00-06:00 | 21:00-23:00 | 17:30-19:30 |
+| Pacific | 12:00-14:00 | 13:00-15:00 | 07:00-09:00 | 04:00-06:00 | 21:00-23:00 | 17:30-19:30 |
+| Indian | 12:00-14:00 | 13:00-15:00 | 07:00-09:00 | 04:00-06:00 | 21:00-23:00 | 17:30-19:30 |
+| Caribbean | 12:00-14:00 | 13:00-15:00 | 07:00-09:00 | 04:00-06:00 | 21:00-23:00 | 17:30-19:30 |
+
+## Opening Sessions starting Monday, December 13, 2021: 
+### Atlantic Opening Session
 Focus: **Reproducible science**
-Date: December 13, 2021 @ 12:00-14:00 UTC/13:00-15:00 CET/07:00-09:00 EST/17:30-19:30 IST
-### Opening Session (Pacific)
+
+| Time (UTC) | Time (CET) | Time (EST) | Time (PST) | Time (JST) | Time (IST) |
+| ------------- | ------------- | ------------- | ------------- |------------- | ------------- |
+| December 13 at 12:00-14:00 UTC  | December 13 at 1-3 pm | December 13 at 7-9 am | December 13 at 4-6 am | December 13 at 9-11pm | December 13 at 5:30 -7:30 pm
+
+### Pacific Opening Session
 Focus: **Open Source and Commercial development**
 
 ## Topic A: Data
