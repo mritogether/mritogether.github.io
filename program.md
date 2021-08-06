@@ -25,7 +25,7 @@ We have identified 4 time zones....<keep this session or smaller table within ea
 
 ## Opening Sessions starting Monday, December 13, 2021: 
 ### Atlantic Opening Session
-Focus: **Reproducible science** - Start time <span class="timezone_adapt" data-date="13" data-time="12"></span>
+Focus: **Reproducible science** - Start time <span class="timezone_adapt" data-date="13" data-start-time="12" data-end-time="14"></span>
 
 
 ### Pacific Opening Session

@@ -7,7 +7,7 @@ function populateTimeZones()
     for (var i = min; i<=max; i++) {
         var opt = document.createElement('option');
         opt.value = i;
-        opt.innerHTML = "GMT" + (i<0?"":"+") + i;
+        opt.innerHTML = "UTC" + (i<0?"":"+") + i;
         select.appendChild(opt);
     }
 }
@@ -29,12 +29,17 @@ function adaptTime()
     
     Array.from(document.getElementsByClassName("timezone_adapt")).forEach(function (element) {
         var orig_date = parseInt(element.getAttribute("data-date"));
-        var orig_time = parseInt(element.getAttribute("data-time"));
+        var orig_start_time = parseInt(element.getAttribute("data-start-time"));
+        var orig_end_time = parseInt(element.getAttribute("data-end-time"));
         
-        console.log(orig_date + " " + orig_time);
+        console.log(orig_date + " " + orig_start_time);
         
-        var new_time = orig_time + timeZone;
+        var new_time = orig_start_time + timeZone;
         var new_date = orig_date;
+        
+        var new_end_date = orig_date;
+        var new_end_time = orig_end_time + timeZone;
+        
         if (new_time < 0)
         {
             new_date--;
@@ -46,7 +51,25 @@ function adaptTime()
             new_time -= 24;
         }
         
-        element.innerHTML = "December " + new_date + ", " + new_time + ":00";
+        if (new_end_time < 0)
+        {
+            new_end_date--;
+            new_end_time += 24;
+        }
+        if (new_end_time >= 24)
+        {
+            new_end_date++;
+            new_end_time -= 24;
+        }
+        
+        new_html = "December " + new_date + ", " + new_time + ":00 - ";
+        if (new_end_date != new_date)
+        {
+            new_html += "December " + new_end_date + ", ";
+        }
+        new_html += new_end_time + ":00";
+        
+        element.innerHTML = new_html;
     });
 }
 
