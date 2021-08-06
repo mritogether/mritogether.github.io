@@ -9,7 +9,7 @@
 
 {% seo %}
     
-  {% for js page.javascript %}
+  {% for js in page.javascript %}
     <script language="javascript" type="text/javascript">
     {% include {{ js }} %}
     </script>
