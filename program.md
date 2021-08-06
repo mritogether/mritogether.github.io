@@ -1,7 +1,7 @@
 ---
 title: Program
 layout: default
-javascript: [ assets/js/timezone.js ]
+javascript: [ timezone.js ]
 ---
 
 # Meeting program
