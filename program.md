@@ -1,10 +1,13 @@
 ---
 title: Program
 layout: default
+javascript: [ assets/js/timezone.js ]
 ---
 
 # Meeting program
 *This page is under construction*
+
+Select your time zone: <select id="timezone_select" onchange="adaptTime()"></select>
 
 The meeting will consists of lectures and panel discussions in the Opening and Closing sessions, and more practical talks including hands-on workshops in between.
 
@@ -22,11 +25,8 @@ We have identified 4 time zones....<keep this session or smaller table within ea
 
 ## Opening Sessions starting Monday, December 13, 2021: 
 ### Atlantic Opening Session
-Focus: **Reproducible science**
+Focus: **Reproducible science** - Start time <span class="timezone_adapt" data-date="13" data-time="12"></span>
 
-| Time (UTC) | Time (CET) | Time (EST) | Time (PST) | Time (JST) | Time (IST) |
-| ------------- | ------------- | ------------- | ------------- |------------- | ------------- |
-| December 13 at 12:00-14:00 UTC  | December 13 at 1-3 pm | December 13 at 7-9 am | December 13 at 4-6 am | December 13 at 9-11pm | December 13 at 5:30 -7:30 pm
 
 ### Pacific Opening Session
 Focus: **Open Source and Commercial development**
