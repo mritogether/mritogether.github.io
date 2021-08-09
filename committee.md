@@ -7,7 +7,6 @@ layout: default
 * **Francesco Santini** (co-chair) - University of Basel, Switzerland
 * **Sanam Assili** - University of Oulu, Finland
 * **Emma Biondetti** - D'Annunzio University of Chieti-Pescara, Italy
-* **Stephan Kaczmarz** - Munich Technical University, Germany
 * **Maxim Zaitsev** - Medical University of Vienna, Austria
 
 <img src="/images/committee.jpg" style="max-width: 100%;"/>
