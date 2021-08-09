@@ -7,56 +7,72 @@ javascript: [ timezone.js ]
 # Meeting program
 *This page is under construction*
 
-Select your time zone: <select id="timezone_select" onchange="adaptTime()"></select>
-
 The meeting will consists of lectures and panel discussions in the Opening and Closing sessions, and more practical talks including hands-on workshops in between.
 
 The content will be offered live across multiple time zones, this means that each workshop will be repeated twice. While the general topics will be the same for the two time zones, the speakers and the content of the specific talks will change.
 
 # Time Zones
-We have identified 4 time zones....<keep this session or smaller table within each of the sessions?>
+We have identified 4 time zones:
 
-| | Time (UTC) | Time (CET) | Time (EST) | Time (PST) | Time (JST) | Time (IST) |
-| ------------- | ------------- | ------------- | ------------- |------------- | ------------- | ------------- |
-| Atlantic | 12:00-14:00 | 13:00-15:00 | 07:00-09:00 | 04:00-06:00 | 21:00-23:00 | 17:30-19:30 |
-| Pacific | 12:00-14:00 | 13:00-15:00 | 07:00-09:00 | 04:00-06:00 | 21:00-23:00 | 17:30-19:30 |
-| Indian | 12:00-14:00 | 13:00-15:00 | 07:00-09:00 | 04:00-06:00 | 21:00-23:00 | 17:30-19:30 |
-| Caribbean | 12:00-14:00 | 13:00-15:00 | 07:00-09:00 | 04:00-06:00 | 21:00-23:00 | 17:30-19:30 |
+|           | Time (UTC)  | Time (CET)  | Time (EST)  | Time (PST)  | Time (Beijing) | Time (Tokyo) | Time (IST) |
+| --------- | ----------- | ----------- | ----------- | ----------- | -------------- | ----------- | ----------- |
+| Atlantic  | 12:00-14:00 | 13:00-15:00 | 07:00-09:00 | 04:00-06:00 | 20:00-22:00    | 21:00-23:00 | 17:30-19:30 |
+| Pacific   | 00:00-02:00 | 01:00-03:00 | 19:00-21:00 | 08:00-10:00 | 09:00-11:00    | 05:30-07:30 | 17:30-19:30 |
+| Indian    | 06:00-08:00 | 07:00-09:00 | 01:00-03:00 | 22:00-00:00 | 14:00-16:00    | 15:00-17:00 | 11:30-13:30 |
+| Caribbean | 18:00-20:00 | 19:00-21:00 | 13:00-15:00 | 10:00-12:00 | 02:00-04:00    | 03:00-05:00 | 23:30-01:30 |
 
-## Opening Sessions starting Monday, December 13, 2021: 
-### Atlantic Opening Session
-Focus: **Reproducible science** - <span class="timezone_adapt" data-date="13" data-start-time="12" data-end-time="14"></span>
+Select your time zone to see the adapted times in the program below: <select id="timezone_select" onchange="adaptTime()"></select>
+
+## Opening Sessions: 
+### Atlantic Opening Session - <span class="timezone_adapt" data-date="13" data-start-time="12" data-end-time="14"></span>
+Focus: **Reproducible science**
 
 
-### Pacific Opening Session
+### Pacific Opening Session - <span class="timezone_adapt" data-date="14" data-start-time="00" data-end-time="02"></span>
 Focus: **Open Source and Commercial development**
 
 ## Topic A: Data
-### Workshop A1
+
+Indian timezone: <span class="timezone_adapt" data-date="14" data-start-time="06" data-end-time="08"></span>
+Caribbean timezone: <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="19"></span>
+
+### Workshop A1 
 Focus: **Ethics and practices for data sharing**
 ### Workshop A2
 Focus: **Data formats**
 
 ## Topic B: Basic reproducibility
+
+Atlantic timezone: <span class="timezone_adapt" data-date="14" data-start-time="12" data-end-time="13"></span>
+Pacific timezone: <span class="timezone_adapt" data-date="15" data-start-time="00" data-end-time="02"></span>
+
 ### Workshop B1
 Focus: **Study design and interpretation. The reproducibility crisis**
 ### Workshop B2
 Focus: **Ensuring reproducibility: phantoms and preclinical imaging**
 
 ## Topic C: Acquisition and reconstruction
+
+Indian timezone: <span class="timezone_adapt" data-date="15" data-start-time="06" data-end-time="08"></span>
+Caribbean timezone: <span class="timezone_adapt" data-date="15" data-start-time="18" data-end-time="19"></span>
+
 ### Workshop C1
 Focus: **Vendor-independent pulse sequences**
 ### Workshop C2
 Focus: **Reconstruction**
 
 ## Topic D: Postprocessing
+
+Atlantic timezone: <span class="timezone_adapt" data-date="15" data-start-time="12" data-end-time="13"></span>
+Pacific timezone: <span class="timezone_adapt" data-date="16" data-start-time="00" data-end-time="02"></span>
+
 ### Workshop D1
 Focus: **Image analysis**
 ### Workshop D2
 Focus: **AI and segmentation**
 
 ## Closing
-### Closing session (Indian)
+### Closing session (Indian) - <span class="timezone_adapt" data-date="16" data-start-time="06" data-end-time="08"></span>
 Focus: **Better science, for everybody: reproducibility and accessibility**
-### Closing session (Caribbean)
+### Closing session (Caribbean) - <span class="timezone_adapt" data-date="16" data-start-time="18" data-end-time="20"></span>
 Focus: **Community-driven development**
