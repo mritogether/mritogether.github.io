@@ -33,7 +33,7 @@ Focus: **Open Source and Commercial development**
 
 ## Topic A: Data
 
-Indian timezone: <span class="timezone_adapt" data-date="14" data-start-time="06" data-end-time="08"></span>
+Indian timezone: <span class="timezone_adapt" data-date="14" data-start-time="06" data-end-time="08"></span><br/>
 Caribbean timezone: <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="19"></span>
 
 ### Workshop A1 
@@ -43,7 +43,7 @@ Focus: **Data formats**
 
 ## Topic B: Basic reproducibility
 
-Atlantic timezone: <span class="timezone_adapt" data-date="14" data-start-time="12" data-end-time="13"></span>
+Atlantic timezone: <span class="timezone_adapt" data-date="14" data-start-time="12" data-end-time="13"></span><br/>
 Pacific timezone: <span class="timezone_adapt" data-date="15" data-start-time="00" data-end-time="02"></span>
 
 ### Workshop B1
@@ -53,7 +53,7 @@ Focus: **Ensuring reproducibility: phantoms and preclinical imaging**
 
 ## Topic C: Acquisition and reconstruction
 
-Indian timezone: <span class="timezone_adapt" data-date="15" data-start-time="06" data-end-time="08"></span>
+Indian timezone: <span class="timezone_adapt" data-date="15" data-start-time="06" data-end-time="08"></span><br/>
 Caribbean timezone: <span class="timezone_adapt" data-date="15" data-start-time="18" data-end-time="19"></span>
 
 ### Workshop C1
@@ -63,7 +63,7 @@ Focus: **Reconstruction**
 
 ## Topic D: Postprocessing
 
-Atlantic timezone: <span class="timezone_adapt" data-date="15" data-start-time="12" data-end-time="13"></span>
+Atlantic timezone: <span class="timezone_adapt" data-date="15" data-start-time="12" data-end-time="13"></span><br/>
 Pacific timezone: <span class="timezone_adapt" data-date="16" data-start-time="00" data-end-time="02"></span>
 
 ### Workshop D1
