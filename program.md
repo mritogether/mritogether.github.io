@@ -9,10 +9,10 @@ javascript: [ timezone.js ]
 
 The meeting will consists of lectures and panel discussions in the Opening and Closing sessions, and more practical talks including hands-on workshops in between.
 
-The content will be offered live across multiple time zones, this means that each workshop will be repeated twice. While the general topics will be the same for the two time zones, the speakers and the content of the specific talks will change.
+The content will be offered live across multiple time zones, this means that each workshop will be repeated twice. While the general topics will be the same for the two session times, the speakers and the content of the specific talks will change.
 
 # Time Zones
-We have identified 4 time zones:
+We have identified 4 session times:
 
 |           | Time (UTC)  | Time (CET)  | Time (EST)  | Time (PST)  | Time (Beijing) | Time (Tokyo) | Time (IST) |
 | --------- | ----------- | ----------- | ----------- | ----------- | -------------- | ----------- | ----------- |
@@ -33,8 +33,8 @@ Focus: **Open Source and Commercial development**
 
 ## Topic A: Data
 
-Indian timezone: <span class="timezone_adapt" data-date="14" data-start-time="06" data-end-time="08"></span><br/>
-Caribbean timezone: <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="19"></span>
+Indian session time: <span class="timezone_adapt" data-date="14" data-start-time="06" data-end-time="08"></span><br/>
+Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="19"></span>
 
 ### Workshop A1 
 Focus: **Ethics and practices for data sharing**
@@ -43,8 +43,8 @@ Focus: **Data formats**
 
 ## Topic B: Basic reproducibility
 
-Atlantic timezone: <span class="timezone_adapt" data-date="14" data-start-time="12" data-end-time="13"></span><br/>
-Pacific timezone: <span class="timezone_adapt" data-date="15" data-start-time="00" data-end-time="02"></span>
+Atlantic session time: <span class="timezone_adapt" data-date="14" data-start-time="12" data-end-time="13"></span><br/>
+Pacific session time: <span class="timezone_adapt" data-date="15" data-start-time="00" data-end-time="02"></span>
 
 ### Workshop B1
 Focus: **Study design and interpretation. The reproducibility crisis**
@@ -53,8 +53,8 @@ Focus: **Ensuring reproducibility: phantoms and preclinical imaging**
 
 ## Topic C: Acquisition and reconstruction
 
-Indian timezone: <span class="timezone_adapt" data-date="15" data-start-time="06" data-end-time="08"></span><br/>
-Caribbean timezone: <span class="timezone_adapt" data-date="15" data-start-time="18" data-end-time="19"></span>
+Indian session time: <span class="timezone_adapt" data-date="15" data-start-time="06" data-end-time="08"></span><br/>
+Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-time="18" data-end-time="19"></span>
 
 ### Workshop C1
 Focus: **Vendor-independent pulse sequences**
@@ -63,8 +63,8 @@ Focus: **Reconstruction**
 
 ## Topic D: Postprocessing
 
-Atlantic timezone: <span class="timezone_adapt" data-date="15" data-start-time="12" data-end-time="13"></span><br/>
-Pacific timezone: <span class="timezone_adapt" data-date="16" data-start-time="00" data-end-time="02"></span>
+Atlantic session time: <span class="timezone_adapt" data-date="15" data-start-time="12" data-end-time="13"></span><br/>
+Pacific session time: <span class="timezone_adapt" data-date="16" data-start-time="00" data-end-time="02"></span>
 
 ### Workshop D1
 Focus: **Image analysis**
