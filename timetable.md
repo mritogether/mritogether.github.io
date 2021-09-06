@@ -4,6 +4,9 @@ layout: default
 javascript: [ timezone.js ]
 ---
 
+* TOC
+{:toc}
+
 # Meeting timetable
 
 The content will be offered live across multiple time zones, this means that each workshop will be repeated twice. While the general topics will be the same for the two session times, the speakers and the content of the specific talks will change.
