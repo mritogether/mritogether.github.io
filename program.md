@@ -1,78 +1,37 @@
 ---
 title: Program
 layout: default
-javascript: [ timezone.js ]
 ---
 
 # Meeting program
-*This page is under construction*
 
-The meeting will consists of lectures and panel discussions in the Opening and Closing sessions, and more practical talks including hands-on workshops in between.
+The meeting consists of lectures and panel discussions in the Opening and Closing sessions, and more practical talks including hands-on workshops in between.
 
-The content will be offered live across multiple time zones, this means that each workshop will be repeated twice. While the general topics will be the same for the two session times, the speakers and the content of the specific talks will change.
+Every session will be repeated twice, in two different session times separated by 12 hours, so ideally everyone will be able to enjoy it live. While the topic will be the same in the two repetitions, the speakers will change and different content will be available. All the content will be available for viewing online immediately after the live session.
 
-# Time Zones
-We have identified 4 session times:
+## Overview
 
-|           | Time (UTC)  | Time (CET)  | Time (EST)  | Time (PST)  | Time (Beijing) | Time (Tokyo) | Time (IST) |
-| --------- | ----------- | ----------- | ----------- | ----------- | -------------- | ----------- | ----------- |
-| Atlantic  | 12:00-14:00 | 13:00-15:00 | 07:00-09:00 | 04:00-06:00 | 20:00-22:00    | 21:00-23:00 | 17:30-19:30 |
-| Pacific   | 00:00-02:00 | 01:00-03:00 | 19:00-21:00 | 08:00-10:00 | 09:00-11:00    | 05:30-07:30 | 17:30-19:30 |
-| Indian    | 06:00-08:00 | 07:00-09:00 | 01:00-03:00 | 22:00-00:00 | 14:00-16:00    | 15:00-17:00 | 11:30-13:30 |
-| Caribbean | 18:00-20:00 | 19:00-21:00 | 13:00-15:00 | 10:00-12:00 | 02:00-04:00    | 03:00-05:00 | 23:30-01:30 |
+The meeting will span 4 days (December 13th to 17th 2021), over multiple session times (see the [timetable](/timetable) page for details) in order to have live content evenly distributed over all the time zones.
 
-Select your time zone to see the adapted times in the program below: <select id="timezone_select" onchange="adaptTime()"></select>
+On **day 1** we will have the ***opening sessions***, in the Atlantic and Pacific session times, talking about the fundamentals of **reproducible science** (not necessarily limited to MRI) and **open source development models**, talking about combining commercial applications and free software. Two debates with representatives from academia and industry will complete the sessions.
 
-## Opening Sessions: 
-### Atlantic Opening Session - <span class="timezone_adapt" data-date="13" data-start-time="12" data-end-time="14"></span>
-Focus: **Reproducible science**
+On **day 2**, ***Workshop A*** will take place, with invited talks and hands-on interactive sessions. The workshop will consists of parallel sessions on data, where the first session A1 will focus on **data sharing** and the session A2 will focus on **data formats** (DICOM, BIDS, etc.).
 
+Between **day 2** and **day 3**, ***Workshop B*** will be about **statistics and reproducibility**, with session B1 about statistics and p-value, and session B2 about phantoms and preclinical scanning.
 
-### Pacific Opening Session - <span class="timezone_adapt" data-date="14" data-start-time="00" data-end-time="02"></span>
-Focus: **Open Source and Commercial development**
+Bwtween **day 3** and **day 4**, ***Workshop C*** will be about **acquisition and reconstruction**, presenting open-source methods for MR acquisition (open and reproducible pulse sequence development, etc) and reconstruction (compressed sensing, reconstruction workflows, etc.)
 
-## Topic A: Data
+On the same days, at different times, the last workshop, ***Workshop D***, will present reproducible solutions for **image analysis and artificial intelligence**.
 
-Indian session time: <span class="timezone_adapt" data-date="14" data-start-time="06" data-end-time="08"></span><br/>
-Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="19"></span>
+On **day 4**, the ***closing sessions*** will take place, again touching important arguments and round table discussions on **publishing and community-driven development**.
 
-### Workshop A1 
-Focus: **Ethics and practices for data sharing**
-### Workshop A2
-Focus: **Data formats**
+## Confirmed speakers
 
-## Topic B: Basic reproducibility
+The following is a list of some of the exceptional speakers that have confirmed their presence so far:
 
-Atlantic session time: <span class="timezone_adapt" data-date="14" data-start-time="12" data-end-time="13"></span><br/>
-Pacific session time: <span class="timezone_adapt" data-date="15" data-start-time="00" data-end-time="02"></span>
-
-### Workshop B1
-Focus: **Study design and interpretation. The reproducibility crisis**
-### Workshop B2
-Focus: **Ensuring reproducibility: phantoms and preclinical imaging**
-
-## Topic C: Acquisition and reconstruction
-
-Indian session time: <span class="timezone_adapt" data-date="15" data-start-time="06" data-end-time="08"></span><br/>
-Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-time="18" data-end-time="19"></span>
-
-### Workshop C1
-Focus: **Vendor-independent pulse sequences**
-### Workshop C2
-Focus: **Reconstruction**
-
-## Topic D: Postprocessing
-
-Atlantic session time: <span class="timezone_adapt" data-date="15" data-start-time="12" data-end-time="13"></span><br/>
-Pacific session time: <span class="timezone_adapt" data-date="16" data-start-time="00" data-end-time="02"></span>
-
-### Workshop D1
-Focus: **Image analysis**
-### Workshop D2
-Focus: **AI and segmentation**
-
-## Closing
-### Closing session (Indian) - <span class="timezone_adapt" data-date="16" data-start-time="06" data-end-time="08"></span>
-Focus: **Better science, for everybody: reproducibility and accessibility**
-### Closing session (Caribbean) - <span class="timezone_adapt" data-date="16" data-start-time="18" data-end-time="20"></span>
-Focus: **Community-driven development**
+* **Cassandra Gould van Praag** - Oxford University - Open Science Community Engagement Coordinator
+* **Maria Eugenia Caligiuri** - Università Magna Graecia di Catanzaro - Deputy Editor of the MRM Highlights magazine
+* **Shaihan Malik** - King's college London
+* **Daniel Hoinkiss** - Fraunhofer MEVIS
+* **Marten Veldmann** - German Center for Neurodegenerative Diseases (DZNE), Bonn
+* **Riccardo Lattanzi** - NYU Langone
