@@ -4,6 +4,7 @@ description: A global workshop on Open Science and Reproducible MR Research
 email: mritogether.workshop@gmail.com
 
 repository: mritogether/mritogether.github.io
+markdown: kramdown
 
 plugins:
 - jekyll-github-metadata
