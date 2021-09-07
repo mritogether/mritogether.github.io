@@ -31,6 +31,9 @@ The following is a list of some of the exceptional speakers that have confirmed 
 
 * **Cassandra Gould van Praag** - Oxford University - Open Science Community Engagement Coordinator
 * **Maria Eugenia Caligiuri** - Università Magna Graecia di Catanzaro - Deputy Editor of the MRM Highlights magazine
+* **Michael Hansen** - Microsoft
+* **Jeff Fessler** - University of Michigan
+* **Martin Uecker** - Technical University Graz
 * **Shaihan Malik** - King's college London
 * **Daniel Hoinkiss** - Fraunhofer MEVIS
 * **Marten Veldmann** - German Center for Neurodegenerative Diseases (DZNE), Bonn
