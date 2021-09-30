@@ -47,7 +47,7 @@ Focus: **Data formats**
 
 ## Topic B: Basic reproducibility
 
-Atlantic session time: <span class="timezone_adapt" data-date="14" data-start-time="12" data-end-time="13"></span><br/>
+Atlantic session time: <span class="timezone_adapt" data-date="14" data-start-time="12" data-end-time="14"></span><br/>
 Pacific session time: <span class="timezone_adapt" data-date="15" data-start-time="00" data-end-time="02"></span>
 
 ### Workshop B1
@@ -67,7 +67,7 @@ Focus: **Reconstruction**
 
 ## Topic D: Postprocessing
 
-Atlantic session time: <span class="timezone_adapt" data-date="15" data-start-time="12" data-end-time="13"></span><br/>
+Atlantic session time: <span class="timezone_adapt" data-date="15" data-start-time="12" data-end-time="14"></span><br/>
 Pacific session time: <span class="timezone_adapt" data-date="16" data-start-time="00" data-end-time="02"></span>
 
 ### Workshop D1

@@ -39,3 +39,8 @@ The following is a list of some of the exceptional speakers that have confirmed 
 * **Daniel Hoinkiss** - Fraunhofer MEVIS
 * **Marten Veldmann** - German Center for Neurodegenerative Diseases (DZNE), Bonn
 * **Riccardo Lattanzi** - NYU Langone
+* **Andrey Fedorov** - Harvard Medical School
+* **Serena Bonaretti** - Transparent MSK Research
+* **Mike Poole** - Hyperfine
+* **Eric Peterson** - Heartvista
+* **Hui Xue** - NIH
