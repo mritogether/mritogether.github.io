@@ -42,8 +42,10 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 
 <div class="session-container">
 <div markdown="1">
-###Workshop A1
+<h3>Workshop A1</h3>
 Focus: **Ethics and practices for data sharing**
+- Talk 1
+- Talk 2
 </div>
 <div>
 <h3>Workshop A2</h3>
