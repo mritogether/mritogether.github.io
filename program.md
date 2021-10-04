@@ -44,3 +44,4 @@ The following is a list of some of the exceptional speakers that have confirmed 
 * **Mike Poole** - Hyperfine
 * **Eric Peterson** - Heartvista
 * **Hui Xue** - NIH
+* **Brian Nosek** - Center for Open Science
