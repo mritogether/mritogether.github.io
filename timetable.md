@@ -59,7 +59,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - *Gather.town break*
 - TBA
 </div>
-<div>
+<div markdown="1">
 <h3>Workshop A2</h3>
 **Data Formats**
 <h4>Indian</h4>
