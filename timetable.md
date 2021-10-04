@@ -43,13 +43,39 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 <div class="session-container">
 <div markdown="1">
 <h3>Workshop A1</h3>
-Focus: **Ethics and practices for data sharing**
-- Talk 1
-- Talk 2
+**Ethics and practices for data sharing**
+<h4>Indian</h4>
+- **Moderator:** Penny Hubbard Cristinacce
+- TBA
+- TBA
+- TBA
+- *Gather.town break*
+- TBA
+<h4>Caribbean</h4>
+- **Moderator:** Florian Knoll
+- TBA
+- TBA
+- TBA
+- *Gather.town break*
+- TBA
 </div>
 <div>
 <h3>Workshop A2</h3>
-Focus: <b>Data formats</b>
+**Data Formats**
+<h4>Indian</h4>
+- **Moderator:** TBA
+- TBA
+- TBA
+- TBA
+- *Gather.town break*
+- TBA
+<h4>Caribbean</h4>
+- **Moderator:** TBA
+- TBA
+- TBA
+- TBA
+- *Gather.town break*
+- TBA
 </div>
 </div>
 
