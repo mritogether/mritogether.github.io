@@ -41,9 +41,9 @@ Indian session time: <span class="timezone_adapt" data-date="14" data-start-time
 Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="20"></span>
 
 <div class="session-container">
-<div>
-<h3>Workshop A1</h3>
-Focus: <b>Ethics and practices for data sharing</b>
+<div markdown="1">
+###Workshop A1
+Focus: **Ethics and practices for data sharing**
 </div>
 <div>
 <h3>Workshop A2</h3>
