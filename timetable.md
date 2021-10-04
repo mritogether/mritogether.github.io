@@ -40,10 +40,16 @@ Focus: **Open Source and Commercial development**
 Indian session time: <span class="timezone_adapt" data-date="14" data-start-time="06" data-end-time="08"></span><br/>
 Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="20"></span>
 
+<div class="session-container">
+<div>
 ### Workshop A1 
 Focus: **Ethics and practices for data sharing**
+</div>
+<div>
 ### Workshop A2
 Focus: **Data formats**
+</div>
+</div>
 
 ## Topic B: Basic reproducibility
 

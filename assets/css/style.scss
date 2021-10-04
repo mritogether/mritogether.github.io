@@ -106,3 +106,9 @@ p img {
     float: right;
     max-width: 400px;
 }
+
+.session-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
