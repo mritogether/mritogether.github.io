@@ -17,9 +17,9 @@ header:
   links:
     - label: Home
       url: /
+    - label: Overview
+      url: /overview
     - label: Program
-      url: /program
-    - label: Timetable
       url: /timetable
     - label: Registration
       url: /registration
