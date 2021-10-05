@@ -45,3 +45,4 @@ The following is a list of some of the exceptional speakers that have confirmed 
 * **Eric Peterson** - Heartvista
 * **Hui Xue** - NIH
 * **Brian Nosek** - Center for Open Science
+* **Valentin Amrheim** - University of Basel

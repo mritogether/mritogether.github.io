@@ -29,20 +29,32 @@ Select your time zone to see the adapted times in the program below: <select id=
 
 ## Opening Sessions: 
 ### Atlantic Opening Session - <span class="timezone_adapt" data-date="13" data-start-time="12" data-end-time="14"></span>
-Focus: **Reproducible science**
+**Reproducible science**
+- **Moderator:** Francesco Santini
+- **Welcome and overview of the meeting** - Francesco Santini
+- **Introduction to Open Science and Reproducibility** - Cassandra Gould van Praag
+- **Reproducibility in MRI: Good and Bad** - Maria Eugenia Caligiuri
+- TBA
+- **Debate: Open Science in the MR Community** - Serena Bonaretti, H. Steven Scholte
 
 
 ### Pacific Opening Session - <span class="timezone_adapt" data-date="14" data-start-time="00" data-end-time="02"></span>
-Focus: **Open Source and Commercial development**
+**Open Source and Commercial development**
+- **Moderator:** Laura Bell
+- **Welcome and overview of the meeting** - Laura Bell
+- TBA
+- TBA
+- **Hyperfine: Closed Development, Ensuring Good Science and Reproducibility** - Mile Poole
+- **Debate: Close vs Open, Commercial vs Free** - Andrey Fedorov, TBA
 
-## Topic A: Data
+## Parallel Sessions A: Data
 
 Indian session time: <span class="timezone_adapt" data-date="14" data-start-time="06" data-end-time="08"></span><br/>
 Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="20"></span>
 
 <div class="session-container">
 <div markdown="1">
-<h3>Workshop A1</h3>
+<h3>Session A1</h3>
 **Ethics and practices for data sharing**
 <h4>Indian</h4>
 - **Moderator:** Penny Hubbard Cristinacce
@@ -60,7 +72,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - TBA
 </div>
 <div markdown="1">
-<h3>Workshop A2</h3>
+<h3>Session A2</h3>
 **Data Formats**
 <h4>Indian</h4>
 - **Moderator:** TBA
@@ -79,38 +91,151 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 </div>
 </div>
 
-## Topic B: Basic reproducibility
+## Parallel Sessions B: Basic reproducibility
 
 Atlantic session time: <span class="timezone_adapt" data-date="14" data-start-time="12" data-end-time="14"></span><br/>
 Pacific session time: <span class="timezone_adapt" data-date="15" data-start-time="00" data-end-time="02"></span>
 
-### Workshop B1
-Focus: **Study design and interpretation. The reproducibility crisis**
-### Workshop B2
-Focus: **Ensuring reproducibility: phantoms and preclinical imaging**
+<div class="session-container">
+<div markdown="1">
+<h3>Session B1</h3>
+**Study design and interpretation. The reproducibility crisis**
+<h4>Atlantic</h4>
+- **Moderator:** Tugba Akinci D'Antonoli
+- **P-values and the replicability of results** - Valentin Amrhein
+- TBA
+- TBA
+- *Gather.town break*
+- TBA
+<h4>Pacific</h4>
+- **Moderator:** TBA
+- TBA
+- TBA
+- TBA
+- *Gather.town break*
+- TBA
+</div>
+<div markdown="1">
+<h3>Session B2</h3>
+**Ensuring reproducibility: phantoms and preclinical imaging**
+<h4>Atlantic</h4>
+- **Moderator:** Shaihan Malik
+- **The metrics of quantitative evaluation for phantom studies: bias and precision** - Sebastian Weingärtner
+- **Designing digital phantoms using numerical approximation informed by in vivo scans** - José Marques
+- **Application of diffusion phantoms for reproducible ADC mapping across MRI vendor platforms: absolute accuracy, linearity and uniformity** - Dariya Malyarenko
+- *Gather.town break*
+- **Hands on/Interactive session: Designing a Digital Reference Object for Arterial Spin Labelling (ASL DRO)** - Aaron Oliver-Taylor
+<h4>Pacific</h4>
+- **Moderator:** TBA
+- **Preclinical tumor models: opportunities and challenges in translation to human studies** - Thomas Yankeelov
+- TBA
+- TBA
+- *Gather.town break*
+- **Opportunities & Challenges of magnetic resonance spectroscopy research (Hands on/Interactive session)** - Georg Oeltzschner
+</div>
+</div>
 
-## Topic C: Acquisition and reconstruction
+## Parallel Sessions C: Acquisition and reconstruction
 
 Indian session time: <span class="timezone_adapt" data-date="15" data-start-time="06" data-end-time="08"></span><br/>
 Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-time="18" data-end-time="20"></span>
 
-### Workshop C1
-Focus: **Vendor-independent pulse sequences**
-### Workshop C2
-Focus: **Reconstruction**
+<div class="session-container">
+<div markdown="1">
+<h3>Session C1</h3>
+**Vendor-independent pulse sequences**
+<h4>Indian</h4>
+- **Moderator:** Lukas Winter
+- TBA
+- TBA
+- TBA
+- *Gather.town break*
+- **Pulseq on Siemens (Hands on/Interactive session)** - Maxim Zaitsev
+<h4>Caribbean</h4>
+- **Moderator:** Matthias Günther
+- **HeartVista/RTHawk** - Eric Peterson
+- TBA
+- TBA
+- *Gather.town break*
+- **Pulseq on GE (Hands on/Interactive session)** - Maxim Zaitsev
+</div>
+<div markdown="1">
+<h3>Session C2</h3>
+**Image Reconstruction**
+<h4>Indian</h4>
+- **Moderator:** Justin Haldar
+- **Subtle Inverse Crimes** - Efrat Shimron
+- TBA
+- TBA
+- *Gather.town break*
+- TBA
+<h4>Caribbean</h4>
+- **Moderator:** Jon Tamir
+- **Decentralized reconstruction in academia** - Tobias Block
+- **Gadgetron: Enabling advanced imaging AI with global clinical deployment** - Hui Xue
+- **Cloud MRI** - Riccardo Lattanzi
+- *Gather.town break*
+- **MIRT: Hands on/Interactive session** - Jeff Fessler
+</div>
+</div>
 
 ## Topic D: Postprocessing
 
 Atlantic session time: <span class="timezone_adapt" data-date="15" data-start-time="12" data-end-time="14"></span><br/>
 Pacific session time: <span class="timezone_adapt" data-date="16" data-start-time="00" data-end-time="02"></span>
 
-### Workshop D1
-Focus: **Image analysis**
-### Workshop D2
-Focus: **AI and segmentation**
+<div class="session-container">
+<div markdown="1">
+<h3>Session D1</h3>
+**Image Analysis**
+<h4>Atlantic</h4>
+- **Moderator:** Berkin Bilgic
+- **Image Analysis in Brain MR** - Henk Mutsaerts
+- TBA
+- TBA
+- *Gather.town break*
+- ** Retrospective motion correction toolbox (Hands on/Interactive session)** -  Daniel Gallichan
+<h4>Pacific</h4>
+- **Moderator:** Martijn Cloos
+- **Reproducible Image Analysis using containerized workflows at scale - Introducing the NeuroDesk project** - Steffen Bollmann
+- TBA
+- TBA
+- *Gather.town break*
+- TBA
+</div>
+<div markdown="1">
+<h3>Session A2</h3>
+**AI in clinical imaging**
+<h4>Atlantic</h4>
+- **Moderator:** TBA
+- **Limitations of AI in postprocessing** - Marleen de Bruijne 
+- TBA
+- TBA
+- *Gather.town break*
+- **How to validate AI algorithms in image analysis tools Hands on/Interactive session** - Georg Langs
+<h4>Pacific</h4>
+- **Moderator:** TBA
+- TBA
+- TBA
+- TBA
+- *Gather.town break*
+- TBA
+</div>
+</div>
 
 ## Closing
 ### Closing session (Indian) - <span class="timezone_adapt" data-date="16" data-start-time="06" data-end-time="08"></span>
-Focus: **Better science, for everybody: reproducibility and accessibility**
+**Better science, for everybody: reproducibility and accessibility**
+- **Moderator:** TBA
+- **Publishing Reproducible science** - Iratxe Puebla
+- TBA
+- TBA
+- TBA
+
 ### Closing session (Caribbean) - <span class="timezone_adapt" data-date="16" data-start-time="18" data-end-time="20"></span>
-Focus: **Community-driven development**
+**Community-driven development**
+- **Moderator:** TBA
+- **Publishing and Sharing Open Science** - Brian Nosek
+- TBA
+- TBA
+- TBA
