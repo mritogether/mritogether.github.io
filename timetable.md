@@ -179,7 +179,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 </div>
 </div>
 
-## Topic D: Postprocessing
+## Parallel Sessions D: Postprocessing
 
 Atlantic session time: <span class="timezone_adapt" data-date="15" data-start-time="12" data-end-time="14"></span><br/>
 Pacific session time: <span class="timezone_adapt" data-date="16" data-start-time="00" data-end-time="02"></span>
@@ -204,7 +204,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 - TBA
 </div>
 <div class="session-element" markdown="1">
-<h3>Session A2</h3>
+<h3>Session D2</h3>
 **AI in clinical imaging**
 <h4>Atlantic</h4>
 - **Moderator:** TBA
