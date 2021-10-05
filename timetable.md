@@ -53,7 +53,7 @@ Indian session time: <span class="timezone_adapt" data-date="14" data-start-time
 Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="20"></span>
 
 <div class="session-container">
-<div markdown="1">
+<div class="session-element" markdown="1">
 <h3>Session A1</h3>
 **Ethics and practices for data sharing**
 <h4>Indian</h4>
@@ -71,7 +71,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - *Gather.town break*
 - TBA
 </div>
-<div markdown="1">
+<div class="session-element" markdown="1">
 <h3>Session A2</h3>
 **Data Formats**
 <h4>Indian</h4>
@@ -97,7 +97,7 @@ Atlantic session time: <span class="timezone_adapt" data-date="14" data-start-ti
 Pacific session time: <span class="timezone_adapt" data-date="15" data-start-time="00" data-end-time="02"></span>
 
 <div class="session-container">
-<div markdown="1">
+<div class="session-element" markdown="1">
 <h3>Session B1</h3>
 **Study design and interpretation. The reproducibility crisis**
 <h4>Atlantic</h4>
@@ -115,7 +115,7 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 - *Gather.town break*
 - TBA
 </div>
-<div markdown="1">
+<div class="session-element" markdown="1">
 <h3>Session B2</h3>
 **Ensuring reproducibility: phantoms and preclinical imaging**
 <h4>Atlantic</h4>
@@ -141,7 +141,7 @@ Indian session time: <span class="timezone_adapt" data-date="15" data-start-time
 Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-time="18" data-end-time="20"></span>
 
 <div class="session-container">
-<div markdown="1">
+<div class="session-element" markdown="1">
 <h3>Session C1</h3>
 **Vendor-independent pulse sequences**
 <h4>Indian</h4>
@@ -159,7 +159,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 - *Gather.town break*
 - **Pulseq on GE (Hands on/Interactive session)** - Maxim Zaitsev
 </div>
-<div markdown="1">
+<div class="session-element" markdown="1">
 <h3>Session C2</h3>
 **Image Reconstruction**
 <h4>Indian</h4>
@@ -185,7 +185,7 @@ Atlantic session time: <span class="timezone_adapt" data-date="15" data-start-ti
 Pacific session time: <span class="timezone_adapt" data-date="16" data-start-time="00" data-end-time="02"></span>
 
 <div class="session-container">
-<div markdown="1">
+<div class="session-element" markdown="1">
 <h3>Session D1</h3>
 **Image Analysis**
 <h4>Atlantic</h4>
@@ -203,7 +203,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 - *Gather.town break*
 - TBA
 </div>
-<div markdown="1">
+<div class="session-element" markdown="1">
 <h3>Session A2</h3>
 **AI in clinical imaging**
 <h4>Atlantic</h4>
