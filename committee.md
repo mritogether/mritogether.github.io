@@ -5,7 +5,7 @@ layout: default
 # Workshop organizing committee
 * **Laura Bell** (co-chair) - Genentech, USA
 * **Francesco Santini** (co-chair) - University of Basel, Switzerland
-* **Sanam Assili** - University of Oulu, Finland
+* **Sanam Assili** - Calico Life Sciences
 * **Emma Biondetti** - D'Annunzio University of Chieti-Pescara, Italy
 * **Maxim Zaitsev** - Medical University of Vienna, Austria
 
