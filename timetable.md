@@ -65,8 +65,8 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - TBA
 <h4>Caribbean</h4>
 - **Moderator:** Florian Knoll
-- TBA
-- TBA
+- **Data repositories: where to look, how to share** - Greg Cron
+- **Implementation of parametric DICOM for perfusion** - Ina Kompan
 - TBA
 - *Gather.town break*
 - TBA
@@ -76,7 +76,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 **Data Formats**
 <h4>Indian</h4>
 - **Moderator:** TBA
-- TBA
+- **Open science for functional connectomics** - Xi-Nian Zuo
 - TBA
 - TBA
 - *Gather.town break*
@@ -154,8 +154,9 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 <h4>Caribbean</h4>
 - **Moderator:** Matthias Günther
 - **HeartVista/RTHawk** - Eric Peterson
-- TBA
-- TBA
+- **PyPulseq** - Keerthi Sravan Ravi
+- **Hardware design of the MaRCoS open-source MRI environment** - Benjamin Menküc
+- **Software and firmware design of the MaRCoS open-source MRI environment** - Vlad Negnevitsky
 - *Gather.town break*
 - **Pulseq on GE (Hands on/Interactive session)** - Maxim Zaitsev
 </div>
@@ -165,7 +166,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 <h4>Indian</h4>
 - **Moderator:** Justin Haldar
 - **Subtle Inverse Crimes** - Efrat Shimron
-- TBA
+- **The connected imaging instrument** - Michael Hansen
 - TBA
 - *Gather.town break*
 - TBA
@@ -208,8 +209,8 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 **AI in clinical imaging**
 <h4>Atlantic</h4>
 - **Moderator:** TBA
-- **Limitations of AI in postprocessing** - Marleen de Bruijne 
-- TBA
+- **Limitations of AI in postprocessing** - Marleen de Bruijne
+- **Deep Neuro - segmentation GBM** - Kalpathy-Cramer
 - TBA
 - *Gather.town break*
 - **How to validate AI algorithms in image analysis tools Hands on/Interactive session** - Georg Langs
