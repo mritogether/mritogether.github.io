@@ -229,7 +229,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 **Better science, for everybody: reproducibility and accessibility**
 - **Moderator:** TBA
 - **Publishing Reproducible science** - Iratxe Puebla
-- **EIBALL** - EIBALL members
+- **EIBALL** - EIBALL committee
 - TBA
 - **Panel discussion: MRI research worldwide: challenges and perspectives** - Godwin Ogbole, Udunna Anazodo, Tchoyoson Lim, Won-Jin Moon, Valerij Kiselev
 
