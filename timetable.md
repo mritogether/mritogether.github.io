@@ -34,7 +34,7 @@ Select your time zone to see the adapted times in the program below: <select id=
 - **Welcome and overview of the meeting** - Francesco Santini
 - **Introduction to Open Science and Reproducibility** - Cassandra Gould van Praag
 - **Reproducibility in MRI: Good and Bad** - Maria Eugenia Caligiuri
-- TBA
+- **MRI - journal perspectives on reproducibilty** - David Norris
 - **Debate: Open Science in the MR Community** - Serena Bonaretti, H. Steven Scholte
 
 
@@ -83,8 +83,8 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - TBA
 <h4>Caribbean</h4>
 - **Moderator:** TBA
-- TBA
-- TBA
+- **Raw Data Conversion** - Philip Ehses
+- **DICOM: testament of time** - David Clunie
 - TBA
 - *Gather.town break*
 - TBA
@@ -109,7 +109,7 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 - TBA
 <h4>Pacific</h4>
 - **Moderator:** TBA
-- TBA
+- **The reproducibility crisis - is most published research wrong?** - Stuart Buck
 - TBA
 - TBA
 - *Gather.town break*
@@ -126,7 +126,7 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 - *Gather.town break*
 - **Hands on/Interactive session: Designing a Digital Reference Object for Arterial Spin Labelling (ASL DRO)** - Aaron Oliver-Taylor
 <h4>Pacific</h4>
-- **Moderator:** TBA
+- **Moderator:** Cornelius Faber
 - **Preclinical tumor models: opportunities and challenges in translation to human studies** - Thomas Yankeelov
 - TBA
 - TBA
@@ -146,9 +146,9 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 **Vendor-independent pulse sequences**
 <h4>Indian</h4>
 - **Moderator:** Lukas Winter
-- TBA
-- TBA
-- TBA
+- **GammaStar** - Daniel Hoinkiss
+- **Integrated acquisition/simulation/reconstruction** - Marten Veldman
+- **Open and reproducible magnetization-prepared pulse sequences with Pulseq-CEST** - Kai Herz
 - *Gather.town break*
 - **Pulseq on Siemens (Hands on/Interactive session)** - Maxim Zaitsev
 <h4>Caribbean</h4>
@@ -167,9 +167,9 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 - **Moderator:** Justin Haldar
 - **Subtle Inverse Crimes** - Efrat Shimron
 - **The connected imaging instrument** - Michael Hansen
-- TBA
+- **Image Recon with ML & AI** - Akshay Chaudhari
 - *Gather.town break*
-- TBA
+- **A Hands-On Introduction to BART** - Martin Ücker
 <h4>Caribbean</h4>
 - **Moderator:** Jon Tamir
 - **Decentralized reconstruction in academia** - Tobias Block
@@ -192,14 +192,14 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 <h4>Atlantic</h4>
 - **Moderator:** Berkin Bilgic
 - **Image Analysis in Brain MR** - Henk Mutsaerts
-- TBA
+- **Reproducible post processing for cardiac MRI** - Alistair Young
 - TBA
 - *Gather.town break*
 - ** Retrospective motion correction toolbox (Hands on/Interactive session)** -  Daniel Gallichan
 <h4>Pacific</h4>
 - **Moderator:** Martijn Cloos
 - **Reproducible Image Analysis using containerized workflows at scale - Introducing the NeuroDesk project** - Steffen Bollmann
-- TBA
+- **Reproducible open source solutions for AI in clinical workflows** - Spyridon Bakas, Sarthak Pati 
 - TBA
 - *Gather.town break*
 - TBA
@@ -216,7 +216,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 - **How to validate AI algorithms in image analysis tools Hands on/Interactive session** - Georg Langs
 <h4>Pacific</h4>
 - **Moderator:** TBA
-- TBA
+- **AI Challenges in Pediatric Imaging** - Marius George Linguraru
 - TBA
 - TBA
 - *Gather.town break*
@@ -229,9 +229,9 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 **Better science, for everybody: reproducibility and accessibility**
 - **Moderator:** TBA
 - **Publishing Reproducible science** - Iratxe Puebla
+- **EIBALL** - EIBALL members
 - TBA
-- TBA
-- TBA
+- **Panel discussion: MRI research worldwide: challenges and perspectives** - Godwin Ogbole, Udunna Anazodo, Tchoyoson Lim, Won-Jin Moon, Valerij Kiselev
 
 ### Closing session (Caribbean) - <span class="timezone_adapt" data-date="16" data-start-time="18" data-end-time="20"></span>
 **Community-driven development**
