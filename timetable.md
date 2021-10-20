@@ -1,7 +1,6 @@
 ---
 title: Timetable
 layout: default
-external_javascript: [ https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js ]
 javascript: [ timezone.js ]
 ---
 
