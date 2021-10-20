@@ -15,17 +15,19 @@ The meeting will span 4 days (December 13th to 17th 2021), over multiple session
 
 On **day 1** we will have the ***opening sessions***, in the Atlantic and Pacific session times, talking about the fundamentals of **reproducible science** (not necessarily limited to MRI) and **open source development models**, talking about combining commercial applications and free software. Two debates with representatives from academia and industry will complete the sessions.
 
-On **day 2**, ***Workshop A*** will take place, with invited talks and hands-on interactive sessions. The workshop will consists of parallel sessions on data, where the first session A1 will focus on **data sharing** and the session A2 will focus on **data formats** (DICOM, BIDS, etc.).
+On **day 2**, the ***Parallel Sessions A: Data*** will take place, with invited talks and hands-on interactive workshops. They will consists of parallel sessions on data, where the first session A1 will focus on **data sharing** and the session A2 will focus on **data formats** (DICOM, BIDS, etc.).
 
-Between **day 2** and **day 3**, ***Workshop B*** will be about **statistics and reproducibility**, with session B1 about statistics and p-value, and session B2 about phantoms and preclinical scanning.
+Between **day 2** and **day 3**, the ***Parallel Sessions B: Basic Reproducibility*** will be about **statistics and reproducibility**, with session B1 about statistics and p-value, and session B2 about phantoms and preclinical scanning.
 
-Bwtween **day 3** and **day 4**, ***Workshop C*** will be about **acquisition and reconstruction**, presenting open-source methods for MR acquisition (open and reproducible pulse sequence development, etc) and reconstruction (compressed sensing, reconstruction workflows, etc.)
+Bwtween **day 3** and **day 4**, the ***Parallel Sessions C: Acquisition and Reconstruction*** will present open-source methods for MR acquisition (open and reproducible pulse sequence development, etc) and reconstruction (compressed sensing, reconstruction workflows, etc.)
 
-On the same days, at different times, the last workshop, ***Workshop D***, will present reproducible solutions for **image analysis and artificial intelligence**.
+On the same days, at different times, the last workshop, the ***Parallel Sessions D: Postprocessing***, will present reproducible solutions for **image analysis and artificial intelligence**.
 
 On **day 4**, the ***closing sessions*** will take place, again touching important arguments and round table discussions on **publishing and community-driven development**.
 
 ## Confirmed speakers
+
+We currently have **more than 65** confirmed speakers, from academia and industry, including leading companies such as **Google**, **Microsoft**, **Mathworks**, and many more!
 
 The following is a list of some of the exceptional speakers that have confirmed their presence so far:
 

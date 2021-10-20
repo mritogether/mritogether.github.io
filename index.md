@@ -28,4 +28,9 @@ We are a [team](/committee) of MRI scientists from different aspects of the MRI 
 
 <img src="/images/esmrmb_banner.png" style="max-width: 100%;"/>
 
+# Highlights
+
+## More than 65 confirmed speakers!
+
+
 <p>&nbsp;</p>
