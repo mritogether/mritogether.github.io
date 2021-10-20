@@ -16,7 +16,9 @@ javascript: [ speaker_list.js ]
 
 The following is a list of some of the exceptional speakers that have confirmed their presence so far:
 
-<ul id="speakerList"></ul>
+<ul id="speakerList">
+<li>Loading list... (requires Javascript)</li>
+</ul>
 
 # Information
 
