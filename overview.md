@@ -31,21 +31,5 @@ We currently have **more than 65** confirmed speakers, from academia and industr
 
 The following is a list of some of the exceptional speakers that have confirmed their presence so far:
 
-* **Cassandra Gould van Praag** - Oxford University - Open Science Community Engagement Coordinator
-* **Maria Eugenia Caligiuri** - Università Magna Graecia di Catanzaro - Deputy Editor of the MRM Highlights magazine
-* **Michael Hansen** - Microsoft
-* **Iratxe Puebla** - ASAPbio
-* **Jeff Fessler** - University of Michigan
-* **Martin Uecker** - Technical University Graz
-* **Shaihan Malik** - King's college London
-* **Daniel Hoinkiss** - Fraunhofer MEVIS
-* **Marten Veldmann** - German Center for Neurodegenerative Diseases (DZNE), Bonn
-* **Riccardo Lattanzi** - NYU Langone
-* **Andrey Fedorov** - Harvard Medical School
-* **Serena Bonaretti** - Transparent MSK Research
-* **Mike Poole** - Hyperfine
-* **Eric Peterson** - Heartvista
-* **Hui Xue** - NIH
-* **Brian Nosek** - Center for Open Science
-* **Valentin Amrheim** - University of Basel
-* **Marleen de Brujine** - Erasmus MC, The Netherlands
+<ul id="speakerList"></ul>
+
