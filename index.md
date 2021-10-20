@@ -10,6 +10,16 @@ javascript: [ speaker_list.js ]
 
 ![World](/images/nasa_world.jpg)
 
+# Highlights
+
+## More than 65 confirmed speakers!
+
+The following is a list of some of the exceptional speakers that have confirmed their presence so far:
+
+<ul id="speakerList"></ul>
+
+# Information
+
 ## When
 The dates of the workshop are **December 13 to 17, 2021**. We will have sessions in all time zones, and all the talks will be recorded and available offline for immediate use. No matter where you are in the world, you will have two exciting live sessions during your daytime, and lots of contents to watch at your convenience!
 We will also have a social platform to gather and discuss! 
@@ -29,13 +39,5 @@ Topics will include:
 We are a [team](/committee) of MRI scientists from different aspects of the MRI world with a passion for Open Science. With the support from [ESMRMB](https://esmrmb.org/) this global workshop aims to bring MRI scientists together -- no matter if you are a physicist, engineer, computer scientist, radiographer, or physician. If you are passionate about Open Science, [join us](/registration)!
 
 <img src="/images/esmrmb_banner.png" style="max-width: 100%;"/>
-
-# Highlights
-
-## More than 65 confirmed speakers!
-
-The following is a list of some of the exceptional speakers that have confirmed their presence so far:
-
-<ul id="speakerList"></ul>
 
 <p>&nbsp;</p>
