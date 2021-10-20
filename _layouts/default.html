@@ -9,10 +9,6 @@
 
 {% seo %}
     
-  {% for ext_js_url in page.external_javascript %}
-    <script src="{{ ext_js_url }}"></script>
-  {% endfor %}
-    
   {% for js in page.javascript %}
     <script language="javascript" type="text/javascript">
     {% include {{ js }} %}
