@@ -1,0 +1,174 @@
+{ "speakers" : [
+{"name": "Francesco Santini", "affiliation": "University of Basel"},
+{"name": "Francesco Santini", "affiliation": "University of Basel"},
+{"name": "Cassandra Gould van Praag", "affiliation": "Oxford University"},
+{"name": "Maria Eugenia Caligiuri", "affiliation": "Università Magna Graecia di Catanzaro"},
+
+{"name": "Serena Bonaretti", "affiliation": "Transparent MSK Research"},
+{"name": "H. Steven Scholte", "affiliation": "University of Amsterdam"},
+
+
+{"name": "Laura Bell", "affiliation": "Genentech, Inc."},
+{"name": "Laura Bell", "affiliation": "Genentech, Inc."},
+
+
+{"name": "Mike Poole", "affiliation": "Hyperfine, Inc"},
+{"name": "Andrey Fedorov ", "affiliation": "Harvard Medical School"},
+
+
+
+{"name": "Penny Hubbard Cristinacce", "affiliation": "University of Manchester"},
+
+
+
+
+
+
+
+
+{"name": "Florian Knoll", "affiliation": "University of Erlangen"},
+{"name": "Greg Cron", "affiliation": "Stanford University"},
+
+{"name": "Ina Kompan", "affiliation": "German Cancer Research Centre (DKFZ), Heidelberg"},
+
+
+
+
+
+
+
+{"name": "Xi-Nian Zuo", "affiliation": ""},
+{"name": "Michele Larobina", "affiliation": ""},
+
+
+
+
+
+
+{"name": "Philip Ehses", "affiliation": ""},
+
+{"name": "David Clunie", "affiliation": "DICOM Standards Committee"},
+
+
+
+
+
+{"name": "Tugba Akinci", "affiliation": "University Childrens' Hospital Basel"},
+
+{"name": "Valentin Amrhein", "affiliation": "University of Basel"},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"name": "Shaihan Malik", "affiliation": "King's College London"},
+{"name": "Sebastian Weingärtner", "affiliation": "University of Zurich"},
+{"name": "José Marques", "affiliation": "Radboud University"},
+{"name": "Dariya Malyarenko", "affiliation": "University of Michigan"},
+
+{"name": "Aaron Oliver-Taylor", "affiliation": "Gold Standard Phantoms"},
+
+
+{"name": "Cornelius Faber", "affiliation": "Muenster University"},
+
+
+{"name": "Thomas Yankeelov", "affiliation": "University of Texas at Austin"},
+
+{"name": "Georg Oeltzschner", "affiliation": "Johns Hopkins Medicine Department"},
+
+
+{"name": "Lukas Winter", "affiliation": "Physikalisch-Technischen Bundesanstalt (PTB) Berlin"},
+{"name": "Daniel Hoinkiss", "affiliation": "Fraunhofer MEVIS"},
+{"name": "Marten Veldman", "affiliation": "German Center for Neurodegenerative Diseases (DZNE), Bonn, Germany"},
+{"name": "Kai Herz", "affiliation": "Max Planck Institute for Biological Cybernetics, Tuebingen"},
+
+{"name": "Maxim Zaitsev", "affiliation": "Medical University of Vienna"},
+
+
+{"name": "Matthias Günther", "affiliation": "Fraunhofer MEVIS"},
+{"name": "Eric Peterson", "affiliation": "HeartVista, Inc"},
+{"name": "Keerthi Sravan Ravi", "affiliation": "Columbia University"},
+{"name": "Benjamin Menküc", "affiliation": "Fachhochschule Dortmund"},
+{"name": "Vlad Negnevitsky", "affiliation": "ETH Zurich"},
+
+{"name": "", "affiliation": ""},
+
+
+{"name": "Justin Haldar", "affiliation": "University of Southern California"},
+{"name": "Efrat Shimron", "affiliation": "UC Berkeley"},
+{"name": "Michael Hansen", "affiliation": "Microsoft, Inc"},
+{"name": "Akshay Chaudhari", "affiliation": "Stanford Medicine"},
+
+{"name": "Martin Ücker", "affiliation": "Graz University of Technology"},
+
+
+{"name": "Jon Tamir", "affiliation": "UT Austin"},
+{"name": "Tobias Block", "affiliation": "NYU Langone"},
+{"name": "Hui Xue", "affiliation": "National Institutes of Health"},
+{"name": "Riccardo Lattanzi", "affiliation": "NYU Langone"},
+
+{"name": "Jeff Fessler", "affiliation": "University of Michigan"},
+
+
+{"name": "Berkin Bilgic", "affiliation": "Martinos Center for Biomedical Imaging"},
+{"name": "Henk Mutsaerts", "affiliation": "Amsterdam UMC"},
+{"name": "Alistair Young", "affiliation": "King's College London"},
+
+
+{"name": " Daniel Gallichan", "affiliation": "Cardiff University"},
+
+
+{"name": "Martijn Cloos", "affiliation": "University of Queensland"},
+
+{"name": "Spyridon Bakas, Sarthak Pati ", "affiliation": "University of Pennsylvania"},
+{"name": "Steffen Bollmann", "affiliation": "University of Queensland"},
+
+
+
+
+
+
+{"name": "Marleen de Bruijne ", "affiliation": "Erasmus MC"},
+{"name": "Kalpathy-Cramer", "affiliation": "MGH/Harvard Medical School"},
+
+{"name": "Georg Langs", "affiliation": "Medical University of Vienna"},
+
+
+
+{"name": "Marius George Linguraru", "affiliation": "Children's National Hospital in Washington, D.C.,"},
+{"name": "Joseph Ledsam", "affiliation": "Google Japan"},
+
+
+
+
+
+
+
+{"name": "", "affiliation": ""},
+
+{"name": "Godwin Ogbole", "affiliation": "University of Ibadan"},
+
+{"name": "Tchoyoson Lim", "affiliation": "National Neuroscience Institute, Singapore"},
+{"name": "Won-Jin Moon", "affiliation": "Konkuk University School of Medicine"},
+{"name": "Valerij Kiselev", "affiliation": "University of Freiburg"},
+
+
+
+
+
+
+
+
+
+
+] }
