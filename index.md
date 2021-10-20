@@ -12,7 +12,7 @@ javascript: [ speaker_list.js ]
 
 # Highlights
 
-## More than 65 confirmed speakers!
+## More than 70 confirmed speakers!
 
 The following is a list of some of the exceptional speakers that have confirmed their presence so far:
 
