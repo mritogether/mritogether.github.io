@@ -1,6 +1,8 @@
 ---
 title: MRI Together
 layout: default
+external_javascript: [ "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" ]
+javascript: [ speaker_list.js ]
 ---
 
 # MRI Together
@@ -32,5 +34,8 @@ We are a [team](/committee) of MRI scientists from different aspects of the MRI 
 
 ## More than 65 confirmed speakers!
 
+The following is a list of some of the exceptional speakers that have confirmed their presence so far:
+
+<ul id="speakerList"></ul>
 
 <p>&nbsp;</p>
