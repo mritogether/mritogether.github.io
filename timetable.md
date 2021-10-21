@@ -77,15 +77,15 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 <h4>Indian</h4>
 - **Moderator:** TBA
 - **Open science for functional connectomics** - Xi-Nian Zuo
-- TBA
+- **Overview of data format: DICOMs (enhanced dicoms), niftis, analyze, bids - why so many formats? why is this hard?** - Michele Larobina
 - TBA
 - *Gather.town break*
 - TBA
 <h4>Caribbean</h4>
 - **Moderator:** TBA
 - **Raw Data Conversion** - Philip Ehses
+- **Image analysis on PACS** - Mariam Aboian 
 - **DICOM: testament of time** - David Clunie
-- TBA
 - *Gather.town break*
 - TBA
 </div>
@@ -174,7 +174,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 - **Moderator:** Jon Tamir
 - **Decentralized reconstruction in academia** - Tobias Block
 - **Gadgetron: Enabling advanced imaging AI with global clinical deployment** - Hui Xue
-- **Cloud MRI** - Riccardo Lattanzi
+- **Cloud MR** - Riccardo Lattanzi
 - *Gather.town break*
 - **MIRT: Hands on/Interactive session** - Jeff Fessler
 </div>
