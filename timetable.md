@@ -44,7 +44,7 @@ Select your time zone to see the adapted times in the program below: <select id=
 - **Welcome and overview of the meeting** - Laura Bell
 - TBA
 - TBA
-- **Hyperfine: Closed Development, Ensuring Good Science and Reproducibility** - Mile Poole
+- **Hyperfine: Closed Development, Ensuring Good Science and Reproducibility** - Michael Poole
 - **Debate: Close vs Open, Commercial vs Free** - Andrey Fedorov, TBA
 
 ## Parallel Sessions A: Data
