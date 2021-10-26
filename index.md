@@ -1,8 +1,7 @@
 ---
 title: MRI Together
 layout: default
-external_javascript: [ "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" ]
-javascript: [ speaker_list.js ]
+javascript: [ jquery-3.6.0.min.js, speaker_list.js ]
 ---
 
 # MRI Together
