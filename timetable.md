@@ -45,7 +45,7 @@ Select your time zone to see the adapted times in the program below: <select id=
 - TBA
 - TBA
 - **Hyperfine: Closed Development, Ensuring Good Science and Reproducibility** - Mile Poole
-- **Debate: Close vs Open, Commercial vs Free** - Andrey Fedorov, TBA
+- **Open source development for commerical software. How do you fund open source development?** - Travis Oliphant
 
 ## Parallel Sessions A: Data
 
@@ -76,9 +76,9 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 **Data Formats**
 <h4>Indian</h4>
 - **Moderator:** TBA
+- **Best practices for data sharing** - Thomas Nichols
 - **Open science for functional connectomics** - Xi-Nian Zuo
 - **Overview of data format: DICOMs (enhanced dicoms), niftis, analyze, bids - why so many formats? why is this hard?** - Michele Larobina
-- TBA
 - *Gather.town break*
 - TBA
 <h4>Caribbean</h4>
@@ -193,7 +193,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 - **Moderator:** Berkin Bilgic
 - **Image Analysis in Brain MR** - Henk Mutsaerts
 - **Reproducible post processing for cardiac MRI** - Alistair Young
-- TBA
+- **Musculoskeletal MRI segmentation** - Valentina Pedoia
 - *Gather.town break*
 - ** Retrospective motion correction toolbox (Hands on/Interactive session)** -  Daniel Gallichan
 <h4>Pacific</h4>
@@ -224,8 +224,8 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 </div>
 </div>
 
-## Closing
-### Closing session (Indian) - <span class="timezone_adapt" data-date="16" data-start-time="06" data-end-time="08"></span>
+## Closing Sessions
+### Indian Closing Session - <span class="timezone_adapt" data-date="16" data-start-time="06" data-end-time="08"></span>
 **Better science, for everybody: reproducibility and accessibility**
 - **Moderator:** TBA
 - **Publishing Reproducible science** - Iratxe Puebla
@@ -233,7 +233,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 - TBA
 - **Panel discussion: MRI research worldwide: challenges and perspectives** - Godwin Ogbole, Udunna Anazodo, Tchoyoson Lim, Won-Jin Moon, Valerij Kiselev
 
-### Closing session (Caribbean) - <span class="timezone_adapt" data-date="16" data-start-time="18" data-end-time="20"></span>
+### Caribbean Closing Session - <span class="timezone_adapt" data-date="16" data-start-time="18" data-end-time="20"></span>
 **Community-driven development**
 - **Moderator:** TBA
 - **Publishing and Sharing Open Science** - Brian Nosek

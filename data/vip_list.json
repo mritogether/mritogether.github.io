@@ -13,6 +13,7 @@
 
 
 
+{"name": "Andrey Fedorov ", "affiliation": "Harvard Medical School"},
 
 
 
@@ -46,8 +47,7 @@
 
 
 
-
-
+{"name": "David Clunie", "affiliation": "DICOM Standards Committee"},
 
 
 
@@ -168,7 +168,7 @@
 
 
 
-{"name": "Brian Nosek", "affiliation": "Center for Open Science"}
+{"name": "Brian Nosek", "affiliation": "Center for Open Science"},
 
 
-] }
+{"name": "", "affiliation": "Dummy entry"} ] }

@@ -13,7 +13,7 @@
 
 
 {"name": "Michael Poole", "affiliation": "Hyperfine, Inc"},
-{"name": "Andrey Fedorov ", "affiliation": "Harvard Medical School"},
+
 
 
 
@@ -36,7 +36,7 @@
 
 
 
-
+{"name": "Thomas Nichols", "affiliation": ""},
 {"name": "Xi-Nian Zuo", "affiliation": "Chinese Academy of Sciences"},
 {"name": "Michele Larobina", "affiliation": "National Research Council, Naples"},
 
@@ -46,8 +46,8 @@
 
 
 {"name": "Philip Ehses", "affiliation": "German Center for Neurodegenerative Diseases (DZNE)"},
-{"name": "Mariam Aboian", "affiliation": "Yale University"},
-{"name": "David Clunie", "affiliation": "DICOM Standards Committee"},
+{"name": "Mariam Aboian ", "affiliation": "Yale University"},
+
 
 
 
@@ -123,7 +123,7 @@
 {"name": "Berkin Bilgic", "affiliation": "Martinos Center for Biomedical Imaging"},
 {"name": "Henk Mutsaerts", "affiliation": "Amsterdam UMC"},
 {"name": "Alistair Young", "affiliation": "King's College London"},
-
+{"name": "Valentina Pedoia", "affiliation": "University of California, San Francisco"},
 
 {"name": " Daniel Gallichan", "affiliation": "Cardiff University"},
 
@@ -160,15 +160,15 @@
 
 {"name": "Tchoyoson Lim", "affiliation": "National Neuroscience Institute, Singapore"},
 {"name": "Won-Jin Moon", "affiliation": "Konkuk University School of Medicine"},
-{"name": "Valerij Kiselev", "affiliation": "University of Freiburg"}
+{"name": "Valerij Kiselev", "affiliation": "University of Freiburg"},
+
+
+
+
+{"name": "Katy Keenan", "affiliation": "National Institute of Standards and Technology"},
 
 
 
 
 
-
-
-
-
-
-] }
+{"name": "", "affiliation": "Dummy entry"} ] }
