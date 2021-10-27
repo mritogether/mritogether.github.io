@@ -20,7 +20,7 @@
 {"name": "Penny Hubbard Cristinacce", "affiliation": "University of Manchester"},
 
 
-
+{"name": "Mark Haacke", "affiliation": "Wayne State University"},
 
 
 
@@ -36,7 +36,7 @@
 
 
 
-{"name": "Thomas Nichols", "affiliation": ""},
+{"name": "Thomas Nichols", "affiliation": "Li Ka Shing Centre for Health Information and Discovery"},
 {"name": "Xi-Nian Zuo", "affiliation": "Chinese Academy of Sciences"},
 {"name": "Michele Larobina", "affiliation": "National Research Council, Naples"},
 
@@ -54,7 +54,7 @@
 
 
 {"name": "Tugba Akinci", "affiliation": "University Childrens' Hospital Basel"},
-
+{"name": "Sabine Hoffmann", "affiliation": "University of Munich"},
 {"name": "Valentin Amrhein", "affiliation": "University of Basel"},
 
 
@@ -167,8 +167,8 @@
 
 {"name": "Katy Keenan", "affiliation": "National Institute of Standards and Technology"},
 
+{"name": "Joost van Griethuysen ", "affiliation": "NKI Netherlands "},
 
-
-
+{"name": "Ona Wu", "affiliation": "Harvard"},
 
 {"name": "", "affiliation": "Dummy entry"} ] }
