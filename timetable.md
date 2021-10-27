@@ -45,7 +45,7 @@ Select your time zone to see the adapted times in the program below: <select id=
 - TBA
 - TBA
 - **Hyperfine: Closed Development, Ensuring Good Science and Reproducibility** - Michael Poole
-- **Open source development for commerical software. How do you fund open source development?** - Travis Oliphant
+- **Open source development for commerical software.** - Travis Oliphant
 
 ## Parallel Sessions A: Data
 
