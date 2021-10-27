@@ -11,7 +11,7 @@ javascript: [ jquery-3.6.0.min.js, jQuery.scrollText.js, speaker_list.js ]
 
 # Highlights
 
-## More than 70 confirmed speakers!
+## More than 75 confirmed speakers!
 
 <div id="scrollContainer" style="line-height: 25px; overflow: hidden">
 <ul id="speakerList">
