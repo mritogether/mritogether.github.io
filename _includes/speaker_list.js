@@ -3,6 +3,7 @@ const vipUrl = "https://mritogether.github.io/data/vip_list.json";
 
 const N_OTHER_SPEAKERS = 5;
 const REFRESH_INTERVAL = 10000;
+const SCROLL_INTERVAL = 1000;
 
 var speakerList = [];
 var vipList = [];
@@ -46,8 +47,8 @@ function loadSpeakerLists()
         $.getJSON(vipUrl, function(data) {
             vipList = deduplicate(data["speakers"]);
         }).done(function() {
-            updateSpeakerList();
-            setInterval(updateSpeakerList, REFRESH_INTERVAL);
+            populateScrollingSpeakerList();
+            //setInterval(updateSpeakerList, REFRESH_INTERVAL);
         });
     });
 }
@@ -81,6 +82,23 @@ function updateSpeakerList()
         }
         $(this).fadeIn();
     });
+}
+
+function populateScrollingSpeakerList()
+{
+    let currentVIP = 0;
+    let scrollContainer = $("#scrollContainer");
+    $("#speakerList").empty();
+    scrollContainer.css('height', parseInt(scrollContainer.css('line-height')) * (N_OTHER_SPEAKERS+1) + 10);
+    for (let currentSpeaker = 0; currentSpeaker < speakerList.length; currentSpeaker++)
+    {
+        if (currentSpeaker % N_OTHER_SPEAKERS == 0)
+        {
+            $("#speakerList").append(createSpeakerText(vipList[ currentVIP++ % vipList.length ]));
+        }
+        $("#speakerList").append(createSpeakerText(speakerList[currentSpeaker]));
+    }
+    scrollContainer.scrollText({'duration': SCROLL_INTERVAL});
 }
 
 document.addEventListener("DOMContentLoaded", function() {

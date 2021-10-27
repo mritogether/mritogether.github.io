@@ -1,7 +1,7 @@
 ---
 title: MRI Together
 layout: default
-javascript: [ jquery-3.6.0.min.js, speaker_list.js ]
+javascript: [ jquery-3.6.0.min.js, jQuery.scrollText.js, speaker_list.js ]
 ---
 
 # MRI Together
@@ -13,11 +13,11 @@ javascript: [ jquery-3.6.0.min.js, speaker_list.js ]
 
 ## More than 70 confirmed speakers!
 
-The following is a list of some of the exceptional speakers that have confirmed their presence so far:
-
+<div id="scrollContainer" style="line-height: 25px; overflow: hidden">
 <ul id="speakerList">
 <li>Loading list... (requires Javascript)</li>
 </ul>
+</div>
 
 # Information
 

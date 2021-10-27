@@ -1,7 +1,7 @@
 ---
 title: Overview
 layout: default
-javascript: [ jquery-3.6.0.min.js, speaker_list.js ]
+javascript: [ jquery-3.6.0.min.js, jQuery.scrollText.js, speaker_list.js ]
 ---
 
 # Meeting program
@@ -30,9 +30,8 @@ On **day 4**, the ***closing sessions*** will take place, again touching importa
 
 We currently have **more than 65** confirmed speakers, from academia and industry, including leading companies such as **Google**, **Microsoft**, **Mathworks**, and many more!
 
-The following is a list of some of the exceptional speakers that have confirmed their presence so far:
-
+<div id="scrollContainer" style="line-height: 25px; overflow: hidden">
 <ul id="speakerList">
 <li>Loading list... (requires Javascript)</li>
 </ul>
-
+</div>
