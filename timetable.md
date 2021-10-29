@@ -195,7 +195,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 - **Reproducible post processing for cardiac MRI** - Alistair Young
 - **Musculoskeletal MRI segmentation** - Valentina Pedoia
 - *Gather.town break*
-- ** Retrospective motion correction toolbox (Hands on/Interactive session)** -  Daniel Gallichan
+- **Retrospective motion correction toolbox (Hands on/Interactive session)** -  Daniel Gallichan
 <h4>Pacific</h4>
 - **Moderator:** Martijn Cloos
 - **Reproducible Image Analysis using containerized workflows at scale - Introducing the NeuroDesk project** - Steffen Bollmann
