@@ -165,7 +165,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 **Image Reconstruction**
 <h4>Indian</h4>
 - **Moderator:** Justin Haldar
-- **Subtle Inverse Crimes** - Efrat Shimron
+- **Subtle Data Crimes** - Efrat Shimron
 - **The connected imaging instrument** - Michael Hansen
 - **Image Recon with ML & AI** - Akshay Chaudhari
 - *Gather.town break*
