@@ -4,6 +4,8 @@ layout: default
 javascript: [ timezone.js ]
 ---
 
+Select your time zone to see the adapted times in the program below: <select id="timezone_select" onchange="adaptTime()"></select>
+
 * TOC
 {:toc}
 
@@ -24,8 +26,6 @@ We have identified 4 session times:
 
 On the following map, yellow represents the *Atlantic*, blue represents the *Pacific*,  green represents the *Indian*, and red represents the *Caribbean* session times.
 <img src="/images/worldmap_timezones.png" alt="World map with session times" style="max-width: 100%;"/>
-
-Select your time zone to see the adapted times in the program below: <select id="timezone_select" onchange="adaptTime()"></select>
 
 ## Opening Sessions: 
 ### Atlantic Opening Session - <span class="timezone_adapt" data-date="13" data-start-time="12" data-end-time="14"></span>

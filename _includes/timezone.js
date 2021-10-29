@@ -69,6 +69,8 @@ function adaptTime()
         }
         new_html += new_end_time + ":00";
         
+        new_html += '&nbsp;&nbsp;<span style="font-size: small;">(Selected time zone: UTC' + (timeZone<0?"":"+") + timeZone + ')</span>';
+        
         element.innerHTML = new_html;
     });
 }
