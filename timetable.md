@@ -58,7 +58,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 **Ethics and practices for data sharing**
 <h4>Indian</h4>
 - **Moderator:** Penny Hubbard Cristinacce
-- TBA
+- **Building a collaborative partnership with research hospitals in China: From inception to publications** - Mark Haacke
 - TBA
 - TBA
 - *Gather.town break*
@@ -103,14 +103,14 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 <h4>Atlantic</h4>
 - **Moderator:** Tugba Akinci D'Antonoli
 - **P-values and the replicability of results** - Valentin Amrhein
-- TBA
+- **The replication crisis in science - Lessons learned across disciplines** - Sabine Hoffmann
 - TBA
 - *Gather.town break*
 - TBA
 <h4>Pacific</h4>
-- **Moderator:** TBA
+- **Moderator:** Katy Keenan
 - **The reproducibility crisis - is most published research wrong?** - Stuart Buck
-- TBA
+- **Making practical or clinical relevance a key part of statistical analysis** - Megan Higgs
 - TBA
 - *Gather.town break*
 - TBA
@@ -235,8 +235,8 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 
 ### Caribbean Closing Session - <span class="timezone_adapt" data-date="16" data-start-time="18" data-end-time="20"></span>
 **Community-driven development**
-- **Moderator:** TBA
+- **Moderator:** Emma Biondetti
+- **PyRadiomics** - Joost van Griethuysen 
 - **Publishing and Sharing Open Science** - Brian Nosek
-- TBA
-- TBA
+- **The QIBA profiles** - Ona Wu
 - TBA

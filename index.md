@@ -5,13 +5,17 @@ javascript: [ jquery-3.6.0.min.js, jQuery.scrollText.js, speaker_list.js ]
 ---
 
 # MRI Together
-**MRI Together** is a workshop to be held online in December 2021 on Open Science and Reproducibility in MRI.
+What's all the buzz about **open science** and **reproducibility**?
+
+**MRI Together** is the first global event on Open Science and Reproducibility in MRI. It is endorsed by the ESMRMB, and it will be held online in **December 2021**. The meeting will consist of lectures, panel discussions, and hands-on workshops given by prominent speakers from industry and academia. Topics ranging from the statistical tools for reproducible research, to data sharing policies, and artificial intelligence will be covered.
+
+Whether you're a **developer**, a **medical doctor**, a **researcher in basic science**, or a **data scientist**, there's something for you here.
 
 ![World](/images/nasa_world.jpg)
 
 # Highlights
 
-## More than 75 confirmed speakers!
+## More than 80 confirmed speakers!
 
 <div id="scrollContainer" style="line-height: 25px; overflow: hidden">
 <ul id="speakerList">

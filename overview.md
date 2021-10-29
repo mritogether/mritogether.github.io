@@ -4,7 +4,7 @@ layout: default
 javascript: [ jquery-3.6.0.min.js, jQuery.scrollText.js, speaker_list.js ]
 ---
 
-# Meeting program
+# Meeting content
 
 The meeting consists of lectures and panel discussions in the Opening and Closing sessions, and more practical talks including hands-on workshops in between.
 
@@ -28,7 +28,7 @@ On **day 4**, the ***closing sessions*** will take place, again touching importa
 
 ## Confirmed speakers
 
-We currently have **more than 75** confirmed speakers, from academia and industry, including leading companies such as **Google**, **Microsoft**, **Mathworks**, and many more!
+We currently have **more than 80** confirmed speakers, from academia and industry, including leading companies such as **Google**, **Microsoft**, **Mathworks**, and many more!
 
 <div id="scrollContainer" style="line-height: 25px; overflow: hidden">
 <ul id="speakerList">
