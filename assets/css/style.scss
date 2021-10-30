@@ -118,7 +118,7 @@ p img {
 }
 
 /* attribute selector - a form of CSS inheritance */
-[class*=".sponsor_"] {
+[class*="sponsor_"] {
     float: none;
     display: inline-block;
 }
