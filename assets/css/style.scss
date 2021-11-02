@@ -121,8 +121,20 @@ p img {
 [class*="sponsor_"] {
     float: none;
     display: inline-block;
+    max-width: 40%;
+    width: 40%;
+    border: 5px solid #FFFFFF;
 }
 
 .sponsor_gold {
-    border: 5px solid gold;
+    border-color: #e4bf47;
 }
+
+.sponsor_silver {
+    border-color: #C0C0C0;
+}
+
+.sponsor_bronze {
+    border-color: #A97142;
+}
+
