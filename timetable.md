@@ -104,9 +104,9 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 - **Moderator:** Tugba Akinci D'Antonoli
 - **P-values and the replicability of results** - Valentin Amrhein
 - **The replication crisis in science - Lessons learned across disciplines** - Sabine Hoffmann
-- TBA
+- **New statistics for reproducible science** (provisional title) - Geoff Cumming
 - *Gather.town break*
-- TBA
+- **"p-hacking tutorial"** - Xeni Deligianni
 <h4>Pacific</h4>
 - **Moderator:** Katy Keenan
 - **The reproducibility crisis - is most published research wrong?** - Stuart Buck
@@ -208,35 +208,35 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 <h3>Session D2</h3>
 **AI in clinical imaging**
 <h4>Atlantic</h4>
-- **Moderator:** TBA
+- **Moderators:** Jan Kirschke and Benedikt Wiestler
 - **Limitations of AI in postprocessing** - Marleen de Bruijne
 - **Deep Neuro - segmentation GBM** - Kalpathy-Cramer
 - TBA
 - *Gather.town break*
 - **How to validate AI algorithms in image analysis tools Hands on/Interactive session** - Georg Langs
 <h4>Pacific</h4>
-- **Moderator:** TBA
+- **Moderator:** Veit Sandfort
 - **AI Challenges in Pediatric Imaging** - Marius George Linguraru
-- TBA
-- TBA
+- **Deep Learning in Breast Screening: research and implementation** - Joseph Ledsam
+- **MR fingerprinting: challenges and opportunities** - Dan Ma
 - *Gather.town break*
-- TBA
+- **AI in Image Registration Hands on/Interactive session ** - Adrian Dalca
 </div>
 </div>
 
 ## Closing Sessions
 ### Indian Closing Session - <span class="timezone_adapt" data-date="16" data-start-time="06" data-end-time="08"></span>
 **Better science, for everybody: reproducibility and accessibility**
-- **Moderator:** TBA
+- **Moderators:** Emma Biondetti and Sanam Assili
 - **Publishing Reproducible science** - Iratxe Puebla
-- **EIBALL** - EIBALL committee
-- TBA
+- **EIBALL** - Aad van der Lugt
+- **Accessibility of imaging in India and how open technology and innovations can help** - Sonal Krishan
 - **Panel discussion: MRI research worldwide: challenges and perspectives** - Godwin Ogbole, Udunna Anazodo, Tchoyoson Lim, Won-Jin Moon, Valerij Kiselev
 
 ### Caribbean Closing Session - <span class="timezone_adapt" data-date="16" data-start-time="18" data-end-time="20"></span>
 **Community-driven development**
-- **Moderator:** Emma Biondetti
-- **PyRadiomics** - Joost van Griethuysen 
+- **Moderator:** TBA
+- **arXiv and Open Science** - Eleonora Presani
+- **PyRadiomics** - Joost van Griethuysen
 - **Publishing and Sharing Open Science** - Brian Nosek
 - **The QIBA profiles** - Ona Wu
-- TBA

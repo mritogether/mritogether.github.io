@@ -59,12 +59,12 @@
 
 
 
-
+{"name": "Xeni Deligianni", "affiliation": "University of Basel"},
 
 
 {"name": "Katy Keenan", "affiliation": "NIST"},
 
-
+{"name": "Geoff Cumming", "affiliation": "La Trobe University"},
 {"name": "Megan Higgs", "affiliation": "Critical Inference LLC"},
 
 
@@ -80,7 +80,7 @@
 
 
 {"name": "Cornelius Faber", "affiliation": "Muenster University"},
-
+{"name": "Steven Conolly", "affiliation": "UC Berkeley"},
 
 {"name": "Thomas Yankeelov", "affiliation": "University of Texas at Austin"},
 
@@ -136,7 +136,7 @@
 
 
 
-
+{"name": "Jan Kirschke and Benedikt Wiestler", "affiliation": "Technical University Munich"},
 
 {"name": "Marleen de Bruijne ", "affiliation": "Erasmus MC"},
 {"name": "Jayashree Kalpathy-Cramer", "affiliation": "MGH/Harvard Medical School"},
@@ -144,18 +144,18 @@
 {"name": "Georg Langs", "affiliation": "Medical University of Vienna"},
 
 
-
+{"name": "Veit Sandfort", "affiliation": "Stanford"},
 {"name": "Marius George Linguraru", "affiliation": "Children's National Hospital in Washington, D.C.,"},
 {"name": "Joseph Ledsam", "affiliation": "Google Japan"},
+{"name": "Dan Ma", "affiliation": "Case Western Reserve University"},
+
+{"name": "Adrian Dalca", "affiliation": "Massachusetts Institute of Technology"},
 
 
 
 
-
-
-
-{"name": "", "affiliation": ""},
-
+{"name": "Aad van der Lugt", "affiliation": "Erasmus MC"},
+{"name": "Sonal Krishan", "affiliation": "Medanta, Gurgaon"},
 {"name": "Godwin Ogbole", "affiliation": "University of Ibadan"},
 
 {"name": "Tchoyoson Lim", "affiliation": "National Neuroscience Institute, Singapore"},
@@ -165,7 +165,7 @@
 
 
 
-{"name": "Emma Biondetti", "affiliation": ""},
+{"name": "Maxim ?", "affiliation": ""},
 
 {"name": "Joost van Griethuysen ", "affiliation": "NKI Netherlands "},
 
