@@ -104,14 +104,14 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 - **Moderator:** Tugba Akinci D'Antonoli
 - **P-values and the replicability of results** - Valentin Amrhein
 - **The replication crisis in science - Lessons learned across disciplines** - Sabine Hoffmann
-- **New statistics for reproducible science** (provisional title) - Geoff Cumming
+- TBA
 - *Gather.town break*
 - **"p-hacking tutorial"** - Xeni Deligianni
 <h4>Pacific</h4>
 - **Moderator:** Katy Keenan
 - **The reproducibility crisis - is most published research wrong?** - Stuart Buck
 - **Making practical or clinical relevance a key part of statistical analysis** - Megan Higgs
-- TBA
+- **New statistics for reproducible science** (provisional title) - Geoff Cumming
 - *Gather.town break*
 - TBA
 </div>
