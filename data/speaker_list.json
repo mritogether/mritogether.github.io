@@ -10,7 +10,7 @@
 
 {"name": "Laura Bell", "affiliation": "Genentech, Inc."},
 {"name": "Laura Bell", "affiliation": "Genentech, Inc."},
-
+{"name": "Reza Fazel-Rezai and Rob Holt", "affiliation": "Mathworks, Inc."},
 
 {"name": "Michael Poole", "affiliation": "Hyperfine, Inc"},
 
@@ -18,7 +18,7 @@
 
 
 {"name": "Penny Hubbard Cristinacce", "affiliation": "University of Manchester"},
-
+{"name": "Stephan Heunis", "affiliation": "Forschungszentrum Jülich"},
 
 {"name": "Mark Haacke", "affiliation": "Wayne State University"},
 
@@ -120,7 +120,7 @@
 {"name": "Jeff Fessler", "affiliation": "University of Michigan"},
 
 
-{"name": "Berkin Bilgic", "affiliation": "Martinos Center for Biomedical Imaging"},
+{"name": "Berkin Bilgic", "affiliation": "Harvard Medical School"},
 {"name": "Henk Mutsaerts", "affiliation": "Amsterdam UMC"},
 {"name": "Alistair Young", "affiliation": "University of Auckland"},
 {"name": "Valentina Pedoia", "affiliation": "University of California, San Francisco"},
@@ -144,7 +144,7 @@
 {"name": "Georg Langs", "affiliation": "Medical University of Vienna"},
 
 
-{"name": "Veit Sandfort", "affiliation": "Stanford"},
+
 {"name": "Marius George Linguraru", "affiliation": "Children's National Hospital in Washington, D.C.,"},
 {"name": "Joseph Ledsam", "affiliation": "Google Japan"},
 {"name": "Dan Ma", "affiliation": "Case Western Reserve University"},
@@ -165,7 +165,7 @@
 
 
 
-{"name": "Maxim ?", "affiliation": ""},
+{"name": "Maxim Zaitsev", "affiliation": ""},
 
 {"name": "Joost van Griethuysen ", "affiliation": "NKI Netherlands "},
 
