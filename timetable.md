@@ -42,7 +42,7 @@ On the following map, yellow represents the *Atlantic*, blue represents the *Pac
 **Open Source and Commercial development**
 - **Moderator:** Laura Bell
 - **Welcome and overview of the meeting** - Laura Bell
-- TBA
+- **MATLAB: Balancing closed source and open source development models** - Reza Fazel-Rezai and Rob Holt
 - TBA
 - **Hyperfine: Closed Development, Ensuring Good Science and Reproducibility** - Michael Poole
 - **Open source development for commerical software.** - Travis Oliphant
@@ -59,7 +59,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 <h4>Indian</h4>
 - **Moderator:** Penny Hubbard Cristinacce
 - **Building a collaborative partnership with research hospitals in China: From inception to publications** - Mark Haacke
-- TBA
+- **(MRI) Data sharing in Europe** - Stephan Heunis
 - TBA
 - *Gather.town break*
 - TBA
@@ -111,7 +111,7 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 - **Moderator:** Katy Keenan
 - **The reproducibility crisis - is most published research wrong?** - Stuart Buck
 - **Making practical or clinical relevance a key part of statistical analysis** - Megan Higgs
-- **New statistics for reproducible science** (provisional title) - Geoff Cumming
+- **The new statistics for reproducible science** - Geoff Cumming
 - *Gather.town break*
 - TBA
 </div>
@@ -127,9 +127,9 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 - **Hands on/Interactive session: Designing a Digital Reference Object for Arterial Spin Labelling (ASL DRO)** - Aaron Oliver-Taylor
 <h4>Pacific</h4>
 - **Moderator:** Cornelius Faber
+- **Reproducibility in preclinical research** (provisional title) - Steven Conolly
+- **Age-related neurodegenerative diseases models** - Joanes Grandjean
 - **Preclinical tumor models: opportunities and challenges in translation to human studies** - Thomas Yankeelov
-- TBA
-- TBA
 - *Gather.town break*
 - **Opportunities & Challenges of magnetic resonance spectroscopy research (Hands on/Interactive session)** - Georg Oeltzschner
 </div>
