@@ -15,7 +15,7 @@ Whether you're a **developer**, a **medical doctor**, a **researcher in basic sc
 
 # Highlights
 
-## More than 80 confirmed speakers!
+## More than 90 confirmed speakers!
 
 <div id="scrollContainer" style="line-height: 25px; overflow: hidden">
 <ul id="speakerList">
