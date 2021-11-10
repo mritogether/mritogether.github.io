@@ -14,3 +14,8 @@ We encourage senior, funded researchers and professors to register as supporting
 
 **Note:** the conference will be held through the [Zoom Events](https://events.zoom.us/) platform. A Zoom account (available free of charge) is required at registration.
 
+## Want to help out in other ways?
+
+We'll need volunteers to help us with technical aspects, gather.town, and video editing, and we'd love to have you on board!
+
+Fill in **[this form](https://forms.gle/Hq2WkfffK681yRBy5)** to indicate your availability!

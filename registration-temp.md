@@ -19,3 +19,9 @@ We encourage senior, funded researchers and professors to register as supporting
 [![Free registration](images/register_button_free.png){:.inline_img}](https://events.zoom.us/ev/AEaNvEVYuDSSPf8Chveqs5EvDC-eWPCQxNQF-_QhyU_OAr-5Z4iywooXKyHd6k245Kd-eJM)
 {: style="text-align: center;"}
 
+## Want to help out in other ways?
+
+We'll need volunteers to help us with technical aspects, gather.town, and video editing, and we'd love to have you on board!
+
+Fill in **[this form](https://forms.gle/Hq2WkfffK681yRBy5)** to indicate your availability!
+
