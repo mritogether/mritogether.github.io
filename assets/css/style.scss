@@ -107,6 +107,11 @@ p img {
     max-width: 400px;
 }
 
+.inline_img {
+    display: inline-block;
+    float: none;
+}
+
 .session-container {
     display: flex;
     flex-wrap: wrap;
