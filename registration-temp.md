@@ -15,7 +15,7 @@ As a thank you for your contribution, we will keep a list of our supporting atte
 
 **Note:** the conference will be held through the [Zoom Events](https://events.zoom.us/) platform. A Zoom account (available free of charge) is required at registration.
 
-[![Registration button](images/register_button.png)](https://www.aanmelder.nl/mri-together/subscribe)
+[<img src="images/register_button.png" style="float: none; display: inline-block"/>(https://www.aanmelder.nl/mri-together/subscribe)
 {: style="text-align: center;"}
 or [register here for the event](https://events.zoom.us/ev/AEaNvEVYuDSSPf8Chveqs5EvDC-eWPCQxNQF-_QhyU_OAr-5Z4iywooXKyHd6k245Kd-eJM) without contribution.
 {: style="text-align: center;"}
