@@ -7,14 +7,14 @@ layout: default
 
 Are you interest in sponsoring the workshop? Contact us at [mritogether.workshop@gmail.com](mailto:mritogether.workshop@gmail.com)
 
-## Gold sponsors
+## Platinum sponsors
 
-[![Skope Logo](images/sponsors/skope.png){:class="sponsor_gold"}](https://skope.swiss)
+[![Skope Logo](images/sponsors/skope.png){:.sponsor_platinum}](https://skope.swiss)
 
-[![Genentech Logo](images/sponsors/genentech.png){:class="sponsor_gold"}](https://www.gene.com/)
+[![Genentech Logo](images/sponsors/genentech.png){:.sponsor_platinum}](https://www.gene.com/)
 
-[![Guerbet Logo](images/sponsors/guerbet.jpg){:class="sponsor_gold"}](https://www.guerbet.com/)
+[![Guerbet Logo](images/sponsors/guerbet.jpg){:.sponsor_platinum}](https://www.guerbet.com/)
 
-## Silver sponsor
+## Gold sponsor
 
-[![HQ Imaging Logo](images/sponsors/HQ_Imaging.png){:class="sponsor_silver"}](http://hq-imaging.com/)
+[![HQ Imaging Logo](images/sponsors/HQ_Imaging.png){:.sponsor_gold}](http://hq-imaging.com/)
