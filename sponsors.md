@@ -9,10 +9,10 @@ Are you interest in sponsoring the workshop? Contact us at [mritogether.workshop
 
 ## Platinum sponsors
 
-[![Skope Logo](images/sponsors/skope.png){:.sponsor_platinum}](https://skope.swiss) [![Genentech Logo](images/sponsors/genentech.png){:.sponsor_platinum}](https://www.gene.com/)
+[![Genentech Logo](images/sponsors/genentech.png){:.sponsor_platinum}](https://www.gene.com/) [![Guerbet Logo](images/sponsors/guerbet.jpg){:.sponsor_platinum}](https://www.guerbet.com/) 
 
-[![Guerbet Logo](images/sponsors/guerbet.jpg){:.sponsor_platinum}](https://www.guerbet.com/) [![QBio logo](images/sponsors/qbio.svg){:.sponsor_platinum}](https://q.bio/)
 
+[![QBio logo](images/sponsors/qbio.svg){:.sponsor_platinum}](https://q.bio/) [![Skope Logo](images/sponsors/skope.png){:.sponsor_platinum}](https://skope.swiss) 
 
 ## Gold sponsor
 
