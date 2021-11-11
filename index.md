@@ -15,6 +15,8 @@ Whether you're a **developer**, a **medical doctor**, a **researcher in basic sc
 
 # Highlights
 
+## [Registration](/registration) is now open!
+
 ## More than 90 confirmed speakers!
 
 <div id="scrollContainer" style="line-height: 25px; overflow: hidden">
