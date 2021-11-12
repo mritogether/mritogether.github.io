@@ -18,6 +18,6 @@ Are you interested in sponsoring the workshop? Contact us at [mritogether.worksh
 
 
 
-## Gold sponsor
+## Gold sponsors
 
 [![Calimetrix Logo](images/sponsors/calimetrix.png){:.sponsor_gold}](https://calimetrix.com/) [![HQ Imaging Logo](images/sponsors/HQ_Imaging.png){:.sponsor_gold}](http://hq-imaging.com/)
