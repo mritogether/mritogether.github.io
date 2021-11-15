@@ -169,7 +169,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 - **The connected imaging instrument** - Michael Hansen
 - **Image Recon with ML & AI** - Akshay Chaudhari
 - *Gather.town break*
-- **A Hands-On Introduction to BART** - Martin Ücker
+- **A Hands-On Introduction to BART** - Martin Uecker
 <h4>Caribbean</h4>
 - **Moderator:** Jon Tamir
 - **Decentralized reconstruction in academia** - Tobias Block
