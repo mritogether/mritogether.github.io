@@ -43,9 +43,9 @@ On the following map, yellow represents the *Atlantic*, blue represents the *Pac
 - **Moderator:** Laura Bell
 - **Welcome and overview of the meeting** - Laura Bell
 - **MATLAB: Balancing closed source and open source development models** - Reza Fazel-Rezai and Rob Holt
-- TBA
-- **Hyperfine: Closed Development, Ensuring Good Science and Reproducibility** - Michael Poole
-- **Open source development for commerical software.** - Travis Oliphant
+- **3D Slicer: Long-term sustainability of a large open-source project** - Andras Lasso
+- **Hyperfine: Ensuring good science and reproducibility within closed development** - Michael Poole
+- *Title Pending (Open source development for commerical software)* - Travis Oliphant
 
 ## Parallel Sessions A: Data
 
