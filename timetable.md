@@ -236,7 +236,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 ### Caribbean Closing Session - <span class="timezone_adapt" data-date="16" data-start-time="18" data-end-time="20"></span>
 **Community-driven development**
 - **Moderator:** TBA
-- **arXiv and Open Science** - Eleonora Presani
+- **arXiv and Open Science** - Alison Fromme
 - **PyRadiomics** - Joost van Griethuysen
 - **Publishing and Sharing Open Science** - Brian Nosek
 - **The QIBA profiles** - Ona Wu
