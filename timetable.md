@@ -42,7 +42,7 @@ On the following map, yellow represents the *Atlantic*, blue represents the *Pac
 **Open Source and Commercial development**
 - **Moderator:** Laura Bell
 - **Welcome and overview of the meeting** - Laura Bell
-- **MATLAB: Balancing closed source and open source development models** - Reza Fazel-Rezai and Rob Holt
+- **MATLAB for Open Science in MRI** - Reza Fazel-Rezai and Rob Holt
 - **3D Slicer: Long-term sustainability of a large open-source project** - Andras Lasso
 - **Hyperfine: Ensuring good science and reproducibility within closed development** - Michael Poole
 - *Title Pending (Open source development for commerical software)* - Travis Oliphant
@@ -80,7 +80,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - **Open science for functional connectomics** - Xi-Nian Zuo
 - **Overview of data format: DICOMs (enhanced dicoms), niftis, analyze, bids - why so many formats? why is this hard?** - Michele Larobina
 - *Gather.town break*
-- TBA
+- **Image data conversion / how to work with BIDS: Hands-On/Interactive session** - Patricia Clement
 <h4>Caribbean</h4>
 - **Moderator:** TBA
 - **Raw Data Conversion** - Philip Ehses
@@ -202,7 +202,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 - **Reproducible open source solutions for AI in clinical workflows** - Spyridon Bakas, Sarthak Pati 
 - TBA
 - *Gather.town break*
-- TBA
+- **How to test code development: Hands on/Interactive session** (Provisional title) - Sirisha Tadimalla
 </div>
 <div class="session-element" markdown="1">
 <h3>Session D2</h3>
