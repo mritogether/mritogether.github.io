@@ -69,7 +69,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - **Implementation of parametric DICOM for perfusion** - Ina Kompan
 - TBA
 - *Gather.town break*
-- TBA
+- **Raw data conversion ISMRMRD** (provisional title) - Ahsan Javed & Raj Ramasawmy
 </div>
 <div class="session-element" markdown="1">
 <h3>Session A2</h3>
