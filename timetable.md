@@ -62,7 +62,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - **(MRI) Data sharing in Europe** - Stephan Heunis
 - TBA
 - *Gather.town break*
-- TBA
+- **Data anonymization tutorial** (Provisional title) - David Gutman
 <h4>Caribbean</h4>
 - **Moderator:** Florian Knoll
 - **Data repositories: where to look, how to share** - Greg Cron
@@ -75,7 +75,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 <h3>Session A2</h3>
 **Data Formats**
 <h4>Indian</h4>
-- **Moderator:** TBA
+- **Moderator:** Julia Guiomar Niso Galan
 - **Best practices for data sharing** - Thomas Nichols
 - **Open science for functional connectomics** - Xi-Nian Zuo
 - **Overview of data format: DICOMs (enhanced dicoms), niftis, analyze, bids - why so many formats? why is this hard?** - Michele Larobina
@@ -104,7 +104,7 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 - **Moderator:** Tugba Akinci D'Antonoli
 - **P-values and the replicability of results** - Valentin Amrhein
 - **The replication crisis in science - Lessons learned across disciplines** - Sabine Hoffmann
-- TBA
+- **Bayesian statistics and reproducible science** - Andrew Gelman
 - *Gather.town break*
 - **"p-hacking tutorial"** - Xeni Deligianni
 <h4>Pacific</h4>
