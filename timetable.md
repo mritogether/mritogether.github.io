@@ -87,7 +87,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - **Image analysis on PACS** - Mariam Aboian 
 - **DICOM: testament of time** - David Clunie
 - *Gather.town break*
-- - **Hands-on with vendor-agnostic MRI data: conversion to MRD (ISMRMRD)** - Ahsan Javed & Raj Ramasawmy
+- **Hands-on with vendor-agnostic MRI data: conversion to MRD (ISMRMRD)** - Ahsan Javed & Raj Ramasawmy
 </div>
 </div>
 
