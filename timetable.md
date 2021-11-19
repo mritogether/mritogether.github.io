@@ -62,14 +62,14 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - **(MRI) Data sharing in Europe** - Stephan Heunis
 - TBA
 - *Gather.town break*
-- **Data anonymization tutorial** (Provisional title) - David Gutman
+- TBA
 <h4>Caribbean</h4>
 - **Moderator:** Florian Knoll
 - **Data repositories: where to look, how to share** - Greg Cron
 - **Implementation of parametric DICOM for perfusion** - Ina Kompan
 - TBA
 - *Gather.town break*
-- **Raw data conversion ISMRMRD** (provisional title) - Ahsan Javed & Raj Ramasawmy
+- **Data anonymization tutorial** (Provisional title) - David Gutman
 </div>
 <div class="session-element" markdown="1">
 <h3>Session A2</h3>
@@ -87,7 +87,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - **Image analysis on PACS** - Mariam Aboian 
 - **DICOM: testament of time** - David Clunie
 - *Gather.town break*
-- TBA
+- - **Hands-on with vendor-agnostic MRI data: conversion to MRD (ISMRMRD)** - Ahsan Javed & Raj Ramasawmy
 </div>
 </div>
 
