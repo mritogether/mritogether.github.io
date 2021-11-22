@@ -16,7 +16,7 @@
    style="enable-background:new 0 0 474 176;"
    xml:space="preserve"
    id="svg254"
-   sodipodi:docname="clay10_white.ca961b1.svg"
+   sodipodi:docname="clay10.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
    id="metadata260"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
@@ -36,7 +36,7 @@
    showgrid="false"
    inkscape:zoom="1.739423"
    inkscape:cx="331.96929"
-   inkscape:cy="47.835494"
+   inkscape:cy="70.831625"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
@@ -46,7 +46,13 @@
    id="style163">
 	.st0{fill:#FFFFFF;}
 </style>
-<g
+<rect
+   style="fill:#1066c2;fill-opacity:1;stroke-width:1.01109076;stroke:none"
+   id="rect53"
+   width="474"
+   height="176"
+   x="0"
+   y="1.9095836e-14" /><g
    id="Layer_3">
 </g>
 <g
