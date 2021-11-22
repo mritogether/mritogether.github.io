@@ -13,9 +13,9 @@ Are you interested in sponsoring the workshop? Contact us at [mritogether.worksh
 
 [![Gold Standard logo](images/sponsors/goldstandard.png){:.sponsor_platinum}](https://www.goldstandardphantoms.com/) [![Guerbet Logo](images/sponsors/guerbet.jpg){:.sponsor_platinum}](https://www.guerbet.com/)
 
-[![QBio logo](images/sponsors/qbio.svg){:.sponsor_platinum}](https://q.bio/) [![Skope Logo](images/sponsors/skope.png){:.sponsor_platinum}](https://skope.swiss) 
+[![QBio logo](images/sponsors/qbio.svg){:.sponsor_platinum}](https://q.bio/) [![Philips logo](images/sponsors/philips.png){:.sponsor_platinum}](https://philips.com/) 
 
-
+[![Skope Logo](images/sponsors/skope.png){:.sponsor_platinum}](https://skope.swiss) 
 
 
 ## Gold sponsors
