@@ -3,9 +3,9 @@ title: Sponsoring
 layout: default
 --- 
 
-# Sponsoring
+## Platform sponsor
 
-Are you interested in sponsoring the workshop? Contact us at [mritogether.workshop@gmail.com](mailto:mritogether.workshop@gmail.com)
+[![Clay10 Logo](images/sponsors/clay10.png){:.sponsor_special}](https://clay10.co.uk/) 
 
 ## Platinum sponsors
 
