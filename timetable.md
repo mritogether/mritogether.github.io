@@ -61,14 +61,14 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - **Building a collaborative partnership with research hospitals in China: From inception to publications** - Mark Haacke
 - **(MRI) Data sharing in Europe** - Stephan Heunis
 - TBA
-- *Gather.town break*
+- *Social break*
 - TBA
 <h4>Caribbean</h4>
 - **Moderator:** Florian Knoll
 - **Data repositories: where to look, how to share** - Greg Cron
 - **Implementation of parametric DICOM for perfusion** - Ina Kompan
 - TBA
-- *Gather.town break*
+- *Social break*
 - **Data anonymization tutorial** (Provisional title) - David Gutman
 </div>
 <div class="session-element" markdown="1">
@@ -79,14 +79,14 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - **Best practices for data sharing** - Thomas Nichols
 - **Open science for functional connectomics** - Xi-Nian Zuo
 - **Overview of data format: DICOMs (enhanced dicoms), niftis, analyze, bids - why so many formats? why is this hard?** - Michele Larobina
-- *Gather.town break*
+- *Social break*
 - **Image data conversion / how to work with BIDS: Hands-On/Interactive session** - Patricia Clement
 <h4>Caribbean</h4>
 - **Moderator:** TBA
 - **Raw Data Conversion** - Philip Ehses
 - **Image analysis on PACS** - Mariam Aboian 
 - **DICOM: testament of time** - David Clunie
-- *Gather.town break*
+- *Social break*
 - **Hands-on with vendor-agnostic MRI data: conversion to MRD (ISMRMRD)** - Ahsan Javed & Raj Ramasawmy
 </div>
 </div>
@@ -105,14 +105,14 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 - **P-values and the replicability of results** - Valentin Amrhein
 - **The replication crisis in science - Lessons learned across disciplines** - Sabine Hoffmann
 - **Bayesian statistics and reproducible science** - Andrew Gelman
-- *Gather.town break*
+- *Social break*
 - **"p-hacking tutorial"** - Xeni Deligianni
 <h4>Pacific</h4>
 - **Moderator:** Katy Keenan
 - **The reproducibility crisis - is most published research wrong?** - Stuart Buck
 - **Making practical or clinical relevance a key part of statistical analysis** - Megan Higgs
 - **The new statistics for reproducible science** - Geoff Cumming
-- *Gather.town break*
+- *Social break*
 - TBA
 </div>
 <div class="session-element" markdown="1">
@@ -123,14 +123,14 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 - **The metrics of quantitative evaluation for phantom studies: bias and precision** - Sebastian Weingärtner
 - **Designing digital phantoms using numerical approximation informed by in vivo scans** - José Marques
 - **Application of diffusion phantoms for reproducible ADC mapping across MRI vendor platforms: absolute accuracy, linearity and uniformity** - Dariya Malyarenko
-- *Gather.town break*
+- *Social break*
 - **Hands on/Interactive session: Designing a Digital Reference Object for Arterial Spin Labelling (ASL DRO)** - Aaron Oliver-Taylor
 <h4>Pacific</h4>
 - **Moderator:** Cornelius Faber
 - **Reproducibility in preclinical research** (provisional title) - Steven Conolly
 - **Age-related neurodegenerative diseases models** - Joanes Grandjean
 - **Preclinical tumor models: opportunities and challenges in translation to human studies** - Thomas Yankeelov
-- *Gather.town break*
+- *Social break*
 - **Opportunities & Challenges of magnetic resonance spectroscopy research (Hands on/Interactive session)** - Georg Oeltzschner
 </div>
 </div>
@@ -149,7 +149,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 - **GammaStar** - Daniel Hoinkiss
 - **Integrated acquisition/simulation/reconstruction** - Marten Veldman
 - **Open and reproducible magnetization-prepared pulse sequences with Pulseq-CEST** - Kai Herz
-- *Gather.town break*
+- *Social break*
 - **Pulseq on Siemens (Hands on/Interactive session)** - Maxim Zaitsev
 <h4>Caribbean</h4>
 - **Moderator:** Matthias Günther
@@ -157,7 +157,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 - **PyPulseq** - Keerthi Sravan Ravi
 - **Hardware design of the MaRCoS open-source MRI environment** - Benjamin Menküc
 - **Software and firmware design of the MaRCoS open-source MRI environment** - Vlad Negnevitsky
-- *Gather.town break*
+- *Social break*
 - **Pulseq on GE (Hands on/Interactive session)** - Maxim Zaitsev
 </div>
 <div class="session-element" markdown="1">
@@ -168,14 +168,14 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 - **Subtle Data Crimes** - Efrat Shimron
 - **The connected imaging instrument** - Michael Hansen
 - **Image Recon with ML & AI** - Akshay Chaudhari
-- *Gather.town break*
+- *Social break*
 - **A Hands-On Introduction to BART** - Martin Uecker
 <h4>Caribbean</h4>
 - **Moderator:** Jon Tamir
 - **Decentralized reconstruction in academia** - Tobias Block
 - **Gadgetron: Enabling advanced imaging AI with global clinical deployment** - Hui Xue
 - **Cloud MR** - Riccardo Lattanzi
-- *Gather.town break*
+- *Social break*
 - **MIRT: Hands on/Interactive session** - Jeff Fessler
 </div>
 </div>
@@ -194,14 +194,14 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 - **Image Analysis in Brain MR** - Henk Mutsaerts
 - **Reproducible post processing for cardiac MRI** - Alistair Young
 - **Musculoskeletal MRI segmentation** - Valentina Pedoia
-- *Gather.town break*
+- *Social break*
 - **Retrospective motion correction toolbox (Hands on/Interactive session)** -  Daniel Gallichan
 <h4>Pacific</h4>
 - **Moderator:** Martijn Cloos
 - **Reproducible Image Analysis using containerized workflows at scale - Introducing the NeuroDesk project** - Steffen Bollmann
 - **Reproducible open source solutions for AI in clinical workflows** - Spyridon Bakas, Sarthak Pati 
 - TBA
-- *Gather.town break*
+- *Social break*
 - **How to test code development: Hands on/Interactive session** (Provisional title) - Sirisha Tadimalla
 </div>
 <div class="session-element" markdown="1">
@@ -212,14 +212,14 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 - **Limitations of AI in postprocessing** - Marleen de Bruijne
 - **Deep Neuro - segmentation GBM** - Kalpathy-Cramer
 - TBA
-- *Gather.town break*
+- *Social break*
 - **How to validate AI algorithms in image analysis tools Hands on/Interactive session** - Georg Langs
 <h4>Pacific</h4>
 - **Moderator:** Veit Sandfort
 - **AI Challenges in Pediatric Imaging** - Marius George Linguraru
 - **Deep Learning in Breast Screening: research and implementation** - Joseph Ledsam
 - **MR fingerprinting: challenges and opportunities** - Dan Ma
-- *Gather.town break*
+- *Social break*
 - **AI in Image Registration Hands on/Interactive session ** - Adrian Dalca
 </div>
 </div>
