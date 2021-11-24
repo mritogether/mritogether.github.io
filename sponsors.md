@@ -20,4 +20,6 @@ layout: default
 
 ## Gold sponsors
 
+[![Biogen Logo](images/sponsors/biogen.svg){:.sponsor_gold}](https://biogen.com/) [![Bruker Logo](images/sponsors/bruker.svg){:.sponsor_gold}](https://bruker.com/)
+
 [![Calimetrix Logo](images/sponsors/calimetrix.png){:.sponsor_gold}](https://calimetrix.com/) [![HQ Imaging Logo](images/sponsors/HQ_Imaging.png){:.sponsor_gold}](http://hq-imaging.com/)
