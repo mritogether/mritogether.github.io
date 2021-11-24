@@ -62,12 +62,12 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - **(MRI) Data sharing in Europe** - Stephan Heunis
 - TBA
 - *Social break*
-- TBA
+- **XNAT - data sharing in multicentre studies** - Simon Doran
 <h4>Caribbean</h4>
 - **Moderator:** Florian Knoll
 - **Data repositories: where to look, how to share** - Greg Cron
+- **Defacing and curation for sharing MR brain imaging data** - Stephen Arnott
 - **Implementation of parametric DICOM for perfusion** - Ina Kompan
-- TBA
 - *Social break*
 - **Data anonymization tutorial** (Provisional title) - David Gutman
 </div>
@@ -82,12 +82,12 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - *Social break*
 - **Image data conversion / how to work with BIDS: Hands-On/Interactive session** - Patricia Clement
 <h4>Caribbean</h4>
-- **Moderator:** TBA
+- **Moderator:** Eric Borisch
 - **Raw Data Conversion** - Philip Ehses
 - **Image analysis on PACS** - Mariam Aboian 
 - **DICOM: testament of time** - David Clunie
 - *Social break*
-- **Hands-on with vendor-agnostic MRI data: conversion to MRD (ISMRMRD)** - Ahsan Javed & Raj Ramasawmy
+- **Hands-on with vendor-agnostic MRI data: conversion to MRD (ISMRMRD)** - Ahsan Javed and Raj Ramasawmy
 </div>
 </div>
 
@@ -106,14 +106,14 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 - **The replication crisis in science - Lessons learned across disciplines** - Sabine Hoffmann
 - **Bayesian statistics and reproducible science** - Andrew Gelman
 - *Social break*
-- **"p-hacking tutorial"** - Xeni Deligianni
+- **A white hat guidfe to p-hacking** - Xeni Deligianni
 <h4>Pacific</h4>
 - **Moderator:** Katy Keenan
 - **The reproducibility crisis - is most published research wrong?** - Stuart Buck
 - **Making practical or clinical relevance a key part of statistical analysis** - Megan Higgs
 - **The new statistics for reproducible science** - Geoff Cumming
 - *Social break*
-- TBA
+- **A white hat guide to p-hacking** - Pierre Levan
 </div>
 <div class="session-element" markdown="1">
 <h3>Session B2</h3>
@@ -198,20 +198,20 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 - **Retrospective motion correction toolbox (Hands on/Interactive session)** -  Daniel Gallichan
 <h4>Pacific</h4>
 - **Moderator:** Martijn Cloos
+- **Semi-automated tool for cerebral microbleed detection and volume segmentation** - Melanie Morrison
 - **Reproducible Image Analysis using containerized workflows at scale - Introducing the NeuroDesk project** - Steffen Bollmann
 - **Reproducible open source solutions for AI in clinical workflows** - Spyridon Bakas, Sarthak Pati 
-- TBA
 - *Social break*
-- **How to test code development: Hands on/Interactive session** (Provisional title) - Sirisha Tadimalla
+- **OSIPI experience on scientific validation of community-contributed code for perfusion imaging – A demo/discussion** - Sirisha Tadimalla
 </div>
 <div class="session-element" markdown="1">
 <h3>Session D2</h3>
 **AI in clinical imaging**
 <h4>Atlantic</h4>
 - **Moderators:** Jan Kirschke and Benedikt Wiestler
+- **Computational Magnetic Resonance Imaging (MRI) Approaches for Brain Tumor Classification** - Michael Oluwaseun Dada
 - **Limitations of AI in postprocessing** - Marleen de Bruijne
 - **Deep Neuro - segmentation GBM** - Kalpathy-Cramer
-- TBA
 - *Social break*
 - **How to validate AI algorithms in image analysis tools Hands on/Interactive session** - Georg Langs
 <h4>Pacific</h4>
