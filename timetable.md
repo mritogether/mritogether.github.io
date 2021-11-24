@@ -158,7 +158,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 - **Hardware design of the MaRCoS Open-source MRI Environment** - Benjamin Menküc
 - **Software and Firmware Design of the MaRCoS open-source MRI Environment** - Vlad Negnevitsky
 - *Social break*
-- **Pulseq on GE (Hands on/Interactive session)** - Maxim Zaitsev
+- **Pulseq on GE (Hands on/Interactive session)** - Jon-Fredrik Nielsen
 </div>
 <div class="session-element" markdown="1">
 <h3>Session C2</h3>
