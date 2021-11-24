@@ -56,7 +56,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 <div class="session-element" markdown="1">
 <h3>Session A1</h3>
 **Ethics and Practices for Data Sharing**
-<h4>Indian <span class="timezone_adapt" data-date="14" data-start-time="06" data-end-time="08"></span><br/></h4>
+<h4>Indian</h4>
 - **Moderator:** Penny Hubbard Cristinacce
 - **Building a Collaborative Partnership with Research Hospitals in China: from Inception to Publications** - Mark Haacke
 - **(MRI) Data Sharing in Europe** - Stephan Heunis
