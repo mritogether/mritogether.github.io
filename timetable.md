@@ -55,39 +55,39 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 <div class="session-container">
 <div class="session-element" markdown="1">
 <h3>Session A1</h3>
-**Ethics and practices for data sharing**
+**Ethics and Practices for Data Sharing**
 <h4>Indian</h4>
 - **Moderator:** Penny Hubbard Cristinacce
-- **Building a collaborative partnership with research hospitals in China: From inception to publications** - Mark Haacke
-- **(MRI) Data sharing in Europe** - Stephan Heunis
+- **Building a Collaborative Partnership with Research Hospitals in China: from Inception to Publications** - Mark Haacke
+- **(MRI) Data Sharing in Europe** - Stephan Heunis
 - TBA
 - *Social break*
-- **XNAT - data sharing in multicentre studies** - Simon Doran
+- **XNAT - Data Sharing in Multicentre Studies** - Simon Doran
 <h4>Caribbean</h4>
 - **Moderator:** Florian Knoll
-- **Data repositories: where to look, how to share** - Greg Cron
-- **Defacing and curation for sharing MR brain imaging data** - Stephen Arnott
-- **Implementation of parametric DICOM for perfusion** - Ina Kompan
+- **Data Repositories: Where to Look, How to Share** - Greg Cron
+- **Defacing and Curation for sharing MR Brain Imaging Data** - Stephen Arnott
+- **Implementation of Parametric DICOM for Perfusion** - Ina Kompan
 - *Social break*
-- **Data anonymization tutorial** (Provisional title) - David Gutman
+- **Data Anonymization Tutorial** (Provisional title) - David Gutman
 </div>
 <div class="session-element" markdown="1">
 <h3>Session A2</h3>
 **Data Formats**
 <h4>Indian</h4>
 - **Moderator:** Julia Guiomar Niso Galan
-- **Best practices for data sharing** - Thomas Nichols
-- **Open science for functional connectomics** - Xi-Nian Zuo
-- **Overview of data format: DICOMs (enhanced dicoms), niftis, analyze, bids - why so many formats? why is this hard?** - Michele Larobina
+- **Best Practices for Data Sharing** - Thomas Nichols
+- **Open science for Functional Connectomics** - Xi-Nian Zuo
+- **Overview of Data Format: DICOMs (enhanced dicoms), NIfTIs, Analyze, BIDs - Why So Many Formats? Why Is This Hard?** - Michele Larobina
 - *Social break*
-- **Image data conversion / how to work with BIDS: Hands-On/Interactive session** - Patricia Clement
+- **Image Data Conversion / How to Work with BIDs: Hands-On/Interactive Session** - Patricia Clement
 <h4>Caribbean</h4>
 - **Moderator:** Eric Borisch
 - **Raw Data Conversion** - Philip Ehses
-- **Image analysis on PACS** - Mariam Aboian 
-- **DICOM: testament of time** - David Clunie
+- **Image Analysis on PACS** - Mariam Aboian 
+- **DICOM: Testament of Time** - David Clunie
 - *Social break*
-- **Hands-on with vendor-agnostic MRI data: conversion to MRD (ISMRMRD)** - Ahsan Javed and Raj Ramasawmy
+- **Hands-on with Vendor-agnostic MRI data: conversion to MRD (ISMRMRD)** - Ahsan Javed and Raj Ramasawmy
 </div>
 </div>
 
@@ -99,39 +99,39 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 <div class="session-container">
 <div class="session-element" markdown="1">
 <h3>Session B1</h3>
-**Study design and interpretation. The reproducibility crisis**
+**Study Design and Interpretation. The Reproducibility Crisis**
 <h4>Atlantic</h4>
 - **Moderator:** Tugba Akinci D'Antonoli
-- **P-values and the replicability of results** - Valentin Amrhein
-- **The replication crisis in science - Lessons learned across disciplines** - Sabine Hoffmann
-- **Bayesian statistics and reproducible science** - Andrew Gelman
+- **P-values and the Replicability of Results** - Valentin Amrhein
+- **The Replication Crisis in Science - Lessons Learned Across Disciplines** - Sabine Hoffmann
+- **Bayesian Statistics and Reproducible Science** - Andrew Gelman
 - *Social break*
-- **A white hat guidfe to p-hacking** - Xeni Deligianni
+- **A White Hat's Guide to P-Hacking** - Xeni Deligianni
 <h4>Pacific</h4>
 - **Moderator:** Katy Keenan
-- **The reproducibility crisis - is most published research wrong?** - Stuart Buck
-- **Making practical or clinical relevance a key part of statistical analysis** - Megan Higgs
-- **The new statistics for reproducible science** - Geoff Cumming
+- **The Reproducibility Crisis - is most published research wrong?** - Stuart Buck
+- **Making Practical or Clinical Relevance a Key Part of Statistical Analysis** - Megan Higgs
+- **The New Statistics for Reproducible Science** - Geoff Cumming
 - *Social break*
-- **A white hat guide to p-hacking** - Pierre Levan
+- **A White Hat's Guide to P-Hacking** - Pierre Levan
 </div>
 <div class="session-element" markdown="1">
 <h3>Session B2</h3>
-**Ensuring reproducibility: phantoms and preclinical imaging**
+**Ensuring Reproducibility: Phantoms and Preclinical Imaging**
 <h4>Atlantic</h4>
 - **Moderator:** Shaihan Malik
-- **The metrics of quantitative evaluation for phantom studies: bias and precision** - Sebastian Weingärtner
-- **Designing digital phantoms using numerical approximation informed by in vivo scans** - José Marques
-- **Application of diffusion phantoms for reproducible ADC mapping across MRI vendor platforms: absolute accuracy, linearity and uniformity** - Dariya Malyarenko
+- **The Metrics of Quantitative Evaluation for Phantom Studies: Bias and Precision** - Sebastian Weingärtner
+- **Designing Digital Phantoms using Numerical Approximation Informed by In-Vivo Scans** - José Marques
+- **Application of Diffusion Phantoms for Reproducible ADC mapping across MRI Vendor Platforms: absolute accuracy, linearity and uniformity** - Dariya Malyarenko
 - *Social break*
 - **Hands on/Interactive session: Designing a Digital Reference Object for Arterial Spin Labelling (ASL DRO)** - Aaron Oliver-Taylor
 <h4>Pacific</h4>
 - **Moderator:** Cornelius Faber
-- **Reproducibility in preclinical research** (provisional title) - Steven Conolly
-- **Age-related neurodegenerative diseases models** - Joanes Grandjean
-- **Preclinical tumor models: opportunities and challenges in translation to human studies** - Thomas Yankeelov
+- **Reproducibility in Preclinical Research** (provisional title) - Steven Conolly
+- **Age-related Neurodegenerative Diseases Models** - Joanes Grandjean
+- **Preclinical Tumor Models: opportunities and challenges in translation to human studies** - Thomas Yankeelov
 - *Social break*
-- **Opportunities & Challenges of magnetic resonance spectroscopy research (Hands on/Interactive session)** - Georg Oeltzschner
+- **Opportunities & Challenges of Magnetic Resonance Spectroscopy Research (Hands on/Interactive session)** - Georg Oeltzschner
 </div>
 </div>
 
@@ -147,16 +147,16 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 <h4>Indian</h4>
 - **Moderator:** Lukas Winter
 - **GammaStar** - Daniel Hoinkiss
-- **Integrated acquisition/simulation/reconstruction** - Marten Veldman
-- **Open and reproducible magnetization-prepared pulse sequences with Pulseq-CEST** - Kai Herz
+- **Integrated Acquisition/Simulation/Reconstruction** - Marten Veldman
+- **Open and Reproducible Magnetization-prepared Pulse Sequences with Pulseq-CEST** - Kai Herz
 - *Social break*
 - **Pulseq on Siemens (Hands on/Interactive session)** - Maxim Zaitsev
 <h4>Caribbean</h4>
 - **Moderator:** Matthias Günther
 - **HeartVista/RTHawk** - Eric Peterson
 - **PyPulseq** - Keerthi Sravan Ravi
-- **Hardware design of the MaRCoS open-source MRI environment** - Benjamin Menküc
-- **Software and firmware design of the MaRCoS open-source MRI environment** - Vlad Negnevitsky
+- **Hardware design of the MaRCoS Open-source MRI Environment** - Benjamin Menküc
+- **Software and Firmware Design of the MaRCoS open-source MRI Environment** - Vlad Negnevitsky
 - *Social break*
 - **Pulseq on GE (Hands on/Interactive session)** - Maxim Zaitsev
 </div>
@@ -166,14 +166,14 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 <h4>Indian</h4>
 - **Moderator:** Justin Haldar
 - **Subtle Data Crimes** - Efrat Shimron
-- **The connected imaging instrument** - Michael Hansen
+- **The Connected Imaging Instrument** - Michael Hansen
 - **Image Recon with ML & AI** - Akshay Chaudhari
 - *Social break*
 - **A Hands-On Introduction to BART** - Martin Uecker
 <h4>Caribbean</h4>
 - **Moderator:** Jon Tamir
-- **Decentralized reconstruction in academia** - Tobias Block
-- **Gadgetron: Enabling advanced imaging AI with global clinical deployment** - Hui Xue
+- **Decentralized Reconstruction in Academia** - Tobias Block
+- **Gadgetron: Enabling Advanced Imaging AI with Global Clinical Deployment** - Hui Xue
 - **Cloud MR** - Riccardo Lattanzi
 - *Social break*
 - **MIRT: Hands on/Interactive session** - Jeff Fessler
@@ -192,17 +192,17 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 <h4>Atlantic</h4>
 - **Moderator:** Berkin Bilgic
 - **Image Analysis in Brain MR** - Henk Mutsaerts
-- **Reproducible post processing for cardiac MRI** - Alistair Young
-- **Musculoskeletal MRI segmentation** - Valentina Pedoia
+- **Reproducible Post Processing for Cardiac MRI** - Alistair Young
+- **Musculoskeletal MRI Segmentation** - Valentina Pedoia
 - *Social break*
-- **Retrospective motion correction toolbox (Hands on/Interactive session)** -  Daniel Gallichan
+- **Retrospective Motion Correction Toolbox (Hands on/Interactive session)** -  Daniel Gallichan
 <h4>Pacific</h4>
 - **Moderator:** Martijn Cloos
-- **Semi-automated tool for cerebral microbleed detection and volume segmentation** - Melanie Morrison
-- **Reproducible Image Analysis using containerized workflows at scale - Introducing the NeuroDesk project** - Steffen Bollmann
-- **Reproducible open source solutions for AI in clinical workflows** - Spyridon Bakas, Sarthak Pati 
+- **Semi-automated Tool for Cerebral Microbleed Detection and Volume Segmentation** - Melanie Morrison
+- **Reproducible Image Analysis using Containerized Workflows at Scale - Introducing the NeuroDesk project** - Steffen Bollmann
+- **Reproducible Open Source Solutions for AI in Clinical Workflows** - Spyridon Bakas, Sarthak Pati 
 - *Social break*
-- **OSIPI experience on scientific validation of community-contributed code for perfusion imaging – A demo/discussion** - Sirisha Tadimalla
+- **OSIPI Experience on Scientific Validation of Community-Contributed Code for Perfusion Imaging – A demo/discussion** - Sirisha Tadimalla
 </div>
 <div class="session-element" markdown="1">
 <h3>Session D2</h3>
@@ -213,12 +213,12 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 - **Limitations of AI in postprocessing** - Marleen de Bruijne
 - **Deep Neuro - segmentation GBM** - Kalpathy-Cramer
 - *Social break*
-- **How to validate AI algorithms in image analysis tools Hands on/Interactive session** - Georg Langs
+- **How to Validate AI algorithms in Image Analysis Tools Hands on/Interactive session** - Georg Langs
 <h4>Pacific</h4>
 - **Moderator:** Veit Sandfort
 - **AI Challenges in Pediatric Imaging** - Marius George Linguraru
-- **Deep Learning in Breast Screening: research and implementation** - Joseph Ledsam
-- **MR fingerprinting: challenges and opportunities** - Dan Ma
+- **Deep Learning in Breast Screening: Research and Implementation** - Joseph Ledsam
+- **MR Fingerprinting: Challenges and Opportunities** - Dan Ma
 - *Social break*
 - **AI in Image Registration Hands on/Interactive session ** - Adrian Dalca
 </div>
