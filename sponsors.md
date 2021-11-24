@@ -5,7 +5,7 @@ layout: default
 
 ## Platform sponsor
 
-[![Clay10 Logo](images/sponsors/clay10.svg){:.sponsor_special}](https://clay10.co.uk/) 
+[![Clay10 Logo](images/sponsors/clay10.png){:.sponsor_special}](https://clay10.co.uk/) 
 
 ## Platinum sponsors
 
