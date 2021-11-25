@@ -60,7 +60,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - **Moderator:** Penny Hubbard Cristinacce
 - **Building a Collaborative Partnership with Research Hospitals in China: from Inception to Publications** - Mark Haacke
 - **(MRI) Data Sharing in Europe** - Stephan Heunis
-- TBA
+- **Data sharing and interoperability** (provisional title) - Speaker TBA
 - *Social break*
 - **XNAT - Data Sharing in Multicentre Studies** - Simon Doran
 <h4>Caribbean</h4>

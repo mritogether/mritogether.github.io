@@ -15,9 +15,11 @@ Whether you're a **developer**, a **medical doctor**, a **researcher in basic sc
 
 # Highlights
 
+## A few more days to [submit your abstract](/abstracts)!
+
 ## [Registration](/registration) is now open!
 
-## More than 90 confirmed speakers!
+## The program is finalized with more than 100 confirmed speakers!
 
 <div id="scrollContainer" style="line-height: 25px; overflow: hidden">
 <ul id="speakerList">

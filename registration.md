@@ -19,3 +19,12 @@ We encourage senior, funded researchers and professors to register as supporting
 We'll need volunteers to help us with technical aspects, gather.town, and video editing, and we'd love to have you on board!
 
 Fill in **[this form](https://forms.gle/Hq2WkfffK681yRBy5)** to indicate your availability!
+
+## Thank you to our supporting attendees so far!
+
+- Xavier Golay - London, United Kingdom
+- Sudarshan Ragunathan - Chandler, United States of America
+- Steven Sourbron - Sheffield, United Kingdom
+- Paul Mullins - Bangor, United Kingdom
+- Teresa Nunes - Lisboa, Portugal
+

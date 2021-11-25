@@ -28,7 +28,7 @@ On **day 4**, the ***closing sessions*** will take place, again touching importa
 
 ## Confirmed speakers
 
-We currently have **more than 90** confirmed speakers, from academia and industry, including leading companies such as **Google**, **Microsoft**, **Mathworks**, and many more!
+We currently have **more than 100** confirmed speakers, from academia and industry, including leading companies such as **Google**, **Microsoft**, **Mathworks**, and many more!
 
 <div id="scrollContainer" style="line-height: 25px; overflow: hidden">
 <ul id="speakerList">

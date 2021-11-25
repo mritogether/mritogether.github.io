@@ -22,35 +22,34 @@
 
 {"name": "Mark Haacke", "affiliation": "Wayne State University, USA"},
 
-
-
+{"name": "Simon Doran", "affiliation": "Insitute of Cancer Research, UK"},
 
 
 {"name": "Florian Knoll", "affiliation": "University of Erlangen, Germany"},
 {"name": "Greg Cron", "affiliation": "Stanford University, USA"},
-
+{"name": "Stephen Arnott", "affiliation": "Rotman Research Institute, Canada"},
 {"name": "Ina Kompan", "affiliation": "German Cancer Research Centre (DKFZ), Germany"},
 
 
-{"name": "David Gutman", "affiliation": "Emory"},
+{"name": "David Gutman", "affiliation": "Emory, USA"},
 
 
-{"name": "Julia Guiomar Niso Galan", "affiliation": ""},
+{"name": "Julia Guiomar Niso Galan", "affiliation": "Indiana University, USA"},
 {"name": "Thomas Nichols", "affiliation": "University of Oxford, UK"},
 {"name": "Xi-Nian Zuo", "affiliation": "Chinese Academy of Sciences, China"},
 {"name": "Michele Larobina", "affiliation": "National Research Council, Italy"},
 
 
-{"name": "Patricia Clement", "affiliation": ""},
+{"name": "Patricia Clement", "affiliation": "Ghent Institute for Metabolic and Functional Imaging (GIfMI), Belgium"},
 
 
-
+{"name": "Eric Borisch", "affiliation": "Mayo Clinic, USA"},
 {"name": "Philip Ehses", "affiliation": "German Center for Neurodegenerative Diseases (DZNE), Germany"},
 {"name": "Mariam Aboian ", "affiliation": "Yale University, USA"},
 
 
 
-{"name": "Ahsan Javed & Raj Ramasawmy", "affiliation": "National Insitute of Health"},
+{"name": "Ahsan Javed and Raj Ramasawmy", "affiliation": "National Insitute of Health"},
 
 
 {"name": "Tugba Akinci D'Antonoli", "affiliation": "University Childrens' Hospital Basel, Switzerland"},
@@ -68,7 +67,7 @@
 {"name": "Megan Higgs", "affiliation": "Critical Inference LLC"},
 
 
-
+{"name": "Pierre Levan", "affiliation": "University of Calgary, Canada"},
 
 
 {"name": "Shaihan Malik", "affiliation": "King's College London, UK"},
@@ -129,15 +128,15 @@
 
 
 {"name": "Martijn Cloos", "affiliation": "University of Queensland, Australia"},
-
+{"name": "Melanie Morrison", "affiliation": "University of California - San Francico, USA"},
 {"name": "Spyridon Bakas, Sarthak Pati ", "affiliation": "University of Pennsylvania, USA"},
 {"name": "Steffen Bollmann", "affiliation": "University of Queensland, Australia"},
 
-{"name": "Sirisha Tadimalla", "affiliation": ""},
+{"name": "Sirisha Tadimalla", "affiliation": "University of Sydney, Australia"},
 
 
 {"name": "Jan Kirschke and Benedikt Wiestler", "affiliation": "Technical University of Munich, Germany"},
-
+{"name": "Michael Oluwaseun Dada", "affiliation": "Federal University of Technology, Minna, Nigeria"},
 {"name": "Marleen de Bruijne ", "affiliation": "Erasmus MC, Netherlands"},
 {"name": "Jayashree Kalpathy-Cramer", "affiliation": "Harvard Medical School, USA"},
 
@@ -152,7 +151,7 @@
 {"name": "Adrian Dalca", "affiliation": "Massachusetts Institute of Technology, USA"},
 
 
-{"name": "Emma Biondetti and Sanam Assili", "affiliation": "University of Chieti-Pescara, Italy and Calico Life Sciences LLC"},
+{"name": "Emma Biondetti and Sanam Assili", "affiliation": "University of Chieti-Pescara, Italy and Calico Life Sciences LLC, USA and University of Oulu, Finland "},
 
 {"name": "Aad van der Lugt", "affiliation": "Erasmus MC, Netherlands "},
 {"name": "Sonal Krishan", "affiliation": "Medanta, India "},
@@ -172,3 +171,4 @@
 {"name": "Ona Wu", "affiliation": "Harvard University, USA"},
 
 {"name": "", "affiliation": "Dummy entry"} ] }
+
