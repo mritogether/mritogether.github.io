@@ -35,7 +35,17 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 
 ## Parallel Sessions A: Data -- testing
 Indian session time: <span class="timezone_adapt" data-date="14" data-start-time="06" data-end-time="08"></span><br/>
-Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="20"></span> 
+Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="20"></span>
+
+<div class="session-container">
+  <div class="session-element">
+    <h5>(Session A1) Ethics and Practices for Data Sharing</h5>
+  </div>
+  <div class="session-element">
+    <h5>(Session A2) Data Formats</h5>
+  </div>
+</div>
+
 <div class="session-container">
 <div class="session-element" markdown="1">
 <h6>Indian</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
