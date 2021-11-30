@@ -80,6 +80,54 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 </div>
 </div>
 
+## Parallel Sessions B: Basic Reproducibility -- testing
+Atlantic session time: <span class="timezone_adapt" data-date="14" data-start-time="12" data-end-time="14"></span><br/>
+Pacific session time: <span class="timezone_adapt" data-date="15" data-start-time="00" data-end-time="02"></span>
+
+<div class="session-container">
+<div class="session-element" markdown="1">
+<h5>(Session B1) Study Design and Interpretation: the Reproducibility Crisis</h5>
+<h6>Atlantic</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjV1MHZrdHM2Zm50amY4M3NyYjNlOG42ZGUgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+- **Moderator:** Tugba Akinci D'Antonoli
+- **P-values and the Replicability of Results** - Valentin Amrhein
+- **The Replication Crisis in Science - Lessons Learned Across Disciplines** - Sabine Hoffmann
+- **Bayesian Statistics and Reproducible Science** - Andrew Gelman
+- *Social break*
+- **A White Hat's Guide to P-Hacking** - Xeni Deligianni
+</div>
+<div class="session-element" markdown="1">
+<h5>(Session B2) Ensuring Reproducibility: Phantoms and Preclinical Imaging</h5>
+<h6>Atlantic</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjV1MHZrdHM2Zm50amY4M3NyYjNlOG42ZGUgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+- **Moderator:** Shaihan Malik
+- **The Metrics of Quantitative Evaluation for Phantom Studies: Bias and Precision** - Sebastian Weingärtner
+- **Designing Digital Phantoms using Numerical Approximation Informed by In-Vivo Scans** - José Marques
+- **Application of Diffusion Phantoms for Reproducible ADC mapping across MRI Vendor Platforms: absolute accuracy, linearity and uniformity** - Dariya Malyarenko
+- *Social break*
+- **Hands on/Interactive session: Designing a Digital Reference Object for Arterial Spin Labelling (ASL DRO)** - Aaron Oliver-Taylor
+</div>
+</div>
+<div class="session-container">
+<div class="session-element" markdown="1">
+<h6>Pacific</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHNsdjhjZ3F2cmhidmwxdTJ0NGgwZHYyaDAgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+- **Moderator:** Katy Keenan
+- **The Reproducibility Crisis - is most published research wrong?** - Stuart Buck
+- **Making Practical or Clinical Relevance a Key Part of Statistical Analysis** - Megan Higgs
+- **The New Statistics for Reproducible Science** - Geoff Cumming
+- *Social break*
+- **A White Hat's Guide to P-Hacking** - Pierre Levan
+</div>
+<div class="session-element" markdown="1">
+<h6>Pacific</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHNsdjhjZ3F2cmhidmwxdTJ0NGgwZHYyaDAgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+- **Moderator:** Cornelius Faber
+- **Reproducibility in Preclinical Research** (provisional title) - Steven Conolly
+- **Age-related Neurodegenerative Diseases Models** - Joanes Grandjean
+- **Preclinical Tumor Models: opportunities and challenges in translation to human studies** - Thomas Yankeelov
+- *Social break*
+- **Opportunities & Challenges of Magnetic Resonance Spectroscopy Research (Hands on/Interactive session)** - Georg Oeltzschner
+</div>
+</div>
+
+
 ## Parallel Sessions B: Basic Reproducibility
 
 Atlantic session time: <span class="timezone_adapt" data-date="14" data-start-time="12" data-end-time="14"></span><br/>
