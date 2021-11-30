@@ -29,6 +29,7 @@ On the following map, yellow represents the *Atlantic*, blue represents the *Pac
 
 ## Opening Sessions: 
 ### Atlantic Opening Session - <span class="timezone_adapt" data-date="13" data-start-time="12" data-end-time="14"></span>
+Click [here](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2k1a3ZobHA1MW5kNXM1bzNta2pldnJvczggY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com) to add event to your calendar. 
 **Reproducible science**
 - **Moderator:** Francesco Santini
 - **Welcome and overview of the meeting** - Francesco Santini
