@@ -40,15 +40,15 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 
 <div class="session-container">
 <div class="session-element" markdown="1">
-<h4>(Session A1) Ethics and Practices for Data Sharing</h4>
-<h5>Indian</h5> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h5>(Session A1) Ethics and Practices for Data Sharing</h5>
+<h6>Indian</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Penny Hubbard Cristinacce
 - **Building a Collaborative Partnership with Research Hospitals in China: from Inception to Publications** - Mark Haacke
 - **(MRI) Data Sharing in Europe** - Stephan Heunis
 - **Data sharing and interoperability** (provisional title) - Nicolas Pannetier
 - *Social break*
 - **XNAT - Data Sharing in Multicentre Studies** - Simon Doran
-<h5>Caribbean</h5> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h6>Caribbean</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Florian Knoll
 - **Data Repositories: Where to Look, How to Share** - Greg Cron
 - **Defacing and Curation for sharing MR Brain Imaging Data** - Stephen Arnott
@@ -57,15 +57,15 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - **Data Anonymization Tutorial** (Provisional title) - David Gutman
 </div>
 <div class="session-element" markdown="1">
-<h4>(Session A2) Data Formats</h4>
-<h5>Indian</h5> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h5>(Session A2) Data Formats</h5>
+<h6>Indian</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Julia Guiomar Niso Galan
 - **Best Practices for Data Sharing** - Thomas Nichols
 - **Open science for Functional Connectomics** - Xi-Nian Zuo
 - **Overview of Data Format: DICOMs (enhanced dicoms), NIfTIs, Analyze, BIDs - Why So Many Formats? Why Is This Hard?** - Michele Larobina
 - *Social break*
 - **Image Data Conversion / How to Work with BIDs: Hands-On/Interactive Session** - Patricia Clement
-<h5>Caribbean</h5> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h6>Caribbean</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Eric Borisch
 - **Raw Data Conversion** - Philip Ehses
 - **Image Analysis on PACS** - Mariam Aboian 
