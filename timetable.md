@@ -33,6 +33,53 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 - **Hyperfine: Ensuring good science and reproducibility within closed development** - Michael Poole
 - *Title Pending (Open source development for commerical software)* - Travis Oliphant
 
+## Parallel Sessions A: Data -- testing
+
+Indian session time: <span class="timezone_adapt" data-date="14" data-start-time="06" data-end-time="08"></span><br/>
+Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="20"></span>
+
+<div class="session-container">
+<div class="session-element" markdown="1">
+<h5>(Session A1) Ethics and Practices for Data Sharing</h5>
+<h6>Indian</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+- **Moderator:** Penny Hubbard Cristinacce
+- **Building a Collaborative Partnership with Research Hospitals in China: from Inception to Publications** - Mark Haacke
+- **(MRI) Data Sharing in Europe** - Stephan Heunis
+- **Data sharing and interoperability** (provisional title) - Nicolas Pannetier
+- *Social break*
+- **XNAT - Data Sharing in Multicentre Studies** - Simon Doran
+</div>
+<div class="session-element" markdown="1">
+<h6>Indian</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+- **Moderator:** Julia Guiomar Niso Galan
+- **Best Practices for Data Sharing** - Thomas Nichols
+- **Open science for Functional Connectomics** - Xi-Nian Zuo
+- **Overview of Data Format: DICOMs (enhanced dicoms), NIfTIs, Analyze, BIDs - Why So Many Formats? Why Is This Hard?** - Michele Larobina
+- *Social break*
+- **Image Data Conversion / How to Work with BIDs: Hands-On/Interactive Session** - Patricia Clement
+</div>
+<div class="session-container">
+<div class="session-element" markdown="1">
+<h6>Caribbean</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+- **Moderator:** Florian Knoll
+- **Data Repositories: Where to Look, How to Share** - Greg Cron
+- **Defacing and Curation for sharing MR Brain Imaging Data** - Stephen Arnott
+- **Implementation of Parametric DICOM for Perfusion** - Ina Kompan
+- *Social break*
+- **Data Anonymization Tutorial** (Provisional title) - David Gutman
+</div>
+<div class="session-element" markdown="1">
+<h5>(Session A2) Data Formats</h5>
+<h6>Caribbean</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+- **Moderator:** Eric Borisch
+- **Raw Data Conversion** - Philip Ehses
+- **Image Analysis on PACS** - Mariam Aboian 
+- **DICOM: Testament of Time** - David Clunie
+- *Social break*
+- **Hands-on with Vendor-agnostic MRI data: conversion to MRD (ISMRMRD)** - Ahsan Javed and Raj Ramasawmy
+</div>
+</div>
+
 ## Parallel Sessions A: Data
 
 Indian session time: <span class="timezone_adapt" data-date="14" data-start-time="06" data-end-time="08"></span><br/>
