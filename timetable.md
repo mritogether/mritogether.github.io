@@ -236,7 +236,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 - **Moderators:** Jan Kirschke and Benedikt Wiestler
 - **Computational Magnetic Resonance Imaging (MRI) Approaches for Brain Tumor Classification** - Michael Oluwaseun Dada
 - **Limitations of AI in postprocessing** - Marleen de Bruijne
-- **Deep Neuro - segmentation GBM** - Kalpathy-Cramer
+- **Deep Neuro - segmentation GBM** - Jayashree Kalpathy-Cramer
 - *Social break*
 - **How to Validate AI algorithms in Image Analysis Tools Hands on/Interactive session** - Georg Langs
 <h6>Pacific</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWp0OWYyNThpNHMwbWk2YmZmMzlqazZta3EgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
