@@ -175,56 +175,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 </div>
 </div>
 
-## Parallel Sessions D: Postprocessing -- testing
-Atlantic session time: <span class="timezone_adapt" data-date="15" data-start-time="12" data-end-time="14"></span><br/>
-Pacific session time: <span class="timezone_adapt" data-date="16" data-start-time="00" data-end-time="02"></span>
-
-<div class="session-container">
-<div class="session-element" markdown="1">
-<h5>(Session D1) Image Analysis</h5>
-<h6>Atlantic</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2ZlcTFkaDU3OGdrMHRvMTZ0MHBvanNobzEgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
-- **Moderator:** Berkin Bilgic
-- **Image Analysis in Brain MR** - Henk Mutsaerts
-- **Reproducible Post Processing for Cardiac MRI** - Alistair Young
-- **Musculoskeletal MRI Segmentation** - Valentina Pedoia
-- *Social break*
-- **Retrospective Motion Correction Toolbox (Hands on/Interactive session)** -  Daniel Gallichan
-</div>
-<div class="session-element" markdown="1">
-<h5>(Session D2) AI in Clinical Imaging</h5>
-<h6>Atlantic</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2ZlcTFkaDU3OGdrMHRvMTZ0MHBvanNobzEgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
-- **Moderators:** Jan Kirschke and Benedikt Wiestler
-- **Computational Magnetic Resonance Imaging (MRI) Approaches for Brain Tumor Classification** - Michael Oluwaseun Dada
-- **Limitations of AI in postprocessing** - Marleen de Bruijne
-- **Deep Neuro - segmentation GBM** - Jayashree Kalpathy-Cramer
-- *Social break*
-- **How to Validate AI algorithms in Image Analysis Tools Hands on/Interactive session** - Georg Langs
-</div>
-</div>
-<div class="session-container">
-<div class="session-element" markdown="1">
-<h5>Pacific</h5> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWp0OWYyNThpNHMwbWk2YmZmMzlqazZta3EgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
-- **Moderator:** Martijn Cloos
-- **Semi-automated Tool for Cerebral Microbleed Detection and Volume Segmentation** - Melanie Morrison
-- **Reproducible Image Analysis using Containerized Workflows at Scale - Introducing the NeuroDesk project** - Steffen Bollmann
-- **Reproducible Open Source Solutions for AI in Clinical Workflows** - Spyridon Bakas, Sarthak Pati 
-- *Social break*
-- **OSIPI Experience on Scientific Validation of Community-Contributed Code for Perfusion Imaging – A demo/discussion** - Sirisha Tadimalla
-</div>
-<div class="session-element" markdown="1">
-<h6>Pacific</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWp0OWYyNThpNHMwbWk2YmZmMzlqazZta3EgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
-- **Moderator:** Veit Sandfort
-- **AI Challenges in Pediatric Imaging** - Marius George Linguraru
-- **Deep Learning in Breast Screening: Research and Implementation** - Joseph Ledsam
-- **MR Fingerprinting: Challenges and Opportunities** - Dan Ma
-- *Social break*
-- **AI in Image Registration Hands on/Interactive session ** - Adrian Dalca
-</div>
-</div>
-
-
 ## Parallel Sessions D: Postprocessing
-
 Atlantic session time: <span class="timezone_adapt" data-date="15" data-start-time="12" data-end-time="14"></span><br/>
 Pacific session time: <span class="timezone_adapt" data-date="16" data-start-time="00" data-end-time="02"></span>
 
@@ -238,13 +189,6 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 - **Musculoskeletal MRI Segmentation** - Valentina Pedoia
 - *Social break*
 - **Retrospective Motion Correction Toolbox (Hands on/Interactive session)** -  Daniel Gallichan
-<h5>Pacific</h5> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWp0OWYyNThpNHMwbWk2YmZmMzlqazZta3EgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
-- **Moderator:** Martijn Cloos
-- **Semi-automated Tool for Cerebral Microbleed Detection and Volume Segmentation** - Melanie Morrison
-- **Reproducible Image Analysis using Containerized Workflows at Scale - Introducing the NeuroDesk project** - Steffen Bollmann
-- **Reproducible Open Source Solutions for AI in Clinical Workflows** - Spyridon Bakas, Sarthak Pati 
-- *Social break*
-- **OSIPI Experience on Scientific Validation of Community-Contributed Code for Perfusion Imaging – A demo/discussion** - Sirisha Tadimalla
 </div>
 <div class="session-element" markdown="1">
 <h5>(Session D2) AI in Clinical Imaging</h5>
@@ -255,6 +199,19 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 - **Deep Neuro - segmentation GBM** - Jayashree Kalpathy-Cramer
 - *Social break*
 - **How to Validate AI algorithms in Image Analysis Tools Hands on/Interactive session** - Georg Langs
+</div>
+</div>
+<div class="session-container">
+<div class="session-element" markdown="1">
+<h5>Pacific</h5> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWp0OWYyNThpNHMwbWk2YmZmMzlqazZta3EgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+- **Moderator:** Martijn Cloos
+- **Semi-automated Tool for Cerebral Microbleed Detection and Volume Segmentation** - Melanie Morrison
+- **Reproducible Image Analysis using Containerized Workflows at Scale - Introducing the NeuroDesk project** - Steffen Bollmann
+- **Reproducible Open Source Solutions for AI in Clinical Workflows** - Spyridon Bakas, Sarthak Pati 
+- *Social break*
+- **OSIPI Experience on Scientific Validation of Community-Contributed Code for Perfusion Imaging – A demo/discussion** - Sirisha Tadimalla
+</div>
+<div class="session-element" markdown="1">
 <h6>Pacific</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWp0OWYyNThpNHMwbWk2YmZmMzlqazZta3EgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Veit Sandfort
 - **AI Challenges in Pediatric Imaging** - Marius George Linguraru
