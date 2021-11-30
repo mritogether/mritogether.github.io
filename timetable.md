@@ -10,7 +10,7 @@ javascript: [ timezone.js ]
 The content will be offered live across 4 distinct time zones (Atlantic, Pacific, Indian, and Caribbean) to span 24 hours. Generally, each session will be repeated across two time zones: Atlantic/Pacific and Indian/Caribbean. Despite these repeated session topics, new speakers and content will be provided.
 
 **We offer multiple ways to ensure you have the times correct before proceeding:**
-1. Select your time zone to see the adapted times in the program below: <select id="timezone_select" onchange="adaptTime()"></select>.
+1. Select your time zone in this dropdown menu to see the adapted times in the program below: <select id="timezone_select" onchange="adaptTime()"></select>.
 2. After each heading in the program, there will be a link to automatically create an invite to your calendar.
 
 ## Session times
@@ -19,7 +19,7 @@ For a visual appearance of the time zones that will fit your schedule, check out
 
 ## Opening Sessions: 
 ### Atlantic Opening Session - <span class="timezone_adapt" data-date="13" data-start-time="12" data-end-time="14"></span> 
-**Reproducible science** ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2k1a3ZobHA1MW5kNXM1bzNta2pldnJvczggY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+**Reproducible Science** ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2k1a3ZobHA1MW5kNXM1bzNta2pldnJvczggY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Francesco Santini
 - **Welcome and overview of the meeting** - Francesco Santini
 - **Introduction to Open Science and Reproducibility** - Cassandra Gould van Praag
@@ -29,7 +29,7 @@ For a visual appearance of the time zones that will fit your schedule, check out
 
 
 ### Pacific Opening Session - <span class="timezone_adapt" data-date="14" data-start-time="00" data-end-time="02"></span>
-**Open Source and Commercial development**
+**Open Source and Commercial Development** ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzM2MmY0ZjZjZHYybzBla2djbzRlMWpnZXIgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Laura Bell
 - **Welcome and overview of the meeting** - Laura Bell
 - **MATLAB for Open Science in MRI** - Reza Fazel-Rezai and Rob Holt
@@ -45,15 +45,15 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 <div class="session-container">
 <div class="session-element" markdown="1">
 <h3>Session A1</h3>
-**Ethics and Practices for Data Sharing**
-<h4>Indian</h4>
+**Ethics and Practices for Data Sharing** 
+<h4>Indian</h4> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Penny Hubbard Cristinacce
 - **Building a Collaborative Partnership with Research Hospitals in China: from Inception to Publications** - Mark Haacke
 - **(MRI) Data Sharing in Europe** - Stephan Heunis
 - **Data sharing and interoperability** (provisional title) - Nicolas Pannetier
 - *Social break*
 - **XNAT - Data Sharing in Multicentre Studies** - Simon Doran
-<h4>Caribbean</h4>
+<h4>Caribbean</h4> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Florian Knoll
 - **Data Repositories: Where to Look, How to Share** - Greg Cron
 - **Defacing and Curation for sharing MR Brain Imaging Data** - Stephen Arnott
@@ -64,14 +64,14 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 <div class="session-element" markdown="1">
 <h3>Session A2</h3>
 **Data Formats**
-<h4>Indian</h4>
+<h4>Indian</h4> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Julia Guiomar Niso Galan
 - **Best Practices for Data Sharing** - Thomas Nichols
 - **Open science for Functional Connectomics** - Xi-Nian Zuo
 - **Overview of Data Format: DICOMs (enhanced dicoms), NIfTIs, Analyze, BIDs - Why So Many Formats? Why Is This Hard?** - Michele Larobina
 - *Social break*
 - **Image Data Conversion / How to Work with BIDs: Hands-On/Interactive Session** - Patricia Clement
-<h4>Caribbean</h4>
+<h4>Caribbean</h4> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Eric Borisch
 - **Raw Data Conversion** - Philip Ehses
 - **Image Analysis on PACS** - Mariam Aboian 
