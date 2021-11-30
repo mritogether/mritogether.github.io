@@ -153,30 +153,6 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 - **A Hands-On Introduction to BART** - Martin Uecker
 </div>
 </div>
-
-
-<div class="session-container">
-<div class="session-element" markdown="1">
-<h5>(Session C1) Vendor-Independent Pulse Sequences</h5>
-<h6>Indian</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGFkYWw2MnI1cG9lcGR1Y3V2MWtxNGdicW8gY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
-- **Moderator:** Lukas Winter
-- **GammaStar** - Daniel Hoinkiss
-- **Integrated Acquisition/Simulation/Reconstruction** - Marten Veldman
-- **Open and Reproducible Magnetization-prepared Pulse Sequences with Pulseq-CEST** - Kai Herz
-- *Social break*
-- **Pulseq on Siemens (Hands on/Interactive session)** - Maxim Zaitsev
-</div>
-<div class="session-element" markdown="1">
-<h5>(Session C2) Image Reconstruction</h5>
-<h6>Indian</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGFkYWw2MnI1cG9lcGR1Y3V2MWtxNGdicW8gY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
-- **Moderator:** Justin Haldar
-- **Subtle Data Crimes** - Efrat Shimron
-- **The Connected Imaging Instrument** - Michael Hansen
-- **Image Recon with ML & AI** - Akshay Chaudhari
-- *Social break*
-- **A Hands-On Introduction to BART** - Martin Uecker
-</div>
-</div>
 <div class="session-container">
 <div class="session-element" markdown="1">
 <h6>Caribbean</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=MG1pM2xlaGU5N20wMTlob205cnNycTgwNGcgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
