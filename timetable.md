@@ -4,9 +4,11 @@ layout: default
 javascript: [ timezone.js ]
 ---
 
-We offer multiple ways to ensure you have the times correct before proceeding:  
-1) Select your time zone to see the adapted times in the program below: <select id="timezone_select" onchange="adaptTime()"></select>. 
-2) After each heading in the program, there will be a link to automatically create an invite to your calendar.  
+We offer multiple ways to ensure you have the times correct before proceeding:
+
+1) Select your time zone to see the adapted times in the program below: <select id="timezone_select" onchange="adaptTime()"></select>.
+2) After each heading in the program, there will be a link to automatically create an invite to your calendar.
+
 * TOC
 {:toc}
 
@@ -18,9 +20,8 @@ For a visual appearance of the time zones that will fit your schedule, check out
 <img src="/images/worldmap_timezones.png" alt="World map with session times" style="max-width: 100%;"/>
 
 ## Opening Sessions: 
-### Atlantic Opening Session - <span class="timezone_adapt" data-date="13" data-start-time="12" data-end-time="14"></span>
-Click [here](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2k1a3ZobHA1MW5kNXM1bzNta2pldnJvczggY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com) to automatically add this session to your calendar.  
-**Reproducible science**
+### Atlantic Opening Session - <span class="timezone_adapt" data-date="13" data-start-time="12" data-end-time="14"></span> 
+**Reproducible science** ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2k1a3ZobHA1MW5kNXM1bzNta2pldnJvczggY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Francesco Santini
 - **Welcome and overview of the meeting** - Francesco Santini
 - **Introduction to Open Science and Reproducibility** - Cassandra Gould van Praag
