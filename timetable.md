@@ -36,7 +36,7 @@ On the following map, yellow represents the *Atlantic*, blue represents the *Pac
 - **Reproducibility in MRI: Good and Bad** - Maria Eugenia Caligiuri
 - **MRI - journal perspectives on reproducibilty** - David Norris
 - **Debate: Open Science in the MR Community** - Serena Bonaretti, H. Steven Scholte
-Click [here](https://calendar.google.com/event?action=TEMPLATE&tmeid=M3RvdGp0NTBndTNiMXRta2luZnE3M21wcmcgYmVsbGw0QGdlbmUuY29t&tmsrc=belll4%40gene.com) to add calendar invite for this session.
+
 
 ### Pacific Opening Session - <span class="timezone_adapt" data-date="14" data-start-time="00" data-end-time="02"></span>
 **Open Source and Commercial development**
