@@ -123,10 +123,9 @@ p img {
 }
 
 /* laura try to add this for headers */
-.session-element-right {
-    max-width: 50%;
-    position: absolute;
-    right: 0px;
+.session-element-left {
+    float: left;
+    width: 300px;
     padding: 10px;
 }
 
