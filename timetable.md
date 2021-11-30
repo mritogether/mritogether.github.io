@@ -37,10 +37,18 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 
 Indian session time: <span class="timezone_adapt" data-date="14" data-start-time="06" data-end-time="08"></span><br/>
 Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="20"></span>
-
+<div class="session-container">
+  <div class="session-element" markdown="1">
+    <h5>(Session A1) Ethics and Practices for Data Sharing</h5>
+  </div>
+  <div class="session-element" markdown="1">
+    <h5>(Session A2) Data Formats</h5>
+  </div>
+</div>
+  
+    
 <div class="session-container">
 <div class="session-element" markdown="1">
-<h5>(Session A1) Ethics and Practices for Data Sharing</h5>
 <h6>Indian</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Penny Hubbard Cristinacce
 - **Building a Collaborative Partnership with Research Hospitals in China: from Inception to Publications** - Mark Haacke
@@ -69,7 +77,6 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - **Data Anonymization Tutorial** (Provisional title) - David Gutman
 </div>
 <div class="session-element" markdown="1">
-<h5>(Session A2) Data Formats</h5>
 <h6>Caribbean</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Eric Borisch
 - **Raw Data Conversion** - Philip Ehses
