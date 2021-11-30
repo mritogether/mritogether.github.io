@@ -44,8 +44,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 
 <div class="session-container">
 <div class="session-element" markdown="1">
-<h3>Session A1</h3>
-**Ethics and Practices for Data Sharing** 
+<h3>Session A1: Ethics and Practices for Data Sharing</h3>
 <h4>Indian</h4> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Penny Hubbard Cristinacce
 - **Building a Collaborative Partnership with Research Hospitals in China: from Inception to Publications** - Mark Haacke
@@ -62,8 +61,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - **Data Anonymization Tutorial** (Provisional title) - David Gutman
 </div>
 <div class="session-element" markdown="1">
-<h3>Session A2</h3>
-**Data Formats**
+<h3>Session A2: Data Formats</h3>
 <h4>Indian</h4> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Julia Guiomar Niso Galan
 - **Best Practices for Data Sharing** - Thomas Nichols
