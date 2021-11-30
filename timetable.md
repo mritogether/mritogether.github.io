@@ -4,27 +4,17 @@ layout: default
 javascript: [ timezone.js ]
 ---
 
-Select your time zone to see the adapted times in the program below: <select id="timezone_select" onchange="adaptTime()"></select>
-
+We offer multiple ways to ensure you have the times correct before proceeding:
+1) Select your time zone to see the adapted times in the program below: <select id="timezone_select" onchange="adaptTime()"></select>
+2) After each heading in the program, there will be a link to automatically create an invite to your calendar.
 * TOC
 {:toc}
 
 # Meeting timetable
-
-The content will be offered live across multiple time zones, this means that each workshop will be repeated twice. While the general topics will be the same for the two session times, the speakers and the content of the specific talks will change.
-
+The content will be offered live across 4 distinct time zones (Atlantic, Pacific, Indian, and Caribbean). Generally, each session will be repeated across two time zones: Atlantic/Pacific and Indian/Caribbean. Despite these repeated session topics, new speakers and content will be provided.
 
 ## Session times
-We have identified 4 session times:
-
-|           | Time (UTC)  | Time (CET)  | Time (EST)  | Time (PST)  | Time (Beijing) | Time (Tokyo) | Time (IST) |
-| --------- | ----------- | ----------- | ----------- | ----------- | -------------- | ----------- | ----------- |
-| Atlantic  | 12:00-14:00 | 13:00-15:00 | 07:00-09:00 | 04:00-06:00 | 20:00-22:00    | 21:00-23:00 | 17:30-19:30 |
-| Pacific   | 00:00-02:00 | 01:00-03:00 | 19:00-21:00 | 08:00-10:00 | 08:00-10:00    | 09:00-11:00 | 5:30-7:30 |
-| Indian    | 06:00-08:00 | 07:00-09:00 | 01:00-03:00 | 22:00-00:00 | 14:00-16:00    | 15:00-17:00 | 11:30-13:30 |
-| Caribbean | 18:00-20:00 | 19:00-21:00 | 13:00-15:00 | 10:00-12:00 | 02:00-04:00    | 03:00-05:00 | 23:30-01:30 |
-
-On the following map, yellow represents the *Atlantic*, blue represents the *Pacific*,  green represents the *Indian*, and red represents the *Caribbean* session times.
+For a visual appearance of the time zones that will fit your schedule, check out this map below: yellow represents the *Atlantic*, blue represents the *Pacific*,  green represents the *Indian*, and red represents the *Caribbean* session times.
 <img src="/images/worldmap_timezones.png" alt="World map with session times" style="max-width: 100%;"/>
 
 ## Opening Sessions: 
