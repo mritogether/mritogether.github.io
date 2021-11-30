@@ -78,7 +78,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: #5e6061;
-  text-align: left;
 }
 
 #nav-menu {
@@ -117,6 +116,9 @@ p img {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    
+    margin: auto;
+    width: 60%;
 }
 
 .session-element {
