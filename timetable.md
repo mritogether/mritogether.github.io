@@ -6,8 +6,8 @@ javascript: [ timezone.js ]
 
 We offer multiple ways to ensure you have the times correct before proceeding:
 
-1) Select your time zone to see the adapted times in the program below: <select id="timezone_select" onchange="adaptTime()"></select>.
-2) After each heading in the program, there will be a link to automatically create an invite to your calendar.
+1. Select your time zone to see the adapted times in the program below: <select id="timezone_select" onchange="adaptTime()"></select>.
+2. After each heading in the program, there will be a link to automatically create an invite to your calendar.
 
 * TOC
 {:toc}
