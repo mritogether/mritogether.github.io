@@ -13,10 +13,6 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 1. Select your time zone in this dropdown menu to see the adapted times in the program below: <select id="timezone_select" onchange="adaptTime()"></select>.
 2. After each heading in the program, there will be a link to automatically create an invite to your calendar.
 
-## Session times
-For a visual appearance of the time zones that will fit your schedule, check out this map below: yellow represents the *Atlantic*, blue represents the *Pacific*,  green represents the *Indian*, and red represents the *Caribbean* session times.
-<img src="/images/worldmap_timezones.png" alt="World map with session times" style="max-width: 100%;"/>
-
 ## Opening Sessions: 
 ### Atlantic Opening Session - <span class="timezone_adapt" data-date="13" data-start-time="12" data-end-time="14"></span> 
 **Reproducible Science** ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2k1a3ZobHA1MW5kNXM1bzNta2pldnJvczggY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
