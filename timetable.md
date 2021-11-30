@@ -3,17 +3,15 @@ title: Timetable
 layout: default
 javascript: [ timezone.js ]
 ---
-
-We offer multiple ways to ensure you have the times correct before proceeding:
-
-1. Select your time zone to see the adapted times in the program below: <select id="timezone_select" onchange="adaptTime()"></select>.
-2. After each heading in the program, there will be a link to automatically create an invite to your calendar.
-
 * TOC
 {:toc}
 
 # Meeting timetable
 The content will be offered live across 4 distinct time zones (Atlantic, Pacific, Indian, and Caribbean) to span 24 hours. Generally, each session will be repeated across two time zones: Atlantic/Pacific and Indian/Caribbean. Despite these repeated session topics, new speakers and content will be provided.
+
+**We offer multiple ways to ensure you have the times correct before proceeding:**
+1. Select your time zone to see the adapted times in the program below: <select id="timezone_select" onchange="adaptTime()"></select>.
+2. After each heading in the program, there will be a link to automatically create an invite to your calendar.
 
 ## Session times
 For a visual appearance of the time zones that will fit your schedule, check out this map below: yellow represents the *Atlantic*, blue represents the *Pacific*,  green represents the *Indian*, and red represents the *Caribbean* session times.
