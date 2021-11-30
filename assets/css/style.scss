@@ -122,6 +122,14 @@ p img {
     max-width: 50%;
 }
 
+/* laura try to add this for headers */
+.session-element-right {
+    max-width: 50%;
+    position: absolute;
+    right: 0px;
+    padding: 10px;
+}
+
 /* attribute selector - a form of CSS inheritance */
 [class*="sponsor_"] {
     float: none;
