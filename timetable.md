@@ -79,8 +79,6 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - **Hands-on with Vendor-agnostic MRI data: conversion to MRD (ISMRMRD)** - Ahsan Javed and Raj Ramasawmy
 </div>
 </div>
-![image](https://user-images.githubusercontent.com/46763125/144079568-7b674f8c-e23e-4d9b-9a6e-07f6d5548dc2.png)
-
 
 ## Parallel Sessions A: Data
 
