@@ -64,7 +64,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - **Open science for Functional Connectomics** - Xi-Nian Zuo
 - **Overview of Data Format: DICOMs (enhanced dicoms), NIfTIs, Analyze, BIDs - Why So Many Formats? Why Is This Hard?** - Michele Larobina
 - *Social break*
-- **Image Data Conversion / How to Work with BIDs: Hands-On/Interactive Session** - Patricia Clement
+- **Image Data Conversion / How to Work with BIDs: Hands-On/Interactive Session** - Patricia Clement and Marco Castellaro
 <h6>Caribbean</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Eric Borisch
 - **Raw Data Conversion** - Philip Ehses
