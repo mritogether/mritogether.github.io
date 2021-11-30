@@ -116,13 +116,14 @@ p img {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    
-    margin: auto;
-    width: 60%;
 }
 
 .session-element {
     max-width: 50%;
+    
+    margin: auto;
+    width: 50%;
+    padding: 10px;
 }
 
 /* attribute selector - a form of CSS inheritance */
