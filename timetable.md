@@ -16,7 +16,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 ## Opening Sessions: 
 ### Atlantic Opening Session - <span class="timezone_adapt" data-date="13" data-start-time="12" data-end-time="14"></span> 
 **Reproducible Science** ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2k1a3ZobHA1MW5kNXM1bzNta2pldnJvczggY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
-- **Moderator:** Francesco Santini
+- **Moderators:** Francesco Santini and Laura Bell
 - **Welcome and overview of the meeting** - Francesco Santini
 - **Introduction to Open Science and Reproducibility** - Cassandra Gould van Praag
 - **Reproducibility in MRI: Good and Bad** - Maria Eugenia Caligiuri
@@ -26,7 +26,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 
 ### Pacific Opening Session - <span class="timezone_adapt" data-date="14" data-start-time="00" data-end-time="02"></span>
 **Open Source and Commercial Development** ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzM2MmY0ZjZjZHYybzBla2djbzRlMWpnZXIgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
-- **Moderator:** Laura Bell
+- **Moderators:** Laura Bell and Francesco Santini
 - **Welcome and overview of the meeting** - Laura Bell
 - **MATLAB for Open Science in MRI** - Reza Fazel-Rezai and Rob Holt
 - **3D Slicer: Long-term sustainability of a large open-source project** - Andras Lasso
@@ -233,7 +233,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 
 ### Caribbean Closing Session - <span class="timezone_adapt" data-date="16" data-start-time="18" data-end-time="20"></span>
 **Community-driven development** ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mm9tZWFrN25uMjhiZXExbHNjM2QwM3B2N2IgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
-- **Moderator:** Maxim Zaitsev
+- **Moderators:** Maxim Zaitsev and Edwin Oei
 - **arXiv and Open Science** - Alison Fromme
 - **PyRadiomics** - Joost van Griethuysen
 - **Publishing and Sharing Open Science** - Brian Nosek
