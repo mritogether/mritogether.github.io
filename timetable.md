@@ -11,7 +11,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 
 **We offer multiple ways to ensure you have the times correct before proceeding:**
 1. Select your time zone in this dropdown menu to see the adapted times in the program below: <select id="timezone_select" onchange="adaptTime()"></select>.
-2. After each heading in the program, there will be a link to automatically create an invite to your calendar.
+2. After each heading in the program, there will be a link to automatically add an calendar invite.
 
 ## Opening Sessions: 
 ### Atlantic Opening Session - <span class="timezone_adapt" data-date="13" data-start-time="12" data-end-time="14"></span> 
