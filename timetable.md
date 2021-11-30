@@ -38,16 +38,8 @@ Indian session time: <span class="timezone_adapt" data-date="14" data-start-time
 Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="20"></span>
 
 <div class="session-container">
-  <div class="session-element">
-    <h5>(Session A1) Ethics and Practices for Data Sharing</h5>
-  </div>
-  <div class="session-element">
-    <h5>(Session A2) Data Formats</h5>
-  </div>
-</div>
-
-<div class="session-container">
 <div class="session-element" markdown="1">
+<h5>(Session A1) Ethics and Practices for Data Sharing</h5>
 <h6>Indian</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Penny Hubbard Cristinacce
 - **Building a Collaborative Partnership with Research Hospitals in China: from Inception to Publications** - Mark Haacke
@@ -57,6 +49,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - **XNAT - Data Sharing in Multicentre Studies** - Simon Doran
 </div>
 <div class="session-element" markdown="1">
+<h5>(Session A2) Data Formats</h5>
 <h6>Indian</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Julia Guiomar Niso Galan
 - **Best Practices for Data Sharing** - Thomas Nichols
