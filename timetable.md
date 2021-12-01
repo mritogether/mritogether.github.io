@@ -62,7 +62,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 <div class="session-container">
 <div class="session-element" markdown="1">
 <h6>Caribbean</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
-- **Moderator:** Florian Knoll
+- **Moderator:** Florian Knoll and Matt Muckley
 - **Data Repositories: Where to Look, How to Share** - Greg Cron
 - **Defacing and Curation for sharing MR Brain Imaging Data** - Stephen Arnott
 - **Implementation of Parametric DICOM for Perfusion** - Ina Kompan
@@ -183,7 +183,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 <div class="session-element" markdown="1">
 <h5>(Session D1) Image Analysis</h5>
 <h6>Atlantic</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2ZlcTFkaDU3OGdrMHRvMTZ0MHBvanNobzEgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
-- **Moderator:** Berkin Bilgic and Jaejin Cho
+- **Moderator:** Berkin Bilgic
 - **Image Analysis in Brain MR** - Henk Mutsaerts
 - **Reproducible Post Processing for Cardiac MRI** - Alistair Young
 - **Musculoskeletal MRI Segmentation** - Valentina Pedoia
