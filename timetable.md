@@ -88,7 +88,7 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 <div class="session-element" markdown="1">
 <h5>(Session B1) Study Design and Interpretation: the Reproducibility Crisis</h5>
 <h6>Atlantic</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjV1MHZrdHM2Zm50amY4M3NyYjNlOG42ZGUgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
-- **Moderator:** Tugba Akinci D'Antonoli
+- **Moderators:** Tugba Akinci D'Antonoli and Claudia Weidensteiner
 - **P-values and the Replicability of Results** - Valentin Amrhein
 - **The Replication Crisis in Science - Lessons Learned Across Disciplines** - Sabine Hoffmann
 - **Bayesian Statistics and Reproducible Science** - Andrew Gelman
