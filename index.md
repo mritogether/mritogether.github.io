@@ -15,7 +15,7 @@ Whether you're a **developer**, a **medical doctor**, a **researcher in basic sc
 
 # Highlights
 
-## A few more days to [submit your abstract](/abstracts)!
+## Abstract submission closed! Thank you for your contribution!
 
 ## [Registration](/registration) is now open!
 
