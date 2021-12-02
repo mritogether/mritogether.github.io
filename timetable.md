@@ -191,7 +191,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 </div>
 <div class="session-container">
 <div class="session-element" markdown="1">
-<h5>Pacific - <span class="timezone_adapt" data-date="16" data-start-time="00" data-end-time="02"></span></h5> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWp0OWYyNThpNHMwbWk2YmZmMzlqazZta3EgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h6>Pacific - <span class="timezone_adapt" data-date="16" data-start-time="00" data-end-time="02"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWp0OWYyNThpNHMwbWk2YmZmMzlqazZta3EgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Martijn Cloos and Koji Fujimoto
 - **Semi-automated Tool for Cerebral Microbleed Detection and Volume Segmentation** - Melanie Morrison
 - **Reproducible Image Analysis using Containerized Workflows at Scale - Introducing the NeuroDesk project** - Steffen Bollmann
