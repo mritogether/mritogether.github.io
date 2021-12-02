@@ -39,7 +39,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 <h5>(Session A1) Ethics and Practices for Data Sharing</h5>
 <h6>Indian - <span class="timezone_adapt" data-date="14" data-start-time="06" data-end-time="08"></span><br/></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Penny Hubbard Cristinacce
-- **Building a Collaborative Partnership with Research Hospitals in China: from Inception to Publications** - Mark Haacke
+- **Implementation of Parametric DICOM for Perfusion** - Ina Kompan
 - **(MRI) Data Sharing in Europe** - Stephan Heunis
 - **Data sharing and interoperability** (provisional title) - Nicolas Pannetier
 - *Social break*
@@ -62,7 +62,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 - **Moderator:** Florian Knoll and Matt Muckley
 - **Data Repositories: Where to Look, How to Share** - Greg Cron
 - **Defacing and Curation for sharing MR Brain Imaging Data** - Stephen Arnott
-- **Implementation of Parametric DICOM for Perfusion** - Ina Kompan
+- **Building a Collaborative Partnership with Research Hospitals in China: from Inception to Publications** - Mark Haacke
 - *Social break*
 - **Data Anonymization Tutorial** (Provisional title) - David Gutman
 </div>
@@ -103,7 +103,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 <div class="session-container">
 <div class="session-element" markdown="1">
 <h6>Pacific - <span class="timezone_adapt" data-date="15" data-start-time="00" data-end-time="02"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHNsdjhjZ3F2cmhidmwxdTJ0NGgwZHYyaDAgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
-- **Moderator:** Katy Keenan
+- **Moderator:** Katy Keenan and Corree Laule
 - **The Reproducibility Crisis - is most published research wrong?** - Stuart Buck
 - **Making Practical or Clinical Relevance a Key Part of Statistical Analysis** - Megan Higgs
 - **The New Statistics for Reproducible Science** - Geoff Cumming
