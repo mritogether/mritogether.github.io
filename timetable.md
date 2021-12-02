@@ -120,7 +120,7 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 <h6>Pacific</h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHNsdjhjZ3F2cmhidmwxdTJ0NGgwZHYyaDAgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Cornelius Faber and Ludger Starke
 - **Reproducibility in Preclinical Research** (provisional title) - Steven Conolly
-- **Age-related Neurodegenerative Diseases Models** - Joanes Grandjean
+- **Cross-site Efforts in Preclinical Imaging, the New Way Forward** - Joanes Grandjean
 - **Preclinical Tumor Models: opportunities and challenges in translation to human studies** - Thomas Yankeelov
 - *Social break*
 - **Opportunities & Challenges of Magnetic Resonance Spectroscopy Research (Hands on/Interactive session)** - Georg Oeltzschner
