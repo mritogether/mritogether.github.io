@@ -204,7 +204,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 <div class="session-container">
 <div class="session-element" markdown="1">
 <h5>Pacific</h5> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWp0OWYyNThpNHMwbWk2YmZmMzlqazZta3EgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
-- **Moderator:** Martijn Cloos
+- **Moderator:** Martijn Cloos and Koji Fujimoto
 - **Semi-automated Tool for Cerebral Microbleed Detection and Volume Segmentation** - Melanie Morrison
 - **Reproducible Image Analysis using Containerized Workflows at Scale - Introducing the NeuroDesk project** - Steffen Bollmann
 - **Reproducible Open Source Solutions for AI in Clinical Workflows** - Spyridon Bakas, Sarthak Pati 
