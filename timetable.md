@@ -98,7 +98,7 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 <div class="session-element" markdown="1">
 <h5>(Session B2) Ensuring Reproducibility: Phantoms and Preclinical Imaging</h5>
 <h6>Atlantic</h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjV1MHZrdHM2Zm50amY4M3NyYjNlOG42ZGUgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
-- **Moderator:** Shaihan Malik
+- **Moderator:** Shaihan Malik and Peter Lally
 - **The Metrics of Quantitative Evaluation for Phantom Studies: Bias and Precision** - Sebastian Weingärtner
 - **Designing Digital Phantoms using Numerical Approximation Informed by In-Vivo Scans** - José Marques
 - **Application of Diffusion Phantoms for Reproducible ADC mapping across MRI Vendor Platforms: absolute accuracy, linearity and uniformity** - Dariya Malyarenko
