@@ -15,7 +15,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 
 ## Opening Sessions: 
 ### Atlantic Opening Session - <span class="timezone_adapt" data-date="13" data-start-time="12" data-end-time="14"></span> 
-**Reproducible Science** ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2k1a3ZobHA1MW5kNXM1bzNta2pldnJvczggY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+**Reproducible Science** ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2k1a3ZobHA1MW5kNXM1bzNta2pldnJvczggY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderators:** Francesco Santini and Laura Bell
 - **Welcome and overview of the meeting** - Francesco Santini
 - **Introduction to Open Science and Reproducibility** - Cassandra Gould van Praag
@@ -25,7 +25,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 
 
 ### Pacific Opening Session - <span class="timezone_adapt" data-date="14" data-start-time="00" data-end-time="02"></span>
-**Open Source and Commercial Development** ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzM2MmY0ZjZjZHYybzBla2djbzRlMWpnZXIgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+**Open Source and Commercial Development** ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzM2MmY0ZjZjZHYybzBla2djbzRlMWpnZXIgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderators:** Laura Bell and Francesco Santini
 - **Welcome and overview of the meeting** - Laura Bell
 - **MATLAB for Open Science in MRI** - Reza Fazel-Rezai and Rob Holt
@@ -40,7 +40,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 <div class="session-container">
 <div class="session-element" markdown="1">
 <h5>(Session A1) Ethics and Practices for Data Sharing</h5>
-<h6>Indian</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h6>Indian</h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Penny Hubbard Cristinacce
 - **Building a Collaborative Partnership with Research Hospitals in China: from Inception to Publications** - Mark Haacke
 - **(MRI) Data Sharing in Europe** - Stephan Heunis
@@ -50,7 +50,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 </div>
 <div class="session-element" markdown="1">
 <h5>(Session A2) Data Formats</h5>
-<h6>Indian</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h6>Indian</h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Julia Guiomar Niso Galan
 - **Best Practices for Data Sharing** - Thomas Nichols
 - **Open science for Functional Connectomics** - Xi-Nian Zuo
@@ -61,7 +61,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 </div>
 <div class="session-container">
 <div class="session-element" markdown="1">
-<h6>Caribbean</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h6>Caribbean</h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Florian Knoll and Matt Muckley
 - **Data Repositories: Where to Look, How to Share** - Greg Cron
 - **Defacing and Curation for sharing MR Brain Imaging Data** - Stephen Arnott
@@ -70,7 +70,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="14" data-start-t
 - **Data Anonymization Tutorial** (Provisional title) - David Gutman
 </div>
 <div class="session-element" markdown="1">
-<h6>Caribbean</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h6>Caribbean</h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Eric Borisch
 - **Raw Data Conversion** - Philip Ehses
 - **Image Analysis on PACS** - Mariam Aboian 
@@ -87,7 +87,7 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 <div class="session-container">
 <div class="session-element" markdown="1">
 <h5>(Session B1) Study Design and Interpretation: the Reproducibility Crisis</h5>
-<h6>Atlantic</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjV1MHZrdHM2Zm50amY4M3NyYjNlOG42ZGUgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h6>Atlantic</h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjV1MHZrdHM2Zm50amY4M3NyYjNlOG42ZGUgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderators:** Tugba Akinci D'Antonoli and Claudia Weidensteiner
 - **P-values and the Replicability of Results** - Valentin Amrhein
 - **The Replication Crisis in Science - Lessons Learned Across Disciplines** - Sabine Hoffmann
@@ -97,7 +97,7 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 </div>
 <div class="session-element" markdown="1">
 <h5>(Session B2) Ensuring Reproducibility: Phantoms and Preclinical Imaging</h5>
-<h6>Atlantic</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjV1MHZrdHM2Zm50amY4M3NyYjNlOG42ZGUgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h6>Atlantic</h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjV1MHZrdHM2Zm50amY4M3NyYjNlOG42ZGUgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Shaihan Malik
 - **The Metrics of Quantitative Evaluation for Phantom Studies: Bias and Precision** - Sebastian Weingärtner
 - **Designing Digital Phantoms using Numerical Approximation Informed by In-Vivo Scans** - José Marques
@@ -108,7 +108,7 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 </div>
 <div class="session-container">
 <div class="session-element" markdown="1">
-<h6>Pacific</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHNsdjhjZ3F2cmhidmwxdTJ0NGgwZHYyaDAgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h6>Pacific</h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHNsdjhjZ3F2cmhidmwxdTJ0NGgwZHYyaDAgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Katy Keenan
 - **The Reproducibility Crisis - is most published research wrong?** - Stuart Buck
 - **Making Practical or Clinical Relevance a Key Part of Statistical Analysis** - Megan Higgs
@@ -117,7 +117,7 @@ Pacific session time: <span class="timezone_adapt" data-date="15" data-start-tim
 - **A White Hat's Guide to P-Hacking** - Pierre Levan
 </div>
 <div class="session-element" markdown="1">
-<h6>Pacific</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHNsdjhjZ3F2cmhidmwxdTJ0NGgwZHYyaDAgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h6>Pacific</h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHNsdjhjZ3F2cmhidmwxdTJ0NGgwZHYyaDAgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Cornelius Faber
 - **Reproducibility in Preclinical Research** (provisional title) - Steven Conolly
 - **Age-related Neurodegenerative Diseases Models** - Joanes Grandjean
@@ -134,7 +134,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 <div class="session-container">
 <div class="session-element" markdown="1">
 <h5>(Session C1) Vendor-Independent Pulse Sequences</h5>
-<h6>Indian</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGFkYWw2MnI1cG9lcGR1Y3V2MWtxNGdicW8gY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h6>Indian</h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGFkYWw2MnI1cG9lcGR1Y3V2MWtxNGdicW8gY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Lukas Winter
 - **GammaStar** - Daniel Hoinkiss
 - **Integrated Acquisition/Simulation/Reconstruction** - Marten Veldman
@@ -144,7 +144,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 </div>
 <div class="session-element" markdown="1">
 <h5>(Session C2) Image Reconstruction</h5>
-<h6>Indian</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGFkYWw2MnI1cG9lcGR1Y3V2MWtxNGdicW8gY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h6>Indian</h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGFkYWw2MnI1cG9lcGR1Y3V2MWtxNGdicW8gY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Justin Haldar
 - **Subtle Data Crimes** - Efrat Shimron
 - **The Connected Imaging Instrument** - Michael Hansen
@@ -155,7 +155,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 </div>
 <div class="session-container">
 <div class="session-element" markdown="1">
-<h6>Caribbean</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=MG1pM2xlaGU5N20wMTlob205cnNycTgwNGcgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h6>Caribbean</h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MG1pM2xlaGU5N20wMTlob205cnNycTgwNGcgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Matthias Günther
 - **HeartVista/RTHawk** - Eric Peterson
 - **PyPulseq** - Keerthi Sravan Ravi
@@ -165,7 +165,7 @@ Caribbean session time: <span class="timezone_adapt" data-date="15" data-start-t
 - **Pulseq on GE (Hands on/Interactive session)** - Jon-Fredrik Nielsen
 </div>
 <div class="session-element" markdown="1">
-<h6>Caribbean</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=MG1pM2xlaGU5N20wMTlob205cnNycTgwNGcgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h6>Caribbean</h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MG1pM2xlaGU5N20wMTlob205cnNycTgwNGcgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Jon Tamir
 - **Decentralized Reconstruction in Academia** - Tobias Block
 - **Gadgetron: Enabling Advanced Imaging AI with Global Clinical Deployment** - Hui Xue
@@ -182,7 +182,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 <div class="session-container">
 <div class="session-element" markdown="1">
 <h5>(Session D1) Image Analysis</h5>
-<h6>Atlantic</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2ZlcTFkaDU3OGdrMHRvMTZ0MHBvanNobzEgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h6>Atlantic</h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2ZlcTFkaDU3OGdrMHRvMTZ0MHBvanNobzEgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Berkin Bilgic
 - **Image Analysis in Brain MR** - Henk Mutsaerts
 - **Reproducible Post Processing for Cardiac MRI** - Alistair Young
@@ -192,7 +192,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 </div>
 <div class="session-element" markdown="1">
 <h5>(Session D2) AI in Clinical Imaging</h5>
-<h6>Atlantic</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2ZlcTFkaDU3OGdrMHRvMTZ0MHBvanNobzEgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h6>Atlantic</h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2ZlcTFkaDU3OGdrMHRvMTZ0MHBvanNobzEgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderators:** Jan Kirschke and Benedikt Wiestler
 - **Computational Magnetic Resonance Imaging (MRI) Approaches for Brain Tumor Classification** - Michael Oluwaseun Dada
 - **Limitations of AI in postprocessing** - Marleen de Bruijne
@@ -203,7 +203,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 </div>
 <div class="session-container">
 <div class="session-element" markdown="1">
-<h5>Pacific</h5> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWp0OWYyNThpNHMwbWk2YmZmMzlqazZta3EgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h5>Pacific</h5> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWp0OWYyNThpNHMwbWk2YmZmMzlqazZta3EgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Martijn Cloos
 - **Semi-automated Tool for Cerebral Microbleed Detection and Volume Segmentation** - Melanie Morrison
 - **Reproducible Image Analysis using Containerized Workflows at Scale - Introducing the NeuroDesk project** - Steffen Bollmann
@@ -212,7 +212,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 - **OSIPI Experience on Scientific Validation of Community-Contributed Code for Perfusion Imaging – A demo/discussion** - Sirisha Tadimalla
 </div>
 <div class="session-element" markdown="1">
-<h6>Pacific</h6> ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWp0OWYyNThpNHMwbWk2YmZmMzlqazZta3EgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+<h6>Pacific</h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWp0OWYyNThpNHMwbWk2YmZmMzlqazZta3EgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderator:** Veit Sandfort
 - **AI Challenges in Pediatric Imaging** - Marius George Linguraru
 - **Deep Learning in Breast Screening: Research and Implementation** - Joseph Ledsam
@@ -224,7 +224,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 
 ## Closing Sessions
 ### Indian Closing Session - <span class="timezone_adapt" data-date="16" data-start-time="06" data-end-time="08"></span>
-**Better science, for everybody: reproducibility and accessibility** ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=NXBxZnM4czludGRwZjlvYmtrdnJxaXEwbGMgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+**Better science, for everybody: reproducibility and accessibility** ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NXBxZnM4czludGRwZjlvYmtrdnJxaXEwbGMgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderators:** Emma Biondetti and Sanam Assili
 - **Publishing Reproducible science** - Iratxe Puebla
 - **EIBALL** - Aad van der Lugt
@@ -232,7 +232,7 @@ Pacific session time: <span class="timezone_adapt" data-date="16" data-start-tim
 - **Panel discussion: MRI research worldwide: challenges and perspectives** - Godwin Ogbole, Udunna Anazodo, Tchoyoson Lim, Won-Jin Moon, Valerij Kiselev
 
 ### Caribbean Closing Session - <span class="timezone_adapt" data-date="16" data-start-time="18" data-end-time="20"></span>
-**Community-driven development** ([Add to calender](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mm9tZWFrN25uMjhiZXExbHNjM2QwM3B2N2IgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
+**Community-driven development** ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mm9tZWFrN25uMjhiZXExbHNjM2QwM3B2N2IgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
 - **Moderators:** Maxim Zaitsev and Edwin Oei
 - **arXiv and Open Science** - Alison Fromme
 - **PyRadiomics** - Joost van Griethuysen
