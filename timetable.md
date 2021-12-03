@@ -53,7 +53,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 - **Open science for Functional Connectomics** - Xi-Nian Zuo
 - **Overview of Data Format: DICOMs (enhanced dicoms), NIfTIs, Analyze, BIDs - Why So Many Formats? Why Is This Hard?** - Michele Larobina
 - *Social break*
-- **Image Data Conversion / How to Work with BIDs: Hands-On/Interactive Session** - Patricia Clement
+- **Image Data Conversion / How to Work with BIDs: Hands-On/Interactive Session** - Patricia Clement and Marco Castellaro
 </div>
 </div>
 <div class="session-container">
