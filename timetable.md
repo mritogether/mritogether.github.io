@@ -38,7 +38,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 <div class="session-element" markdown="1">
 <h5>(Session A1) Ethics and Practices for Data Sharing</h5>
 <h6>Indian - <span class="timezone_adapt" data-date="14" data-start-time="06" data-end-time="08"></span><br/></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
-- **Moderator:** Penny Hubbard Cristinacce
+- **Moderator:** Penny Hubbard Cristinacce and John McLean
 - **Implementation of Parametric DICOM for Perfusion** - Ina Kompan
 - **(MRI) Data Sharing in Europe** - Stephan Heunis
 - **Data sharing and interoperability** (provisional title) - Nicolas Pannetier
