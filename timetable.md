@@ -201,7 +201,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 </div>
 <div class="session-element" markdown="1">
 <h6>Pacific - <span class="timezone_adapt" data-date="16" data-start-time="00" data-end-time="02"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWp0OWYyNThpNHMwbWk2YmZmMzlqazZta3EgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
-- **Moderator:** Veit Sandfort
+- **Moderators:** Veit Sandfort and Davis Vigneault
 - **[20 min] AI Challenges in Pediatric Imaging** - Marius George Linguraru
 - **[20 min] Deep Learning in Breast Screening: Research and Implementation** - Joseph Ledsam
 - **[20 min] MR Fingerprinting: Challenges and Opportunities** - Dan Ma
