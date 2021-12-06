@@ -171,7 +171,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 <div class="session-element" markdown="1">
 <h5>(Session D1) Image Analysis</h5>
 <h6>Atlantic - <span class="timezone_adapt" data-date="15" data-start-time="12" data-end-time="14"></span><br/></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2ZlcTFkaDU3OGdrMHRvMTZ0MHBvanNobzEgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com))
-- **Moderator:** Berkin Bilgic
+- **Moderator:** Berkin Bilgic and Tae Kim
 - **Image Analysis in Brain MR** - Henk Mutsaerts
 - **Reproducible Post Processing for Cardiac MRI** - Alistair Young
 - **Musculoskeletal MRI Segmentation** - Valentina Pedoia
