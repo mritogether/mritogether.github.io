@@ -150,8 +150,8 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 - **Moderator:** Matthias Günther
 - **[20 min] HeartVista/RTHawk** - Eric Peterson
 - **[20 min] PyPulseq** - Keerthi Sravan Ravi
-- **[20 min] Hardware design of the MaRCoS Open-source MRI Environment** - Benjamin Menküc
-- **[20 min] Software and Firmware Design of the MaRCoS open-source MRI Environment** - Vlad Negnevitsky
+- **[10 min] Hardware design of the MaRCoS Open-source MRI Environment** - Benjamin Menküc
+- **[10 min] Software and Firmware Design of the MaRCoS open-source MRI Environment** - Vlad Negnevitsky
 - *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
 - **[45 min] Pulseq on GE (Hands on/Interactive session)** - Jon-Fredrik Nielsen
 </div>
@@ -195,7 +195,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 - **Moderator:** Martijn Cloos and Koji Fujimoto
 - **[20 min] Semi-automated Tool for Cerebral Microbleed Detection and Volume Segmentation** - Melanie Morrison
 - **[20 min] Reproducible Image Analysis using Containerized Workflows at Scale - Introducing the NeuroDesk project** - Steffen Bollmann
-- **Reproducible Open Source Solutions for AI in Clinical Workflows** - Spyridon Bakas, Sarthak Pati 
+- **[20 min] Reproducible Open Source Solutions for AI in Clinical Workflows** - Spyridon Bakas, Sarthak Pati 
 - *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
 - **[45 min] OSIPI Experience on Scientific Validation of Community-Contributed Code for Perfusion Imaging – A demo/discussion** - Sirisha Tadimalla
 </div>
