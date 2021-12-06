@@ -38,7 +38,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 <div class="session-element" markdown="1">
 <h5>(Session A1) Ethics and Practices for Data Sharing</h5>
 <h6>Indian - <span class="timezone_adapt" data-date="14" data-start-time="06" data-end-time="08"></span><br/></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
-- **Moderator:** Penny Hubbard Cristinacce and John McLean
+- **Moderators:** Penny Hubbard Cristinacce and John McLean
 - **[20 min] Implementation of Parametric DICOM for Perfusion** - Ina Kompan
 - **[20 min] (MRI) Data Sharing in Europe** - Stephan Heunis
 - **[20 min] Data sharing and interoperability** (provisional title) - Nicolas Pannetier
@@ -59,7 +59,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 <div class="session-container">
 <div class="session-element" markdown="1">
 <h6>Caribbean - <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="20"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
-- **Moderator:** Florian Knoll and Matt Muckley
+- **Moderators:** Florian Knoll and Matt Muckley
 - **[20 min] Data Repositories: Where to Look, How to Share** - Greg Cron
 - **[20 min] Defacing and Curation for sharing MR Brain Imaging Data** - Stephen Arnott
 - **[20 min] Building a Collaborative Partnership with Research Hospitals in China: from Inception to Publications** - Mark Haacke
@@ -103,7 +103,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 <div class="session-container">
 <div class="session-element" markdown="1">
 <h6>Pacific - <span class="timezone_adapt" data-date="15" data-start-time="00" data-end-time="02"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHNsdjhjZ3F2cmhidmwxdTJ0NGgwZHYyaDAgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
-- **Moderator:** Katy Keenan and Corree Laule
+- **Moderators:** Katy Keenan and Corree Laule
 - **[20 min] The Reproducibility Crisis - is most published research wrong?** - Stuart Buck
 - **[20 min] Making Practical or Clinical Relevance a Key Part of Statistical Analysis** - Megan Higgs
 - **[20 min] The New Statistics for Reproducible Science** - Geoff Cumming
@@ -112,7 +112,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 </div>
 <div class="session-element" markdown="1">
 <h6>Pacific - <span class="timezone_adapt" data-date="15" data-start-time="00" data-end-time="02"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHNsdjhjZ3F2cmhidmwxdTJ0NGgwZHYyaDAgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
-- **Moderator:** Cornelius Faber and Ludger Starke
+- **Moderators:** Cornelius Faber and Ludger Starke
 - **[20 min] Reproducibility in Preclinical Research** (provisional title) - Steven Conolly
 - **[20 min] Cross-site Efforts in Preclinical Imaging, the New Way Forward** - Joanes Grandjean
 - **[20 min] Preclinical Tumor Models: opportunities and challenges in translation to human studies** - Thomas Yankeelov
@@ -157,7 +157,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 </div>
 <div class="session-element" markdown="1">
 <h6>Caribbean - <span class="timezone_adapt" data-date="15" data-start-time="18" data-end-time="20"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MG1pM2xlaGU5N20wMTlob205cnNycTgwNGcgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
-- **Moderator:** Jon Tamir
+- **Moderators:** Jon Tamir and Audrey Fan
 - **[20 min] Decentralized Reconstruction in Academia** - Tobias Block
 - **[20 min] Gadgetron: Enabling Advanced Imaging AI with Global Clinical Deployment** - Hui Xue
 - **[20 min] Cloud MR** - Riccardo Lattanzi
