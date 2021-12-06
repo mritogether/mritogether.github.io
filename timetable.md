@@ -87,7 +87,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 - **[20 min] The Replication Crisis in Science - Lessons Learned Across Disciplines** - Sabine Hoffmann
 - **[20 min] Bayesian Statistics and Reproducible Science** - Andrew Gelman
 - *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
-- **[45 min] A White Hat's Guide to P-Hacking** - Xeni Deligianni
+- **[45 min] A White Hat's Guide to P-Hacking (Hands-On/Interactive session)** - Xeni Deligianni
 </div>
 <div class="session-element" markdown="1">
 <h5>(Session B2) Ensuring Reproducibility: Phantoms and Preclinical Imaging</h5>
@@ -108,7 +108,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 - **[20 min] Making Practical or Clinical Relevance a Key Part of Statistical Analysis** - Megan Higgs
 - **[20 min] The New Statistics for Reproducible Science** - Geoff Cumming
 - *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
-- **[45 min] A White Hat's Guide to P-Hacking** - Pierre Levan
+- **[45 min] A White Hat's Guide to P-Hacking (Hands-On/Interactive session)** - Pierre Levan
 </div>
 <div class="session-element" markdown="1">
 <h6>Pacific - <span class="timezone_adapt" data-date="15" data-start-time="00" data-end-time="02"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHNsdjhjZ3F2cmhidmwxdTJ0NGgwZHYyaDAgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
