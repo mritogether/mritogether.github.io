@@ -184,7 +184,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 - **Moderators:** Jan Kirschke and Benedikt Wiestler
 - **Computational Magnetic Resonance Imaging (MRI) Approaches for Brain Tumor Classification** - Michael Oluwaseun Dada
 - **Limitations of AI in postprocessing** - Marleen de Bruijne
-- **Deep Neuro - segmentation GBM** - Jayashree Kalpathy-Cramer
+- **Deep Neuro - segmentation GBM** - Jay Patel
 - *Social break*
 - **How to Validate AI algorithms in Image Analysis Tools Hands on/Interactive session** - Georg Langs
 </div>
