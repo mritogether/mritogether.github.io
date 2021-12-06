@@ -70,7 +70,7 @@ The content will be offered live across 4 distinct time zones (Atlantic, Pacific
 <h6>Caribbean - <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="20"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderator:** Eric Borisch
 - **[20 min] Raw Data Conversion** - Philip Ehses
-- **[20 min] Image Analysis on PACS** - Mariam Aboian 
+- **[20 min] Machine Learning-Based Data Annotation Tools in Clinical PACS: Addressing the Critical Need for Annotated Datasets** - Mariam Aboian 
 - **[20 min] DICOM: Testament of Time** - David Clunie
 - *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
 - **[45 min] Hands-on with Vendor-agnostic MRI data: conversion to MRD (ISMRMRD)** - Ahsan Javed and Raj Ramasawmy
