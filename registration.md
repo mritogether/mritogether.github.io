@@ -27,4 +27,12 @@ Fill in **[this form](https://forms.gle/Hq2WkfffK681yRBy5)** to indicate your av
 - Steven Sourbron - Sheffield, United Kingdom
 - Paul Mullins - Bangor, United Kingdom
 - Teresa Nunes - Lisboa, Portugal
+- Andreas Berg - Vienna, Austria
+- Ferdinand Schweser - Buffalo, United States of America
+- Andreas Weng - Rimpar, Germany
+- Erling Andersen - Bergen, Norway
+- Esther Bron - Zevenbergen, Netherlands
+- Benedikt Poser - Maastricht, Netherlands
+- Houchun Hu - Dublin, Ohio, United States of America
+- Martin Meyerspeer - Wien, Austria
 
