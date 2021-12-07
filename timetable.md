@@ -5,7 +5,7 @@ javascript: [ timezone.js ]
 ---
 
 
-# Meeting Timetable
+# Agenda Overview
 The content will be offered live across 4 distinct time zones (Atlantic, Pacific, Indian, and Caribbean) to span 24 hours. Generally, each session will be repeated across two time zones: Atlantic/Pacific and Indian/Caribbean. Despite these repeated session topics, new speakers and content will be provided.
 
 Content will be accessed through Zoom Events (when you register for the event you'll be granted a ticket for the Zoom Event). In addition, for the social breaks and anytime during the meeting, a social platform will be available to interact with other participants through [A10dee](https://a10dee.com/) *(our personalized world coming soon)*. You'll have the ability to view posters and sponsor booths as well here.
