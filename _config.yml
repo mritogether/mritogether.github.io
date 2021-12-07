@@ -23,7 +23,7 @@ header:
       url: /timetable
     - label: Registration
       url: /registration
-    - label: Call for abstracts
+    - label: Accepted abstracts
       url: /abstracts
     - label: Organizers
       url: /committee
