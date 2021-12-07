@@ -46,7 +46,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] Implementation of Parametric DICOM for Perfusion** - Ina Kompan
 - **[20 min] (MRI) Data Sharing in Europe** - Stephan Heunis
 - **[20 min] Data sharing and interoperability** (provisional title) - Nicolas Pannetier
-- *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
+- *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
 - **[45 min] XNAT - Data Sharing in Multicentre Studies** - Simon Doran
 </div>
 <div class="session-element" markdown="1">
@@ -56,7 +56,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] Best Practices for Data Sharing** - Thomas Nichols
 - **[20 min] Open science for Functional Connectomics** - Xi-Nian Zuo
 - **[20 min] Overview of Data Format: DICOMs (enhanced dicoms), NIfTIs, Analyze, BIDs - Why So Many Formats? Why Is This Hard?** - Michele Larobina
-- *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
+- *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
 - **[45 min] Image Data Conversion / How to Work with BIDs: Hands-On/Interactive Session** - Patricia Clement and Marco Castellaro
 </div>
 </div>
@@ -67,7 +67,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] Data Repositories: Where to Look, How to Share** - Greg Cron
 - **[20 min] Defacing and Curation for sharing MR Brain Imaging Data** - Stephen Arnott
 - **[20 min] Building a Collaborative Partnership with Research Hospitals in China: from Inception to Publications** - Mark Haacke
-- *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
+- *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
 - **[45 min] Data Anonymization Tutorial** (Provisional title) - David Gutman
 </div>
 <div class="session-element" markdown="1">
@@ -76,7 +76,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] Raw Data Conversion** - Philip Ehses
 - **[20 min] Machine Learning-Based Data Annotation Tools in Clinical PACS: Addressing the Critical Need for Annotated Datasets** - Mariam Aboian 
 - **[20 min] DICOM: Testament of Time** - David Clunie
-- *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
+- *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
 - **[45 min] Hands-on with Vendor-agnostic MRI data: conversion to MRD (ISMRMRD)** - Ahsan Javed and Raj Ramasawmy
 </div>
 </div>
@@ -90,7 +90,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] P-values and the Replicability of Results** - Valentin Amrhein
 - **[20 min] The Replication Crisis in Science - Lessons Learned Across Disciplines** - Sabine Hoffmann
 - **[20 min] Bayesian Statistics and Reproducible Science** - Andrew Gelman
-- *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
+- *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
 - **[45 min] A White Hat's Guide to P-Hacking (Hands-On/Interactive session)** - Xeni Deligianni
 </div>
 <div class="session-element" markdown="1">
@@ -100,7 +100,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] The Metrics of Quantitative Evaluation for Phantom Studies: Bias and Precision** - Sebastian Weingärtner
 - **[20 min] Designing Digital Phantoms using Numerical Approximation Informed by In-Vivo Scans** - José Marques
 - **[20 min] Application of Diffusion Phantoms for Reproducible ADC mapping across MRI Vendor Platforms: absolute accuracy, linearity and uniformity** - Dariya Malyarenko
-- *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
+- *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
 - **[45 min] Hands on/Interactive session: Designing a Digital Reference Object for Arterial Spin Labelling (ASL DRO)** - Aaron Oliver-Taylor
 </div>
 </div>
@@ -111,7 +111,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] The Reproducibility Crisis - is most published research wrong?** - Stuart Buck
 - **[20 min] Making Practical or Clinical Relevance a Key Part of Statistical Analysis** - Megan Higgs
 - **[20 min] The New Statistics for Reproducible Science** - Geoff Cumming
-- *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
+- *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
 - **[45 min] A White Hat's Guide to P-Hacking (Hands-On/Interactive session)** - Pierre Levan
 </div>
 <div class="session-element" markdown="1">
@@ -120,7 +120,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] Reproducibility in Preclinical Research** (provisional title) - Steven Conolly
 - **[20 min] Cross-site Efforts in Preclinical Imaging, the New Way Forward** - Joanes Grandjean
 - **[20 min] Preclinical Tumor Models: opportunities and challenges in translation to human studies** - Thomas Yankeelov
-- *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
+- *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
 - **[45 min] Opportunities & Challenges of Magnetic Resonance Spectroscopy Research (Hands on/Interactive session)** - Georg Oeltzschner
 </div>
 </div>
@@ -134,7 +134,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] GammaStar** - Daniel Hoinkiss
 - **[20 min] Integrated Acquisition/Simulation/Reconstruction** - Marten Veldman
 - **[20 min] Open and Reproducible Magnetization-prepared Pulse Sequences with Pulseq-CEST** - Kai Herz
-- *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
+- *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
 - **[45 min] Pulseq on Siemens (Hands on/Interactive session)** - Maxim Zaitsev
 </div>
 <div class="session-element" markdown="1">
@@ -144,7 +144,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] Subtle Data Crimes** - Efrat Shimron
 - **[20 min] The Connected Imaging Instrument** - Michael Hansen
 - **[20 min] Image Recon with ML & AI** - Akshay Chaudhari
-- *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
+- *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
 - **[45 min] A Hands-On Introduction to BART** - Martin Uecker
 </div>
 </div>
@@ -156,7 +156,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] PyPulseq** - Keerthi Sravan Ravi
 - **[10 min] Hardware design of the MaRCoS Open-source MRI Environment** - Benjamin Menküc
 - **[10 min] Software and Firmware Design of the MaRCoS open-source MRI Environment** - Vlad Negnevitsky
-- *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
+- *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
 - **[45 min] Pulseq on GE (Hands on/Interactive session)** - Jon-Fredrik Nielsen
 </div>
 <div class="session-element" markdown="1">
@@ -165,7 +165,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] Decentralized Reconstruction in Academia** - Tobias Block
 - **[20 min] Gadgetron: Enabling Advanced Imaging AI with Global Clinical Deployment** - Hui Xue
 - **[20 min] Cloud MR** - Riccardo Lattanzi
-- *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
+- *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
 - **[45 min] MIRT: Hands on/Interactive session** - Jeff Fessler
 </div>
 </div>
@@ -179,7 +179,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] Image Analysis in Brain MR** - Henk Mutsaerts
 - **[20 min] Reproducible Post Processing for Cardiac MRI** - Alistair Young
 - **[20 min] Musculoskeletal MRI Segmentation** - Valentina Pedoia
-- *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
+- *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
 - **[45 min] Retrospective Motion Correction Toolbox (Hands on/Interactive session)** -  Daniel Gallichan
 </div>
 <div class="session-element" markdown="1">
@@ -189,7 +189,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] Computational Magnetic Resonance Imaging (MRI) Approaches for Brain Tumor Classification** - Michael Oluwaseun Dada
 - **[20 min] Limitations of AI in postprocessing** - Marleen de Bruijne
 - **[20 min] Deep Neuro - segmentation GBM** - Jay Patel
-- *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
+- *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
 - **[45 min] How to Validate AI algorithms in Image Analysis Tools Hands on/Interactive session** - Georg Langs
 </div>
 </div>
@@ -200,7 +200,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] Semi-automated Tool for Cerebral Microbleed Detection and Volume Segmentation** - Melanie Morrison
 - **[20 min] Reproducible Image Analysis using Containerized Workflows at Scale - Introducing the NeuroDesk project** - Steffen Bollmann
 - **[20 min] Reproducible Open Source Solutions for AI in Clinical Workflows** - Spyridon Bakas, Sarthak Pati 
-- *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
+- *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
 - **[45 min] OSIPI Experience on Scientific Validation of Community-Contributed Code for Perfusion Imaging – A demo/discussion** - Sirisha Tadimalla
 </div>
 <div class="session-element" markdown="1">
@@ -209,7 +209,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] AI Challenges in Pediatric Imaging** - Marius George Linguraru
 - **[20 min] Deep Learning in Breast Screening: Research and Implementation** - Joseph Ledsam
 - **[20 min] MR Fingerprinting: Challenges and Opportunities** - Dan Ma
-- *[15 min] Social break hosted by [A10DEE](https://a10dee.com/), link coming soon*
+- *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
 - **[45 min] AI in Image Registration Hands on/Interactive session** - Adrian Dalca
 </div>
 </div>
