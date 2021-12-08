@@ -68,7 +68,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] Defacing and Curation for sharing MR Brain Imaging Data** - Stephen Arnott
 - **[20 min] Building a Collaborative Partnership with Research Hospitals in China: from Inception to Publications** - Mark Haacke
 - *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
-- **[45 min] Data Anonymization Tutorial** (Provisional title) - David Gutman
+- **[45 min] A Beginner's Guide to Image DeIdentification Data Sharing for Brain Imaging Data** - David Gutman
 </div>
 <div class="session-element" markdown="1">
 <h6>Caribbean - <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="20"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
