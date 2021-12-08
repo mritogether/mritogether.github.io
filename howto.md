@@ -11,6 +11,10 @@ A Zoom client, logged into the same Zoom account as the website, is also require
 
 Unfortunately the "lobby" option is only available for Windows and Mac users; the same is true for starting a session as a speaker or moderator. Linux and portable users can still join the conference, but not chat with the other participants or start a session.
 
+If you are a **speaker/panelist/moderator**, you **don't have to register** through the registration link, as your ticket was already included in the invitation that we sent you.
+
+For any further questions, please write an email to [mritogether.workshop@gmail.com](mailto:mritogether.workshop@gmail.com)
+
 ## Registering and joining a session
 
 <video width="1280" height="720" controls>
