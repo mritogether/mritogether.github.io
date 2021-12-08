@@ -13,14 +13,14 @@ Unfortunately the "lobby" option is only available for Windows and Mac users; th
 
 ## Registering and joining a session
 
-<video width="320" height="240" controls>
+<video width="1280" height="720" controls>
   <source src="video/Join_Session_ZE.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 ## Joining the lobby and starting a session as a speaker (Windows)
 
-<video width="320" height="240" controls>
+<video width="1280" height="720" controls>
   <source src="video/Start_Session_ZE_Windows.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
