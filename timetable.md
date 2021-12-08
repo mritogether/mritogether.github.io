@@ -77,7 +77,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] Machine Learning-Based Data Annotation Tools in Clinical PACS: Addressing the Critical Need for Annotated Datasets** - Mariam Aboian 
 - **[20 min] DICOM: Testament of Time** - David Clunie
 - *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
-- **[45 min] Hands-on with Vendor-agnostic MRI data: conversion to MRD (ISMRMRD)** - Ahsan Javed and Raj Ramasawmy
+- **[45 min] [Hands-on with Vendor-agnostic MRI data: conversion to MRD (ISMRMRD)](https://github.com/rajramasawmy/mri_together_mrd)** - Ahsan Javed and Raj Ramasawmy
 </div>
 </div>
 
