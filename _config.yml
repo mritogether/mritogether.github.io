@@ -23,10 +23,14 @@ header:
       url: /timetable
     - label: Registration
       url: /registration
+    - label: How to attend
+      url: /howto
     - label: Accepted abstracts
       url: /abstracts
     - label: Organizers
       url: /committee
     - label: Sponsors
       url: /sponsors
+    - label: Job board
+      url: /job_board
     
