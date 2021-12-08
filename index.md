@@ -15,7 +15,9 @@ Whether you're a **developer**, a **medical doctor**, a **researcher in basic sc
 
 # Highlights
 
-## Abstract submission closed! Thank you for your contribution!
+## Check the information on [how to attend the conference](/howto)!
+
+## Accepted abstracts are [available](/abstracts)!
 
 ## [Registration](/registration) is now open!
 
