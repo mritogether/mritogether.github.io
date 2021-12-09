@@ -21,7 +21,8 @@ Content will be accessed through Zoom Events (when you register for the event yo
 ### Atlantic Opening Session - <span class="timezone_adapt" data-date="13" data-start-time="12" data-end-time="14"></span> 
 **Reproducible Science** ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2k1a3ZobHA1MW5kNXM1bzNta2pldnJvczggY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderators:** Francesco Santini and Laura Bell
-- **Welcome and overview of the meeting** - Francesco Santini
+- **Welcome by the ESMRMB President** - Eva Scheurer
+- **Overview of the meeting** - Francesco Santini
 - **Introduction to Open Science and Reproducibility** - Cassandra Gould van Praag
 - **Reproducibility in MRI: Good and Bad** - Maria Eugenia Caligiuri
 - **MRI - journal perspectives on reproducibilty** - David Norris
