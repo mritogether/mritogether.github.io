@@ -167,7 +167,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] Gadgetron: Enabling Advanced Imaging AI with Global Clinical Deployment** - Hui Xue
 - **[20 min] Cloud MR** - Riccardo Lattanzi
 - *[15 min] Social break hosted by [A10dee](https://a10dee.com/), link coming soon*
-- **[45 min] MIRT: Hands on/Interactive session** - Jeff Fessler
+- **[45 min] [MIRT: Hands on/Interactive session](https://juliaimagerecon.github.io/Examples) ** - Jeff Fessler
 </div>
 </div>
 
