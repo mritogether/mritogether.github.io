@@ -220,7 +220,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 **Better science, for everybody: reproducibility and accessibility** ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NXBxZnM4czludGRwZjlvYmtrdnJxaXEwbGMgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderators:** Emma Biondetti and Sanam Assili
 - **Publishing Reproducible science** - Iratxe Puebla
-- **EIBALL** - Aad van der Lugt
+- **European Imaging Biomarker Alliance (EIBALL)** - Aad van der Lugt
 - **Accessibility of imaging in India and how open technology and innovations can help** - Sonal Krishan
 - **Panel discussion: MRI research worldwide: challenges and perspectives** - Godwin Ogbole, Udunna Anazodo, Tchoyoson Lim, Won-Jin Moon, Valerij Kiselev
 
