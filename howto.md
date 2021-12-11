@@ -29,6 +29,9 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 
+## Social break links
+- [A10Dee social platform](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)
+
 ## Speaker and moderator resources
 - [Holding slides for moderators](/files/holding_slides.pptx) - To be used during the dead times and the breaks.
 - Zoom background - To be optionally used by moderators and speakers
