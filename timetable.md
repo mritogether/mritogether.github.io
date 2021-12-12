@@ -46,7 +46,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **Moderators:** Penny Hubbard Cristinacce and John McLean
 - **[20 min] Implementation of Parametric DICOM for Perfusion** - Ina Kompan
 - **[20 min] (MRI) Data Sharing in Europe** - Stephan Heunis
-- **[20 min] Data sharing and interoperability** (provisional title) - Nicolas Pannetier
+- **[20 min] Data Sharing and Curation at Flywheel** - Nicolas Pannetier
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
 - **[45 min] XNAT - Data Sharing in Multicentre Studies** - Simon Doran
 </div>
