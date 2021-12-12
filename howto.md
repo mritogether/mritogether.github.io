@@ -3,7 +3,7 @@ title: Attendance howto
 layout: default
 --- 
 
-# How to access the MRI Together Zoom conference
+# How to access the MRI Together Zoom conference: tutorials and resources
 
 Following two short tutorials on how to join this Zoom Event conference. As it is not a standard Zoom Webinar, the procedure to join the various sessions are different from normal zoom. The procedure must be initiated in the browser by visiting [https://events.zoom.us/](https://events.zoom.us/) and by logging in with your zoom account.
 
@@ -28,3 +28,13 @@ Your browser does not support the video tag.
   <source src="video/Start_Session_ZE_Windows.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+## Social break links
+- [A10Dee social platform](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)
+
+## Speaker and moderator resources
+- [Holding slides for moderators](/files/holding_slides.pptx) - To be used during the dead times and the breaks.
+- Zoom background - To be optionally used by moderators and speakers
+	- [Widescreen (16:9) format](/files/Zoom_Background_16.9.jpg)
+	- [4:3 format](/files/Zoom_Background_4.3.jpg)
+- [Conflict-of-interest and license slide](/files/COI_license_slide.pptx) - For speakers, highly encouraged at the beginning of the presentation

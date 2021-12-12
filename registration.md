@@ -5,8 +5,11 @@ layout: default
 
 # Registration
 
-[![Paid registration](images/register_button.png){:.inline_img}](https://www.aanmelder.nl/mri-together/subscribe) [![Free registration](images/register_button_free.png){:.inline_img}](https://events.zoom.us/ev/AEaNvEVYuDSSPf8Chveqs5EvDC-eWPCQxNQF-_QhyU_OAr-5Z4iywooXKyHd6k245Kd-eJM)
+[![Free registration](images/register_button_free.png){:.inline_img}](https://events.zoom.us/ev/AEaNvEVYuDSSPf8Chveqs5EvDC-eWPCQxNQF-_QhyU_OAr-5Z4iywooXKyHd6k245Kd-eJM)
 {: style="text-align: center;"}
+
+**For technical reasons, supporter registration is now closed. But you can still register for free! If you want to support MRI Together and other similar initiatives, please consider [becoming an ESMRMB member](https://www.esmrmb.org/membership/#m-application)!**
+
 
 For our MRI community, this workshop is a first of its kind. In order to promote inclusivity and encourage reproducibility within our field, we feel strongly that participation should be accessible to all. We are therefore offering you the option to register free of charge. However, in order to host this workshop, we have minimum costs we need to cover. If you’d like to support this workshop and future similar endeavors, please consider registering as a supporting attendee or **[becoming an ESMRMB member](https://www.esmrmb.org/membership/#m-application)**.
 
@@ -40,4 +43,6 @@ Fill in **[this form](https://forms.gle/Hq2WkfffK681yRBy5)** to indicate your av
 - Joao Almeida e Sousa - Sheffield, United Kingdom
 - Ged Ridgway - Oxford, United Kingdom
 - Andrew Webb - Leiden, Netherlands
+- Ralf Mekle - Berlin, Germany
+- Iosif Mendichovszky - Cambridge, United Kingdom
 
