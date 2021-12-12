@@ -36,7 +36,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **MATLAB for Open Science in MRI** - Reza Fazel-Rezai and Rob Holt
 - **3D Slicer: Long-term sustainability of a large open-source project** - Andras Lasso
 - **Hyperfine: Ensuring good science and reproducibility within closed development** - Michael Poole
-- *Title Pending (Open source development for commerical software)* - Travis Oliphant
+- **How Making Software Free Can Create Commercial Success** - Travis Oliphant
 
 ## Parallel Sessions A: Data
 <div class="session-container">
