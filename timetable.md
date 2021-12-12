@@ -21,22 +21,22 @@ Content will be accessed through Zoom Events (when you register for the event yo
 ### Atlantic Opening Session - <span class="timezone_adapt" data-date="13" data-start-time="12" data-end-time="14"></span> 
 **Reproducible Science** ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2k1a3ZobHA1MW5kNXM1bzNta2pldnJvczggY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderators:** Francesco Santini and Laura Bell
-- **Welcome by the ESMRMB President** - Eva Scheurer
-- **Overview of the meeting** - Francesco Santini
-- **Introduction to Open Science and Reproducibility** - Cassandra Gould van Praag
-- **Reproducibility in MRI: Good and Bad** - Maria Eugenia Caligiuri
-- **MRI - journal perspectives on reproducibilty** - David Norris
-- **Debate: Open Science in the MR Community** - Serena Bonaretti, H. Steven Scholte
+- **[5 min] Welcome by the ESMRMB President** - Eva Scheurer
+- **[10 min] Overview of the meeting** - Francesco Santini
+- **[20 min] Introduction to Open Science and Reproducibility** - Cassandra Gould van Praag
+- **[20 min] Reproducibility in MRI: Good and Bad** - Maria Eugenia Caligiuri
+- **[20 min] MRI - journal perspectives on reproducibilty** - David Norris
+- **[45 min] Debate: Open Science in the MR Community** - Serena Bonaretti, H. Steven Scholte
 
 
 ### Pacific Opening Session - <span class="timezone_adapt" data-date="14" data-start-time="00" data-end-time="02"></span>
 **Open Source and Commercial Development** ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzM2MmY0ZjZjZHYybzBla2djbzRlMWpnZXIgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderators:** Laura Bell and Francesco Santini
-- **Welcome and overview of the meeting** - Laura Bell
-- **MATLAB for Open Science in MRI** - Reza Fazel-Rezai and Rob Holt
-- **3D Slicer: Long-term sustainability of a large open-source project** - Andras Lasso
-- **Hyperfine: Ensuring good science and reproducibility within closed development** - Michael Poole
-- **How Making Software Free Can Create Commercial Success** - Travis Oliphant
+- **[15 min] Welcome and overview of the meeting** - Laura Bell
+- **[25 min] MATLAB for Open Science in MRI** - Reza Fazel-Rezai and Rob Holt
+- **[25 min] 3D Slicer: Long-term sustainability of a large open-source project** - Andras Lasso
+- **[25 min] Hyperfine: Ensuring good science and reproducibility within closed development** - Michael Poole
+- **[30 min] How Making Software Free Can Create Commercial Success** - Travis Oliphant
 
 ## Parallel Sessions A: Data
 <div class="session-container">
@@ -219,15 +219,15 @@ Content will be accessed through Zoom Events (when you register for the event yo
 ### Indian Closing Session - <span class="timezone_adapt" data-date="16" data-start-time="06" data-end-time="08"></span>
 **Better science, for everybody: reproducibility and accessibility** ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NXBxZnM4czludGRwZjlvYmtrdnJxaXEwbGMgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderators:** Emma Biondetti and Sanam Assili
-- **Publishing Reproducible science** - Iratxe Puebla
-- **European Imaging Biomarker Alliance (EIBALL)** - Aad van der Lugt
-- **Accessibility of imaging in India and how open technology and innovations can help** - Sonal Krishan
-- **Panel discussion: MRI research worldwide: challenges and perspectives** - Godwin Ogbole, Udunna Anazodo, Tchoyoson Lim, Won-Jin Moon, Valerij Kiselev
+- **[20 min] Publishing Reproducible science** - Iratxe Puebla
+- **[20 min] European Imaging Biomarker Alliance (EIBALL)** - Aad van der Lugt
+- **[20 min] Accessibility of imaging in India and how open technology and innovations can help** - Sonal Krishan
+- **[45 min] Panel discussion: MRI research worldwide: challenges and perspectives** - Godwin Ogbole, Udunna Anazodo, Tchoyoson Lim, Won-Jin Moon, Valerij Kiselev
 
 ### Caribbean Closing Session - <span class="timezone_adapt" data-date="16" data-start-time="18" data-end-time="20"></span>
 **Community-driven development** ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mm9tZWFrN25uMjhiZXExbHNjM2QwM3B2N2IgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderators:** Maxim Zaitsev and Edwin Oei
-- **arXiv and Open Science** - Alison Fromme
-- **PyRadiomics** - Joost van Griethuysen
-- **Publishing and Sharing Open Science** - Brian Nosek
-- **The QIBA profiles** - Ona Wu
+- **[25 min] arXiv and Open Science** - Alison Fromme
+- **[25 min] PyRadiomics** - Joost van Griethuysen
+- **[30 min] Publishing and Sharing Open Science** - Brian Nosek
+- **[30 min] The QIBA profiles** - Ona Wu
