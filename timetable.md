@@ -92,7 +92,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] The Replication Crisis in Science - Lessons Learned Across Disciplines** - Sabine Hoffmann
 - **[20 min] Bayesian Statistics and Reproducible Science** - Andrew Gelman
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
-- **[45 min] A White Hat's Guide to P-Hacking (Hands-On/Interactive session)** - Xeni Deligianni
+- **[45 min] [A White Hat's Guide to P-Hacking (Hands-On/Interactive session)](https://github.com/XDeligianni/phacking)** - Xeni Deligianni
 </div>
 <div class="session-element" markdown="1">
 <h5>(Session B2) Ensuring Reproducibility: Phantoms and Preclinical Imaging</h5>
