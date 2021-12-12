@@ -7,7 +7,7 @@ layout: default
 
 ## Accessing the conference
 
-Accessing the conference is slightly different from attending a zoom meeting, in the sense that there is no "meeting code" to enter in your zoom app. Instead, just click on the link that you received in your email (your "ticket") and you will reach the portal. From here, you will be able to join the active sessions and the meeting chat (if your system supports it)
+Accessing the conference is slightly different from attending a zoom meeting, in the sense that there is no "meeting code" to enter in your zoom app. Instead, just click on the link that you received in your email (your "ticket") and you will reach the portal. From here, you will be able to join the active sessions and the meeting chat, called the _lobby_ (if your system supports it).
 
 ## In case of trouble
 
