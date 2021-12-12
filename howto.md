@@ -5,9 +5,15 @@ layout: default
 
 # How to access the MRI Together Zoom conference: tutorials and resources
 
-Following two short tutorials on how to join this Zoom Event conference. As it is not a standard Zoom Webinar, the procedure to join the various sessions are different from normal zoom. The procedure must be initiated in the browser by visiting [https://events.zoom.us/](https://events.zoom.us/) and by logging in with your zoom account.
+## Accessing the conference
 
-A Zoom client, logged into the same Zoom account as the website, is also required.
+Accessing the conference is slightly different from attending a zoom meeting, in the sense that there is no "meeting code" to enter in your zoom app. Instead, just click on the link that you received in your email (your "ticket") and you will reach the portal. From here, you will be able to join the active sessions and the meeting chat (if your system supports it)
+
+## In case of trouble
+
+Usually, joining the event is smooth and easy. If you are experiencing some difficulty, we prepared two short tutorials. As it is not a standard Zoom Webinar, the procedure to join the various sessions are different from normal zoom. The procedure must be initiated either by clicking on the ticket that you received in your email, or in the browser by visiting [https://events.zoom.us/](https://events.zoom.us/) and by logging in with your zoom account.
+
+A Zoom app is also required. If you are receiving some errors, please check that the account you are using on the website is the same as the account you are using in the app. Please check the video for a step-by-step procedure.
 
 Unfortunately the "lobby" option is only available for Windows and Mac users; the same is true for starting a session as a speaker or moderator. Linux and portable users can still join the conference, but not chat with the other participants or start a session.
 
