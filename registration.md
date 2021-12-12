@@ -43,4 +43,6 @@ Fill in **[this form](https://forms.gle/Hq2WkfffK681yRBy5)** to indicate your av
 - Joao Almeida e Sousa - Sheffield, United Kingdom
 - Ged Ridgway - Oxford, United Kingdom
 - Andrew Webb - Leiden, Netherlands
+- Ralf Mekle - Berlin, Germany
+- Iosif Mendichovszky - Cambridge, United Kingdom
 
