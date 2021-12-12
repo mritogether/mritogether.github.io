@@ -21,14 +21,14 @@ If you are a **speaker/panelist/moderator**, you **don't have to register** thro
 
 For any further questions, please write an email to [mritogether.workshop@gmail.com](mailto:mritogether.workshop@gmail.com)
 
-## Registering and joining a session
+### Registering and joining a session
 
 <video width="1280" height="720" controls>
   <source src="video/Join_Session_ZE.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-## Joining the lobby and starting a session as a speaker (Windows)
+### Joining the lobby and starting a session as a speaker (Windows)
 
 <video width="1280" height="720" controls>
   <source src="video/Start_Session_ZE_Windows.mp4" type="video/mp4">
