@@ -120,7 +120,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **Moderators:** Cornelius Faber and Ludger Starke
 - **[20 min] Magnetic Particle Imaging for imaging GI Bleeds, Pulmonary Embolisms, and CAR T Cell Therapies** - Steven Conolly
 - **[20 min] Cross-site Efforts in Preclinical Imaging, the New Way Forward** - Joanes Grandjean
-- **[20 min] Preclinical Tumor Models: opportunities and challenges in translation to human studies** - Thomas Yankeelov
+- **[20 min] Current Challenges in Translational MRI of Cancer** - Thomas Yankeelov
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
 - **[45 min] Opportunities & Challenges of Magnetic Resonance Spectroscopy Research (Hands on/Interactive session)** - Georg Oeltzschner
 </div>
