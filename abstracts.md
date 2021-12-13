@@ -26,7 +26,7 @@ _<script language="javascript">obfuscate('Daudé', 'pierre.daude', 'etu.univ-amu
 _El Rifai, Diaz Melo, Hassanaly, Joulot, Routier, Thibeau-Sutre, Vaillant, Durrleman, Burgos, Colliot_
 
 **[GPU Accelerated QSM. Throw your slow CPUs out of the Window(s)](files/abstracts/fuchs.pdf)**\
-_Fuchs and Milovic_
+_<script language="javascript">obfuscate('Fuchs', 'p.fuchs', 'ucl.ac.uk');</script> and Milovic_
 
 **[Interactive MR simulation in a browser: Flexible reimplementation
 of the educational Bloch Simulator](files/abstracts/hanson.pdf)**\
