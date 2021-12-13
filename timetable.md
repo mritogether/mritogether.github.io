@@ -118,7 +118,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 <div class="session-element" markdown="1">
 <h6>Pacific - <span class="timezone_adapt" data-date="15" data-start-time="00" data-end-time="02"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHNsdjhjZ3F2cmhidmwxdTJ0NGgwZHYyaDAgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderators:** Cornelius Faber and Ludger Starke
-- **[20 min] Reproducibility in Preclinical Research** (provisional title) - Steven Conolly
+- **[20 min] Magnetic Particle Imaging for imaging GI Bleeds, Pulmonary Embolisms, and CAR T Cell Therapies** - Steven Conolly
 - **[20 min] Cross-site Efforts in Preclinical Imaging, the New Way Forward** - Joanes Grandjean
 - **[20 min] Preclinical Tumor Models: opportunities and challenges in translation to human studies** - Thomas Yankeelov
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
