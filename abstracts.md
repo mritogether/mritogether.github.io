@@ -7,7 +7,7 @@ javascript: [ obfuscate.js ]
 # Accepted abstracts
 All abstracts are copyright of their respective Authors and licensed under a CC-BY license.
 
-**[Tailored and Universal pTx of the Human Heart at 7T: Open-source tool with 76 thoracic channel-wise 3D in-vivo B1+ datasets acquired during shallow and deep breathing](files/abstracts/aigner.pdf)**
+**[Tailored and Universal pTx of the Human Heart at 7T: Open-source tool with 76 thoracic channel-wise 3D in-vivo B1+ datasets acquired during shallow and deep breathing](files/abstracts/aigner.pdf)**\
 _Aigner, Dietrich, Krüger, Lutz, Schmitter_
 
 **[The truth matters: A brief discussion on MVUE vs. RSS in MRI reconstruction](files/abstracts/arvinte.pdf)**
