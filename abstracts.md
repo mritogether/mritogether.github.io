@@ -48,7 +48,7 @@ _Tensen, Božić-Iven, Coletti, Weingärtner_
 _Thibeau-Sutre, Diaz, Hassanaly, Routier, Dormon, Colliot, Burgos_
 
 **[GDPR compliant reuse of medical data: encouraging patients to contribute to research (video)](files/abstracts/warnert.pdf)**\
-_Warnert, Beun, Broeckx, Keil, Maumet, Oliver, Petr, Pinto Van Driessche, Wamelink, Clement_
+_Warnert, Beun, Broeckx, Keil, Maumet, Oliver, Petr, Pinto Van Driessche, Wamelink, <script language="javascript">obfuscate('Clement', 'patricia.clement', 'ugent.be');</script> - <script language="javascript">obfuscate('COST Action email', 'glimr.cost.wg5', 'gmail.com');</script>_
 
 **[Showcasing an open-science environment for rapid benchmarking of new 1H-MRS methods](files/abstracts/zoellner.pdf)**\
 _Zöllner, Barker, Edden, Oeltzchner_
