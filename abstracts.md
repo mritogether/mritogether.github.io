@@ -1,6 +1,7 @@
 --- 
 title: Accepted abstracts
 layout: default
+javascript: [ obfuscate.js ]
 --- 
 
 # Accepted abstracts
@@ -19,7 +20,7 @@ _Berks, Hubbard Cristinacce, Price, Mchugh, Tar, Dubec, Cheung, Jauregui-Osoro, 
 _Chen, Wu, Haacke_
 
 **[Comparative Review of Algorithms and Methods for proton-density fat fraction (PDFF) quantification](files/abstracts/daude.pdf)**
-_Daudé, Kober, Confort Gouny, Bernard, Rapacchi_
+_<script language="javascript">obfuscate('Daudé', 'pierre.daude', 'etu.univ-amu.fr');</script>, Kober, Confort Gouny, Bernard, Rapacchi_
 
 **[Clinica: an open-source software platform for reproducible clinical neuroscience studies](files/abstracts/el_rifai.pdf)**
 _El Rifai, Diaz Melo, Hassanaly, Joulot, Routier, Thibeau-Sutre, Vaillant, Durrleman, Burgos, Colliot_
@@ -32,7 +33,7 @@ of the educational Bloch Simulator](files/abstracts/hanson.pdf)**
 _Hanson_ 
 
 **[The Reproducibility of Intrinsic Neural Timescale Atypicality in Autism Spectral Disorder](files/abstracts/jackson.pdf)**
-_Jackson, Novelli, Razi, Gollo_
+_<script language="javascript">obfuscate('Jackson', 'jejac2', 'student.monash.edu');</script>, Novelli, Razi, Gollo_
 
 **[Investigating Spiral Arterial Spin Labeling with Pulseq and Field Monitoring at 7T](files/abstracts/ma.pdf)**
 _Ma, Ivanov, Huber, Kurban, Poser_
