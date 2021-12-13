@@ -41,4 +41,4 @@ We currently have **more than 100** confirmed speakers, from academia and indust
 
 ## Social gathering
 
-Social gathering is provided by A10dee at [https://bit.ly/mritogether-social](https://bit.ly/mritogether-social)
+Social gathering is provided by A10dee at [https://bit.ly/mritogether-social](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)

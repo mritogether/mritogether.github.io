@@ -58,7 +58,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] Open science for Functional Connectomics** - Xi-Nian Zuo
 - **[20 min] Overview of Data Format: DICOMs (enhanced dicoms), NIfTIs, Analyze, BIDs - Why So Many Formats? Why Is This Hard?** - Michele Larobina
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
-- **[45 min] Image Data Conversion / How to Work with BIDs: Hands-On/Interactive Session** - Patricia Clement and Marco Castellaro
+- **[45 min] Image Data Conversion / How to Work with BIDs: Hands-On/Interactive Session** - [link 1](https://github.com/marcocastellaro/MRI-Together-BIDS-HandsOn/blob/main/Image_Data_Conversion_How_to_Work_with_BIDs_Hands_On_Interactive_Session.ipynb), [link2](https://github.com/marcocastellaro/MRI-Together-BIDS-HandsOn/blob/main/Image_Data_Conversion_How_to_Work_with_BIDs_Hands_On_Interactive_Session.ipynb) - Patricia Clement and Marco Castellaro
 </div>
 </div>
 <div class="session-container">

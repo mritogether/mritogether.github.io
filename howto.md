@@ -11,7 +11,14 @@ Accessing the conference is slightly different from attending a zoom meeting, in
 
 ## In case of trouble
 
-Usually, joining the event is smooth and easy. If you are experiencing some difficulty, we prepared two short tutorials. As it is not a standard Zoom Webinar, the procedure to join the various sessions are different from normal zoom. The procedure must be initiated either by clicking on the ticket that you received in your email, or in the browser by visiting [https://events.zoom.us/](https://events.zoom.us/) and by logging in with your zoom account.
+### Common problems
+Usually, joining the event is smooth and easy. If you are receiving errors, please try the following first:
+1. Make sure that your Zoom app is updated to the latest version.
+2. Make sure that the app is running when you click on "join lobby".
+3. Make sure that the email address that you have set in the app and the one on the website are the same (see tutorial below).
+
+### Video tutorials
+If you are experiencing some difficulty, we prepared two short tutorials. As it is not a standard Zoom Webinar, the procedure to join the various sessions are different from normal zoom. The procedure must be initiated either by clicking on the ticket that you received in your email, or in the browser by visiting [https://events.zoom.us/](https://events.zoom.us/) and by logging in with your zoom account.
 
 A Zoom app is also required. If you are receiving some errors, please check that the account you are using on the website is the same as the account you are using in the app. Please check the video for a step-by-step procedure.
 
