@@ -38,3 +38,7 @@ We currently have **more than 100** confirmed speakers, from academia and indust
 <li>Loading list... (requires Javascript)</li>
 </ul>
 </div>
+
+## Social gathering
+
+Social gathering is provided by A10dee at [https://bit.ly/mritogether-social](https://bit.ly/mritogether-social)

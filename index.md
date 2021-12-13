@@ -15,6 +15,8 @@ Whether you're a **developer**, a **medical doctor**, a **researcher in basic sc
 
 # Highlights
 
+## Social gathering platform A10dee: [https://bit.ly/mritogether-social](https://bit.ly/mritogether-social)
+
 ## Check the information on [how to attend the conference](/howto)!
 
 ## Accepted abstracts are [available](/abstracts)!
