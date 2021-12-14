@@ -23,6 +23,8 @@ For example:
 - [Postdoctoral Research Fellow](https://atsv7.wcn.co.uk/search_engine/jobs.cgi?SID=b3duZXI9NTA0MTE3OCZvd25lcnR5cGU9ZmFpciZ2dF90ZW1wbGF0ZT05NjYmamNvZGU9MTg4MDk0MiZwb3N0aW5nX2NvZGU9MjI0Jg==) - 7T Methods Development - University College London, ULK
 - [Radio Frequency Engineer](https://skope.swiss/careers/rf-engineer/) - Field-Monitoring Technology - Skope Magnetic Resonance Technologies AG, Zürich (Switzerland)
 - [Digital Electronics and Firmware Engineer](https://skope.swiss/careers/digital-electronics-and-firmware-engineer/) - Field-Monitoring Technology - Skope Magnetic Resonance Technologies AG, Zürich (Switzerland)
+- [PhD student](/job_board_files/PhD_position_MUI.pdf) - Multinuclear quantitative MRI in brain tumors - Medical University of Innsbruck, Austria
+
 
 ## Job Seekers
 
