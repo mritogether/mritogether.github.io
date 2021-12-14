@@ -21,8 +21,8 @@ For example:
 - [PhD student](https://neuro.polymtl.ca/job-opportunities/msc-or-phd-or-postdoc-positions.html#mri-physics-projects) - B0 Magnetic Field Mapping - University of Montreal, Canada
 - [MSc/PhD student](https://neuro.polymtl.ca/job-opportunities/msc-or-phd-or-postdoc-positions.html#neuroimaging-projects) - Diffusion Tensor Imaging (DTI) for Radiotherapy Treatment Planning of Glioma - University of Montreal, Canada
 - [Postdoctoral Research Fellow](https://atsv7.wcn.co.uk/search_engine/jobs.cgi?SID=b3duZXI9NTA0MTE3OCZvd25lcnR5cGU9ZmFpciZ2dF90ZW1wbGF0ZT05NjYmamNvZGU9MTg4MDk0MiZwb3N0aW5nX2NvZGU9MjI0Jg==) - 7T Methods Development - University College London, ULK
-- [Radio Frequency Engineer](https://skope.swiss/careers/rf-engineer/) - Field-Monitoring Technology - Skope Magnetic Resonance Technologies, Zürich
-- [Digital Electronics and Firmware Engineer](https://skope.swiss/careers/digital-electronics-and-firmware-engineer/) - Field-Monitoring Technology - Skope Magnetic Resonance Technologies, Zürich
+- [Radio Frequency Engineer](https://skope.swiss/careers/rf-engineer/) - Field-Monitoring Technology - Skope Magnetic Resonance Technologies AG, Zürich (Switzerland)
+- [Digital Electronics and Firmware Engineer](https://skope.swiss/careers/digital-electronics-and-firmware-engineer/) - Field-Monitoring Technology - Skope Magnetic Resonance Technologies AG, Zürich (Switzerland)
 
 ## Job Seekers
 
