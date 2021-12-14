@@ -21,12 +21,12 @@ Content will be accessed through Zoom Events (when you register for the event yo
 ### Atlantic Opening Session - <span class="timezone_adapt" data-date="13" data-start-time="12" data-end-time="14"></span> 
 **Reproducible Science** ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2k1a3ZobHA1MW5kNXM1bzNta2pldnJvczggY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderators:** Francesco Santini and Laura Bell
-- **[5 min] Welcome by the ESMRMB President** - Eva Scheurer
-- **[10 min] Overview of the meeting** - Francesco Santini
-- **[20 min] Introduction to Open Science and Reproducibility** - Cassandra Gould van Praag
-- **[20 min] Reproducibility in MRI: Good and Bad** - Maria Eugenia Caligiuri
-- **[20 min] MRI - journal perspectives on reproducibilty** - David Norris
-- **[45 min] Debate: Open Science in the MR Community** - Serena Bonaretti, H. Steven Scholte
+- **[5 min] [Welcome by the ESMRMB President](https://youtu.be/pgHLqNIvzoM)** - Eva Scheurer
+- **[10 min] [Overview of the meeting](https://youtu.be/8GyLyYEi5q8)** - Francesco Santini and Laura Bell
+- **[20 min] [Introduction to Open Science and Reproducibility](https://youtu.be/UZ4DAOuG79s)** - Cassandra Gould van Praag
+- **[20 min] [Reproducibility in MRI: Good and Bad](https://youtu.be/YrH9ieRXY84)** - Maria Eugenia Caligiuri
+- **[20 min] [MRI - journal perspectives on reproducibilty](https://youtu.be/NSXw8j4IU6M)** - David Norris
+- **[45 min] [Debate: Open Science in the MR Community](https://youtu.be/8vNCLaYeNvY)** - Serena Bonaretti, H. Steven Scholte
 
 
 ### Pacific Opening Session - <span class="timezone_adapt" data-date="14" data-start-time="00" data-end-time="02"></span>
