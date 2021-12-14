@@ -131,7 +131,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 <div class="session-element" markdown="1">
 <h5>(Session C1) Vendor-Independent Pulse Sequences</h5>
 <h6>Indian - <span class="timezone_adapt" data-date="15" data-start-time="06" data-end-time="08"></span><br/></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGFkYWw2MnI1cG9lcGR1Y3V2MWtxNGdicW8gY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
-- **Moderator:** Lukas Winter
+- **Moderator:** Lukas Winter and Patrick Schünke
 - **[20 min] GammaStar** - Daniel Hoinkiss
 - **[20 min] Integrated Acquisition/Simulation/Reconstruction** - Marten Veldman
 - **[20 min] Open and Reproducible Magnetization-prepared Pulse Sequences with Pulseq-CEST** - Kai Herz
