@@ -17,7 +17,7 @@ _El Rifai, Diaz Melo, Hassanaly, Joulot, Routier, Thibeau-Sutre, Vaillant, Durrl
 _<script language="javascript">obfuscate('Jackson', 'jejac2', 'student.monash.edu');</script>, Novelli, Razi, Gollo_
 
 4. **[E-MaRSSim: A Python-based open-source MRI pulse sequence simulation tool](files/abstracts/tensen.pdf)**\
-_Tensen, Božić-Iven, Coletti, Weingärtner_
+_<script language="javascript">obfuscate('Tensen', 't.o.tensen', 'student.tudelft.nl');</script>, Božić-Iven, Coletti, Weingärtner_
 
 5. **[GPU Accelerated QSM. Throw your slow CPUs out of the Window(s)](files/abstracts/fuchs.pdf)**\
 _<script language="javascript">obfuscate('Fuchs', 'p.fuchs', 'ucl.ac.uk');</script> and Milovic_
