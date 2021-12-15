@@ -8,11 +8,13 @@ javascript: [ timezone.js ]
 # Agenda Overview
 The content will be offered live across 4 distinct time zones (Atlantic, Pacific, Indian, and Caribbean) to span 24 hours. Generally, each session will be repeated across two time zones: Atlantic/Pacific and Indian/Caribbean. Despite these repeated session topics, new speakers and content will be provided.
 
-Content will be accessed through Zoom Events (when you register for the event you'll be granted a ticket for the Zoom Event). In addition, for the social breaks and anytime during the meeting, a social platform will be available to interact with other participants through [A10dee](https://a10dee.com/) *(our personalized world coming soon)*. You'll have the ability to view posters and sponsor booths as well here.
+Content will be accessed through Zoom Events (when you register for the event you'll be granted a ticket for the Zoom Event). In addition, for the social breaks and anytime during the meeting, a social platform will be available to interact with other participants through [A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh). You'll have the ability to view posters and sponsor booths as well here.
 
 **We offer two ways to ensure you have the times correct before proceeding:**
 1. Select your time zone in this dropdown menu to see the adapted times in the program below: <select id="timezone_select" onchange="adaptTime()"></select>.
 2. After each heading in the program, there will be a link to automatically add an calendar invite.
+
+**Videos of the sessions are being uploaded! Click on the talk title to see the video (hosted on YouTube)**
 
 * TOC
 {:toc}
@@ -44,9 +46,9 @@ Content will be accessed through Zoom Events (when you register for the event yo
 <h5>(Session A1) Ethics and Practices for Data Sharing</h5>
 <h6>Indian - <span class="timezone_adapt" data-date="14" data-start-time="06" data-end-time="08"></span><br/></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderators:** Penny Hubbard Cristinacce and John McLean
-- **[20 min] Implementation of Parametric DICOM for Perfusion** - Ina Kompan
-- **[20 min] (MRI) Data Sharing in Europe** - Stephan Heunis
-- **[20 min] Data Sharing and Curation at Flywheel** - Nicolas Pannetier
+- **[20 min] [Implementation of Parametric DICOM for Perfusion](https://youtu.be/uG2I7ClPI3U)** - Ina Kompan
+- **[20 min] [(MRI) Data Sharing in Europe](https://youtu.be/cNO7zR1K4pA)** - Stephan Heunis
+- **[20 min] [Data Sharing and Curation at Flywheel](https://youtu.be/DEy7lJJuB5E)** - Nicolas Pannetier
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
 - **[45 min] XNAT - Data Sharing in Multicentre Studies** - Simon Doran
 </div>
@@ -54,31 +56,31 @@ Content will be accessed through Zoom Events (when you register for the event yo
 <h5>(Session A2) Data Formats</h5>
 <h6>Indian - <span class="timezone_adapt" data-date="14" data-start-time="06" data-end-time="08"></span><br/></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVzdTkyZ3NlMmR0MjNqbmVxMnY1MjBvb3AgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderator:** Julia Guiomar Niso Galan
-- **[20 min] Best Practices for Data Sharing** - Thomas Nichols
-- **[20 min] Open science for Functional Connectomics** - Xi-Nian Zuo
-- **[20 min] Overview of Data Format: DICOMs (enhanced dicoms), NIfTIs, Analyze, BIDs - Why So Many Formats? Why Is This Hard?** - Michele Larobina
+- **[20 min] [Best Practices for Data Sharing](https://youtu.be/0T6P5Hu7dPQ)** - Thomas Nichols
+- **[20 min] [Open science for Functional Connectomics](https://youtu.be/fgs9d5VpBj0)** - Xi-Nian Zuo
+- **[20 min] [Overview of Data Format: DICOMs (enhanced dicoms), NIfTIs, Analyze, BIDs - Why So Many Formats? Why Is This Hard?](https://youtu.be/6Q-SDWH70jI)** - Michele Larobina
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
-- **[45 min] Image Data Conversion / How to Work with BIDs: Hands-On/Interactive Session** - [link 1](https://github.com/marcocastellaro/MRI-Together-BIDS-HandsOn/blob/main/Image_Data_Conversion_How_to_Work_with_BIDs_Hands_On_Interactive_Session.ipynb), [link2](https://github.com/marcocastellaro/MRI-Together-BIDS-HandsOn/blob/main/Image_Data_Conversion_How_to_Work_with_BIDs_Hands_On_Interactive_Session.ipynb) - Patricia Clement and Marco Castellaro
+- **[45 min] [Image Data Conversion / How to Work with BIDs: Hands-On/Interactive Session](https://youtu.be/UN5JxGpqppc)** - [link 1](https://github.com/marcocastellaro/MRI-Together-BIDS-HandsOn/blob/main/Image_Data_Conversion_How_to_Work_with_BIDs_Hands_On_Interactive_Session.ipynb), [link2](http://bids-standard.github.io/bids-validator/) - Patricia Clement and Marco Castellaro
 </div>
 </div>
 <div class="session-container">
 <div class="session-element" markdown="1">
 <h6>Caribbean - <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="20"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderators:** Florian Knoll and Matt Muckley
-- **[20 min] Data Repositories: Where to Look, How to Share** - Greg Cron
-- **[20 min] Defacing and Curation for sharing MR Brain Imaging Data** - Stephen Arnott
-- **[20 min] Building a Collaborative Partnership with Research Hospitals in China: from Inception to Publications** - Mark Haacke
+- **[20 min] [Data Repositories: Where to Look, How to Share](https://youtu.be/AjsB_VCoCLA)** - Greg Cron
+- **[20 min] [Defacing and Curation for sharing MR Brain Imaging Data](https://youtu.be/jM5Kpgi5Mu0)** - Stephen Arnott
+- **[20 min] [Building a Collaborative Partnership with Research Hospitals in China: from Inception to Publications](https://youtu.be/OdcC1zE2FVA)** - Mark Haacke
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
-- **[45 min] A Beginner's Guide to Image DeIdentification Data Sharing for Brain Imaging Data** - David Gutman
+- **[45 min] [A Beginner's Guide to Image DeIdentification Data Sharing for Brain Imaging Data](https://youtu.be/RbW9cMechkM)** - David Gutman
 </div>
 <div class="session-element" markdown="1">
 <h6>Caribbean - <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="20"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderator:** Eric Borisch
-- **[20 min] Raw Data Conversion** - Philipp Ehses
-- **[20 min] Machine Learning-Based Data Annotation Tools in Clinical PACS: Addressing the Critical Need for Annotated Datasets** - Mariam Aboian 
-- **[20 min] DICOM: Testament of Time** - David Clunie
+- **[20 min] [Raw Data Conversion](https://youtu.be/cuE5dv9rVwg)** - Philipp Ehses
+- **[20 min] [Machine Learning-Based Data Annotation Tools in Clinical PACS: Addressing the Critical Need for Annotated Datasets](https://youtu.be/aOCrJtZZNjc)** - Mariam Aboian 
+- **[20 min] [DICOM: Testament of Time](https://youtu.be/oqDn40_zsbk)** - David Clunie
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
-- **[45 min] [Hands-on with Vendor-agnostic MRI data: conversion to MRD (ISMRMRD)](https://github.com/rajramasawmy/mri_together_mrd)** - Ahsan Javed and Raj Ramasawmy
+- **[45 min] [Hands-on with Vendor-agnostic MRI data: conversion to MRD (ISMRMRD)](https://youtu.be/jNSuo8x2OFw)** [interactive link](https://github.com/rajramasawmy/mri_together_mrd) - Ahsan Javed and Raj Ramasawmy
 </div>
 </div>
 
@@ -88,11 +90,11 @@ Content will be accessed through Zoom Events (when you register for the event yo
 <h5>(Session B1) Study Design and Interpretation: the Reproducibility Crisis</h5>
 <h6>Atlantic - <span class="timezone_adapt" data-date="14" data-start-time="12" data-end-time="14"></span><br/></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjV1MHZrdHM2Zm50amY4M3NyYjNlOG42ZGUgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderators:** Tugba Akinci D'Antonoli and Claudia Weidensteiner
-- **[20 min] P-values and the Replicability of Results** - Valentin Amrhein
-- **[20 min] The Replication Crisis in Science - Lessons Learned Across Disciplines** - Sabine Hoffmann
-- **[20 min] Bayesian Statistics and Reproducible Science** - Andrew Gelman
+- **[20 min] [P-values and the Replicability of Results](https://youtu.be/x9UfeHLxQ9U)** - Valentin Amrhein
+- **[20 min] [The Replication Crisis in Science - Lessons Learned Across Disciplines](https://youtu.be/jKkZjpG3wNI)** - Sabine Hoffmann
+- **[20 min] [Bayesian Statistics and Reproducible Science](https://youtu.be/j_1tVewtURI)** - Andrew Gelman
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
-- **[45 min] [A White Hat's Guide to P-Hacking (Hands-On/Interactive session)](https://github.com/XDeligianni/phacking)** - Xeni Deligianni
+- **[45 min] [A White Hat's Guide to P-Hacking (Hands-On/Interactive session)](https://youtu.be/yePA9fHjgfw)** [interactive link](https://github.com/XDeligianni/phacking)** - Xeni Deligianni
 </div>
 <div class="session-element" markdown="1">
 <h5>(Session B2) Ensuring Reproducibility: Phantoms and Preclinical Imaging</h5>
@@ -109,11 +111,11 @@ Content will be accessed through Zoom Events (when you register for the event yo
 <div class="session-element" markdown="1">
 <h6>Pacific - <span class="timezone_adapt" data-date="15" data-start-time="00" data-end-time="02"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHNsdjhjZ3F2cmhidmwxdTJ0NGgwZHYyaDAgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderators:** Katy Keenan and Corree Laule
-- **[20 min] The Reproducibility Crisis - is most published research wrong?** - Stuart Buck
-- **[20 min] Making Practical or Clinical Relevance a Key Part of Statistical Analysis** - Megan Higgs
-- **[20 min] The New Statistics for Reproducible Science** - Geoff Cumming
+- **[20 min] [The Reproducibility Crisis - is most published research wrong?](https://youtu.be/RnCOUD8l4TI)** - Stuart Buck
+- **[20 min] [Making Practical or Clinical Relevance a Key Part of Statistical Analysis](https://youtu.be/eJI0kNXmonk)** - Megan Higgs
+- **[20 min] [The New Statistics for Reproducible Science](https://youtu.be/nYF0oC9fg7g)** - Geoff Cumming
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
-- **[45 min] A White Hat's Guide to P-Hacking (Hands-On/Interactive session)** - Pierre Levan
+- **[45 min] [A White Hat's Guide to P-Hacking (Hands-On/Interactive session)](https://youtu.be/2lsg8whEu9k)** - Pierre Levan
 </div>
 <div class="session-element" markdown="1">
 <h6>Pacific - <span class="timezone_adapt" data-date="15" data-start-time="00" data-end-time="02"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHNsdjhjZ3F2cmhidmwxdTJ0NGgwZHYyaDAgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
