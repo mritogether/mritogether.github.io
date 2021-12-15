@@ -111,7 +111,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 <div class="session-element" markdown="1">
 <h6>Pacific - <span class="timezone_adapt" data-date="15" data-start-time="00" data-end-time="02"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHNsdjhjZ3F2cmhidmwxdTJ0NGgwZHYyaDAgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderators:** Katy Keenan and Corree Laule
-- **[20 min] [The Reproducibility Crisis - is most published research wrong?](https://youtu.be/RnCOUD8l4TI)** - Stuart Buck
+- **[20 min] [The Reproducibility Crisis - is most published research wrong?](https://youtu.be/V8M8iMxtI6k)** - Stuart Buck
 - **[20 min] [Making Practical or Clinical Relevance a Key Part of Statistical Analysis](https://youtu.be/eJI0kNXmonk)** - Megan Higgs
 - **[20 min] [The New Statistics for Reproducible Science](https://youtu.be/nYF0oC9fg7g)** - Geoff Cumming
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
