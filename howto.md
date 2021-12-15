@@ -13,9 +13,14 @@ Accessing the conference is slightly different from attending a zoom meeting, in
 
 ### Common problems
 Usually, joining the event is smooth and easy. If you are receiving errors, please try the following first:
-1. Make sure that your Zoom app is updated to the latest version.
-2. Make sure that the app is running when you click on "join lobby".
-3. Make sure that the email address that you have set in the app and the one on the website are the same (see tutorial below).
+1. Make sure that your Zoom client/app is updated to the latest version.
+2. Make sure that the client/app is running when you click on "join lobby".
+3. Make sure that the email address that you have set in the client/app and the one on the Zoom Events website are the same (see tutorial below).
+
+From trouble-shooting with others, here are some additional tips we've learned:
+1. If you use a password manager, open it and check to see how many Zoom accounts you may have. People are surprised to learn they have more than initially thought.
+2. If you have a Zoom license through work, you may have two Zoom accounts associated with your work email. For example, Laura has one through roche.zoom.us and zoom.us -- each with different passwords. The Zoom Events kicks off the zoom.us account.
+3. If you use an Iphone and have logged in via your AppleID, you'll need to go to the website and say "forgot password". It will send an email indicating you have used AppleID to sign up. If you go on the web, and try to make a new account with the same email it will recognize that you have used it with AppleID already and ask if you'd like to link your accounts. You want to say yes.
 
 ### Video tutorials
 If you are experiencing some difficulty, we prepared two short tutorials. As it is not a standard Zoom Webinar, the procedure to join the various sessions are different from normal zoom. The procedure must be initiated either by clicking on the ticket that you received in your email, or in the browser by visiting [https://events.zoom.us/](https://events.zoom.us/) and by logging in with your zoom account.
