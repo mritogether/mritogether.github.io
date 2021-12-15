@@ -148,7 +148,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] The Connected Imaging Instrument** - Michael Hansen
 - **[20 min] Image Recon with ML & AI** - Akshay Chaudhari
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
-- **[45 min] A Hands-On Introduction to BART** - Martin Uecker
+- **[45 min] [A Hands-On Introduction to BART](https://github.com/mrirecon/bart-workshop)** - Martin Uecker
 </div>
 </div>
 <div class="session-container">
