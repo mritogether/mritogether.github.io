@@ -76,7 +76,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 <div class="session-element" markdown="1">
 <h6>Caribbean - <span class="timezone_adapt" data-date="14" data-start-time="18" data-end-time="20"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNpZDJ0MWgwZjJvdmRqdm5rZjJsajU0ZHYgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderator:** Eric Borisch
-- **[20 min] [Raw Data Conversion](https://youtu.be/cuE5dv9rVwg)** - Philipp Ehses
+- **[20 min] [Raw Data Conversion](https://youtu.be/cuE5dv9rVwg)** - [link to slides](https://zenodo.org/record/5783540) - Philipp Ehses
 - **[20 min] [Machine Learning-Based Data Annotation Tools in Clinical PACS: Addressing the Critical Need for Annotated Datasets](https://youtu.be/aOCrJtZZNjc)** - Mariam Aboian 
 - **[20 min] [DICOM: Testament of Time](https://youtu.be/oqDn40_zsbk)** - David Clunie
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
