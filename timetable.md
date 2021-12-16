@@ -60,7 +60,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] [Open science for Functional Connectomics](https://youtu.be/fgs9d5VpBj0)** - Xi-Nian Zuo
 - **[20 min] [Overview of Data Format: DICOMs (enhanced dicoms), NIfTIs, Analyze, BIDs - Why So Many Formats? Why Is This Hard?](https://youtu.be/6Q-SDWH70jI)** - Michele Larobina
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
-- **[45 min] [Image Data Conversion / How to Work with BIDs: Hands-On/Interactive Session](https://youtu.be/UN5JxGpqppc)** - [link 1](https://github.com/marcocastellaro/MRI-Together-BIDS-HandsOn/blob/main/Image_Data_Conversion_How_to_Work_with_BIDs_Hands_On_Interactive_Session.ipynb), [link2](http://bids-standard.github.io/bids-validator/) - Patricia Clement and Marco Castellaro
+- **[45 min] [Image Data Conversion / How to Work with BIDs: Hands-On/Interactive Session](https://youtu.be/UN5JxGpqppc)** - interactive [link 1](https://github.com/marcocastellaro/MRI-Together-BIDS-HandsOn/blob/main/Image_Data_Conversion_How_to_Work_with_BIDs_Hands_On_Interactive_Session.ipynb), [link2](http://bids-standard.github.io/bids-validator/) - Patricia Clement and Marco Castellaro
 </div>
 </div>
 <div class="session-container">
@@ -134,19 +134,19 @@ Content will be accessed through Zoom Events (when you register for the event yo
 <h5>(Session C1) Vendor-Independent Pulse Sequences</h5>
 <h6>Indian - <span class="timezone_adapt" data-date="15" data-start-time="06" data-end-time="08"></span><br/></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGFkYWw2MnI1cG9lcGR1Y3V2MWtxNGdicW8gY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderator:** Lukas Winter and Patrick Schünke
-- **[20 min] GammaStar** - Daniel Hoinkiss
-- **[20 min] Integrated Acquisition/Simulation/Reconstruction** - [link to slides](https://zenodo.org/record/5786088) - Marten Veldmann
-- **[20 min] Open and Reproducible Magnetization-prepared Pulse Sequences with Pulseq-CEST** - Kai Herz
+- **[20 min] [GammaStar](https://youtu.be/Pq8hlvELgB0)** - Daniel Hoinkiss
+- **[20 min] [Integrated Acquisition/Simulation/Reconstruction](https://youtu.be/FwEuzRUAnnA)** - [link to slides](https://zenodo.org/record/5786088) - Marten Veldmann
+- **[20 min] [Open and Reproducible Magnetization-prepared Pulse Sequences with Pulseq-CEST](https://youtu.be/Uai6Y4eLvfI)** - Kai Herz
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
-- **[45 min] Pulseq on Siemens (Hands on/Interactive session)** - Maxim Zaitsev
+- **[45 min] [Pulseq on Siemens (Hands on/Interactive session)](https://youtu.be/q1nHB4ixauM)** - Maxim Zaitsev
 </div>
 <div class="session-element" markdown="1">
 <h5>(Session C2) Image Reconstruction</h5>
 <h6>Indian - <span class="timezone_adapt" data-date="15" data-start-time="06" data-end-time="08"></span><br/></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGFkYWw2MnI1cG9lcGR1Y3V2MWtxNGdicW8gY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderator:** Justin Haldar
-- **[20 min] Subtle Data Crimes** - Efrat Shimron
-- **[20 min] The Connected Imaging Instrument** - Michael Hansen
-- **[20 min] Image Recon with ML & AI** - Akshay Chaudhari
+- **[20 min] [Subtle Data Crimes](https://youtu.be/sGJQqqpOwNs)** - Efrat Shimron
+- **[20 min] [The Connected Imaging Instrument](https://youtu.be/JJvKcStwOgc)** - Michael Hansen
+- **[20 min] [Image Recon with ML & AI](https://youtu.be/zIgDR9fUgbY)** - Akshay Chaudhari
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
 - **[45 min] [A Hands-On Introduction to BART](https://github.com/mrirecon/bart-workshop)** - Martin Uecker
 </div>
@@ -155,21 +155,21 @@ Content will be accessed through Zoom Events (when you register for the event yo
 <div class="session-element" markdown="1">
 <h6>Caribbean - <span class="timezone_adapt" data-date="15" data-start-time="18" data-end-time="20"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MG1pM2xlaGU5N20wMTlob205cnNycTgwNGcgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderator:** Matthias Günther
-- **[20 min] HeartVista/RTHawk** - Eric Peterson
-- **[20 min] PyPulseq** - Keerthi Sravan Ravi
-- **[10 min] Hardware design of the MaRCoS Open-source MRI Environment** - Benjamin Menküc
-- **[10 min] Software and Firmware Design of the MaRCoS open-source MRI Environment** - Vlad Negnevitsky
+- **[20 min] [HeartVista/RTHawk](https://youtu.be/Msp-48ueZQs)** - Eric Peterson
+- **[20 min] [PyPulseq](https://youtu.be/5mUqFArw_0Y)** - Keerthi Sravan Ravi
+- **[10 min] [Hardware design of the MaRCoS Open-source MRI Environment](https://youtu.be/aXbgnAmnPBs)** - Benjamin Menküc
+- **[10 min] [Software and Firmware Design of the MaRCoS open-source MRI Environment](https://youtu.be/aXbgnAmnPBs)** - Vlad Negnevitsky
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
-- **[45 min] Pulseq on GE (Hands on/Interactive session)** - Jon-Fredrik Nielsen
+- **[45 min] [Pulseq on GE (Hands on/Interactive session)](https://youtu.be/E6vw1JgAHzI)** - Jon-Fredrik Nielsen
 </div>
 <div class="session-element" markdown="1">
 <h6>Caribbean - <span class="timezone_adapt" data-date="15" data-start-time="18" data-end-time="20"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MG1pM2xlaGU5N20wMTlob205cnNycTgwNGcgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderators:** Jon Tamir and Audrey Fan
-- **[20 min] Decentralized Reconstruction in Academia** - Tobias Block
-- **[20 min] Gadgetron: Enabling Advanced Imaging AI with Global Clinical Deployment** - Hui Xue
-- **[20 min] Cloud MR** - Riccardo Lattanzi
+- **[20 min] [Decentralized Reconstruction in Academia](https://youtu.be/EjpE9IWXEkE)** - Tobias Block
+- **[20 min] [Gadgetron: Enabling Advanced Imaging AI with Global Clinical Deployment](https://youtu.be/IRhsicnPwA4)** - Hui Xue
+- **[20 min] [Cloud MR](https://youtu.be/D2gYYti-k70)** - Riccardo Lattanzi
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
-- **[45 min] [MIRT: Hands on/Interactive session](https://juliaimagerecon.github.io/Examples) ** - Jeff Fessler
+- **[45 min] [MIRT: Hands on/Interactive session](https://youtu.be/VO1nbNax_ug)** - [interactive link](https://juliaimagerecon.github.io/Examples)  - Jeff Fessler
 </div>
 </div>
 
