@@ -3,7 +3,6 @@
 
 
 
-{"name": "David Norris", "affiliation": "MAGMA Journal "},
 
 
 
@@ -13,7 +12,6 @@
 
 
 
-{"name": "Andras Lasso", "affiliation": "Queen's University, Canada"},
 
 
 
@@ -46,7 +44,6 @@
 
 
 
-{"name": "David Clunie", "affiliation": "DICOM Standards Committee"},
 
 
 
@@ -55,14 +52,12 @@
 
 
 
-{"name": "Andrew Gelman", "affiliation": "Columbia University"},
 
 
 
 
 
 
-{"name": "Stuart Buck", "affiliation": "Arnold Ventures"},
 
 
 
@@ -152,11 +147,9 @@
 
 
 
-{"name": "Iratxe Puebla", "affiliation": "ASAPbio"},
 
 
 
-{"name": "Udunna Anazodo", "affiliation": "Western University, Canada"},
 
 
 
@@ -165,9 +158,16 @@
 
 
 
-{"name": "Alison Fromme", "affiliation": "arXiv.org"},
 
-{"name": "Brian Nosek", "affiliation": "Center for Open Science"},
+
+
+
+
+
+
+
+
+
 
 
 {"name": "", "affiliation": "Dummy entry"} ] }

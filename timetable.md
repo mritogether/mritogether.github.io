@@ -94,17 +94,17 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] [The Replication Crisis in Science - Lessons Learned Across Disciplines](https://youtu.be/jKkZjpG3wNI)** - Sabine Hoffmann
 - **[20 min] [Bayesian Statistics and Reproducible Science](https://youtu.be/j_1tVewtURI)** - Andrew Gelman
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
-- **[45 min] [A White Hat's Guide to P-Hacking (Hands-On/Interactive session)](https://youtu.be/yePA9fHjgfw)** [interactive link](https://github.com/XDeligianni/phacking)** - Xeni Deligianni
+- **[45 min] [A White Hat's Guide to P-Hacking (Hands-On/Interactive session)](https://youtu.be/yePA9fHjgfw)** - [interactive link](https://github.com/XDeligianni/phacking) - Xeni Deligianni
 </div>
 <div class="session-element" markdown="1">
 <h5>(Session B2) Ensuring Reproducibility: Phantoms and Preclinical Imaging</h5>
 <h6>Atlantic - <span class="timezone_adapt" data-date="14" data-start-time="12" data-end-time="14"></span><br/></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjV1MHZrdHM2Zm50amY4M3NyYjNlOG42ZGUgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderator:** Shaihan Malik and Peter Lally
-- **[20 min] The Metrics of Quantitative Evaluation for Phantom Studies: Bias and Precision** - Sebastian Weingärtner
-- **[20 min] Designing Digital Phantoms using Numerical Approximation Informed by In-Vivo Scans** - José Marques
-- **[20 min] Application of Diffusion Phantoms for Reproducible ADC mapping across MRI Vendor Platforms: absolute accuracy, linearity and uniformity** - Dariya Malyarenko
+- **[20 min] [The Metrics of Quantitative Evaluation for Phantom Studies: Bias and Precision](https://youtu.be/Cdimm2TELHE)** - Sebastian Weingärtner
+- **[20 min] [Designing Digital Phantoms using Numerical Approximation Informed by In-Vivo Scans](https://youtu.be/IWMIJd-3jHY)** - José Marques
+- **[20 min] [Application of Diffusion Phantoms for Reproducible ADC mapping across MRI Vendor Platforms: absolute accuracy, linearity and uniformity](https://youtu.be/a2LY-IneDCk)** - Dariya Malyarenko
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
-- **[45 min] Hands on/Interactive session: Designing a Digital Reference Object for Arterial Spin Labelling (ASL DRO)** - Aaron Oliver-Taylor
+- **[45 min] [Hands on/Interactive session: Designing a Digital Reference Object for Arterial Spin Labelling (ASL DRO)](https://youtu.be/Unjec5TLCBQ)** - Aaron Oliver-Taylor
 </div>
 </div>
 <div class="session-container">
@@ -120,11 +120,11 @@ Content will be accessed through Zoom Events (when you register for the event yo
 <div class="session-element" markdown="1">
 <h6>Pacific - <span class="timezone_adapt" data-date="15" data-start-time="00" data-end-time="02"></span></h6> ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHNsdjhjZ3F2cmhidmwxdTJ0NGgwZHYyaDAgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderators:** Cornelius Faber and Ludger Starke
-- **[20 min] Magnetic Particle Imaging for imaging GI Bleeds, Pulmonary Embolisms, and CAR T Cell Therapies** - Steven Conolly
-- **[20 min] Cross-site Efforts in Preclinical Imaging, the New Way Forward** - Joanes Grandjean
-- **[20 min] Current Challenges in Translational MRI of Cancer** - Thomas Yankeelov
+- **[20 min] [Magnetic Particle Imaging for imaging GI Bleeds, Pulmonary Embolisms, and CAR T Cell Therapies](https://youtu.be/vPYJssD5x9Q)** - Steven Conolly
+- **[20 min] [Cross-site Efforts in Preclinical Imaging, the New Way Forward](https://youtu.be/FYkI3qZAzSk)** - Joanes Grandjean
+- **[20 min] [Current Challenges in Translational MRI of Cancer](https://youtu.be/N4d85_UrEp4)** - Thomas Yankeelov
 - *[15 min] [Social break hosted by A10dee](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)*
-- **[45 min] Opportunities & Challenges of Magnetic Resonance Spectroscopy Research (Hands on/Interactive session)** - Georg Oeltzschner
+- **[45 min] [Opportunities & Challenges of Magnetic Resonance Spectroscopy Research (Hands on/Interactive session)](https://youtu.be/PDom5O34gu4)** - Georg Oeltzschner
 </div>
 </div>
 
