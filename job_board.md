@@ -14,6 +14,8 @@ For example:
 
 ## Open Positions
 
+- [PhD student](http://users.ece.utexas.edu/~jtamir/files/utcsilab_student_flyer_2021.pdf) - Computational medical imaging - The University of Texas at Austin, Texas, USA
+- [Postdoctoral researcher](http://users.ece.utexas.edu/~jtamir/files/utcsilab_postdoc_flyer_2021.pdf) - Computational medical imaging - The University of Texas at Austin, Texas, USA
 - [PhD student](/job_board_files/job_ad_2021_GradientHardware.pdf) - Gradient and shimming hardware - University Medical Center Freiburg, Germany
 - [PhD student or Postdoctoral Researcher](/job_board_files/job_ad_2021_ImageRecon.pdf) - MR image reconstruction with AI - University Medical Center Freiburg, Germany
 - [PhD student](/job_board_files/job_ad_2021_Sequences.pdf) - Vendor-independent MR pulse sequence development - University Medical Center Freiburg, Germany
