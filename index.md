@@ -4,6 +4,12 @@ layout: default
 javascript: [ jquery-3.6.0.min.js, jQuery.scrollText.js, speaker_list.js ]
 ---
 
+# MRI Together 21 is over!
+
+It was a fantastic journey, and we are overwhelmed by the fantastic response! More than 100 outstanding speakers, almost 900 registered attendees, a total cumulated duration of more than 50 hours of meetings and webinars, more than 36 hours of recorded talks... We hope that our journey will continue in a future MRI Together event!
+
+In the meantime, you can enjoy the recorded talks by following the links on the [program page](/timetable), or by directly accessing the [whole playlist](https://www.youtube.com/playlist?list=PLeDygc8TN_J48APEUyle4Ql2uSTc74Nsg) and browse the [accepted abstracts](/abstracts)
+
 # MRI Together
 What's all the buzz about **open science** and **reproducibility**?
 
@@ -15,17 +21,7 @@ Whether you're a **developer**, a **medical doctor**, a **researcher in basic sc
 
 # Highlights
 
-## The first video recordings are available. Follow the links on the [program page](/timetable)!
-
-## Social gathering platform A10dee: [https://bit.ly/mritogether-social](https://platform.a10dee.com/open-science/events?event=I8NL4qMzh9DyDHH4FQdh)
-
-## Check the information on [how to attend the conference](/howto)!
-
-## Accepted abstracts are [available](/abstracts)!
-
-## [Registration](/registration) is now open!
-
-## The program is finalized with more than 100 confirmed speakers!
+## MRI Together is over!
 
 <div id="scrollContainer" style="line-height: 25px; overflow: hidden">
 <ul id="speakerList">
