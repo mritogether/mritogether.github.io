@@ -4,9 +4,9 @@ layout: default
 javascript: [ jquery-3.6.0.min.js, jQuery.scrollText.js, speaker_list.js ]
 ---
 
-# MRI Together 21 is over!
+# MRI Together 21 lives on!
 
-It was a fantastic journey, and we are overwhelmed by the fantastic response! More than 100 outstanding speakers, almost 900 registered attendees, a total cumulated duration of more than 50 hours of meetings and webinars, more than 36 hours of recorded talks... We hope that our journey will continue in a future MRI Together event!
+It has been a fantastic journey, and we are overwhelmed by the fantastic response! More than 100 outstanding speakers, almost 900 registered attendees, a total cumulated duration of more than 50 hours of meetings and webinars, more than 36 hours of recorded talks... We hope that our journey will continue in a future MRI Together event!
 
 In the meantime, you can enjoy the recorded talks by following the links on the [program page](/timetable), or by directly accessing the [whole playlist](https://www.youtube.com/playlist?list=PLeDygc8TN_J48APEUyle4Ql2uSTc74Nsg) and browse the [accepted abstracts](/abstracts)
 
@@ -21,7 +21,7 @@ Whether you're a **developer**, a **medical doctor**, a **researcher in basic sc
 
 # Highlights
 
-## MRI Together is over!
+## MRI Together 21 lives on!
 
 ## [Youtube playlist](https://www.youtube.com/playlist?list=PLeDygc8TN_J48APEUyle4Ql2uSTc74Nsg) of recorded talks (also accessible from the [program page](/timetable))
 
