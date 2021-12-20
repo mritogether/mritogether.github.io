@@ -4,6 +4,10 @@ layout: default
 javascript: [ jquery-3.6.0.min.js, jQuery.scrollText.js, speaker_list.js ]
 ---
 
+# Recorded videos
+
+You can click on any talk title from the [program page](/timetable) to see the recorded video directly. Otherwise, this is a [playlist of all videos](https://www.youtube.com/playlist?list=PLeDygc8TN_J48APEUyle4Ql2uSTc74Nsg)
+
 # Meeting content
 
 The meeting consists of lectures and panel discussions in the Opening and Closing sessions, and more practical talks including hands-on workshops in between.
