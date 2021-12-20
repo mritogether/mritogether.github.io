@@ -23,6 +23,10 @@ Whether you're a **developer**, a **medical doctor**, a **researcher in basic sc
 
 ## MRI Together is over!
 
+## [Youtube playlist](https://www.youtube.com/playlist?list=PLeDygc8TN_J48APEUyle4Ql2uSTc74Nsg) of recorded talks (also accessible from the [program page](/timetable))
+
+## [Accepted abstracts](/abstracts)
+
 <div id="scrollContainer" style="line-height: 25px; overflow: hidden">
 <ul id="speakerList">
 <li>Loading list... (requires Javascript)</li>
