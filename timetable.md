@@ -39,7 +39,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 **Open Source and Commercial Development** ([Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzM2MmY0ZjZjZHYybzBla2djbzRlMWpnZXIgY18wYnNlaWY1OGtrZmdvcm9qdGdwNjl2dDVjZ0Bn&tmsrc=c_0bseif58kkfgorojtgp69vt5cg%40group.calendar.google.com){:target="_blank"})
 - **Moderators:** Laura Bell and Francesco Santini
 - **[15 min] [Welcome and overview of the meeting](https://youtu.be/XLNDewxkBJ0)** - Laura Bell and Francesco Santini
-- **[25 min] MATLAB for Open Science in MRI** - Reza Fazel-Rezai and Rob Holt
+- **[25 min] [MATLAB for Open Science in MRI](https://youtu.be/YBH0agaRrO4)** - [link to slides](/files/slides/MATLAB for Open Science in MRI.pdf) - Reza Fazel-Rezai
 - **[25 min] [3D Slicer: Long-term sustainability of a large open-source project](https://youtu.be/xhov17k1q0Q)** - Andras Lasso
 - **[25 min] [Hyperfine: Ensuring good science and reproducibility within closed development](https://youtu.be/PL_tDJD6M8Q)** - Michael Poole
 - **[30 min] [How Making Software Free Can Create Commercial Success](https://youtu.be/7ybRNCmXzq0)** - Travis Oliphant
