@@ -54,7 +54,7 @@ Content will be accessed through Zoom Events (when you register for the event yo
 - **[20 min] [(MRI) Data Sharing in Europe](https://youtu.be/cNO7zR1K4pA)** - Stephan Heunis
 - **[20 min] [Data Sharing and Curation at Flywheel](https://youtu.be/DEy7lJJuB5E)** - Nicolas Pannetier
 - *[15 min] [Social break hosted by A10dee](https://a10dee.com)*
-- **[45 min] XNAT - Data Sharing in Multicentre Studies** - Simon Doran
+- **[45 min] [XNAT - Data Sharing in Multicentre Studies](https://youtu.be/665BmH4t2VM)** - Simon Doran
 </div>
 <div class="session-element" markdown="1">
 <h5>(Session A2) Data Formats</h5>
