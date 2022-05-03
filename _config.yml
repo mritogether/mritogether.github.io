@@ -1,11 +1,11 @@
 theme: jekyll-theme-slate
 title: MRI Together
-description: A global workshop on Open Science and Reproducible MR Research
+description: Global workshop on Open Science and Reproducible MR Research
 email: mritogether.workshop@gmail.com
 twitter: mritogether
 youtube: playlist?list=PLeDygc8TN_J48APEUyle4Ql2uSTc74Nsg
 
-google_analytics: 
+google_analytics: G-45HJHW9N5G
 
 repository: mritogether/mritogether.github.io
 markdown: kramdown
@@ -21,16 +21,18 @@ header:
   links:
     - label: <i class="fas fa-home-lg-alt"></i>
       url: /
+    - label: Past Meetings
+      url: /21m/index
     - label: Overview
       url: /overview
     - label: Program
       url: /timetable
-    - label: Registration
-      url: /registration
+    # - label: Registration
+    #   url: /registration
     - label: How to attend
       url: /howto
-    - label: Accepted abstracts
-      url: /abstracts
+    # - label: Accepted abstracts
+    #   url: /abstracts
     - label: Organizers
       url: /committee
     - label: Sponsors

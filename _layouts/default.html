@@ -35,9 +35,9 @@
             <a style="font-size:11px;" href="mailto:{{ site.email | mailObfuscate }}"><i class="fa fa-envelope-open fa-lg"></i> EMAIL</a> <a style="font-size:11px;" href="{{ site.twitter }}"><i class="fab fa-twitter-square fa-xl"></i> TWITTER </a> <a style="font-size:11px;" href="{{ site.youtube }}"><i class="fab fa-youtube fa-xl"></i> YOUTUBE </a>
             </span> -->
             <ul class="social-icons">
-              <li><a class="email" href="mailto:{{ site.email | mailObfuscate }}"><i class="fa fa-envelope"></i></a></li>
-              <li><a class="twitter" href="https://twitter.com/{{site.twitter}}"><i class="fab fa-twitter"></i></a></li>
-              <li><a class="youtube" href="https://www.youtube.com/{{site.youtube}}"><i class="fab fa-youtube"></i></a></li>
+              <li><a class="email" href="mailto:{{ site.email | mailObfuscate }}" target="_blank"><i class="fa fa-envelope"></i></a></li>
+              <li><a class="twitter" href="https://twitter.com/{{site.twitter}}" target="_blank"><i class="fab fa-twitter"></i></a></li>
+              <li><a class="youtube" href="https://www.youtube.com/{{site.youtube}}" target="_blank"><i class="fab fa-youtube"></i></a></li>
               <!-- <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>    -->
             </ul>
           </div>
@@ -109,6 +109,14 @@
         ga('create', '{{ site.google_analytics }}', 'auto');
         ga('send', 'pageview');
       </script>
-    {% endif %}
+      <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-45HJHW9N5G"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-45HJHW9N5G');
+      </script>
+ -->    {% endif %}
   </body>
 </html>
