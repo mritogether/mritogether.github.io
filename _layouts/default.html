@@ -56,11 +56,26 @@
           {% endif %} -->
           {% if site.header.links %}
             <div id="nav-menu">
-            {% for link in site.header.links %}
-              {% assign page_url = page.url | trim: '/' %}
-              {% assign link_url = link.url | trim: '/' %}
-              <div class="menu-item"><a href="{{ link_url }}">{{ link.label }}</a></div>
-            {% endfor %}
+              <!-- {% for link in site.header.links %}
+                {% assign page_url = page.url | trim: '/' %}
+                {% assign link_url = link.url | trim: '/' %}
+                <div class="menu-item"><a href="{{ link_url }}">{{ link.label }}</a></div>
+              {% endfor %} -->
+              <div class="menu-item"><a href="/"><i class="fas fa-home-lg-alt"></i></a></div>
+              <div class="menu-item"><div class="dropdown">
+                <button class="dropbtn">Past Meetings 
+                <!-- <i class="fa fa-caret-down"></i> -->
+                  </button>
+                  <div class="dropdown-content">
+                    <a href="/21m/index">MRI Together 2021</a>
+                  </div>
+                </div> 
+              </div>
+              <div class="menu-item"><a href="/overview">Overview</a></div>
+              <div class="menu-item"><a href="/committee">Organizers</a></div>
+              <div class="menu-item"><a href="/registration">Registration</a></div>
+              <div class="menu-item"><a href="/sponsors">Sponsors</a></div>
+              <div class="menu-item"><a href="/job_board">Job Board</a></div>
             </div>
           {% endif %}
           {% unless page.title == "MRI Together" %}
