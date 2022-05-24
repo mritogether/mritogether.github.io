@@ -7,6 +7,12 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://kit.fontawesome.com/621c4d47d6.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+    <style>
+    .tablelines table, .tablelines td, .tablelines th {
+            border: 1px solid black;
+            }
+    </style>
 
 {% seo %}
     
@@ -54,7 +60,7 @@
               <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
             </section>
           {% endif %} -->
-          {% if site.header.links %}
+          <!-- {% if site.header.links %} -->
             <div id="nav-menu">
               <!-- {% for link in site.header.links %}
                 {% assign page_url = page.url | trim: '/' %}
@@ -72,15 +78,15 @@
                 </div> 
               </div>
               <div class="menu-item"><a href="/overview">Overview</a></div>
-              <div class="menu-item"><a href="/committee">Organizers</a></div>
               <div class="menu-item"><a href="/registration">Registration</a></div>
-              <div class="menu-item"><a href="/sponsors">Sponsors</a></div>
+              <div class="menu-item"><a href="/committee">Organizers</a></div>
+              <div class="menu-item"><a href="/sponsors">Supporters</a></div>
               <div class="menu-item"><a href="/job_board">Job Board</a></div>
             </div>
-          {% endif %}
+          <!-- {% endif %} -->
           {% unless page.title == "MRI Together" %}
           <!-- <hr style="width:100%;text-align:left;margin-left:0"> -->
-          <div class="et_section" style="margin-left: -46%; margin-right: -46%"><h1 style="padding-left: 24%"> {{page.title}}</h1></div>
+          <div class="et_section" style="margin-left: -46%; margin-right: -32%"><h1 style="padding-left: 26%">{{page.title}}</h1></div>
           {% endunless %}
         </header>
     </div>

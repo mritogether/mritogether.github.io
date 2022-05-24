@@ -2,6 +2,7 @@
 ---
 
 @import "jekyll-theme-slate";
+@import "table";
 
 #contact_header {
     position: absolute;
@@ -190,34 +191,6 @@ p img {
 
 .session-element {
     max-width: 50%;
-}
-
-/* attribute selector - a form of CSS inheritance */
-[class*="sponsor_"] {
-    float: none;
-    display: inline-block;
-    max-width: 40%;
-    width: 40%;
-    border: 5px solid #FFFFFF;
-    margin: 0px 10px 0px 10px;
-    height: 150px;
-    object-fit: contain;
-}
-
-.sponsor_platinum {
-    border-color: #E5E4E2;
-}
-
-.sponsor_gold {
-    border-color: #e4bf47;
-}
-
-.sponsor_silver {
-    border-color: #C0C0C0;
-}
-
-.sponsor_bronze {
-    border-color: #A97142;
 }
 
 
@@ -454,4 +427,55 @@ p img {
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+/*sponsors*/
+
+.sponsor{
+    width:180px;
+    height:180px;
+    float:left;
+    margin:4px;
+
+    /* Giving the sponsor div a relative positioning: */
+    position:relative;
+    cursor:pointer;
+}
+
+[class*="sponsor_"] {
+    width:360px;
+    height:100%;
+    float: none;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 15px;
+    border-spacing:10px;
+    /*display: block;*/
+    margin: auto;
+    /*max-width: 40%;
+    width: 40%;*/
+    border: 2px solid #FFFFFF;
+    padding: 15px;
+    /*margin: 0px 10px 0px 10px;*/
+    /*margin: 4px;*/
+    /*height: 150px;*/
+    /*object-fit: contain;*/
+    object-fit: scale-down;
+    position:relative;
+}
+
+.sponsor_platinum {
+    border-color: #E5E4E2;
+}
+
+.sponsor_gold {
+    border-color: #e4bf47;
+}
+
+.sponsor_silver {
+    border-color: #C0C0C0;
+}
+
+.sponsor_bronze {
+    border-color: #A97142;
 }
