@@ -1,5 +1,11 @@
+--- 
+title: Code of Conduct 
+layout: default
+--- 
 <!-- # MRI Together Code of Conduct -->
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+<div style="float: center; vertical-align: top;">
+<a href="https://www.contributor-covenant.org"><img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="Contributor Covenant"></a>
+</div>
 
 ## Our Pledge
 
@@ -49,12 +55,17 @@ The organizers will review potential violations of this Code of Conduct and will
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html; and from ["Noise as Signal" code of conduct][noiseassignal].
+version 2.1, available
+[here][v2]; and from ["Noise as Signal" code of conduct][noiseassignal].
 
+
+For answers to common questions about this code of conduct, see the FAQ
+[here][faq]. Translations are available
+[here][translations].
+
+[v2]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
 [homepage]: https://www.contributor-covenant.org
 [noiseassignal]: https://www.noiseassignal.org
+[faq]: https://www.contributor-covenant.org/faq
+[translations]: https://www.contributor-covenant.org/translations
 
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
