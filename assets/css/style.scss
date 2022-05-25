@@ -99,7 +99,7 @@ a:hover { text-decoration: none; }
   border-top: 0px;
   background: #fff;
   border-bottom: 0px;
-    min-height: calc(66vh - 24px); /*(100 - header height) - footer height*/
+  min-height: calc(61vh - 24px); /*(100 - header height) - footer height*/
 }
 
 body {
@@ -124,6 +124,7 @@ h5 {
   display: flex;
   padding: 5px;
   flex-wrap: wrap;
+  align-items: center;
   /*position: absolute;
   left: 0px;*/
 }

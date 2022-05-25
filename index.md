@@ -12,37 +12,37 @@ You can access everything from MRI Together 21 [here](/21m/index), alternatively
 
 Meanwhile, we are excited to accounce that MRI Together will be back in **December 2022**, and this is the space to watch for updates!
 
-# MRI Together
+## What?
+
 What's all the buzz about **open science** and **reproducibility**?
 
-**MRI Together** is a global online event on Open Science and Reproducibility in MRI, endorsed by the ESMRMB. The meeting hosts lectures, panel discussions, and hands-on workshops given by prominent speakers from industry and academia. Topics ranging from the statistical tools for reproducible research, to data sharing policies, and the obstacles and practices in using artificial intelligence in MRI will be covered.
+**MRI Together** is a global online event on Open Science and Reproducibility in MRI. The meeting hosts lectures, panel discussions, and hands-on workshops by prominent speakers from industry and academia. Topics ranging from statistical tools for reproducible research, to open hardware and software practices, to data sharing policies, and the obstacles and best practices in using artificial intelligence in MRI will be covered.
+<img src="/images/ESMRMB_2022_MRI-together.png" width="48%">
 
-Whether you're a **developer**, a **medical doctor**, a **researcher in basic science**, or a **data scientist**, there's something for you here.
+Topics will include, but not be limited to:
 
-<img src="/images/ESMRMB_2022_MRI-together.png" width="51%">
+* Open source tools for acquisition, reconstruction and analysis
+* Wellbeing and inclusive research practices
+* Challenges in open deep-learning research
+* Data sharing
+* Open Science and Open Development from a vendors' perspective
+* The reproducibility crisis
+* Open Publishing
+
+
+Whether you're a **MR physicist**, **developer**, **medical doctor**, **researcher in basic science**, or **data scientist**, there's something for you here.
+
 <!-- ![22](/images/ESMRMB_2022_MRI-together.png | width=100)
  -->
 
 
-## When
-The dates of the workshop are **December 5 to 8, 2022**. We will have sessions in all time zones, and all the talks will be recorded and available for immediate offline use. No matter where you are in the world, you will have exciting live sessions during your daytime, and lots of contents to watch at your convenience!
+## When?
+The workshop will be held on **December 5 to 8, 2022**. We will have sessions in all time zones, and all the talks will be recorded and available for immediate offline use. No matter where you are in the world, you will have exciting live sessions during your daytime, and lots of contents to watch at your convenience!
 We will also have a social platform to gather and discuss! 
 
-## What
 
-Prominent speakers from all over the world, from academia and industry, will present and discuss advances and challenges on open and reproducible MRI research.
-Topics will include:
-* The reproducibility crisis
-* Data sharing
-* Open Publishing
-* Wellbeing and inclusive research practices
-* Open source tools for acquisition, reconstruction and analysis
-* Challenges in open deep-learning research
-* Open Science and Open Development from a vendors' perspective
-
-## Who
-
-We are a [team](/committee) of MRI scientists from different corners of the MRI world (and the earth) with a passion for Open Science. With support from [ESMRMB](https://esmrmb.org/) this global workshop aims to bring MRI scientists together -- no matter if you are a physicist, engineer, computer scientist, radiographer, or physician. If you are passionate about Open Science, [join us](/registration)!
+## Who?
+We are a [team](/committee) of MRI scientists from different corners of the MRI world (and the physical world) with a passion for Open Science. With support and endorsement from [ESMRMB](https://esmrmb.org/) this global workshop aims to bring MRI scientists together. If you are passionate about Open Science, [join us](/registration)!
 
 <!-- <img src="/images/esmrmb_banner.png" style="max-width: 100%;"/> -->
 
