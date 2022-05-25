@@ -1,5 +1,5 @@
 ---
-title: Timetable
+title: Timetable (past meeting)
 layout: default
 javascript: [ timezone.js ]
 ---

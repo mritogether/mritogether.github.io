@@ -1,5 +1,5 @@
 --- 
-title: Site credits
+title: Site credits (past meeting)
 layout: default
 --- 
 # Image credits

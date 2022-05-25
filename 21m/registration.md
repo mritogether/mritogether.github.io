@@ -1,5 +1,5 @@
 --- 
-title: Registration
+title: Registration (past meeting)
 layout: default
 --- 
 

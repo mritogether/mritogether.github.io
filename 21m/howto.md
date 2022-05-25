@@ -1,5 +1,5 @@
 --- 
-title: Attendance howto
+title: Attendance howto (past meeting)
 layout: default
 --- 
 

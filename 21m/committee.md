@@ -1,5 +1,5 @@
 --- 
-title: Organizing committee
+title: Organizing committee (past meeting)
 layout: default
 --- 
 # Workshop organizing committee

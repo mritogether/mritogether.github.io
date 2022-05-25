@@ -1,12 +1,12 @@
 ---
-title: Overview
+title: Overview (past meeting)
 layout: default
 javascript: [ jquery-3.6.0.min.js, jQuery.scrollText.js, speaker_list.js ]
 ---
 
 # Recorded videos
 
-You can click on any talk title from the [program page](/timetable) to see the recorded video directly. Otherwise, this is a [playlist of all videos](https://www.youtube.com/playlist?list=PLeDygc8TN_J48APEUyle4Ql2uSTc74Nsg)
+You can click on any talk title from the [program page](/21m/timetable) to see the recorded video directly. Otherwise, this is a [playlist of all videos](https://www.youtube.com/playlist?list=PLeDygc8TN_J48APEUyle4Ql2uSTc74Nsg)
 
 # Meeting content
 
@@ -15,7 +15,7 @@ The meeting consists of lectures and panel discussions in the Opening and Closin
 Every session will be repeated twice, in two different session times separated by 12 hours, so ideally everyone will be able to enjoy it live. While the topic will be the same in the two repetitions, the speakers will change and different content will be available. All the content will be available for viewing online immediately after the live session.
 
 ## Overview of Program Times
-The meeting will span 4 days (December 13th to 17th 2021), over 4 distinct session times (see the [timetable](/timetable) page for details) in order to have live content evenly distributed over all the time zones.
+The meeting will span 4 days (December 13th to 17th 2021), over 4 distinct session times (see the [timetable](/21m/timetable) page for details) in order to have live content evenly distributed over all the time zones.
 
 For a visual appearance of the time zones that will fit your schedule, check out this map below: yellow represents the *Atlantic*, blue represents the *Pacific*,  green represents the *Indian*, and red represents the *Caribbean* session times.
 <img src="/images/worldmap_timezones.png" alt="World map with session times" style="max-width: 100%;"/>

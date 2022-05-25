@@ -1,5 +1,5 @@
 --- 
-title: Accepted abstracts
+title: Accepted abstracts (past meeting)
 layout: default
 javascript: [ obfuscate.js ]
 --- 

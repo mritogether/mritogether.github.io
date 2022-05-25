@@ -1,5 +1,5 @@
 --- 
-title: Job Board
+title: Job Board (past meeting)
 layout: default
 --- 
 

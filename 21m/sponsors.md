@@ -1,5 +1,5 @@
 --- 
-title: Sponsoring
+title: Sponsoring (past meeting)
 layout: default
 --- 
 
