@@ -2,7 +2,7 @@
 title: Organizing Committee
 layout: default
 --- 
-<table style="width:100%">
+<!-- <table style="width:100%">
 <tbody>
 <tr>
     <td><img src="/images/committee/sophie.jpg" width=200px></td>
@@ -25,4 +25,7 @@ layout: default
 <td><strong><a href="https://www.linkedin.com/in/yan-tong-6b20ba141/">Yan Tong</a></strong><br> United Imaging, China</td>
 </tr>
 </tbody>
-</table>
+</table> -->
+<div>
+<img src="/images/committee/worldmap.png" width=900pt style="-webkit-box-shadow: 0 0 0px #ffffff; border: 0px;max-width: 900pt">
+</div>
