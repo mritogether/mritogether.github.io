@@ -26,4 +26,5 @@ To learn more about ways that _you_ can support the event, please [contact us](m
 
 [![Calimetrix Logo](images/sponsors/calimetrix.png){:.sponsor_gold}](https://calimetrix.com/) --> 
 [![Flywheel Logo](images/sponsors/flywheel.png){:.sponsor_gold}](https://www.flywheel.io/)
+[![GE Logo](images/sponsors/ge.png){:.sponsor_gold}](https://www.gehealthcare.com)
 
