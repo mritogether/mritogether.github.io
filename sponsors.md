@@ -28,3 +28,6 @@ To learn more about ways that _you_ can support the event, please [contact us](m
 [![Flywheel Logo](images/sponsors/flywheel.png){:.sponsor_gold}](https://www.flywheel.io/)
 [![GE Logo](images/sponsors/ge.png){:.sponsor_gold}](https://www.gehealthcare.com)
 
+## Silver sponsors
+[![Biogen Logo](images/sponsors/biogen.png){:.sponsor_silver}](https://biogen.com/)
+
