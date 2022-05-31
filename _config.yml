@@ -1,8 +1,9 @@
 theme: jekyll-theme-slate
 title: MRI Together
-description: Global workshop on Open Science and Reproducible MR Research
+description: Global workshop on open science and reproducible MR research
 email: mritogether.workshop@gmail.com
-twitter: mritogether
+twitter: ESMRMB
+linkedin: company/esmrmb
 youtube: playlist?list=PLeDygc8TN_J48APEUyle4Ql2uSTc74Nsg
 
 google_analytics: G-45HJHW9N5G
@@ -17,26 +18,26 @@ plugins:
 - jekyll-sitemap
 - jemoji
 
-header:
-  links:
-    - label: <i class="fas fa-home-lg-alt"></i>
-      url: /
-    - label: Past Meetings
-      url: /21m/index
-    - label: Overview
-      url: /overview
-    - label: Program
-      url: /timetable
-    # - label: Registration
-    #   url: /registration
-    - label: How to attend
-      url: /howto
-    # - label: Accepted abstracts
-    #   url: /abstracts
-    - label: Organizers
-      url: /committee
-    - label: Sponsors
-      url: /sponsors
-    - label: Job board
-      url: /job_board
+# header:
+#   links:
+#     - label: <i class="fas fa-home-lg-alt"></i>
+#       url: /
+#     - label: Past Meetings
+#       url: /21m/index
+#     - label: Overview
+#       url: /overview
+#     - label: Program
+#       url: /timetable
+#     # - label: Registration
+#     #   url: /registration
+#     - label: How to attend
+#       url: /howto
+#     # - label: Accepted abstracts
+#     #   url: /abstracts
+#     - label: Organizers
+#       url: /committee
+#     - label: Sponsors
+#       url: /sponsors
+#     - label: Job board
+#       url: /job_board
     
