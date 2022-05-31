@@ -18,10 +18,10 @@ plugins:
 - jekyll-sitemap
 - jemoji
 
-# header:
-#   links:
-#     - label: <i class="fas fa-home-lg-alt"></i>
-#       url: /
+header:
+  links:
+    - label: dummy
+      url: dummy
 #     - label: Past Meetings
 #       url: /21m/index
 #     - label: Overview
