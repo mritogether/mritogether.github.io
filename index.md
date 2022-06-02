@@ -1,7 +1,7 @@
 ---
 title: MRI Together
 layout: default
-javascript: [ jquery-3.6.0.min.js, jQuery.scrollText.js, speaker_list.js ]
+# javascript: [ jquery-3.6.0.min.js, jQuery.scrollText.js, speaker_list.js ]
 ---
 
 # MRI Together is coming back in December 22!
