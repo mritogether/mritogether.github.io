@@ -4,7 +4,7 @@ layout: default
 --- 
 <!-- # MRI Together Code of Conduct -->
 <div style="float: center; vertical-align: top;">
-<a href="https://www.contributor-covenant.org"><img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="Contributor Covenant"></a>
+<a href="https://www.contributor-covenant.org"><img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="Contributor Covenant" style="box-shadow: none; border: none;"></a>
 </div>
 
 ## Our Pledge

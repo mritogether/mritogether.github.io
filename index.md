@@ -17,7 +17,7 @@ Meanwhile, we are excited to accounce that MRI Together will be back in **Decemb
 What's all the buzz about **open science** and **reproducibility**?
 
 **MRI Together** is a global online event on Open Science and Reproducibility in MRI. The meeting hosts lectures, panel discussions, and hands-on workshops by prominent speakers from industry and academia. Topics ranging from statistical tools for reproducible research, to open hardware and software practices, to data sharing policies, and the obstacles and best practices in using artificial intelligence in MRI will be covered.
-<img src="/images/ESMRMB_2022_MRI-together.png" width="48%">
+<!-- <img src="/images/ESMRMB_2022_MRI-together.png" width="48%"> -->
 
 Topics will include, but not be limited to:
 
@@ -44,6 +44,5 @@ We will also have a social platform to gather and discuss!
 ## Who?
 We are a [team](/committee) of MRI scientists from different corners of the MRI world (and the physical world) with a passion for Open Science. With support and endorsement from [ESMRMB](https://esmrmb.org/) this global workshop aims to bring MRI scientists together. If you are passionate about Open Science, [join us](/registration)!
 
-<!-- <img src="/images/esmrmb_banner.png" style="max-width: 100%;"/> -->
 
 <p>&nbsp;</p>
