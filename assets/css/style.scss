@@ -114,7 +114,7 @@ a:hover { text-decoration: none; }
   border-top: 0px;
   background: #fff;
   border-bottom: 0px;
-  min-height: calc(68vh - 23px); /*(100 - header height) - footer height*/
+  min-height: calc(64vh - 22px); /*(100 - header height) - footer height*/
 }
 
 body {
@@ -815,9 +815,9 @@ span.logo_helper {
     padding-left: 0px;
     height: inherit;
     text-align: left;
-        z-index: 99;
-        position: relative;
-        margin: auto;
+    z-index: 99990 !important;
+    position: relative;
+    margin: auto;
 }
 
 .logo_container a {
@@ -834,3 +834,55 @@ span.logo_helper {
 #logo {
     display: none!important;
 }
+
+
+/*sticky header */
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+
+.sticky {
+  padding: 10px 0px;
+}
+
+.sticky_menu {
+  position: fixed;
+  top: 0;
+  width: 80%;
+  background: none no-repeat scroll 0 0 #fff;
+  overflow: hidden;
+  max-width: 1150px;
+}
+
+.sticky_body_other {
+  margin-top: 150px;
+}
+
+.sticky_body_main {
+  margin-top: 42px;
+}
+
+.sticky_title {
+  position: fixed;
+  margin-top: 45px;
+  top: 0;
+  width: 100%;
+  z-index: 999999 !important;
+  background: none no-repeat scroll 0 0 #fff;
+}
+
+.line{
+  border-bottom: 2px solid #009080; min-height: 2px; max-height: 2px;
+}
+.sticky_line {
+  position: fixed;
+  margin-top: 41px;
+  top: 0;
+  width: 100%;
+  z-index: 999999 !important;
+  background: none no-repeat scroll 0 0 #fff;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+/*.sticky_menu + .outer {
+  padding-top: 102px;
+}*/
+

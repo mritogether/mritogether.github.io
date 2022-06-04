@@ -39,7 +39,8 @@
         </div>
       </div>
   </div>
-  <header id="main-header" data-height-onload="203" data-height-loaded="true" data-fixed-height-onload="203" style="border-bottom: 2px solid #009080;">
+  
+  <header id="main-header" data-height-onload="203" data-height-loaded="true" data-fixed-height-onload="203">
     <div class="et_menu_container">
       <div class="logo_container">
         <span class="logo_helper"></span>
@@ -49,7 +50,9 @@
       </div>
     <div style="padding-top: 40px">
     <a href="/"><h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1></a>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          <h2 id="project_tagline" style="margin-bottom: 0px;">
+          {{ site.description | default: site.github.project_tagline }}</h2>
+        <div id="sticky_menu" style="z-index: 999999;">
             <div id="nav-menu" style="padding-left: 0px;">
               <!-- {% for link in site.header.links %}
                 {% assign page_url = page.url | trim: '/' %}
@@ -77,18 +80,24 @@
         </div>
       </div>
   </header>
+  <div id="sticky_line" class="line"></div>
   {% unless page.title == "MRI Together" %}
+  <div id="sticky_title">
           <section id="title" class="inner" style="padding: 19px 0 9px 0!important; margin-left: 0%;
         background-position: center;overflow: hidden;border-bottom: 2px solid #009080;">
         <div id="main_content_wrap" class="outer" style="min-height: 0px"><h1 >{{page.title}}</h1></div>
       </section>
+    </div>
           {% endunless %}
+          </div>
 <!-- MAIN CONTENT -->
+<div id="sticky_body">
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner" style="padding-top: 0px; margin-left: 0%;
     padding-left: 0px;background-position: center;overflow: hidden;">
         {{ content }}
       </section>
+    </div>
     </div>
   <footer class="site-footer">
     <div class="container">
@@ -113,5 +122,43 @@
 
   {% endif %}
 
+  <script type="text/javascript">
+    // When the user scrolls the page, execute myFunction 
+window.onscroll = function() {myFunction()};
+
+// Get the header
+var header = document.getElementById("sticky_menu");
+var line = document.getElementById("sticky_line");
+var title = document.getElementById("sticky_title");
+var body = document.getElementById("sticky_body");
+
+// Get the offset position of the navbar
+var sticky = header.offsetTop;
+
+// Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+function myFunction() {
+  if (window.pageYOffset > sticky+26) {
+    header.classList.add("sticky_menu");
+    line.classList.add("sticky_line");
+    if(document.title != "MRI Together | Global workshop on open science and reproducible MR research") {
+      title.classList.add("sticky_title");
+      body.classList.add("sticky_body_other");
+    }
+    else {
+    body.classList.add("sticky_body_main");
+    }
+  } else {
+    header.classList.remove("sticky_menu");
+    line.classList.remove("sticky_line");
+    if(document.title != "MRI Together | Global workshop on open science and reproducible MR research") {
+      title.classList.remove("sticky_title");
+      body.classList.remove("sticky_body_other");
+    }
+    else {
+    body.classList.remove("sticky_body_main");
+    }
+  }
+}
+  </script>
   </body>
 </html>
