@@ -213,7 +213,7 @@ p img {
 
 .footer-container{
   padding-top: 50px;
-    padding-right: 20%;
+    padding-right: 16%;
     float: right;
 }
 
@@ -882,9 +882,4 @@ span.logo_helper {
   z-index: 999999 !important;
   background: none no-repeat scroll 0 0 #fff;
 }
-
-/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
-/*.sticky_menu + .outer {
-  padding-top: 102px;
-}*/
 
