@@ -1,5 +1,5 @@
-const speakerUrl = "https://mritogether.github.io/data/speaker_list.json";
-const vipUrl = "https://mritogether.github.io/data/vip_list.json";
+const speakerUrl = "/data/speaker_list.json";
+const vipUrl = "/data/vip_list.json";
 
 const N_OTHER_SPEAKERS = 5;
 const REFRESH_INTERVAL = 10000;
@@ -92,10 +92,10 @@ function populateScrollingSpeakerList()
     scrollContainer.css('height', parseInt(scrollContainer.css('line-height')) * (N_OTHER_SPEAKERS+1) + 10);
     for (let currentSpeaker = 0; currentSpeaker < speakerList.length; currentSpeaker++)
     {
-        if (currentSpeaker % N_OTHER_SPEAKERS == 0)
-        {
-            $("#speakerList").append(createSpeakerText(vipList[ currentVIP++ % vipList.length ]));
-        }
+        // if (currentSpeaker % N_OTHER_SPEAKERS == 0)
+        // {
+        //     $("#speakerList").append(createSpeakerText(vipList[ currentVIP++ % vipList.length ]));
+        // }
         $("#speakerList").append(createSpeakerText(speakerList[currentSpeaker]));
     }
     scrollContainer.scrollText({'duration': SCROLL_INTERVAL});

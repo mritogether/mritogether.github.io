@@ -10,7 +10,8 @@ The last MRI Together wokshop was held in _December 2021_, and it has been a fan
 
 You can access everything from **MRI Together 2021** [here](/21m/index), alternatively, you can enjoy the recorded talks by following the links on the [program page](/21m/timetable), or by directly accessing the [whole playlist](https://www.youtube.com/playlist?list=PLeDygc8TN_J48APEUyle4Ql2uSTc74Nsg) and browsing the [accepted abstracts](/21m/abstracts)
 
-Meanwhile, we are excited to accounce that MRI Together will be back in **December 2022**, and this is the space to watch for updates!
+Meanwhile, we are excited to announce that MRI Together will be back in **December 2022**, and this is the space to watch for updates!
+
 
 ## What?
 
