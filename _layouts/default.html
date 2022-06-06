@@ -8,6 +8,9 @@
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://kit.fontawesome.com/621c4d47d6.js" crossorigin="anonymous"></script>
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+    <script type="text/javascript" src="slick/slick.min.js"></script>
     <style>
     .tablelines table, .tablelines td, .tablelines th {
             border: 1px solid black;
@@ -52,14 +55,17 @@
     <a href="/"><h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1></a>
           <h2 id="project_tagline" style="margin-bottom: 0px;">
           {{ site.description | default: site.github.project_tagline }}</h2>
-        <div id="sticky_menu" style="z-index: 999999;">
+      </div>
+  </header>
+  <div id="sticky_menu" style="z-index: 999999;">
+    <div style="max-width:1150px; align-content: center; margin: auto;">
             <div id="nav-menu" style="padding-left: 0px;">
               <!-- {% for link in site.header.links %}
                 {% assign page_url = page.url | trim: '/' %}
                 {% assign link_url = link.url | trim: '/' %}
                 <div class="menu-item"><a href="{{ link_url }}">{{ link.label }}</a></div>
               {% endfor %} -->
-              <div class="menu-item"><a href="/" style="color: #009080;"><i class="fas fa-home-lg-alt"></i></a></div>
+              <div class="menu-item" style="text-align: left;flex-grow: unset;"><a href="/" style="color: #009080;"><i class="fas fa-home-lg-alt"></i></a></div>
               <!-- <div class="menu-item"><div class="dropdown">
                 <button class="dropbtn">Past Meetings 
                   </button>
@@ -70,16 +76,15 @@
               </div>
                -->
               <div class="menu-item"><a href="/21m/index">MRI Together 2021</a></div>
-              <div class="menu-item"><a href="/overview">Overview</a></div>
+              <div class="menu-item"><a href="/overview">Program</a></div>
               <div class="menu-item"><a href="/registration">How to Attend</a></div>
               <div class="menu-item"><a href="/committee">Organizers</a></div>
               <div class="menu-item"><a href="/sponsors">Supporters</a></div>
               <div class="menu-item"><a href="/job_board">Job Board</a></div>
               <div class="menu-item"><a href="/code_of_conduct">Code of Conduct</a></div>
             </div>
+            </div>
         </div>
-      </div>
-  </header>
   <div id="sticky_line" class="line"></div>
   {% unless page.title == "MRI Together" %}
   <div id="sticky_title">
@@ -89,7 +94,28 @@
       </section>
     </div>
           {% endunless %}
-          </div>
+{% if page.title == "MRI Together" %}
+<div id="sticky_slideshow">
+<div class="slideshow-container">
+  <div class="mySlides">
+    <div class="text">
+      <h1 style="color:white;">#MRITogether returns!</h1>
+
+      The last MRI Together wokshop was held in <em>December 2021</em>, and it has been a fantastic journey. More than 100 outstanding speakers, almost 900 registered attendees, a total cumulated duration of more than 50 hours of meetings and webinars, more than 36 hours of recorded talks...
+
+      <br><br>
+      We are excited to announce that MRI Together will be back in <strong>December 2022</strong>, and this is the space to watch for updates!
+      </div>
+  </div>
+
+  <div class="mySlides" style="display: flex;justify-content: center;bottom: -15%;position: relative;">
+    <img src="/images/slideshow_date.png" style="margin-top: 23px;height:280px;width: auto;box-shadow:none;border: none;max-width: none;">
+  </div>
+
+</div>
+</div>
+</div>
+{% endif %}
 <!-- MAIN CONTENT -->
 <div id="sticky_body">
     <div id="main_content_wrap" class="outer">
@@ -98,10 +124,6 @@
         {{ content }}
       </section>
     </div>
-    </div>
-    <!-- {% if page.title == "MRI Together" %}
-<div><img src="/images/footer_bg.png" style="max-width: 100%; border: none !important; box-shadow:none !important; padding:0; margin:auto; bottom: 0;display: flex;"/></div>
-{% endif %} -->
   <footer class="site-footer">
     <div class="footer-container">
       <div class="row">
@@ -126,6 +148,22 @@
   {% endif %}
 
   <script src="/assets/js/sticky.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $('.slideshow-container').slick({
+        autoplay: true,
+        autoplaySpeed: 5000,
+        dots: true,
+        fade: false,
+        cssEase: 'linear',
+        arrows: false,
+        // dotsClass: "dots",
+        // arrows: false,
+        // nextArrow: '<button type="button" class="slick-next slick-arrow" style="right: 0px;">Next</button>',
+        // prevArrow: '<button type="button" class="slick-prev slick-arrow" style="left: 0px;">Prev</button>',
+      });
+    });
+  </script>
 
   </body>
 </html>

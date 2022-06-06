@@ -115,7 +115,7 @@ a:hover { text-decoration: none; }
   border-top: 0px;
   background: #fff;
   border-bottom: 0px;
-  min-height: calc(100vh - 445px); /*(100 - header height) - footer height*/
+  min-height: calc(100vh - 425px); /*(100 - header height) - footer height*/
 }
 
 body {
@@ -148,7 +148,7 @@ h5 {
 .menu-item {
   padding: 5px;
   flex-grow: 1;
-  text-align: left;
+  text-align: center;
   font-family: Montserrat;
   text-transform: uppercase;
   font-weight: 600;
@@ -159,11 +159,14 @@ h5 {
     color: #5e6061;
 }
 
+.menu-item a:hover{
+  opacity: 1;
+}
 .menu-item a:before,
 .menu-item a:after {
   content: '';
-  height: 1px;
-  background: #5e6061;
+  height: 2px;
+  background: #009080;
   display: block;
   transition: width 0.1s ease-in-out;
   margin: 0 auto;
@@ -212,7 +215,7 @@ p img {
 
 
 .footer-container{
-  padding-top: 50px;
+  padding-top: 36px;
     padding-right: 16%;
     float: right;
 }
@@ -225,8 +228,7 @@ p img {
   font-size:11px;
   line-height:24px;
     /*height: 30px;*/
-
-    background:url("/images/footer_bg-01.png")  repeat-x center bottom;
+    background:url("/images/footer_bg-01.png")  no-repeat center bottom;
     background-size: auto 100%;
     height: 90px; 
     width:100%; 
@@ -257,11 +259,16 @@ p img {
   text-decoration:none;
   font-size: 9pt;
 }
+
 .site-footer a:hover
 {
-  color:gray;
   text-decoration:none;
 }
+
+a:hover {
+  opacity: 0.7;
+}
+
 .footer-links
 {
   padding-left:0;
@@ -848,10 +855,10 @@ span.logo_helper {
 .sticky_menu {
   position: fixed;
   top: 0;
-  width: 80%;
+  width: 100%;
   background: none no-repeat scroll 0 0 #fff;
-  overflow: hidden;
-  max-width: 1150px;
+  /*overflow: hidden;*/
+  /*max-width: 1150px;*/
 }
 
 .sticky_body_other {
@@ -859,7 +866,7 @@ span.logo_helper {
 }
 
 .sticky_body_main {
-  margin-top: 42px;
+  margin-top: 0px;
 }
 
 .sticky_title {
@@ -872,14 +879,132 @@ span.logo_helper {
 }
 
 .line{
-  border-bottom: 2px solid #009080; min-height: 2px; max-height: 2px;
+  border-bottom: 2px solid #009080; min-height: 2px; max-height: 2px;;
 }
 .sticky_line {
   position: fixed;
-  margin-top: 41px;
+  margin-top: 43px;
   top: 0;
   width: 100%;
   z-index: 999999 !important;
   background: none no-repeat scroll 0 0 #fff;
 }
 
+.sticky_slideshow {
+  margin-top: 42px;
+  z-index: 99 !important;
+  /*background: none no-repeat scroll 0 0 #fff;*/
+}
+
+/*slideshow*/
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 2000px;
+  position: relative;
+  margin: auto;
+  height: 300px;
+  background-color: #009080;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 17px;
+  padding: 40px 20%;
+  position: relative;
+  bottom: 8px;
+  /*max-width:1150px;*/
+  text-align: center;
+  font-weight: 600;
+}
+
+a:link {
+  text-decoration: none !important;
+  /*opacity: 80%;*/
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.dots{
+  text-align:center; max-width: 2000px;
+  position: relative;
+  margin: auto;
+  height: 20px;
+  background-color: #009080;
+}
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes moveRight {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(50%);
+  }
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}

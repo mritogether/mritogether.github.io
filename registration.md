@@ -13,8 +13,8 @@ We encourage senior, funded researchers and professors to register as supporting
 
 <!-- **Note:** the conference will be held through the [Zoom Events](https://events.zoom.us/) platform. A Zoom account (available free of charge) is required at registration. -->
 
-### Want to help out in other ways?
+### Fancy helping out in other ways?
 
-We'll need volunteers to help us with technical aspects, the social gathering platform, and video editing captioning and uploading, and communications and social media management, and we'd love to have you on board!
+We'll need volunteers to help us with technical aspects, the social gathering platform, video editing captioning and uploading, and communications and social media management, and we'd love to have you on board!
 
-Fill in **[this form](https://forms.gle/fVFNEWNVmfvGutUH9)** to indicate your availability!
+Fill in **[this form](https://forms.gle/fVFNEWNVmfvGutUH9)** to indicate your availability -- let's #MRITogether!
