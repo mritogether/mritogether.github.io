@@ -1,4 +1,4 @@
-## Welcome to [#MRITogether](mritogether.esmrmb.org) website source
+## Welcome to [#MRITogether](http://mritogether.esmrmb.org)!
 
 This website is powered by Github Pages.
 
