@@ -50,7 +50,9 @@ This Code of Conduct applies within all workshop spaces (live events and the soc
 
 ## Enforcement
 
-The organizers will review potential violations of this Code of Conduct and will determine an appropriate response, up to and including termination of participation in the workshop. 
+Please let the organizers know of any potential violations of this Code of Conduct via email to [Nikou Damestani](mailto:NDAMESTANI@mgh.harvard.edu), [mritogether.workshop+coc@gmail.com](mailto:mritogether.workshop+coc@gmail.com), or the [ESMRMB office](mailto:office@esmrmb.org).
+
+The organizers will review potential violations and will determine an appropriate response, up to and including termination of participation in the workshop. 
 
 ## Attribution
 

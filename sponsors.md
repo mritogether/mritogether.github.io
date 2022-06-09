@@ -1,7 +1,7 @@
 --- 
 title: Supporters
 layout: default
-javascript: jquery.flip.js
+# javascript: jquery.flip.js
 --- 
 We gratefully acknowledge the following corporate members for their generous support that made **#MRITogether** happen.
 
@@ -79,4 +79,5 @@ curation, and management. <br>
 
 ## Silver sponsors
 [![Biogen Logo](images/sponsors/biogen.png){:.sponsor_silver}](https://biogen.com/)
+[![Resonint Logo](images/sponsors/resonint.png){:.sponsor_silver}](https://www.resonint.com/)
 
