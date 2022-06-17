@@ -11,6 +11,8 @@ In order to promote inclusivity and encourage reproducibility within our field, 
 
 We encourage senior, funded researchers and professors to register as supporting attendees, providing a donation such that students and fellow researchers with restricted fundings are able to enjoy the meeting free of charge. As a thank you for your contribution, we will keep a list of our supporting attendees here (which you can opt out from, if you wish to remain anonymous).
 
+By participating in #MRITogether in any form you agree to the [code of conduct](/CODE_OF_CONDUCT).
+
 <!-- **Note:** the conference will be held through the [Zoom Events](https://events.zoom.us/) platform. A Zoom account (available free of charge) is required at registration. -->
 
 ### Fancy helping out in other ways?

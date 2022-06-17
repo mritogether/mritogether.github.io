@@ -1,5 +1,5 @@
 --- 
-title: Attendance howto (past meeting)
+title: Attendance howto (MRITogether 2021)
 layout: default
 --- 
 

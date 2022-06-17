@@ -5,7 +5,7 @@ layout: default
 --- 
 We gratefully acknowledge the following corporate members for their generous support that made **#MRITogether** happen.
 
-To learn more about ways that _you_ can support the event, please [contact us](mailto:mritogether.workshop+support@gmail.com).
+To learn more about ways that _you_ can support the event, please [contact us](mailto:{{site.email}}).
 <!-- ## Platform sponsor
 [![Clay10 Logo](images/sponsors/clay10.png){:.sponsor_special}](https://clay10.co.uk/)  -->
 ## Platinum sponsors
@@ -34,7 +34,7 @@ To learn more about ways that _you_ can support the event, please [contact us](m
     </script> -->
  
 
-[![HQ Imaging Logo](images/sponsors/HQ_Imaging.png){:.sponsor_platinum}](http://hq-imaging.com/)
+[![HQ Imaging Logo](images/sponsors/HQ_Imaging-01.png){:.sponsor_platinum}](http://hq-imaging.com/)
  
 <!-- [![Genentech Logo](images/sponsors/genentech.png){:.sponsor_platinum}](https://www.gene.com/)
 
@@ -74,10 +74,12 @@ curation, and management. <br>
   </div>
 </div> -->
 
-[![Flywheel Logo](images/sponsors/flywheel.png){:.sponsor_gold}](https://www.flywheel.io/)
+[![Flywheel Logo](images/sponsors/flywheel-01.png){:.sponsor_gold}](https://www.flywheel.io/)
 [![GE Logo](images/sponsors/ge.png){:.sponsor_gold}](https://www.gehealthcare.com)
 
 ## Silver sponsors
 [![Biogen Logo](images/sponsors/biogen.png){:.sponsor_silver}](https://biogen.com/)
 [![Resonint Logo](images/sponsors/resonint.png){:.sponsor_silver}](https://www.resonint.com/)
+[![Gold Standard logo](images/sponsors/goldstandardlogo-01.png){:.sponsor_silver}](https://www.goldstandardphantoms.com/)
+
 

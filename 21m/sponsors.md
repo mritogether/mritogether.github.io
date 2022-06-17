@@ -1,5 +1,5 @@
 --- 
-title: Sponsoring (past meeting)
+title: Sponsoring (MRITogether 2021)
 layout: default
 --- 
 

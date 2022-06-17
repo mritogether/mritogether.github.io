@@ -1,5 +1,5 @@
 ---
-title: MRI Together (past meeting)
+title: MRI Together (MRITogether 2021)
 layout: default
 javascript: [ jquery-3.6.0.min.js, jQuery.scrollText.js, speaker_list.js ]
 ---

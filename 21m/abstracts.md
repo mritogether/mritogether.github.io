@@ -1,5 +1,5 @@
 --- 
-title: Accepted abstracts (past meeting)
+title: Accepted abstracts (MRITogether 2021)
 layout: default
 javascript: [ obfuscate.js ]
 --- 

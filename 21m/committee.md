@@ -1,5 +1,5 @@
 --- 
-title: Organizing committee (past meeting)
+title: Organizing committee (MRITogether 2021)
 layout: default
 --- 
 # Workshop organizing committee

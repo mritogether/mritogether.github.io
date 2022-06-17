@@ -1,5 +1,5 @@
 --- 
-title: Job Board (past meeting)
+title: Job Board (MRITogether 2021)
 layout: default
 --- 
 

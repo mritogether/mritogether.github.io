@@ -1,5 +1,5 @@
 ---
-title: Timetable (past meeting)
+title: Timetable (MRITogether 2021)
 layout: default
 javascript: [ timezone.js ]
 ---

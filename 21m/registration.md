@@ -1,5 +1,5 @@
 --- 
-title: Registration (past meeting)
+title: Registration (MRITogether 2021)
 layout: default
 --- 
 
