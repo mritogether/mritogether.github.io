@@ -6,6 +6,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://kit.fontawesome.com/621c4d47d6.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/assets/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="/assets/slick/slick-theme.css"/>
+    <script type="text/javascript" src="/assets/slick/slick.min.js"></script>
+    <style>
+    .tablelines table, .tablelines td, .tablelines th {
+            border: 1px solid black;
+            }
+    </style>
 
 {% seo %}
     
@@ -21,55 +31,110 @@
 
   </head>
   <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <div id="contact_header">
-            <span id="email_span">
-            <a href="mailto:{{ site.email | mailObfuscate }}"><img src="images/email_icon.svg" class="icon_image" height="15"/>{{ site.email | mailObfuscate }}</a>
-            </span>
-          </div>
-          {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
-          {% endif %}
-
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %}
-          {% if site.header.links %}
-            <div id="nav-menu">
-            {% for link in site.header.links %}
-              {% assign page_url = page.url | trim: '/' %}
-              {% assign link_url = link.url | trim: '/' %}
-              <div class="menu-item"><a href="{{ link_url }}">{{ link.label }}</a></div>
-            {% endfor %}
+<div id="page_container">
+  <div class="esmrmb-login">
+      <div class="et_pb_row">
+        <div class="esmrmb-social">
+          <a class="esmrmb-fb" href="mailto:{{ site.email | mailObfuscate }}" target="_blank"><i class="fa fa-envelope"></i></a>
+          <a class="esmrmb-fb" href="https://twitter.com/{{site.twitter}}" target="_blank"><i class="fab fa-twitter"></i></a>
+          <a class="esmrmb-fb" href="https://www.youtube.com/{{site.youtube}}" target="_blank"><i class="fab fa-youtube"></i></a>
+          <a class="esmrmb-fb" href="https://www.linkedin.com/{{site.linkedin}}"><i class="fa fa-linkedin"></i></a>
+        </div>
+      </div>
+  </div>
+  
+  <header id="main-header" data-height-onload="203" data-height-loaded="true" data-fixed-height-onload="203">
+    <div class="et_menu_container">
+      <div class="logo_container">
+        <span class="logo_helper"></span>
+        <a href="https://www.esmrmb.org/">
+          <img src="/images/esmrmb_logo.png" alt="ESMRMB" id="logo" data-height-percentage="100" data-actual-width="200" data-actual-height="95" style="-webkit-box-shadow: 0 0 5px #ebebeb;">
+        </a>
+      </div>
+    <div style="padding-top: 40px">
+    <a href="/"><h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1></a>
+          <h2 id="project_tagline" style="margin-bottom: 0px;">
+          {{ site.description | default: site.github.project_tagline }}</h2>
+      </div>
+  </header>
+  <div id="sticky_menu" style="z-index: 999999;">
+    <div style="max-width:1150px; align-content: center; margin: auto;">
+            <div id="nav-menu" style="padding-left: 0px;">
+              <!-- {% for link in site.header.links %}
+                {% assign page_url = page.url | trim: '/' %}
+                {% assign link_url = link.url | trim: '/' %}
+                <div class="menu-item"><a href="{{ link_url }}">{{ link.label }}</a></div>
+              {% endfor %} -->
+              <div class="menu-item" style="text-align: left;flex-grow: unset;"><a href="/" style="color: #009080;"><i class="fas fa-home-lg-alt"></i></a></div>
+              <!-- <div class="menu-item"><div class="dropdown">
+                <button class="dropbtn">Past Meetings 
+                  </button>
+                  <div class="dropdown-content">
+                    <a href="/21m/index">MRI Together 2021</a>
+                  </div>
+                </div> 
+              </div>
+               -->
+              <div class="menu-item"><a href="/21m/index">MRI Together 2021</a></div>
+              <div class="menu-item"><a href="/overview">Program</a></div>
+              <div class="menu-item"><a href="/registration">How to Attend</a></div>
+              <div class="menu-item"><a href="/committee">Organizers</a></div>
+              <div class="menu-item"><a href="/sponsors">Supporters</a></div>
+              <div class="menu-item"><a href="/job_board">Job Board</a></div>
+              <div class="menu-item"><a href="/code_of_conduct">Code of Conduct</a></div>
             </div>
-          {% endif %}
-        </header>
+            </div>
+        </div>
+  <div id="sticky_line" class="line"></div>
+  {% unless page.title == "MRI Together" %}
+  <div id="sticky_title">
+          <section id="title" class="inner" style="padding: 19px 0 9px 0!important; margin-left: 0%;
+        background-position: center;overflow: hidden;border-bottom: 2px solid #009080;">
+        <div id="main_content_wrap" class="outer" style="min-height: 0px"><h1 >{{page.title}}</h1></div>
+      </section>
     </div>
+          {% endunless %}
+{% if page.title == "MRI Together" %}
+<div id="sticky_slideshow">
+<div class="slideshow-container">
+  <div class="mySlides">
+    <div class="text">
+      <h1 style="color:white;">#MRITogether returns!</h1>
 
-    <!-- MAIN CONTENT -->
+      The <a style="color: #f2f2f2; opacity: 0.8;" href="/21m/index">last MRI Together wokshop</a> was held in <em>December 2021</em>, and it has been a fantastic journey. More than 100 outstanding speakers, almost 900 registered attendees, a total cumulated duration of more than 50 hours of <a style="color: #f2f2f2; opacity: 0.8;" href="/21m/timetable">meetings and webinars</a>, more than <a style="color: #f2f2f2; opacity: 0.8;" href="https://www.youtube.com/playlist?list=PLeDygc8TN_J48APEUyle4Ql2uSTc74Nsg">36 hours of recorded talks</a>...
+
+      <br><br>
+      We are excited to announce that MRI Together will be back in <strong>December 2022</strong>, and this is the space to watch for updates!
+      </div>
+  </div>
+
+  <div class="mySlides" style="display: flex;justify-content: center;bottom: -15%;position: relative;">
+    <img src="/images/slideshow_date.png" style="margin-top: 23px;height:280px;width: auto;box-shadow:none;border: none;max-width: none;">
+  </div>
+
+</div>
+</div>
+</div>
+{% endif %}
+<!-- MAIN CONTENT -->
+<div id="sticky_body">
     <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
+      <section id="main_content" class="inner" style="padding-top: 0px; margin-left: 0%;
+    padding-left: 0px;background-position: center;overflow: hidden;">
         {{ content }}
       </section>
     </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a> - <a href="/credits">Site credits</a></p>
-      </footer>
+  <footer class="site-footer">
+    <div class="footer-container">
+      <div class="row">
+        <div class="col-md-8 col-sm-6 col-xs-12">
+          <p class="copyright-text"><a href="https://creativecommons.org/licenses/by/4.0/"><i class="fab fa-creative-commons  fa-lg"></i><i class="fab fa-creative-commons-by   fa-lg"></i></i></a> by MRI Together <a href="/committee">Organising Committee</a> - powered by<a href="https://pages.github.com/"><i class="fab fa-github fa-lg"></i></a> - <a href="https://github.com/mritogether/mritogether.github.io">source code</a>
+          </p>
+        </div>
+      </div>
     </div>
-
+  </footer>
+</div>
     {% if site.google_analytics %}
       <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -79,6 +144,26 @@
         ga('create', '{{ site.google_analytics }}', 'auto');
         ga('send', 'pageview');
       </script>
-    {% endif %}
+
+  {% endif %}
+
+  <script src="/assets/js/sticky.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $('.slideshow-container').slick({
+        autoplay: true,
+        autoplaySpeed: 5000,
+        dots: true,
+        fade: false,
+        cssEase: 'linear',
+        arrows: false,
+        // dotsClass: "dots",
+        // arrows: false,
+        // nextArrow: '<button type="button" class="slick-next slick-arrow" style="right: 0px;">Next</button>',
+        // prevArrow: '<button type="button" class="slick-prev slick-arrow" style="left: 0px;">Prev</button>',
+      });
+    });
+  </script>
+
   </body>
 </html>

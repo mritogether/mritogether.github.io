@@ -1,5 +1,5 @@
 --- 
-title: Site credits
+title: Site credits (MRITogether 2021)
 layout: default
 --- 
 # Image credits
