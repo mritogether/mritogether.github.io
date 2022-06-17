@@ -1,5 +1,5 @@
 ---
-title: MRI Together (MRITogether 2021)
+title: Past Workshops (MRITogether 2021)
 layout: default
 javascript: [ jquery-3.6.0.min.js, jQuery.scrollText.js, speaker_list.js ]
 ---
@@ -17,7 +17,7 @@ What's all the buzz about **open science** and **reproducibility**?
 
 Whether you're a **developer**, a **medical doctor**, a **researcher in basic science**, or a **data scientist**, there's something for you here.
 
-![World](/images/nasa_world.jpg)
+![World](images/nasa_world.jpg)
 
 # Highlights
 
@@ -53,6 +53,6 @@ Topics will include:
 
 We are a [team](/21m/committee) of MRI scientists from different aspects of the MRI world with a passion for Open Science. With the support from [ESMRMB](https://esmrmb.org/) this global workshop aims to bring MRI scientists together -- no matter if you are a physicist, engineer, computer scientist, radiographer, or physician. If you are passionate about Open Science, [join us](/21m/registration)!
 
-<img src="/images/esmrmb_banner.png" style="max-width: 100%;"/>
+<img src="images/esmrmb_banner.png" style="max-width: 100%;"/>
 
 <p>&nbsp;</p>
