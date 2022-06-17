@@ -76,6 +76,7 @@ curation, and management. <br>
 
 [![Flywheel Logo](images/sponsors/flywheel-01.png){:.sponsor_gold}](https://www.flywheel.io/)
 [![GE Logo](images/sponsors/ge.png){:.sponsor_gold}](https://www.gehealthcare.com)
+[![Deepspin Logo](images/sponsors/deepspin-01.png){:.sponsor_gold}](https://www.deepspin.io)
 
 ## Silver sponsors
 [![Biogen Logo](images/sponsors/biogen.png){:.sponsor_silver}](https://biogen.com/)
