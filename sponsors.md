@@ -3,7 +3,7 @@ title: Supporters
 layout: default
 # javascript: jquery.flip.js
 --- 
-We gratefully acknowledge the following corporate members for their generous support that made **#MRITogether** happen.
+We gratefully acknowledge the following sponsors that made **#MRITogether** happen.
 
 To learn more about ways that _you_ can support the event, please [contact us](mailto:{{site.email}}).
 <!-- ## Platform sponsor
