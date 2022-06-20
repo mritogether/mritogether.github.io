@@ -9,7 +9,7 @@ layout: default
 * **Emma Biondetti** - D'Annunzio University of Chieti-Pescara, Italy
 * **Maxim Zaitsev** - Medical University of Vienna, Austria
 
-<img src="/images/committee.jpg" style="max-width: 100%;"/>
+<img src="images/committee.jpg" style="max-width: 100%;"/>
 
 # Advisors
 * **Ozlem Ipek** - King's College London, United Kingdom

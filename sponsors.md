@@ -3,7 +3,7 @@ title: Supporters
 layout: default
 # javascript: jquery.flip.js
 --- 
-We gratefully acknowledge the following corporate members for their generous support that made **#MRITogether** happen.
+We gratefully acknowledge the following sponsors that made **#MRITogether** happen.
 
 To learn more about ways that _you_ can support the event, please [contact us](mailto:{{site.email}}).
 <!-- ## Platform sponsor
@@ -35,6 +35,7 @@ To learn more about ways that _you_ can support the event, please [contact us](m
  
 
 [![HQ Imaging Logo](images/sponsors/HQ_Imaging-01.png){:.sponsor_platinum}](http://hq-imaging.com/)
+[![CMRI Logo](images/sponsors/CMRI-logo-01.png){:.sponsor_platinum}](https://qmri.com)
  
 <!-- [![Genentech Logo](images/sponsors/genentech.png){:.sponsor_platinum}](https://www.gene.com/)
 

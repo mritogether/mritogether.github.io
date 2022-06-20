@@ -1009,3 +1009,27 @@ a:link {
   from {opacity: .4} 
   to {opacity: 1}
 }
+
+
+svg .link {
+  stroke: #000;
+  stroke-opacity: 0.2;
+}
+svg .name {
+  fill: #000;
+  font-size: 8px;
+}
+svg circle:hover + .name{
+  fill: #F00;
+}
+svg text {
+  cursor: default;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  pointer-events: none;
+}
+svg text::selection {
+  background: none;
+}
