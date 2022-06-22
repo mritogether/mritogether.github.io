@@ -83,5 +83,5 @@ curation, and management. <br>
 [![Biogen Logo](images/sponsors/biogen.png){:.sponsor_silver}](https://biogen.com/)
 [![Resonint Logo](images/sponsors/resonint.png){:.sponsor_silver}](https://www.resonint.com/)
 [![Gold Standard logo](images/sponsors/goldstandardlogo-01.png){:.sponsor_silver}](https://www.goldstandardphantoms.com/)
-
+[![Skope Logo](images/sponsors/skope-01.png){:.sponsor_silver}](https://skope.swiss) 
 
