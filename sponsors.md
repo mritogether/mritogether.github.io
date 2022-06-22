@@ -75,13 +75,13 @@ curation, and management. <br>
   </div>
 </div> -->
 
-[![Flywheel Logo](images/sponsors/flywheel-01.png){:.sponsor_gold}](https://www.flywheel.io/)
 [![GE Logo](images/sponsors/ge.png){:.sponsor_gold}](https://www.gehealthcare.com)
+[![Flywheel Logo](images/sponsors/flywheel-01.png){:.sponsor_gold}](https://www.flywheel.io/)
 [![Deepspin Logo](images/sponsors/deepspin-01.png){:.sponsor_gold}](https://www.deepspin.io)
 
 ## Silver sponsors
+[![Skope Logo](images/sponsors/skope-01.png){:.sponsor_silver}](https://skope.swiss) 
 [![Biogen Logo](images/sponsors/biogen.png){:.sponsor_silver}](https://biogen.com/)
 [![Resonint Logo](images/sponsors/resonint.png){:.sponsor_silver}](https://www.resonint.com/)
 [![Gold Standard logo](images/sponsors/goldstandardlogo-01.png){:.sponsor_silver}](https://www.goldstandardphantoms.com/)
-[![Skope Logo](images/sponsors/skope-01.png){:.sponsor_silver}](https://skope.swiss) 
 
