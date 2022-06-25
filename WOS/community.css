@@ -10,7 +10,7 @@
     position: absolute;
     left: 50%;
     top: 50%;
-    background: rgba(200,200,200,0.5);
+    background: rgba(200,200,200,0.75);
     border: thin solid #777;
     transform: translate(-50%, -50%);
     z-index: 1050;
