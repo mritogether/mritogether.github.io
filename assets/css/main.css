@@ -122,6 +122,13 @@ a:hover,a:focus,a:active {
     padding-bottom: 3px;
     opacity: 1;
 }
+
+.logo_brainweb{
+    /*background: url(/images/ESMRMB-logo.svg) center center no-repeat;*/
+    height: 25px;
+    padding: 0;
+}
+
 .navbar-collapse {
     justify-content: flex-end;
 }

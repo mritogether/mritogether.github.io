@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>MRI Together Interest Matching</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons" rel="stylesheet" type="text/css">
+    <link href="https://cdn.jsdelivr.net/npm/quasar@1.9.10/dist/quasar.min.css" rel="stylesheet" type="text/css">
+    <link href="https://cdn.jsdelivr.net/npm/animate.css@^3.5.2/animate.min.css" rel="stylesheet">
+    <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
+    <link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,900" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+    <link rel="stylesheet" type="text/css" href="./community.css">
+  </head>
+
+  <body>
+    <div id="firebaseui-auth-container" class="auth-dialog"></div>
+
+    <!-- navigation bar -->
+    <!-- currently, the fixed top class is added, so it sticks to the top -->
+    <!-- data value of nav bar corresponds to id in each section -->
+    <nav class="navbar navbar-expand-lg fixed-top ">
+
+      <a class="navbar-brand" href="/community" >
+        <div class="logo_brainweb">
+          <p style="padding-left:4em;color:white;cursor:pointer;font-size:15px;font-weight:500;line-height:1.7;vertical-align: middle;">MRI Together Interest Matching</p>
+        </div>
+      </a>
+
+      <button
+        class="navbar-toggler landing-page myCollapsedMenuBarIcon"
+        id="myMenuBtn"
+        type="button"
+        data-toggle="collapse"
+        data-target="#myMenu"
+        aria-controls="myMenu"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+        style="padding:0;border:none; width:1.5em;height:1.5em;"
+        onclick="this.blur();"
+      ></button>
+
+      <div class="collapse navbar-collapse" id="myMenu" style="width:100%;">
+        <ul class="navbar-nav mr-4" >
+          <li class="nav-item">
+            <a class="nav-link" href="/">Home</a>
+          </li>
+          <li class="nav-item">
+            <span class="nav-link" id="loginStatus" style="border-bottom:none">
+              Sign In
+            </span>
+          </li>
+          <li class="nav-item" id="userAvatar">
+            <img class="userIcon"/>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <!-- main -->
+      <div id="q-app">
+        <!-- part 4 Community -->
+        <div id="community">
+
+          <div id="search-field">
+            <q-select
+              rounded outlined
+              color="white"
+              v-model="searchItems"
+              use-input
+              use-chips
+              multiple
+              hide-dropdown-icon
+              input-debounce="0"
+              new-value-mode="add-unique"
+              :options="searchOptions"
+              @filter="searchFn"
+              @input="searchAdd"
+            >
+              <q-icon name="search" @click.stop style="font-size: 24px; height: inherit"/>
+            </q-select>
+          </div>
+
+          <!-- network -->
+          <div id="network"></div>
+            
+          <!-- spinner -->
+          <q-spinner-ball
+            color="white"
+            size="4em"
+            v-if="spinning"
+            style="position:absolute;top:50%;left:50%;transform: translate( -50%, -50%);z-index:1000"
+          ></q-spinner-ball>
+
+          <div class="container" style="margin-top: 1em">
+
+            <!-- text -->
+            <div id="text">
+              <!-- <h1>Community</h1> -->
+              <p>
+                This is the MRI Together Interest Matching. If you just logged in, your name should be an isolated dot flying
+                around. Find it, click on it, and add your interests. That will start creating links with
+                others, and you'll become part of the cluster of people sharing similar interests and skills. You can
+                learn more about them by clicking on their dots.
+              </p>
+            </div>
+
+            <!-- skills card -->
+            <div v-cloak class="row">
+              <!-- other person's card -->
+              <div v-if="cardUID !== uid">
+                <q-dialog v-model="displayCard">
+                  <q-card style="height:400px;width:400px">
+                    <q-card-section>
+                      <q-chip>
+                        <q-avatar round size="48px">
+                          <img :src="cardImgSrc" />
+                        </q-avatar>
+                        <a v-cloak class="col text-h6" :href="cardGitHubURL">
+                          {{cardDisplayName}}
+                        </a>
+                      </q-chip>
+                    </q-card-section>
+                    <q-card-section style="background: hsla(0,0%,100%,0.07);border-radius:4px 4px 0 0;margin:16px">
+                      <q-chip v-cloak color="dark" v-for="skill in cardSkills">
+                        {{skill}}
+                      </q-chip>
+                    </q-card-section>
+                  </q-card>
+                </q-dialog>
+              </div>
+
+              <!-- logged person's card -->
+              <div v-else>
+                <q-dialog v-model="displayCard" @hide="updateUser">
+                  <q-card style="height:400px;width:400px">
+                    <q-card-section>
+                      <q-chip>
+                        <q-avatar round size="48px">
+                          <img :src="`https://avatars3.githubusercontent.com/u/${uid}?v=4`" />
+                        </q-avatar>
+                        <a v-cloak class="col text-h6" :href="`https://github.com/${userGitHubName}`">
+                          {{userDisplayName}}
+                        </a>
+                      </q-chip>
+                    </q-card-section>
+                    <q-card-section>
+                      <q-select
+                        label="Interests"
+                        filled
+                        v-model="people[people.map((o)=>o.uid).indexOf(uid)].skills"
+                        use-input
+                        use-chips
+                        multiple
+                        hide-dropdown-icon
+                        input-debounce="0"
+                        new-value-mode="add-unique"
+                        :options="searchOptions"
+                        @filter="searchFn"
+                        @input="searchAdd"
+                        @new-value="createValue"
+                      ></q-select>
+                    </q-card-section>
+                  </q-card>
+                </q-dialog>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <!-- sentry -->
+      <script src="/assets/js/sentry.min.js" data-lazy="no"></script>
+
+      <!-- Vue and Quasar -->
+      <script src="https://cdn.jsdelivr.net/npm/vue@^2.0.0/dist/vue.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/quasar@1.9.10/dist/quasar.umd.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/quasar@1.9.10/dist/icon-set/svg-material-icons.umd.min.js"></script>
+
+      <!-- Firebase -->
+      <script defer src="https://www.gstatic.com/firebasejs/ui/4.5.0/firebase-ui-auth.js"></script>
+      <link type="text/css" rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/4.5.0/firebase-ui-auth.css" />
+      <script defer src="https://www.gstatic.com/firebasejs/7.12.0/firebase-app.js"></script>
+      <script defer src="https://www.gstatic.com/firebasejs/7.12.0/firebase-auth.js"></script>
+      <script defer src="https://www.gstatic.com/firebasejs/7.12.0/firebase-database.js"></script>
+      <script defer src="/assets/js/init-firebase.js"></script>
+
+      <!-- D3 and BrainWeb graph -->
+      <script src="https://d3js.org/d3.v5.min.js"></script>
+
+      <script type="module">
+        import * as BW from "./brainweb.js";
+
+        const circleSkill = null;
+        const filterSkills = null;
+        // const filterSkills = [ "graph theory", "Network Neuroscience", "multiplex", "Multilayer",
+        //     "Networkx", "Complex networks", "Network theory",
+        //     "Circuit dynamics", "Systems neuroscience"];
+        // if(circleSkill) {
+        //     filterSkills.push(circleSkill);
+        // }
+
+        BW.init({
+          appSel: "#q-app",
+          networkSel: "#network",
+          circleName: "BrainWeb",
+          circleSkill,
+          filterSkills
+        });
+      </script>
+    </body>
+</html>
