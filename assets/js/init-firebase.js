@@ -5,8 +5,8 @@ var uiConfig = {
   signInOptions: [firebase.auth.GithubAuthProvider.PROVIDER_ID], 
     // firebase.auth.GoogleAuthProvider.PROVIDER_ID, 
     // firebase.auth.EmailAuthProvider.PROVIDER_ID],
-    // requireDisplayName: false,
   signInFlow: 'popup',
+  // data-cancel_on_tap_outside="false",
   // tosUrl: 'tos.html',
   // privacyPolicyUrl: 'tos.html',
   callbacks: {
@@ -70,4 +70,4 @@ firebase.initializeApp(config);
 // firebase.functions().useFunctionsEmulator("http://localhost:5001");
 // console.log(firebase.database())
 // var ref = firebase.database().ref('players');
-console.log(firebase.auth)
+// console.log(firebase.auth)

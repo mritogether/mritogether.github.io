@@ -10,7 +10,7 @@
     position: absolute;
     left: 50%;
     top: 50%;
-    background: rgba(0,0,0,0.5);
+    background: rgba(200,200,200,0.5);
     border: thin solid #777;
     transform: translate(-50%, -50%);
     z-index: 1050;
@@ -54,16 +54,16 @@
 }
 #network svg {
     width: 100%;
-    flex-grow: 1;
+    flex-grow: 0;
 }
 
 @keyframes shinebrightlikeadiamond {
     0% { stroke-width: 0; stroke-opacity: 1; }
-    70% { stroke-width: 10px; stroke-opacity: 0.5; }
-    100% { stroke-width: 0; stroke-opacity: 0; }
+    100% { stroke-width: 10px; stroke-opacity: 0.5; }
+    200% { stroke-width: 20px; stroke-opacity: 1; }
 }
 #network svg circle {
-    r: 6;
+    r: 7;
 }
 #network svg circle.logged {
     stroke-width: 20;
@@ -82,7 +82,7 @@
 }
 #network svg .link {
     stroke: #fff;
-    stroke-opacity: 0.2;
+    stroke-opacity: 0.1;
 }
 #network svg .name {
     fill: rgb(255,255,255,0.7);
@@ -90,6 +90,7 @@
 }
 #network svg circle:hover + .name{
     fill: rgb(255,255,255,1);
+    font-size: 14px;
 }
 #network svg text {
     cursor: default;
@@ -109,7 +110,7 @@
     right: 10px;
     display: flex;
     justify-content: flex-end;
-    width: 100%;
+    width: 10%;
     z-index: 51;
 }
 
