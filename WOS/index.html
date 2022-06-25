@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>MRI Together Interest Matching</title>
+    <title>MR Hive</title>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons" rel="stylesheet" type="text/css">
+    <script src="https://kit.fontawesome.com/621c4d47d6.js" crossorigin="anonymous"></script>
     <link href="https://cdn.jsdelivr.net/npm/quasar@1.9.10/dist/quasar.min.css" rel="stylesheet" type="text/css">
     <link href="https://cdn.jsdelivr.net/npm/animate.css@^3.5.2/animate.min.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
@@ -23,9 +24,9 @@
     <!-- data value of nav bar corresponds to id in each section -->
     <nav class="navbar navbar-expand-lg fixed-top ">
 
-      <a class="navbar-brand" href="/community" >
+      <a class="navbar-brand" href="/WOS" >
         <div class="logo_brainweb">
-          <p style="padding-left:4em;color:white;cursor:pointer;font-size:15px;font-weight:500;line-height:1.7;vertical-align: middle;">MRI Together Interest Matching</p>
+          <p style="padding-left:0em;color:white;cursor:pointer;font-size:20px;font-weight:550;line-height:1.7;vertical-align: middle;"><i class="fas fa-project-diagram"></i> MR Hive</p>
         </div>
       </a>
 
@@ -45,7 +46,7 @@
       <div class="collapse navbar-collapse" id="myMenu" style="width:100%;">
         <ul class="navbar-nav mr-4" >
           <li class="nav-item">
-            <a class="nav-link" href="/">Home</a>
+            <a class="nav-link" href="/">MRI Together</a>
           </li>
           <li class="nav-item">
             <span class="nav-link" id="loginStatus" style="border-bottom:none">
@@ -78,8 +79,9 @@
               :options="searchOptions"
               @filter="searchFn"
               @input="searchAdd"
+              label="Filter interests"
             >
-              <q-icon name="search" @click.stop style="font-size: 24px; height: inherit"/>
+              <q-icon name="search" @click.stop style="font-size: 20px; height: inherit"/>
             </q-select>
           </div>
 
@@ -99,8 +101,8 @@
             <!-- text -->
             <div id="text">
               <!-- <h1>Community</h1> -->
-              <p>
-                This is the MRI Together Interest Matching. If you just logged in, your name should be an isolated dot flying
+              <p style="font-size:14px;">
+                This is the MR Hive, aka the MRI Together Interest Matching Engine. If you just logged in, your name should be an isolated dot flying
                 around. Find it, click on it, and add your interests. That will start creating links with
                 others, and you'll become part of the cluster of people sharing similar interests and skills. You can
                 learn more about them by clicking on their dots.
