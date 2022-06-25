@@ -92,7 +92,7 @@ const chart = (data, {width, height, radius, userClickFn}) => {
   node.append("text")
     .attr('class', (d) => (d.classes || '') + ' name')
     .text((d) => d.id)
-    .attr('x', 6)
+    .attr('x', 10)
     .attr('y', 3);
 
   simulation.on("tick", () => {
