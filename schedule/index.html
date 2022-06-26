@@ -89,7 +89,8 @@
   <div id="sticky_title">
           <section id="title" class="inner" style="padding: 19px 0 9px 0!important; margin-left: 0%;
         background-position: center;overflow: hidden;border-bottom: 2px solid #009080;">
-        <div id="main_content_wrap" class="outer" style="min-height: 0px"><h1 >Meeting Agenda</h1></div>
+        <div id="main_content_wrap" class="outer" style="min-height: 0px"><h1 >Meeting Agenda</h1> <div id="timezone_text"></div>
+      </div>
       </section>
     </div>
 
@@ -104,25 +105,23 @@
         <div class="cd-schedule cd-schedule--loading margin-top-lg margin-bottom-lg js-cd-schedule">
     <div class="cd-schedule__timeline">
       <ul>
+        <li><span>08:00</span></li>
         <li><span>09:00</span></li>
-        <li><span>09:30</span></li>
         <li><span>10:00</span></li>
-        <li><span>10:30</span></li>
         <li><span>11:00</span></li>
-        <li><span>11:30</span></li>
         <li><span>12:00</span></li>
-        <li><span>12:30</span></li>
         <li><span>13:00</span></li>
-        <li><span>13:30</span></li>
         <li><span>14:00</span></li>
-        <li><span>14:30</span></li>
         <li><span>15:00</span></li>
-        <li><span>15:30</span></li>
         <li><span>16:00</span></li>
-        <li><span>16:30</span></li>
         <li><span>17:00</span></li>
-        <li><span>17:30</span></li>
         <li><span>18:00</span></li>
+        <li><span>19:00</span></li>
+        <li><span>20:00</span></li>
+        <li><span>21:00</span></li>
+        <li><span>22:00</span></li>
+        <li><span>23:00</span></li>
+        <li><span>0:00</span></li>
       </ul>
     </div> <!-- .cd-schedule__timeline -->
   
@@ -133,7 +132,7 @@
   
           <ul>
             <li class="cd-schedule__event">
-              <a data-start="09:00" data-end="11:00" data-content="event-abs-circuit" data-event="event-1" href="#0">
+              <a class="timezone_adapt" data-date="5" data-start="09:45" data-end="11:00" data-content="event-abs-circuit" data-event="event-1" href="#0">
                 <em class="cd-schedule__name">Session 1</em>
               </a>
             </li>
@@ -304,8 +303,14 @@
     </div>
   </footer>
 </div>
-
   <script src="/assets/js/sticky.js"></script>
+  <!-- <script src="/schedule/assets/js/timezone.js"></script> -->
+  <script type="text/javascript">
+    var zone = new Date().toLocaleTimeString('en-us',{timeZoneName:'short'}).split(' ')[2]
+    var zone_name = Intl.DateTimeFormat().resolvedOptions().timeZone
+    tz_text = document.getElementById("timezone_text");
+    tz_text.innerHTML = '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Avenir">* All times are based on ' + zone_name + ' (' + zone + ').</a>'
+  </script>
   </body>
 </html>
 
