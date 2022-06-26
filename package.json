@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.18.5",
+    "@babel/node": "^7.18.5"
+  },
+  "dependencies": {
+    "brainweb": "file:../../Downloads/brain-web.js-main"
+  }
+}
