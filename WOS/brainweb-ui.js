@@ -149,10 +149,19 @@ export const loginUser = async (user) => {
   document.getElementById("loginStatus").innerHTML = `<span id="user">${displayName}</span> (<a style="color:white" href="#" onclick="signOut()">Sign Out</a>)`;
 
   const [{uid}] = providerData;
+  // const [{providerId}] = providerData;
+  const providerId = providerData.map(a => a.providerId);
+  // if(providerData.length === 2){
+  //   const app.twitter_uid = providerData[1].uid;
+  // } else {
+  //   const app.twitter_uid = '';
+  // }
 
   app.uid = uid;
+  app.providerId = providerId;
   app.userSignedIn = true;
-  app.userDisplayName = displayName?displayName:((await BWData.fetchUserInfoFromGitHub(uid)).login);
+  app.userDisplayName = displayName;
+  // ?displayName:((await BWData.fetchUserInfoFromGitHub(uid)).login);
   app.userPicture = photoURL;
 
   document.querySelectorAll("text.name").forEach((el) => {
