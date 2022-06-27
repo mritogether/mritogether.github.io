@@ -40,15 +40,18 @@
   @include defineColorHSL(--cd-color-event-2, 271, 23%, 26%);   // Martinique
   @include defineColorHSL(--cd-color-event-3, 162, 14%, 68%);   // Edward
   @include defineColorHSL(--cd-color-event-4, 31, 89%, 68%);    // Rajah
+  @include defineColorHSL(--cd-color-event-5, 21, 99%, 28%);    // Rajah
+  @include defineColorHSL(--cd-color-event-6, 81, 29%, 18%);    // Rajah
   @include defineColorHSL(--cd-color-text, 0, 0%, 13%);         // Black
   @include defineColorHSL(--cd-color-border, 0, 0%, 92%);       // Grey
 
   // font
-  --font-primary: 'Source Sans Pro', sans-serif;
+  //--font-primary: 'Source Sans Pro', sans-serif;
+  --font-primary: Montserrat, sans-serif;
 
   //schedule template
-  --schedule-rows-number: 19;
-  --schedule-rows-height: 50px;
+  --schedule-rows-number: 24;
+  --schedule-rows-height: 80px;
 }
 
 body {
@@ -355,6 +358,16 @@ a {
 
 .cd-schedule__event [data-event="event-5"],
 .cd-schedule-modal[data-event="event-5"] .cd-schedule-modal__header-bg {
+  background: var(--cd-color-event-5);
+}
+
+.cd-schedule__event [data-event="event-6"],
+.cd-schedule-modal[data-event="event-6"] .cd-schedule-modal__header-bg {
+  background: var(--cd-color-event-6);
+}
+
+.cd-schedule__event [data-event="event-7"],
+.cd-schedule-modal[data-event="event-7"] .cd-schedule-modal__header-bg {
   background: repeating-linear-gradient(
   45deg,
   #9a9a9c,

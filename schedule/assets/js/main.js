@@ -34,6 +34,9 @@ function adaptData(data)
 
     var new_data = timeStamp + timeZone*60;
     hr = Math.floor(new_data/60);
+    if(hr<10){
+		hr = String(hr).padStart(2, '0')
+	}
     mn = new_data%60;
     if(mn<10)
     {
@@ -44,6 +47,34 @@ function adaptData(data)
     return new_time
 
 }
+
+function deadaptData(data)
+{	
+	var date = new Date();
+	// var optionBox = document.getElementById("timezone_select");
+ //    var timeZone = parseInt(optionBox.value);
+ 	var timeZone = date.getTimezoneOffset()/60;
+
+    data = data.replace(/ /g,'');
+	var timeArray = data.split(':');
+	var timeStamp = parseInt(timeArray[0])*60 + parseInt(timeArray[1]);
+
+    var new_data = timeStamp + timeZone*60;
+    hr = Math.floor(new_data/60);
+    if(hr<10){
+		hr = String(hr).padStart(2, '0')
+	}
+    mn = new_data%60;
+    if(mn<10)
+    {
+    	mn = String(mn).padStart(2, '0')
+    }
+    new_time = hr + ':' + mn
+    
+    return new_time
+
+}
+
 function adaptTime()
 {
     var optionBox = document.getElementById("timezone_select");
@@ -105,6 +136,20 @@ function adaptTime()
 //     });
 // populateTimeZones();
 // setTimeZone();
+function dataToTime(data)
+{
+	hr = Math.floor(data/60);
+	if(hr<10){
+		hr = String(hr).padStart(2, '0')
+	}
+    mn = data%60;
+    if(mn<10)
+    {
+    	mn = String(mn).padStart(2, '0')
+    }
+    new_time = hr + ':' + mn;
+    return new_time
+}
 
 (function() {
 	// Schedule Template - by CodyHouse.co
@@ -170,15 +215,81 @@ function adaptTime()
 			this.singleEvents[i].removeAttribute('style');
 		}
 	};
-
+	var added = 0;
 	ScheduleTemplate.prototype.placeEvents = function() {
 		// on big devices - place events in the template according to their time/day
 		var self = this,
 			slotHeight = this.topInfoElement.offsetHeight;
+
+		for(var i = 0; i < this.singleEvents.length; i++){
+
+			var anchor = this.singleEvents[i].getElementsByTagName('a')[0];
+			anchor.setAttribute('data-start', adaptData(anchor.getAttribute('data-start')));
+			anchor.setAttribute('data-end', adaptData(anchor.getAttribute('data-end')));
+
+			// if(data_start<8*60 || data_end<8*60){
+			// 	anchor.setAttribute('data-event', "event-7");
+			// }
+			}
+
+
 		for(var i = 0; i < this.singleEvents.length; i++) {
 			var anchor = this.singleEvents[i].getElementsByTagName('a')[0];
-			anchor.setAttribute('data-start', adaptData(anchor.getAttribute('data-start')))
-			anchor.setAttribute('data-end', adaptData(anchor.getAttribute('data-end')))
+			var data_start = getScheduleTimestamp(anchor.getAttribute('data-start'));
+			var data_end = getScheduleTimestamp(anchor.getAttribute('data-end'));
+			var duration = (data_end - data_start)/60;
+
+			var event = anchor.parentElement
+			var day = anchor.parentElement.parentElement.id
+			prev_day = '#Day' + (parseInt(day.slice(-1))-1);
+			next_day = '#Day' + (parseInt(day.slice(-1))+1);
+
+			if(data_start<=0 && data_end<=0)
+			{
+				data_start = dataToTime(data_start + 24*60);
+				data_end = dataToTime(data_end + 24*60);
+				anchor.setAttribute('data-start', data_start);
+				anchor.setAttribute('data-end', data_end);
+				$(this.singleEvents[i]).appendTo(prev_day);
+
+			} else if(data_start>=24*60 && data_end>=24*60)
+			{
+				data_start = dataToTime(data_start - 24*60);
+				data_end = dataToTime(data_end - 24*60);
+				anchor.setAttribute('data-start', data_start);
+				anchor.setAttribute('data-end', data_end);
+				$(this.singleEvents[i]).appendTo(next_day);
+
+			} else if(data_start<24*60 && data_end>24*60){
+				data_start = dataToTime(data_start);
+				data_end = dataToTime(data_end - 24*60);
+				anchor.setAttribute('data-start', data_start);
+				anchor.setAttribute('data-end', "24:00");
+				const cloned_event = this.singleEvents[i].cloneNode(true);
+				cloned_anchor = cloned_event.getElementsByTagName('a')[0];
+				// cloned_anchor.appendTo(next_day);
+				cloned_anchor.setAttribute('data-start', "00:00");
+				cloned_anchor.setAttribute('data-end', data_end);
+				$(next_day).append(cloned_event);
+
+			} else if(data_start<0 && data_end>0){
+				data_start = dataToTime(data_start + 24*60);
+				data_end = dataToTime(data_end);
+				anchor.setAttribute('data-start', "00:00");
+				anchor.setAttribute('data-end', data_end);
+				const cloned_event = this.singleEvents[i].cloneNode(true);
+				cloned_anchor = cloned_event.getElementsByTagName('a')[0];
+				// cloned_anchor.appendTo(next_day);
+				cloned_anchor.setAttribute('data-start', data_start);
+				cloned_anchor.setAttribute('data-end', "24:00");
+				$(prev_day).append(cloned_event);
+
+			} 
+		}
+		for(var i = 0; i < this.singleEvents.length; i++){
+
+			var anchor = this.singleEvents[i].getElementsByTagName('a')[0];
+			
 			var start = getScheduleTimestamp(anchor.getAttribute('data-start')),
 				duration = getScheduleTimestamp(anchor.getAttribute('data-end')) - start;
 
@@ -186,7 +297,7 @@ function adaptTime()
 				eventHeight = slotHeight*duration/self.timelineUnitDuration;
 
 			this.singleEvents[i].setAttribute('style', 'top: '+(eventTop-1)+'px; height: '+(eventHeight +1)+'px');
-		}
+			}
 
 		Util.removeClass(this.element, 'cd-schedule--loading');
 	};
@@ -440,6 +551,9 @@ function adaptTime()
 		//accepts hh:mm format - convert hh:mm to timestamp
 		time = time.replace(/ /g,'');
 		var timeArray = time.split(':');
+		// if(timeArray[0]>=24){
+		// 	timeArray[0] -= 24;
+		// }
 		var timeStamp = parseInt(timeArray[0])*60 + parseInt(timeArray[1]);
 		return timeStamp;
 		// return timeStamp;
@@ -479,4 +593,5 @@ function adaptTime()
 			resizing = false;
 		};
 	}
-}());
+}()
+	);
