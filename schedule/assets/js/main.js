@@ -355,11 +355,11 @@ function dataToTime(data)
   //   }); 
   		for (const moderator of moderators) {
   			console.log(usersInfo[moderator]);
-	        modalModeratorInfo.innerHTML += "<div class='item'> <img class='cd-schedule-modal__img' src=" + usersInfo[moderator].url + " alt='Mo Shahdloo'> <span class='caption'>" + usersInfo[moderator].name + "</span></div>"
+	        modalModeratorInfo.innerHTML += "<div class='item'> <img class='cd-schedule-modal__img' src=" + usersInfo[moderator].url + " alt='Mo Shahdloo'> <span class='caption'>" + usersInfo[moderator].name + "</span> <span class='subcaption'>" + usersInfo[moderator].affiliation + "</span></div>"
 		}
 		// modalEventInfo.innerHTML += "<br><span class='cd-schedule-modal__info'>Speakers</span>";
 		for (const speaker of speakers) {
-	    	modalSpeakerInfo.innerHTML += "<div class='item'> <img class='cd-schedule-modal__img' src=" + usersInfo[speaker].url + " alt='Mo Shahdloo'> <span class='caption'>" + usersInfo[speaker].name + "</span></div>"
+	    	modalSpeakerInfo.innerHTML += "<div class='item'> <img class='cd-schedule-modal__img' src=" + usersInfo[speaker].url + " alt='Mo Shahdloo'> <span class='caption'>" + usersInfo[speaker].name + "</span> <span class='subcaption'>" + usersInfo[speaker].affiliation + "</span></div>"
 	         }
 
 		this.modalDate.textContent = target.getAttribute('data-start')+' - '+target.getAttribute('data-end');
