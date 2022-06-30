@@ -71,6 +71,7 @@ const app = firebase.initializeApp(config);
 // console.log(firebase.database())
 const db = firebase.database();
 const storageRef = firebase.storage().ref();
+not_inited = true;
 db.ref().child('users/').on('value', function (snapshot) {
   usersInfo = {};
   snapshot.forEach(function(data) {
@@ -87,5 +88,15 @@ db.ref().child('users/').on('value', function (snapshot) {
         // console.log(data.key);
         // console.log(data.val());
     });
+  not_inited = false;
          // usersInfo = snapshot; // not logging
       });
+
+// function task(i) {
+//   setTimeout(function() {
+//       // console.log(i);
+//   }, 2000 * i);
+// }
+// while (not_inited) {
+//   task(10);
+// }

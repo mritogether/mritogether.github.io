@@ -172,6 +172,9 @@ function dataToTime(data)
 		this.modalEventName = this.modal.getElementsByClassName('cd-schedule-modal__name')[0];
 		this.modalModeratorInfo = this.modal.getElementsByClassName('cd-schedule-modal__speaker_info')[0];
 		this.modalSpeakerInfo = this.modal.getElementsByClassName('cd-schedule-modal__speaker_info')[1];
+		this.modalSpeakerInfoTitle = this.modal.getElementsByClassName('cd-schedule-modal__info')[0];
+		this.modalModeratorInfoTitle = this.modal.getElementsByClassName('cd-schedule-modal__info')[1];
+
 		this.coverLayer = this.element.getElementsByClassName('cd-schedule__cover-layer')[0];
 
 		this.modalMaxWidth = 800;
@@ -332,6 +335,12 @@ function dataToTime(data)
 		//update event name and time
 		this.modalEventName.textContent = target.getElementsByTagName('em')[0].textContent;
 		// this.modalEventInfo.textContent = target.getAttribute('data-speaker');
+		self.modalDate.style.transform = 'scaleX(1) scaleY(1)';
+		self.modalEventName.style.transform = 'scaleX(1) scaleY(1)';
+		self.modalModeratorInfo.style.transform = 'scaleX(1) scaleY(1)';
+		self.modalModeratorInfoTitle.style.transform = 'scaleX(1) scaleY(1)';
+		self.modalSpeakerInfo.style.transform = 'scaleX(1) scaleY(1)';
+		self.modalSpeakerInfoTitle.style.transform = 'scaleX(1) scaleY(1)';
 		var speakers = target.getAttribute('data-speakers').split(" ");
 		var moderators = target.getAttribute('data-moderators').split(" ");
 		modalModeratorInfo = this.modalModeratorInfo;
@@ -452,7 +461,14 @@ function dataToTime(data)
 			self.modalBodyBg.style.transform = 'scaleX(0) scaleY(1)';
 			//scale down modalHeaderBg element
 			// self.modalHeaderBg.setAttribute('style', 'transform: scaleY(1)');
-			self.modalHeaderBg.style.transform = 'scaleY(1)';
+			self.modalHeaderBg.style.transform = 'scaleX(0) scaleY(1)';
+			self.modalDate.style.transform = 'scaleX(0) scaleY(0)';
+			self.modalEventName.style.transform = 'scaleX(0) scaleY(0)';
+			self.modalModeratorInfo.style.transform = 'scaleX(0) scaleY(0)';
+			self.modalModeratorInfoTitle.style.transform = 'scaleX(0) scaleY(0)';
+			self.modalSpeakerInfo.style.transform = 'scaleX(0) scaleY(0)';
+			self.modalSpeakerInfoTitle.style.transform = 'scaleX(0) scaleY(0)';
+
 
 			self.modalHeaderBg.addEventListener('transitionend', function cb(){
 				//wait for the  end of the modalHeaderBg transformation and reset modal style
@@ -463,6 +479,8 @@ function dataToTime(data)
 					self.modalHeader.removeAttribute('style');
 					self.modalHeaderBg.removeAttribute('style');
 					self.modalBodyBg.removeAttribute('style');
+					// self.modalSpeakerInfo.removeAttribute('style');
+					// self.modalModeratorInfo.removeAttribute('style');
 				}, 10);
 				setTimeout(function(){
 					Util.removeClass(self.modal, 'cd-schedule-modal--no-transition');
