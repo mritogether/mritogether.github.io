@@ -170,10 +170,12 @@ function dataToTime(data)
 		this.modalClose = this.modal.getElementsByClassName('cd-schedule-modal__close')[0];
 		this.modalDate = this.modal.getElementsByClassName('cd-schedule-modal__date')[0];
 		this.modalEventName = this.modal.getElementsByClassName('cd-schedule-modal__name')[0];
+		this.modalModeratorInfo = this.modal.getElementsByClassName('cd-schedule-modal__speaker_info')[0];
+		this.modalSpeakerInfo = this.modal.getElementsByClassName('cd-schedule-modal__speaker_info')[1];
 		this.coverLayer = this.element.getElementsByClassName('cd-schedule__cover-layer')[0];
 
 		this.modalMaxWidth = 800;
-		this.modalMaxHeight = 480;
+		this.modalMaxHeight = 520;
 
 		this.animating = false;
 		this.supportAnimation = Util.cssSupports('transition');
@@ -329,6 +331,28 @@ function dataToTime(data)
 
 		//update event name and time
 		this.modalEventName.textContent = target.getElementsByTagName('em')[0].textContent;
+		// this.modalEventInfo.textContent = target.getAttribute('data-speaker');
+		var speakers = target.getAttribute('data-speakers').split(" ");
+		var moderators = target.getAttribute('data-moderators').split(" ");
+		modalModeratorInfo = this.modalModeratorInfo;
+		modalModeratorInfo.innerHTML = "";
+		modalSpeakerInfo = this.modalSpeakerInfo;
+		modalSpeakerInfo.innerHTML = "";
+		// db.ref('users').once("value").then(function(snapshot) {
+  //     var a = snapshot.exists();  // true
+  //     var b = snapshot.child("name").exists(); // true
+  //     var c = snapshot.child("name/first").exists(); // true
+  //     var d = snapshot.child("name/middle").exists(); // false
+  //   }); 
+  		for (const moderator of moderators) {
+  			console.log(usersInfo[moderator]);
+	        modalModeratorInfo.innerHTML += "<div class='item'> <img class='cd-schedule-modal__img' src=" + usersInfo[moderator].url + " alt='Mo Shahdloo'> <span class='caption'>" + usersInfo[moderator].name + "</span></div>"
+		}
+		// modalEventInfo.innerHTML += "<br><span class='cd-schedule-modal__info'>Speakers</span>";
+		for (const speaker of speakers) {
+	    	modalSpeakerInfo.innerHTML += "<div class='item'> <img class='cd-schedule-modal__img' src=" + usersInfo[speaker].url + " alt='Mo Shahdloo'> <span class='caption'>" + usersInfo[speaker].name + "</span></div>"
+	         }
+
 		this.modalDate.textContent = target.getAttribute('data-start')+' - '+target.getAttribute('data-end');
 		this.modal.setAttribute('data-event', target.getAttribute('data-event'));
 
