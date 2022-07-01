@@ -22,36 +22,36 @@ layout: default
 <a xlink:href="https://moshahdloo.com/" >
     <rect x="366.4" y="202.2" class="st0" width="170.1" height="28.4"/>
     <text transform="matrix(1 0 0 1 370.1592 210.7548)" class="st1 st2">Mo Shahdloo </text>
-    <text transform="matrix(1 0 0 1 448.8192 210.7548)" class="st1 st3">(he/him; co-chair)</text>
+    <text transform="matrix(1 0 0 1 448.8192 210.7548)" class="st1 st3">(he/him - co-chair)</text>
     <text transform="matrix(1 0 0 1 381.7592 225.1548)" class="st1 st2">University of Oxford, UK</text>
 </a>
 <a xlink:href="https://sophieschau.github.io/" >
     <rect x="5.9" y="597" class="st0" width="170.1" height="28.3"/>
     <text transform="matrix(1 0 0 1 14.4904 605.5742)" class="st1 st2">Sophie Schauman </text>
-    <text transform="matrix(1 0 0 1 121.8504 605.5742)" class="st1 st3">(co-chair)</text>
+    <text transform="matrix(1 0 0 1 121.8504 605.5742)" class="st1 st3">(she/her - co-chair)</text>
     <text transform="matrix(1 0 0 1 19.6004 619.9742)" class="st1 st2">Stanford University, USA</text>
 </a>
 <a xlink:href="https://twitter.com/nikou_ld?lang=en-GB" >
     <rect x="98.8" y="188" class="st0" width="186" height="43.8"/>
-    <text transform="matrix(1 0 0 1 122.0873 196.6357)" class="st1 st2">Nikou Louise Damestani</text>
+    <text transform="matrix(1 0 0 1 122.0873 196.6357)" class="st1"><tspan x="0" y="0" class="st1 st2">Nikou Louise Damestani </tspan><tspan x="142.7" y="0" class="st1 st3">(she/her)</tspan></text>
     <text transform="matrix(1 0 0 1 102.7573 211.0357)" class="st1 st2">Martinos Center for Biomedical </text>
     <text transform="matrix(1 0 0 1 152.7673 225.4357)" class="st1 st2">Imaging, USA</text>
 </a>
 <a xlink:href="https://www.mevis.fraunhofer.de/en/employees/daniel-hoinkiss.html" >
     <rect x="371.6" y="643.2" class="st0" width="179.7" height="42.2"/>
-    <text transform="matrix(1 0 0 1 416.8162 651.7732)" class="st1 st2">Daniel Hoinkiss</text>
+    <text transform="matrix(1 0 0 1 416.8162 651.7732)" class="st1"><tspan x="0" y="0" class="st1 st2">Daniel Hoinkiss </tspan><tspan x="92.7" y="0" class="st1 st3">(he/him)</tspan></text>
     <text transform="matrix(1 0 0 1 375.1662 666.1732)" class="st1 st2">Fraunhofer Institute for Digital </text>
     <text transform="matrix(1 0 0 1 386.1362 680.5732)" class="st1 st2">Medicine MEVIS, Germany</text>
 </a>
 <a xlink:href="https://researchers.uq.edu.au/researcher/24057" >
     <rect x="687.5" y="522.3" class="st0" width="179.7" height="42.2"/>
-    <text transform="matrix(1 0 0 1 743.373 530.9299)" class="st1 st2">Hongfu Sun</text>
+    <text transform="matrix(1 0 0 1 743.373 530.9299)" class="st1"><tspan x="0" y="0" class="st1 st2">Hongfu Sun </tspan><tspan x="71.3" y="0" class="st1 st3">(he/him)</tspan></text>
     <text transform="matrix(1 0 0 1 703.343 545.3298)" class="st1 st2">University of Queensland, </text>
     <text transform="matrix(1 0 0 1 750.023 559.7299)" class="st1 st2">Australlia</text>
 </a>
 <a xlink:href="https://www.linkedin.com/in/yan-tong-6b20ba141/" >
     <rect x="638" y="303.6" class="st0" width="179.7" height="28.6"/>
-    <text transform="matrix(1 0 0 1 700.5128 312.168)" class="st1 st2">Yan Tong</text>
+    <text transform="matrix(1 0 0 1 700.5128 312.168)" class="st1"><tspan x="0" y="0" class="st1 st2">Yan Tong </tspan><tspan x="58" y="0" class="st1 st3">(he/him)</tspan></text>
     <text transform="matrix(1 0 0 1 664.5128 326.568)" class="st1 st2">United Imaging, China</text>
 </a>
 <image style="overflow:visible;" width="417" height="418" xlink:href="/images/committee/mo.jpg"  transform="matrix(0.36 0 0 0.36 374.4 42.33)">

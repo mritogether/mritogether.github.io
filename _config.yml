@@ -23,3 +23,5 @@ header:
     - label: dummy
       url: dummy
     
+load_paths:
+    - assets
