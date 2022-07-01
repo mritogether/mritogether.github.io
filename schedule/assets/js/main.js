@@ -1,3 +1,25 @@
+
+tz_offset = {"tz": -100};
+var url      = window.location.href;
+var arr = url.split('?');
+if (arr.length > 1 && arr[1] !== '') {
+  location.search.slice(1).split("&").forEach(function(pair) {
+	   pair = pair.split("=");
+	   tz_offset[decodeURIComponent(pair[0])] = decodeURIComponent(pair[1]);
+	});
+}
+date = new Date();
+zone = date.toLocaleTimeString('en-us',{timeZoneName:'short'}).split(' ')[2];
+zone_name = Intl.DateTimeFormat('en-us',{timeZoneName:'short'}).resolvedOptions().timeZone;
+if(tz_offset['tz'] == -100)
+{
+	timeZone = -(date.getTimezoneOffset())/60;
+} else{
+	timeZone = (tz_offset['tz']);
+}
+
+
+
 function populateTimeZones()
 {
     var min = -12, 
@@ -15,7 +37,7 @@ function populateTimeZones()
 function setTimeZone()
 {
     var optionBox = document.getElementById("timezone_select");
-    var date = new Date();
+    // var date = new Date();
     var offset = date.getTimezoneOffset();
     console.log(offset);
     optionBox.value = Math.round(-offset/60);
@@ -26,7 +48,7 @@ function adaptData(data)
 	var date = new Date();
 	// var optionBox = document.getElementById("timezone_select");
  //    var timeZone = parseInt(optionBox.value);
- 	var timeZone = -date.getTimezoneOffset()/60;
+ 	// var timeZone = -date.getTimezoneOffset()/60;
 
     data = data.replace(/ /g,'');
 	var timeArray = data.split(':');
@@ -53,7 +75,7 @@ function deadaptData(data)
 	var date = new Date();
 	// var optionBox = document.getElementById("timezone_select");
  //    var timeZone = parseInt(optionBox.value);
- 	var timeZone = date.getTimezoneOffset()/60;
+ 	// var timeZone = date.getTimezoneOffset()/60;
 
     data = data.replace(/ /g,'');
 	var timeArray = data.split(':');
@@ -76,11 +98,7 @@ function deadaptData(data)
 }
 
 function adaptTime()
-{
-    var optionBox = document.getElementById("timezone_select");
-    var timeZone = parseInt(optionBox.value);
-    console.log("Time zone value: " + timeZone);
-    
+{   
     Array.from(document.getElementsByClassName("timezone_adapt")).forEach(function (element) {
         var orig_date = parseInt(element.getAttribute("data-date"));
         var orig_start_time = parseInt(element.getAttribute("data-staasrtss"));
@@ -130,12 +148,6 @@ function adaptTime()
     });
 }
 
-// document.addEventListener("DOMContentLoaded", function() {
-    
-//     // adaptTime();
-//     });
-// populateTimeZones();
-// setTimeZone();
 function dataToTime(data)
 {
 	hr = Math.floor(data/60);
@@ -184,11 +196,30 @@ function dataToTime(data)
 		this.supportAnimation = Util.cssSupports('transition');
 
 		this.initSchedule();
+
+		
 	};
 
 	ScheduleTemplate.prototype.initSchedule = function() {
 		this.scheduleReset();
 		this.initEvents();
+
+	    tz_text = document.getElementById("timezone_text");
+	    if(tz_offset['tz']!=-100){
+	    	tz_text.innerHTML = '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">* All times are based on </a><a style="text-decoration: line-through;">' + zone_name + '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap"> (' + "GMT" + tz_offset['tz'] + ').</a>'
+
+	    } else {
+	    	tz_text.innerHTML = '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">* All times are based on ' + zone_name + ' (' + zone + ').</a>'
+	    }
+	    // TO remove DAY0 IF after UTC
+	    if (timeZone > -0.1) {
+	       document.getElementById("Day0_all").style.display = "none"; 
+	       document.getElementById("Day0_all").innerHTML = "";
+	   } 
+	   if (timeZone < 10) {
+	       document.getElementById("Day5_all").style.display = "none"; 
+	       document.getElementById("Day5_all").innerHTML = "";
+	   } 
 	};
 
 	ScheduleTemplate.prototype.scheduleReset = function() {

@@ -79,7 +79,7 @@
               <div class="menu-item"><a href="/committee">Organizers</a></div>
               <div class="menu-item"><a href="/sponsors">Supporters</a></div>
               <div class="menu-item"><a href="/job_board">Job Board</a></div>
-              <div class="menu-item"><a href="/mrhive"><i class="fas fa-project-diagram"></i> MR Hive</a></div>
+              <!-- <div class="menu-item"><a href="/mrhive"><i class="fas fa-project-diagram"></i> MR Hive</a></div> -->
               <div class="menu-item"><a href="/CODE_OF_CONDUCT">Code of Conduct</a></div>
               <div class="menu-item"><a href="/21m/index">Past Workshops</a></div>
             </div>
@@ -447,25 +447,6 @@
   </footer>
 </div>
   <script src="/assets/js/sticky.js"></script>
-  <!-- <script src="/schedule/assets/js/timezone.js"></script> -->
-  <script type="text/javascript">
-    var date = new Date();
-    var zone = date.toLocaleTimeString('en-us',{timeZoneName:'short'}).split(' ')[2]
-    var zone_name = Intl.DateTimeFormat().resolvedOptions().timeZone
-    tz_text = document.getElementById("timezone_text");
-    tz_text.innerHTML = '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Avenir">* All times are based on ' + zone_name + ' (' + zone + ').</a>'
-    // TO remove DAY0 IF after UTC
-    var timeZone = -date.getTimezoneOffset()/60;
-    if (timeZone > -0.1) {
-       document.getElementById("Day0_all").style.display = "none"; 
-       document.getElementById("Day0_all").innerHTML = "";
-   } 
-   if (timeZone < 10) {
-       document.getElementById("Day5_all").style.display = "none"; 
-       document.getElementById("Day5_all").innerHTML = "";
-   } 
-  </script>
-
   </body>
 </html>
 
