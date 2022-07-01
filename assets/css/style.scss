@@ -6,6 +6,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Asap');
+
 
 #contact_header {
     position: absolute;
@@ -115,7 +117,7 @@ a:hover { text-decoration: none; }
   border-top: 0px;
   background: #fff;
   border-bottom: 0px;
-  /*min-height: calc(100vh - 425px);*/
+  min-height: calc(100vh - 425px);
 }
 
 body {
@@ -131,6 +133,12 @@ h1, h2, h3, h4, h6 {
   font-weight: 700;
 }
 
+p, li {
+  font-family: "Asap";
+  font-weight: 400;
+  font-size: 14pt;
+  line-height: 1.4;
+}
 /* laura edit color */
 h5 {
   color: #1849A0;
