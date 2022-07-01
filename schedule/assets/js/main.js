@@ -354,7 +354,7 @@ function dataToTime(data)
   //     var d = snapshot.child("name/middle").exists(); // false
   //   }); 
   		for (const moderator of moderators) {
-  			console.log(usersInfo[moderator]);
+  			// console.log(usersInfo[moderator]);
 	        modalModeratorInfo.innerHTML += "<div class='item'> <img class='cd-schedule-modal__img' src=" + usersInfo[moderator].url + " alt='Mo Shahdloo'> <span class='caption'>" + usersInfo[moderator].name + "</span> <span class='subcaption'>" + usersInfo[moderator].affiliation + "</span></div>"
 		}
 		// modalEventInfo.innerHTML += "<br><span class='cd-schedule-modal__info'>Speakers</span>";

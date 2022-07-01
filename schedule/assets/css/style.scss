@@ -101,6 +101,9 @@ a {
         list-style-type: none;
   			position: relative;
   			height: var(--schedule-rows-height);
+        font-family: Montserrat, sans-serif;
+        font-size: var(--text-xs);
+
 
   			&::after { // this is used to create the table horizontal lines
   				content: '';
@@ -133,7 +136,7 @@ a {
   			span {
   				display: inline-block;
   				transform: translateY(-50%);
-          font-size: var(--text-sm);
+          font-size: var(--text-xs);
   			}
 
   			&:nth-of-type(2n) span {
@@ -217,11 +220,15 @@ a {
 .cd-schedule__top-info { // day label
   width: 100%;
   padding: 0 var(--component-padding);
+  background: #f3f3f3;
+  font-family: Montserrat, sans-serif;
+
 
   > span {
     display: inline-block;
     margin-bottom: var(--space-sm);
-    font-weight: bold;
+    font-weight: 550;
+    font-family: Montserrat, sans-serif;
   }
   
   .js & {
@@ -238,6 +245,7 @@ a {
         font-weight: normal;
         font-size: var(--text-sm);
         margin-bottom: 0;
+        font-weight: 550;
       } 
     }
   }
@@ -469,13 +477,15 @@ a {
 
 .cd-schedule__event [data-event="event-7"],
 .cd-schedule-modal[data-event="event-7"] .cd-schedule-modal__header-bg {
-  background: repeating-linear-gradient(
+  /*background: repeating-linear-gradient(
   45deg,
   #9a9a9c,
   #9a9a9c 10px,
   #c2c2c4 10px,
   #c2c2c4 20px
-);
+);*/
+background: gray;
+opacity: 0.5;
 /*background: var(--cd-color-event-5);*/
 }
 
@@ -715,7 +725,7 @@ a {
 	height: 100%;
 	width: 100%;
 	background: alpha(var(--color-black), 0.8);
-	opacity: 0;
+	opacity: 1;
 	visibility: hidden;
 	transition: opacity .4s, visibility .4s;
 }
