@@ -148,9 +148,13 @@ function adaptTime()
     });
 }
 
-function dataToTime(data)
+function dataToTime(data, isnegative)
 {
-	hr = Math.floor(data/60);
+	hr = data/60;
+	if(isnegative && !Number.isInteger(hr)){
+		hr += 1;
+	}
+	hr = Math.floor(hr);
 	if(hr<10){
 		hr = String(hr).padStart(2, '0')
 	}
@@ -196,8 +200,6 @@ function dataToTime(data)
 		this.supportAnimation = Util.cssSupports('transition');
 
 		this.initSchedule();
-
-		
 	};
 
 	ScheduleTemplate.prototype.initSchedule = function() {
@@ -206,7 +208,7 @@ function dataToTime(data)
 
 	    tz_text = document.getElementById("timezone_text");
 	    if(tz_offset['tz']!=-100){
-	    	tz_text.innerHTML = '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">* All times are based on </a><a style="text-decoration: line-through;">' + zone_name + '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap"> (' + "GMT" + tz_offset['tz'] + ').</a>'
+	    	tz_text.innerHTML = '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">* All times are based on </a><a style="text-decoration: line-through;">' + zone_name + '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap"> (' + "UTC" + tz_offset['tz'] + ').</a>'
 
 	    } else {
 	    	tz_text.innerHTML = '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">* All times are based on ' + zone_name + ' (' + zone + ').</a>'
@@ -282,23 +284,23 @@ function dataToTime(data)
 
 			if(data_start<=0 && data_end<=0)
 			{
-				data_start = dataToTime(data_start + 24*60);
-				data_end = dataToTime(data_end + 24*60);
+				data_start = dataToTime(data_start + 24*60, true);
+				data_end = dataToTime(data_end + 24*60, true);
 				anchor.setAttribute('data-start', data_start);
 				anchor.setAttribute('data-end', data_end);
 				$(this.singleEvents[i]).appendTo(prev_day);
 
 			} else if(data_start>=24*60 && data_end>=24*60)
 			{
-				data_start = dataToTime(data_start - 24*60);
-				data_end = dataToTime(data_end - 24*60);
+				data_start = dataToTime(data_start - 24*60, false);
+				data_end = dataToTime(data_end - 24*60, false);
 				anchor.setAttribute('data-start', data_start);
 				anchor.setAttribute('data-end', data_end);
 				$(this.singleEvents[i]).appendTo(next_day);
 
 			} else if(data_start<24*60 && data_end>24*60){
-				data_start = dataToTime(data_start);
-				data_end = dataToTime(data_end - 24*60);
+				data_start = dataToTime(data_start, false);
+				data_end = dataToTime(data_end - 24*60, false);
 				anchor.setAttribute('data-start', data_start);
 				anchor.setAttribute('data-end', "24:00");
 				const cloned_event = this.singleEvents[i].cloneNode(true);
@@ -309,8 +311,8 @@ function dataToTime(data)
 				$(next_day).append(cloned_event);
 
 			} else if(data_start<0 && data_end>0){
-				data_start = dataToTime(data_start + 24*60);
-				data_end = dataToTime(data_end);
+				data_start = dataToTime(data_start + 24*60, true);
+				data_end = dataToTime(data_end, false);
 				anchor.setAttribute('data-start', "00:00");
 				anchor.setAttribute('data-end', data_end);
 				const cloned_event = this.singleEvents[i].cloneNode(true);
@@ -372,8 +374,18 @@ function dataToTime(data)
 		self.modalModeratorInfoTitle.style.transform = 'scaleX(1) scaleY(1)';
 		self.modalSpeakerInfo.style.transform = 'scaleX(1) scaleY(1)';
 		self.modalSpeakerInfoTitle.style.transform = 'scaleX(1) scaleY(1)';
-		var speakers = target.getAttribute('data-speakers').split(" ");
-		var moderators = target.getAttribute('data-moderators').split(" ");
+		var speakers = target.getAttribute('data-speakers')
+		if (typeof speakers == "string" && speakers.length) {
+			speakers = speakers.split(" ");
+			} else {
+				speakers = [];
+			}
+		var moderators = target.getAttribute('data-moderators')
+		if (typeof moderators == "string" && moderators.length) {
+			moderators = moderators.split(" ");
+			} else {
+				moderators = [];
+			}
 		modalModeratorInfo = this.modalModeratorInfo;
 		modalModeratorInfo.innerHTML = "";
 		modalSpeakerInfo = this.modalSpeakerInfo;

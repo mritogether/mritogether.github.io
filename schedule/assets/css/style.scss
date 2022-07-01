@@ -1,24 +1,21 @@
 @import '../../main/assets/css/style.scss'; // ⚠️ make sure to import the CodyHouse framework
-@import '../../main/assets/css/_base.scss'; // ⚠️ make sure to import the CodyHouse framework
-/*@import '../../main/assets/js/util.js'; // ⚠️ make sure to import the CodyHouse framework*/
+@import '../../main/assets/css/_base.scss';
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600'); // custom font
-@import '../../main/assets/css/base/_accessibility.scss'; // ⚠️ make sure to import the CodyHouse framework
-@import '../../main/assets/css/base/_buttons.scss'; // ⚠️ make sure to import the CodyHouse framework
-@import '../../main/assets/css/base/_forms.scss'; // ⚠️ make sure to import the CodyHouse framework
-@import '../../main/assets/css/base/_icons.scss'; // ⚠️ make sure to import the CodyHouse framework
-@import '../../main/assets/css/base/_reset.scss'; // ⚠️ make sure to import the CodyHouse framework
-@import '../../main/assets/css/base/_spacing.scss'; // ⚠️ make sure to import the CodyHouse framework
-/*@import '../../main/assets/css/base/_util.scss'; // ⚠️ make sure to import the CodyHouse framework*/
-@import '../../main/assets/css/base/_z-index.scss'; // ⚠️ make sure to import the CodyHouse framework
-@import '../../main/assets/css/base/_breakpoints.scss'; // ⚠️ make sure to import the CodyHouse framework
-@import '../../main/assets/css/base/_colors.scss'; // ⚠️ make sure to import the CodyHouse framework
-@import '../../main/assets/css/base/_grid-layout.scss'; // ⚠️ make sure to import the CodyHouse framework
-@import '../../main/assets/css/base/_mixins.scss'; // ⚠️ make sure to import the CodyHouse framework
-@import '../../main/assets/css/base/_shared-styles.scss'; // ⚠️ make sure to import the CodyHouse framework
-/*@import '../../main/assets/css/base/_typography.scss'; // ⚠️ make sure to import the CodyHouse framework*/
-@import '../../main/assets/css/base/_visibility.scss'; // ⚠️ make sure to import the CodyHouse framework
-@import '../../main/assets/css/components/_1_list.scss'; // ⚠️ make sure to import the CodyHouse framework
-@import '../../main/assets/css/custom-style/_util.scss'; // ⚠️ make sure to import the CodyHouse framework
+@import '../../main/assets/css/base/_accessibility.scss';
+@import '../../main/assets/css/base/_buttons.scss';
+@import '../../main/assets/css/base/_forms.scss';
+@import '../../main/assets/css/base/_icons.scss';
+@import '../../main/assets/css/base/_reset.scss';
+@import '../../main/assets/css/base/_spacing.scss';
+@import '../../main/assets/css/base/_z-index.scss';
+@import '../../main/assets/css/base/_breakpoints.scss';
+@import '../../main/assets/css/base/_colors.scss';
+@import '../../main/assets/css/base/_grid-layout.scss';
+@import '../../main/assets/css/base/_mixins.scss'; 
+@import '../../main/assets/css/base/_shared-styles.scss'; 
+@import '../../main/assets/css/base/_visibility.scss'; 
+@import '../../main/assets/css/components/_1_list.scss';
+@import '../../main/assets/css/custom-style/_util.scss';
 @import '../../main/assets/css/custom-style/_typography.scss';
 @import '../../main/assets/css/custom-style/_shared-styles.scss';
 @import '../../main/assets/css/custom-style/_colors.scss';
@@ -484,8 +481,8 @@ a {
   #c2c2c4 10px,
   #c2c2c4 20px
 );*/
-background: gray;
-opacity: 0.5;
+background: lightgray;
+/*opacity: 0.5;*/
 /*background: var(--cd-color-event-5);*/
 }
 
@@ -725,13 +722,13 @@ opacity: 0.5;
 	height: 100%;
 	width: 100%;
 	background: alpha(var(--color-black), 0.8);
-	opacity: 1;
+	opacity: 0.5;
 	visibility: hidden;
 	transition: opacity .4s, visibility .4s;
 }
 
 .cd-schedule-modal--open + .cd-schedule__cover-layer {
-	opacity: 1;
+	opacity: 0.5;
 	visibility: visible;
 }
 
