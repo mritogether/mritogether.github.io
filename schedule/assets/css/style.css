@@ -3359,7 +3359,7 @@ a {
     position: absolute;
     top: 50%;
     left: 50%;
-    width: 2px;
+    width: 5px;
     height: 22px;
     background: var(--color-white);
     backface-visibility: hidden; }

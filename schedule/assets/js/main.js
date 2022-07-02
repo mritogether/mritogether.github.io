@@ -218,6 +218,7 @@ function dataToTime(data, isnegative)
 	       document.getElementById("Day0_all").style.display = "none"; 
 	       document.getElementById("Day0_all").innerHTML = "";
 	   } 
+	   // add DAY5 IF after UTC+10
 	   if (timeZone < 10) {
 	       document.getElementById("Day5_all").style.display = "none"; 
 	       document.getElementById("Day5_all").innerHTML = "";
@@ -678,5 +679,6 @@ function dataToTime(data, isnegative)
 			resizing = false;
 		};
 	}
-}()
+}(
+	)
 	);
