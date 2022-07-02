@@ -78,15 +78,14 @@
           {{ site.description | default: site.github.project_tagline }}</h2>
       </div>
   </header>
-  <div id="sticky_menu" style="z-index: 999999;">
+  <div id="sticky_menu" style="z-index: 20000;">
     <div style="max-width:1150px; align-content: center; margin: auto;">
             <div id="nav-menu" style="padding-left: 0px;">
-              <!-- {% for link in site.header.links %}
-                {% assign page_url = page.url | trim: '/' %}
-                {% assign link_url = link.url | trim: '/' %}
-                <div class="menu-item"><a href="{{ link_url }}">{{ link.label }}</a></div>
-              {% endfor %} -->
-              <div class="menu-item" style="text-align: left;flex-grow: unset;"><a href="/" style="color: #009080;"><i class="fas fa-home-lg-alt"></i></a></div>
+              {% if page.url == "/" %}
+                <div class="menu-item_selected" style="text-align: left;flex-grow: unset;"><a href="/" style="color: #009080;"><i class="fas fa-home-lg-alt"></i></a></div>
+              {% else %}
+                <div class="menu-item" style="text-align: left;flex-grow: unset;"><a href="/" style="color: #009080;"><i class="fas fa-home-lg-alt"></i></a></div>
+              {% endif %}
               <!-- <div class="menu-item"><div class="dropdown">
                 <button class="dropbtn">Past Meetings 
                   </button>
@@ -96,13 +95,41 @@
                 </div> 
               </div>
                -->
-              <div class="menu-item"><a href="/overview">Program</a></div>
-              <div class="menu-item"><a href="/registration">How to Attend</a></div>
-              <div class="menu-item"><a href="/committee">Organizers</a></div>
-              <div class="menu-item"><a href="/sponsors">Supporters</a></div>
-              <div class="menu-item"><a href="/job_board">Job Board</a></div>
-              <div class="menu-item"><a href="/CODE_OF_CONDUCT">Code of Conduct</a></div>
-              <div class="menu-item"><a href="/21m/index">Past Workshops</a></div>
+              {% if page.url == "/overview.html" %}
+                <div class="menu-item_selected"><a href="/overview">Program</a></div>
+              {% else %}
+                <div class="menu-item"><a href="/overview">Program</a></div>
+              {% endif %}
+              {% if page.url == "/registration.html" %}
+                <div class="menu-item_selected"><a href="/registration">How to Attend</a></div>
+              {% else %}
+                <div class="menu-item"><a href="/registration">How to Attend</a></div>
+              {% endif %}
+              {% if page.url == "/committee.html" %}
+                <div class="menu-item_selected"><a href="/committee">Organizers</a></div>
+              {% else %}
+                <div class="menu-item"><a href="/committee">Organizers</a></div>
+              {% endif %}
+              {% if page.url == "/sponsors.html" %}
+                <div class="menu-item_selected"><a href="/sponsors">Supporters</a></div>
+              {% else %}
+                <div class="menu-item"><a href="/sponsors">Supporters</a></div>
+              {% endif %}
+              {% if page.url == "/job_board.html" %}
+                <div class="menu-item_selected"><a href="/job_board">Job Board</a></div>
+              {% else %}
+                <div class="menu-item"><a href="/job_board">Job Board</a></div>
+              {% endif %}
+              {% if page.url == "/CODE_OF_CONDUCT.html" %}
+                <div class="menu-item_selected"><a href="/CODE_OF_CONDUCT">Code of Conduct</a></div>
+              {% else %}
+                <div class="menu-item"><a href="/CODE_OF_CONDUCT">Code of Conduct</a></div>
+              {% endif %}
+              {% if page.url == "/21m/" %}
+                <div class="menu-item_selected"><a href="/21m/index">Past Workshops</a></div>
+              {% else %}
+                <div class="menu-item"><a href="/21m/index">Past Workshops</a></div>
+              {% endif %}
             </div>
             </div>
         </div>
@@ -122,7 +149,7 @@
     <div class="text">
       <h1 style="color:white;">#MRITogether returns!</h1>
 
-      The <a style="color: #f2f2f2; opacity: 0.8;" href="/21m/index">last MRI Together wokshop</a> was held in <em>December 2021</em>, and it has been a fantastic journey. More than 100 outstanding speakers, almost 900 registered attendees, a total cumulated duration of more than 50 hours of <a style="color: #f2f2f2; opacity: 0.8;" href="/21m/timetable">meetings and webinars</a>, more than <a style="color: #f2f2f2; opacity: 0.8;" href="https://www.youtube.com/playlist?list=PLeDygc8TN_J48APEUyle4Ql2uSTc74Nsg">36 hours of recorded talks</a>...
+      The <a style="color: #f2f2f2; opacity: 0.8;" href="/21m/index"><u>last MRI Together wokshop</u></a> was held in <em>December 2021</em>, and it has been a fantastic journey. More than 100 outstanding speakers, almost 900 registered attendees, a total cumulated duration of more than 50 hours of <a style="color: #f2f2f2; opacity: 0.8;" href="/21m/timetable"><u>meetings and webinars</u></a>, more than <a style="color: #f2f2f2; opacity: 0.8;" href="https://www.youtube.com/playlist?list=PLeDygc8TN_J48APEUyle4Ql2uSTc74Nsg"><u>36 hours of recorded talks</u></a>...
 
       <br><br>
       We are excited to announce that MRI Together will be back in <strong>December 2022</strong>, and this is the space to watch for updates!
@@ -173,6 +200,12 @@
         // nextArrow: '<button type="button" class="slick-next slick-arrow" style="right: 0px;">Next</button>',
         // prevArrow: '<button type="button" class="slick-prev slick-arrow" style="left: 0px;">Prev</button>',
       });
+    
+      // $('#nav-menu div').click(function(e) {
+      //     $('#nav-menu div').removeClass('current_page_item');
+      //     $(this).addClass('current_page_item');
+      // });
+
     });
   </script>
 
