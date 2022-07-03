@@ -35,7 +35,7 @@
   // colors
   @include defineColorHSL(--cd-color-event-1, 199, 25%, 46%);   // Smalt Blue
   @include defineColorHSL(--cd-color-event-2, 271, 23%, 26%);   // Martinique
-  @include defineColorHSL(--cd-color-event-3, 162, 14%, 68%);   // Edward
+  @include defineColorHSL(--cd-color-event-3, 50, 100%, 30%);   // Edward
   @include defineColorHSL(--cd-color-event-4, 0, 69%, 30%);    // Rajah
   @include defineColorHSL(--cd-color-event-5, 21, 99%, 28%);    // Rajah
   @include defineColorHSL(--cd-color-event-6, 81, 29%, 18%);    // Rajah
@@ -47,7 +47,7 @@
   --font-primary: Montserrat, sans-serif;
 
   //schedule template
-  --schedule-rows-number: 23;
+  --schedule-rows-number: 24;
   --schedule-rows-height: 80px;
 }
 
