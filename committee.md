@@ -3,7 +3,7 @@ title: Organizing Committee
 layout: default
 --- 
 
-<div>
+<div id="committee_svg">
 <svg width="1000" height="800">
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
@@ -82,7 +82,6 @@ layout: default
     <g>
         <path class="st4" d="M239.8,359.9c33.6-43.2,52.7-82.7,63.7-109.9c25.6-63.5,16.6-84,12.5-91.3c-11.9-21.5-36.6-29.4-49.2-32.4"/>
         <g>
-            
                 <ellipse transform="matrix(0.6296 -0.7769 0.7769 0.6296 -190.5794 319.614)" class="st5" cx="239.9" cy="359.7" rx="5.6" ry="5.6"/>
         </g>
     </g>
@@ -120,6 +119,39 @@ layout: default
     </g>
 </g>
 </svg>
+</svg>
+</div>
+
+<div id="committee_table">
+<table style="width:100%">
+<tbody>
+<tr>
+    <td><img src="/images/committee/sophie.jpg" width=150px></td>
+    <td><strong><a href="https://sophieschau.github.io">Sophie Schauman <a style="font-size: smaller;">(she/her; co-chair)</a></a></strong><br> Stanford University, USA</td>
+</tr>
+<tr>
+<td><img src="/images/committee/mo.jpg" width=150px></td>
+<td><strong><a href="https://moshahdloo.com">Mo Shahdloo <a style="font-size: smaller;">(he/him; co-chair)</a></a></strong><br> University of Oxford, UK</td>
+</tr>
+<tr>
+    <td><img src="/images/committee/daniel.jpg" width=150px></td>
+    <td><strong><a href="https://www.mevis.fraunhofer.de/en/employees/daniel-hoinkiss.html">Daniel Hoinkiss <a style="font-size: smaller;">(he/him)</a></a></strong><br> Fraunhofer Institute for Digital Medicine MEVIS, Germany</td>
+</tr>
+<tr>
+    <td><img src="/images/committee/hongfu.jpg" width=150px></td>
+    <td><strong><a href="https://researchers.uq.edu.au/researcher/24057">Hongfu Sun <a style="font-size: smaller;">(he/him)</a></a></strong><br> University of Queensland, Australlia</td>
+</tr>
+<tr>
+    <td><img src="/images/committee/nikou.jpg" width=150px></td>
+    <td><strong><a href="https://twitter.com/nikou_ld?lang=en-GB">Nikou Louise Damestani <a style="font-size: smaller;">(she/her)</a></a></strong><br> Martinos Center for Biomedical Imaging, USA</td>
+</tr>
+<tr>
+    <td><img src="/images/committee/yan.jpg" width=150px></td>
+    <td><strong><a href="https://www.linkedin.com/in/yan-tong-6b20ba141/">Yan Tong <a style="font-size: smaller;">(he/him)</a></a></strong><br> United Imaging, China</td>
+
+</tr>
+</tbody>
+</table>
 </div>
 
 <div>

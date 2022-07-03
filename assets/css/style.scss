@@ -1042,3 +1042,23 @@ a:link {
 }
 
 a {text-decoration: none;color: #373737;}
+
+@media screen and (min-width: 0px) and (max-width: 800px) {
+  #sticky_slideshow { display: none; }  /* show it on small screens */
+  #footer { background: #009080; }  /* show it on small screens */
+}
+
+@media screen and (min-width: 801px) and (max-width: 2000px) {
+  #sticky_slideshow { display: block; }   /* hide it elsewhere */
+  #footer { background: url("/images/footer_bg-01.png") no-repeat center bottom;}
+}
+
+@media screen and (min-width: 0px) and (max-width: 1200px) {
+  #committee_svg { display: none; }  /* show it on small screens */
+  #committee_table { display: block; }  /* show it on small screens */
+}
+
+@media screen and (min-width: 1201px) and (max-width: 2000px) {
+  #committee_svg { display: block; }   /* hide it elsewhere */
+  #committee_table { display: none;}
+}
