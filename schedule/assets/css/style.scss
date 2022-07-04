@@ -147,7 +147,7 @@ a {
 
 .cd-schedule__events {
 	position: relative;
-	z-index: 10000;
+	z-index: 8;
   
   .js & {
   	@include breakpoint(md) {
@@ -277,7 +277,7 @@ a {
 
     @include breakpoint(md) {
       position: absolute;
-      z-index: 30000;
+      z-index: 8;
       width: calc(100% + 2px); // top position and height will be set using js
       left: -1px;
       max-width: none; // reset style
@@ -490,7 +490,7 @@ background: lightgray;
 
 .cd-schedule-modal {
 	position: fixed;
-	z-index: 30000;
+	z-index: 8;
 	top: 0;
 	right: 0;
 	height: 100%;
@@ -532,7 +532,7 @@ background: lightgray;
 
 .cd-schedule-modal__content {
   position: relative;
-  z-index: 30000;
+  z-index: 8;
   display: flex;
   align-items: center;
   padding: var(--space-sm) var(--component-padding);
@@ -557,7 +557,7 @@ background: lightgray;
 
 .cd-schedule-modal__event-info {
   position: relative;
-  z-index: 20000;
+  z-index: 7;
   line-height: var(--body-line-height);
   height: 100%;
   overflow: hidden;
@@ -596,7 +596,7 @@ background: lightgray;
 }
 
 .cd-schedule-modal__header-bg {
-  z-index: 20000;
+  z-index: 7;
   transform-origin: top center;
   
   @include breakpoint(md) {
@@ -606,7 +606,7 @@ background: lightgray;
 }
 
 .cd-schedule-modal__body-bg {
-  z-index: 10000;
+  z-index: 6;
   background: var(--color-white);
   transform-origin: top left;
 
@@ -651,7 +651,7 @@ background: lightgray;
 
 .cd-schedule-modal__close { // close modal icon
   position: absolute;
-  z-index: 30000;
+  z-index: 8;
   top: 0;
   right: 0;
   height: 70px;
@@ -693,6 +693,7 @@ background: lightgray;
 .cd-schedule-modal--open { // this class is added as soon as an event is selected
 	transform: translateX(0);
 	visibility: visible;
+  z-index: 10;
 
 	.cd-schedule-modal__event-info > div { // smooth scroll on iOS touch deviceS
 		-webkit-overflow-scrolling: touch;
@@ -717,7 +718,7 @@ background: lightgray;
 
 .cd-schedule__cover-layer { // layer between the content and the modal window
 	position: fixed;
-	z-index: 20000;
+	z-index: 9;
 	top: 0;
 	left: 0;
 	height: 100%;

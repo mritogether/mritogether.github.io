@@ -2948,7 +2948,7 @@ a {
 
 .cd-schedule__events {
   position: relative;
-  z-index: 10000; }
+  z-index: 8; }
   @media (min-width: 64rem) {
     .js .cd-schedule__events {
       width: 100%; }
@@ -3040,7 +3040,7 @@ a {
   @media (min-width: 64rem) {
     .js .cd-schedule__event {
       position: absolute;
-      z-index: 30000;
+      z-index: 8;
       width: calc(100% + 2px);
       left: -1px;
       max-width: none;
@@ -3220,7 +3220,7 @@ a {
 
 .cd-schedule-modal {
   position: fixed;
-  z-index: 30000;
+  z-index: 8;
   top: 0;
   right: 0;
   height: 100%;
@@ -3256,7 +3256,7 @@ a {
 
 .cd-schedule-modal__content {
   position: relative;
-  z-index: 30000;
+  z-index: 8;
   display: flex;
   align-items: center;
   padding: var(--space-sm) var(--component-padding); }
@@ -3276,7 +3276,7 @@ a {
 
 .cd-schedule-modal__event-info {
   position: relative;
-  z-index: 20000;
+  z-index: 7;
   line-height: var(--body-line-height);
   height: 100%;
   overflow: hidden;
@@ -3307,7 +3307,7 @@ a {
       backface-visibility: hidden; } }
 
 .cd-schedule-modal__header-bg {
-  z-index: 20000;
+  z-index: 7;
   transform-origin: top center; }
   @media (min-width: 64rem) {
     .cd-schedule-modal__header-bg {
@@ -3315,7 +3315,7 @@ a {
       transition-timing-function: cubic-bezier(0.5, 0, 0.1, 1); } }
 
 .cd-schedule-modal__body-bg {
-  z-index: 10000;
+  z-index: 6;
   background: var(--color-white);
   transform-origin: top left; }
   @media (min-width: 64rem) {
@@ -3349,7 +3349,7 @@ a {
 
 .cd-schedule-modal__close {
   position: absolute;
-  z-index: 30000;
+  z-index: 8;
   top: 0;
   right: 0;
   height: 70px;
@@ -3380,7 +3380,8 @@ a {
 
 .cd-schedule-modal--open {
   transform: translateX(0);
-  visibility: visible; }
+  visibility: visible;
+  z-index: 10; }
   .cd-schedule-modal--open .cd-schedule-modal__event-info > div {
     -webkit-overflow-scrolling: touch; }
 
@@ -3396,7 +3397,7 @@ a {
     transition-timing-function: cubic-bezier(0.5, 0, 0.1, 1); } }
 .cd-schedule__cover-layer {
   position: fixed;
-  z-index: 20000;
+  z-index: 9;
   top: 0;
   left: 0;
   height: 100%;
