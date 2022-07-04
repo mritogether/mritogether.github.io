@@ -214,15 +214,15 @@ function dataToTime(data, isnegative)
 	    	tz_text.innerHTML = '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">* All times are based on ' + zone_name + ' (' + zone + ').</a>'
 	    }
 	    // TO remove DAY0 IF after UTC
-	    if (timeZone > -0.1) {
-	       document.getElementById("Day0_all").style.display = "none"; 
-	       document.getElementById("Day0_all").innerHTML = "";
-	   } 
-	   // add DAY5 IF after UTC+10
-	   if (timeZone < 10) {
-	       document.getElementById("Day5_all").style.display = "none"; 
-	       document.getElementById("Day5_all").innerHTML = "";
-	   } 
+	   //  if (timeZone > -0.1) {
+	   //     document.getElementById("Day0_all").style.display = "none"; 
+	   //     document.getElementById("Day0_all").innerHTML = "";
+	   // } 
+	   // // add DAY5 IF after UTC+10
+	   // if (timeZone < 10) {
+	   //     document.getElementById("Day5_all").style.display = "none"; 
+	   //     document.getElementById("Day5_all").innerHTML = "";
+	   // } 
 	};
 
 	ScheduleTemplate.prototype.scheduleReset = function() {
