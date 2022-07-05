@@ -3528,7 +3528,9 @@ a {
   background: repeating-linear-gradient(52deg, #9a9a9c26, #9a9a9c26 12px, #c2c2c426 12px, #c2c2c426 24px); }
 
 .column {
-  float: none;
+  text-align: left;
+  margin-right: auto;
+  margin-left: auto;
   width: 25%; }
 
 /* Clear floats after the columns */

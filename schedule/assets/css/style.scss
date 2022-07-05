@@ -871,7 +871,9 @@ background: lightgray;
 }
 
 .column {
-  float: none;
+  text-align: left;
+  margin-right: auto;
+  margin-left: auto;
   width: 25%;
 }
 
