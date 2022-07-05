@@ -2863,10 +2863,10 @@ mark {
   --cd-color-event-4-h: 0;
   --cd-color-event-4-s: 69%;
   --cd-color-event-4-l: 30%;
-  --cd-color-event-5: hsl(21, 99%, 28%);
+  --cd-color-event-5: hsl(21, 92%, 38%);
   --cd-color-event-5-h: 21;
-  --cd-color-event-5-s: 99%;
-  --cd-color-event-5-l: 28%;
+  --cd-color-event-5-s: 92%;
+  --cd-color-event-5-l: 38%;
   --cd-color-event-6: hsl(81, 29%, 18%);
   --cd-color-event-6-h: 81;
   --cd-color-event-6-s: 29%;
@@ -3496,5 +3496,45 @@ a {
   border-bottom: 3px solid;
   border-image: linear-gradient(90deg, #F7D700, #FF5900, #F5255D);
   border-image-slice: 1; }
+
+.box {
+  float: left;
+  height: 20px;
+  width: 60px;
+  margin-bottom: 15px;
+  border: 0px solid black;
+  clear: both;
+  /*box-shadow: 0 10px 20px rgb(0 0 0 / 10%), inset 0 -3px 0 rgb(0 0 0 / 20%);*/ }
+
+.event-1 {
+  background: var(--cd-color-event-1); }
+
+.event-2 {
+  background: var(--cd-color-event-2); }
+
+.event-3 {
+  background: var(--cd-color-event-3); }
+
+.event-4 {
+  background: var(--cd-color-event-4); }
+
+.event-5 {
+  background: var(--cd-color-event-5); }
+
+.event-6 {
+  background: var(--cd-color-event-6); }
+
+.event-7 {
+  background: repeating-linear-gradient(52deg, #9a9a9c26, #9a9a9c26 12px, #c2c2c426 12px, #c2c2c426 24px); }
+
+.column {
+  float: none;
+  width: 25%; }
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both; }
 
 /*# sourceMappingURL=style.css.map */

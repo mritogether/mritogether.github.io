@@ -37,7 +37,7 @@
   @include defineColorHSL(--cd-color-event-2, 271, 23%, 26%);   // Martinique
   @include defineColorHSL(--cd-color-event-3, 50, 100%, 30%);   // Edward
   @include defineColorHSL(--cd-color-event-4, 0, 69%, 30%);    // Rajah
-  @include defineColorHSL(--cd-color-event-5, 21, 99%, 28%);    // Rajah
+  @include defineColorHSL(--cd-color-event-5, 21, 92%, 38%);    // Rajah
   @include defineColorHSL(--cd-color-event-6, 81, 29%, 18%);    // Rajah
   @include defineColorHSL(--cd-color-text, 0, 0%, 13%);         // Black
   @include defineColorHSL(--cd-color-border, 0, 0%, 92%);       // Grey
@@ -828,4 +828,56 @@ background: lightgray;
     border-bottom: 3px solid;
     border-image: linear-gradient(90deg,#F7D700, #FF5900, #F5255D);
     border-image-slice: 1;
+}
+
+
+.box {
+  float: left;
+  height: 20px;
+  width: 60px;
+  margin-bottom: 15px;
+  border: 0px solid black;
+  clear: both;
+  /*box-shadow: 0 10px 20px rgb(0 0 0 / 10%), inset 0 -3px 0 rgb(0 0 0 / 20%);*/
+
+}
+
+.event-1 {
+  background: var(--cd-color-event-1);
+}
+
+.event-2 {
+  background: var(--cd-color-event-2);
+}
+
+.event-3 {
+  background: var(--cd-color-event-3);
+}
+
+.event-4 {
+  background: var(--cd-color-event-4);
+}
+
+.event-5 {
+  background: var(--cd-color-event-5);
+}
+
+.event-6 {
+  background: var(--cd-color-event-6);
+}
+
+.event-7 {
+  background: repeating-linear-gradient(52deg,#9a9a9c26,#9a9a9c26 12px,#c2c2c426 12px,#c2c2c426 24px);
+}
+
+.column {
+  float: none;
+  width: 25%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }

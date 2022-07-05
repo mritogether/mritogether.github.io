@@ -208,10 +208,10 @@ function dataToTime(data, isnegative)
 
 	    tz_text = document.getElementById("timezone_text");
 	    if(tz_offset['tz']!=-100){
-	    	tz_text.innerHTML = '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">* All times are based on </a><a style="text-decoration: line-through;">' + zone_name + '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap"> (' + "UTC" + tz_offset['tz'] + ').</a>'
+	    	tz_text.innerHTML = '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">* All times are based on </a><a style="text-decoration: line-through; color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">' + zone_name.replaceAll('_', ' ') + '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap"> (' + "GMT" + tz_offset['tz'] + ').</a>'
 
 	    } else {
-	    	tz_text.innerHTML = '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">* All times are based on ' + zone_name + ' (' + zone + ').</a>'
+	    	tz_text.innerHTML = '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">* All times are based on ' + zone_name.replaceAll('_', ' ') + ' (' + zone + ').</a>'
 	    }
 	    // TO remove DAY0 IF after UTC
 	   //  if (timeZone > -0.1) {
