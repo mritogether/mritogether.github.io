@@ -320,13 +320,14 @@ a {
 .cd-schedule__name,
 .cd-schedule-modal__name {
 	/*font-size: var(--text-lg);*/
+  text-align: left;
   font-style: normal;
   font-weight: bold;
   font-family: Montserrat, sans-serif;
   @include fontSmooth;
 
   @include breakpoint(md) {
-    font-size: calc(var(--text-sm)*1.1);
+    font-size: calc(var(--text-sm));
   }
 }
 
@@ -832,12 +833,19 @@ background: lightgray;
 
 
 .box {
-  float: left;
-  height: 20px;
-  width: 60px;
+  float: none;
+  height: 35px;
+  width: 140px;
   margin-bottom: 15px;
   border: 0px solid black;
   clear: both;
+  color: white;
+  font-size: 14px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 35px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
   /*box-shadow: 0 10px 20px rgb(0 0 0 / 10%), inset 0 -3px 0 rgb(0 0 0 / 20%);*/
 
 }
@@ -871,10 +879,16 @@ background: lightgray;
 }
 
 .column {
-  text-align: left;
   margin-right: auto;
   margin-left: auto;
-  width: 25%;
+  /*width: 25%;*/
+  max-width:100%;
+  white-space:nowrap;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+
+  margin-bottom: -5px;
 }
 
 /* Clear floats after the columns */
