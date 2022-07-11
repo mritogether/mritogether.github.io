@@ -204,7 +204,9 @@ h5 {
 }
 
 .menu-item_selected a:after {
-  width: 100%;
+  width: 0;
+  color: black;
+  font-weight: 600 !important;
 }
 
 .menu-item_selected a:hover:before,
@@ -214,7 +216,7 @@ h5 {
 
 .menu-item_selected a:hover:after,
 .menu-item a:hover:after {
-  width: 100%;
+  width: 40px;
 }
 
 .current_page_item {
