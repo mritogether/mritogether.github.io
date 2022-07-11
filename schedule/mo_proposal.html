@@ -64,7 +64,7 @@
     <div style="max-width:1150px; align-content: center; margin: auto;" class="outer">
         <nav class="navbar navbar-expand-lg  navbar-light" id="nav-menu">
           <div class="nav__container w-100">
-            <button class="navbar-toggler float-xs-right" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+            <button class="navbar-toggler float-xs-right" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" style="width: 100%;">
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
@@ -109,26 +109,26 @@
 <!-- MAIN CONTENT -->
 <div id="sticky_body">
     <div id="main_content_wrap" class="outer">
-      <div style="position: relative; 
-      align-content: center; border: dashed;
-                                border-color: #009080;
-                                border-radius: 10px;
-                                border-width: medium;
-                                width: 645px;
-                                /* vertical-align: middle; */
-                                margin-top: 10px;
-                                margin-bottom: 10px;
-                                margin-left: auto;
-                                margin-right: auto;">
+      <div id="legend" style="position: relative; 
+                              align-content: center; border: dashed;
+                              border-color: #009080;
+                              border-radius: 10px;
+                              border-width: medium;
+                              width: 645px;
+                              /* vertical-align: middle; */
+                              margin-top: 10px;
+                              margin-bottom: 10px;
+                              margin-left: auto;
+                              margin-right: auto;">
         <div class="row">
           <div class="column" style="margin-left: 20px;">
             <div style="margin: 5px;"><div class='box event-1'>Good Science</div></div>
           </div>
           <div class="column">
-            <div style="margin: 5px;"><div class='box event-2'>Hardware</div></div>
+            <div style="margin: 5px;"><div class='box event-2'>Acquisition</div></div>
           </div>
           <div class="column">
-            <div style="margin: 5px;"><div class='box event-3'>Reconstruction</div></div>
+            <div style="margin: 5px;"><div class='box event-3'>Processing</div></div>
           </div>
           <div class="column">
             <div style="margin: 5px;"><div class='box event-4'>Data</div></div>
@@ -136,13 +136,43 @@
         </div>
         <div class="row">
           <div class="column" style="margin-left: 95px;">
-            <div style="margin: 5px;"><div class='box event-5'>Hands-on</div></div>
+            <div style="margin: 5px;"><div class='box event-5'>Publishing</div></div>
           </div>
           <div class="column">
-            <div style="margin: 5px;"><div class='box event-6'>Publication</div></div>
+            <div style="margin: 5px;"><div class='box event-6'>Practicals</div></div>
           </div>
           <div class="column">
             <div style="margin: 5px;"><div class='box event-7'><i style="color: black;" class="fas fa-moon fa-lg"></i></div></div>
+          </div>
+        </div>
+      </div>
+
+      <div id="resp_legend" style=" position: relative; 
+                                    align-content: center; border: dashed;
+                                    border-color: #009080;
+                                    border-radius: 10px;
+                                    border-width: medium;
+                                    width: 285px;
+                                    /* vertical-align: middle; */
+                                    margin-top: 10px;
+                                    margin-bottom: 10px;
+                                    margin-left: auto;
+                                    margin-right: auto;">
+        <div class="row">
+          <div class="column" style="margin-left: 20px;">
+            <div style="margin: 5px;"><div class='box event-1' style="width: 120px;">Good Science</div></div>
+            <div style="margin: 5px;"><div class='box event-3' style="width: 120px;">Processing</div></div>
+            <div style="margin: 5px;"><div class='box event-5' style="width: 120px;">Publishing</div></div>
+          </div>
+          <div class="column">
+            <div style="margin: 5px;"><div class='box event-2' style="width: 120px;">Acquisition</div></div>
+            <div style="margin: 5px;"><div class='box event-4' style="width: 120px;">Data</div></div>
+            <div style="margin: 5px;"><div class='box event-6' style="width: 120px;">Practicals</div></div>
+          </div>
+        </div>
+        <div class="row" style="margin-left: -91px;">
+          <div class="column" style="margin-left: 95px;">
+            <div style="margin: 5px;"><div class='box event-7' style="width: 260px;"><i style="color: black;" class="fas fa-moon fa-lg"></i></div></div>
           </div>
         </div>
       </div>
@@ -209,8 +239,8 @@
             </li> -->
             
             <li class="cd-schedule__event">
-              <a data-start="02:00" data-end="04:00" data-content="event-abs-circuit" data-event="event-1" data-speakers="speaker_empty speaker_empty speaker_empty speaker_empty" data-moderators="mo_shahdloo speaker_empty" href="#0">
-                <em class="cd-schedule__name">Intro I an intro of whatever</em>
+              <a data-start="02:00" data-end="04:00" data-content="event_1" data-event="event-1" data-speakers="" data-moderators="nikou sophie" href="#0">
+                <em class="cd-schedule__name">Good Science I</em>
               </a>
             </li>
 
@@ -221,8 +251,8 @@
             </li> -->
 
             <li class="cd-schedule__event">
-              <a data-start="07:00" data-end="09:00" data-content="event-abs-circuit" data-event="event-1" data-speakers="speaker_empty" data-moderators="speaker_empty" href="#0">
-                <em class="cd-schedule__name">Intro II</em>
+              <a data-start="07:00" data-end="09:00" data-content="event_1" data-event="event-1" data-speakers="" data-moderators="nikou sophie" href="#0">
+                <em class="cd-schedule__name">Good Science II</em>
               </a>
             </li>
 
@@ -233,8 +263,8 @@
             </li> -->
 
             <li class="cd-schedule__event">
-              <a data-start="12:00" data-end="14:00" data-content="event-abs-circuit" data-event="event-1" data-speakers="speaker_empty" data-moderators="speaker_empty" href="#0">
-                <em class="cd-schedule__name">Intro III</em>
+              <a data-start="12:00" data-end="14:00" data-content="event_1" data-event="event-1" data-speakers="" data-moderators="nikou sophie" href="#0">
+                <em class="cd-schedule__name">Good Science III</em>
               </a>
             </li>
 
@@ -245,8 +275,8 @@
             </li> -->
 
             <li class="cd-schedule__event">
-              <a data-start="15:00" data-end="17:00" data-content="event-abs-circuit" data-event="event-2" data-speakers="speaker_empty" data-moderators="speaker_empty" href="#0">
-                <em class="cd-schedule__name">Hardware I</em>
+              <a data-start="15:00" data-end="17:00" data-content="event_2" data-event="event-2" data-speakers="" data-moderators="daniel hongfu" href="#0">
+                <em class="cd-schedule__name">Acquisition I</em>
               </a>
             </li>
 
@@ -257,8 +287,8 @@
             </li> -->
 
             <li class="cd-schedule__event">
-              <a data-start="20:00" data-end="22:00" data-content="event-abs-circuit" data-event="event-2" data-speakers="speaker_empty" data-moderators="speaker_empty" href="#0">
-                <em class="cd-schedule__name">Hardware II</em>
+              <a data-start="20:00" data-end="22:00" data-content="event_2" data-event="event-2" data-speakers="" data-moderators="daniel hongfu" href="#0">
+                <em class="cd-schedule__name">Acquisition II</em>
               </a>
             </li>
 
@@ -278,8 +308,8 @@
   
           <ul id="Day2">
             <li class="cd-schedule__event">
-              <a data-start="01:00" data-end="03:00" data-content="event-abs-circuit" data-event="event-2" data-speakers="speaker_empty" data-moderators="speaker_empty" href="#0">
-                <em class="cd-schedule__name">Hardware III</em>
+              <a data-start="01:00" data-end="03:00" data-content="event_2" data-event="event-2" data-speakers="" data-moderators="daniel hongfu" href="#0">
+                <em class="cd-schedule__name">Acquisition III</em>
               </a>
             </li>
 
@@ -290,8 +320,8 @@
             </li> -->
 
             <li class="cd-schedule__event">
-              <a data-start="06:00" data-end="08:00" data-content="event-abs-circuit" data-event="event-3" data-speakers="speaker_empty" data-moderators="speaker_empty" href="#0">
-                <em class="cd-schedule__name">Recon I</em>
+              <a data-start="06:00" data-end="08:00" data-content="event_3" data-event="event-3" data-speakers="" data-moderators="mo_shahdloo yan hongfu" href="#0">
+                <em class="cd-schedule__name">Processing I</em>
               </a>
             </li>
 
@@ -302,8 +332,8 @@
             </li> -->
 
             <li class="cd-schedule__event">
-              <a data-start="11:00" data-end="13:00" data-content="event-abs-circuit" data-event="event-3" data-speakers="speaker_empty" data-moderators="speaker_empty" href="#0">
-                <em class="cd-schedule__name">Recon II</em>
+              <a data-start="11:00" data-end="13:00" data-content="event_3" data-event="event-3" data-speakers="" data-moderators="mo_shahdloo yan hongfu" href="#0">
+                <em class="cd-schedule__name">Processing II</em>
               </a>
             </li>
 
@@ -314,8 +344,8 @@
             </li> -->
 
             <li class="cd-schedule__event">
-              <a data-start="16:00" data-end="18:00" data-content="event-abs-circuit" data-event="event-3" data-speakers="speaker_empty" data-moderators="speaker_empty" href="#0">
-                <em class="cd-schedule__name">Recon III</em>
+              <a data-start="16:00" data-end="18:00" data-content="event_3" data-event="event-3" data-speakers="" data-moderators="mo_shahdloo yan hongfu" href="#0">
+                <em class="cd-schedule__name">Processing III</em>
               </a>
             </li>
 
@@ -326,7 +356,7 @@
             </li> -->
 
             <li class="cd-schedule__event">
-              <a data-start="21:00" data-end="23:00" data-content="event-abs-circuit" data-event="event-4" data-speakers="speaker_empty" data-moderators="speaker_empty" href="#0">
+              <a data-start="21:00" data-end="23:00" data-content="event_4" data-event="event-4" data-speakers="" data-moderators="nikou yan" href="#0">
                 <em class="cd-schedule__name">Data I</em>
               </a>
             </li>
@@ -343,7 +373,7 @@
   
           <ul id="Day3">
             <li class="cd-schedule__event">
-              <a data-start="02:00" data-end="04:00" data-content="event-abs-circuit" data-event="event-4" data-speakers="speaker_empty" data-moderators="speaker_empty" href="#0">
+              <a data-start="02:00" data-end="04:00" data-content="event_4" data-event="event-4" data-speakers="" data-moderators="nikou yan" href="#0">
                 <em class="cd-schedule__name">Data II</em>
               </a>
             </li>
@@ -355,7 +385,7 @@
             </li> -->
 
             <li class="cd-schedule__event">
-              <a data-start="07:00" data-end="09:00" data-content="event-abs-circuit" data-event="event-4" data-speakers="speaker_empty" data-moderators="speaker_empty" href="#0">
+              <a data-start="07:00" data-end="09:00" data-content="event_4" data-event="event-4" data-speakers="" data-moderators="nikou yan" href="#0">
                 <em class="cd-schedule__name">Data III</em>
               </a>
             </li>
@@ -367,8 +397,8 @@
             </li> -->
 
             <li class="cd-schedule__event">
-              <a data-start="12:00" data-end="14:00" data-content="event-abs-circuit" data-event="event-5" data-speakers="speaker_empty" data-moderators="speaker_empty" href="#0">
-                <em class="cd-schedule__name">Hands-on I</em>
+              <a data-start="12:00" data-end="14:00" data-content="event_publication_1" data-event="event-5" data-speakers="" data-moderators="mo_shahdloo" href="#0">
+                <em class="cd-schedule__name">Publishing I</em>
               </a>
             </li>
 
@@ -379,8 +409,8 @@
             </li> -->
 
             <li class="cd-schedule__event">
-              <a data-start="17:00" data-end="19:00" data-content="event-abs-circuit" data-event="event-5" data-speakers="speaker_empty" data-moderators="speaker_empty" href="#0">
-                <em class="cd-schedule__name">Hands-on II</em>
+              <a data-start="17:00" data-end="19:00" data-content="event_publication_2" data-event="event-5" data-speakers="" data-moderators="mo_shahdloo" href="#0">
+                <em class="cd-schedule__name">Publishing II</em>
               </a>
             </li>
 
@@ -391,8 +421,8 @@
             </li> -->
 
             <li class="cd-schedule__event">
-              <a data-start="22:00" data-end="24:00" data-content="event-abs-circuit" data-event="event-5" data-speakers="speaker_empty" data-moderators="speaker_empty" href="#0">
-                <em class="cd-schedule__name">Hands-on III</em>
+              <a data-start="22:00" data-end="24:00" data-content="event_publication_3" data-event="event-5" data-speakers="" data-moderators="mo_shahdloo" href="#0">
+                <em class="cd-schedule__name">Publishing III</em>
               </a>
             </li>
           </ul>
@@ -403,8 +433,8 @@
   
           <ul id="Day4">
             <li class="cd-schedule__event">
-              <a data-start="06:00" data-end="08:00" data-content="event-abs-circuit" data-event="event-6" data-speakers="speaker_empty" data-moderators="speaker_empty" href="#0">
-                <em class="cd-schedule__name">Outro I</em>
+              <a data-start="06:00" data-end="08:00" data-content="event_6" data-event="event-6" data-speakers="" data-moderators="daniel sophie" href="#0">
+                <em class="cd-schedule__name">Practicals I</em>
               </a>
             </li>
 
@@ -415,8 +445,8 @@
             </li> -->
 
             <li class="cd-schedule__event">
-              <a data-start="11:00" data-end="13:00" data-content="event-abs-circuit" data-event="event-6" data-speakers="speaker_empty" data-moderators="speaker_empty" href="#0">
-                <em class="cd-schedule__name">Outro II</em>
+              <a data-start="11:00" data-end="13:00" data-content="event_6" data-event="event-6" data-speakers="" data-moderators="daniel sophie" href="#0">
+                <em class="cd-schedule__name">Practicals II</em>
               </a>
             </li>
 
@@ -427,8 +457,8 @@
             </li> -->
 
             <li class="cd-schedule__event">
-              <a data-start="16:00" data-end="18:00" data-content="event-abs-circuit" data-event="event-6" data-speakers="speaker_empty" data-moderators="speaker_empty" href="#0">
-                <em class="cd-schedule__name">Outro III</em>
+              <a data-start="16:00" data-end="18:00" data-content="event_6" data-event="event-6" data-speakers="" data-moderators="daniel sophie" href="#0">
+                <em class="cd-schedule__name">Practicals III</em>
               </a>
             </li>
           </ul>

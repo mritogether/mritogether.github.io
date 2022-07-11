@@ -193,8 +193,8 @@ function dataToTime(data, isnegative)
 
 		this.coverLayer = this.element.getElementsByClassName('cd-schedule__cover-layer')[0];
 
-		this.modalMaxWidth = 800;
-		this.modalMaxHeight = 520;
+		this.modalMaxWidth = 1000;
+		this.modalMaxHeight = 680;
 
 		this.animating = false;
 		this.supportAnimation = Util.cssSupports('transition');
@@ -213,16 +213,14 @@ function dataToTime(data, isnegative)
 	    } else {
 	    	tz_text.innerHTML = '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">* All times are based on ' + zone_name.replaceAll('_', ' ') + ' (' + zone + ').</a>'
 	    }
-	    // TO remove DAY0 IF after UTC
-	   //  if (timeZone > -0.1) {
-	   //     document.getElementById("Day0_all").style.display = "none"; 
-	   //     document.getElementById("Day0_all").innerHTML = "";
-	   // } 
-	   // // add DAY5 IF after UTC+10
-	   // if (timeZone < 10) {
-	   //     document.getElementById("Day5_all").style.display = "none"; 
-	   //     document.getElementById("Day5_all").innerHTML = "";
-	   // } 
+	    if (timeZone > -2.1) {
+	       document.getElementById("Day0_all").style.display = "none"; 
+	       document.getElementById("Day0_all").innerHTML = "";
+	   } 
+	   if (timeZone < 6.1) {
+	       document.getElementById("Day5_all").style.display = "none"; 
+	       document.getElementById("Day5_all").innerHTML = "";
+	   } 
 	};
 
 	ScheduleTemplate.prototype.scheduleReset = function() {
@@ -303,24 +301,24 @@ function dataToTime(data, isnegative)
 				data_start = dataToTime(data_start, false);
 				data_end = dataToTime(data_end - 24*60, false);
 				anchor.setAttribute('data-start', data_start);
-				anchor.setAttribute('data-end', "24:00");
+				anchor.setAttribute('data-end', "24:00" + ' (contd.)');
 				const cloned_event = this.singleEvents[i].cloneNode(true);
 				cloned_anchor = cloned_event.getElementsByTagName('a')[0];
 				// cloned_anchor.appendTo(next_day);
-				cloned_anchor.setAttribute('data-start', "00:00");
+				cloned_anchor.setAttribute('data-start', "00:00" + ' (contd.)');
 				cloned_anchor.setAttribute('data-end', data_end);
 				$(next_day).append(cloned_event);
 
 			} else if(data_start<0 && data_end>0){
 				data_start = dataToTime(data_start + 24*60, true);
 				data_end = dataToTime(data_end, false);
-				anchor.setAttribute('data-start', "00:00");
+				anchor.setAttribute('data-start', "00:00" + ' (contd.)');
 				anchor.setAttribute('data-end', data_end);
 				const cloned_event = this.singleEvents[i].cloneNode(true);
 				cloned_anchor = cloned_event.getElementsByTagName('a')[0];
 				// cloned_anchor.appendTo(next_day);
 				cloned_anchor.setAttribute('data-start', data_start);
-				cloned_anchor.setAttribute('data-end', "24:00");
+				cloned_anchor.setAttribute('data-end', "24:00" + ' (contd.)');
 				$(prev_day).append(cloned_event);
 
 			} 
@@ -398,12 +396,34 @@ function dataToTime(data, isnegative)
   //     var d = snapshot.child("name/middle").exists(); // false
   //   }); 
   		for (const moderator of moderators) {
-  			// console.log(usersInfo[moderator]);
-	        modalModeratorInfo.innerHTML += "<div class='item'> <img class='cd-schedule-modal__img' src=" + usersInfo[moderator].url + " alt='Mo Shahdloo'> <span class='caption'>" + usersInfo[moderator].name + "</span> <span class='subcaption'>" + usersInfo[moderator].affiliation + "</span></div>"
+  			user = usersInfo[moderator];
+  			url = user.url;
+  			name = user.name;
+  			affiliation = user.affiliation;
+  			twitter = user.twitter;
+  			inner = "";
+
+  			inner += "<div class='item'> <img class='cd-schedule-modal__img' src=" + url + "> <span class='caption'>" + name;
+  			if (twitter != null){
+				    inner += " <a style='color: white;' href='https://twitter.com/" + twitter + "' target='_blank'><i class='fab fa-twitter'></i></a>";
+				}
+
+			inner += "<br><a style='text-decoration: none; font-size: calc(var(--text-sm)*0.65); line-height:9px;'>" + affiliation + "</a></span>";
+			inner += "</div>";
+
+			modalModeratorInfo.innerHTML += inner;
 		}
 		// modalEventInfo.innerHTML += "<br><span class='cd-schedule-modal__info'>Speakers</span>";
 		for (const speaker of speakers) {
-	    	modalSpeakerInfo.innerHTML += "<div class='item'> <img class='cd-schedule-modal__img' src=" + usersInfo[speaker].url + " alt='Mo Shahdloo'> <span class='caption'>" + usersInfo[speaker].name + "</span> <span class='subcaption'>" + usersInfo[speaker].affiliation + "</span></div>"
+			user = usersInfo[speaker];
+			url = user.url;
+  			name = user.name;
+  			affiliation = user.affiliation;
+  			twitter = user.twitter;
+  			if (twitter == null){
+				    twitter = "";
+				}
+	    	modalSpeakerInfo.innerHTML += "<div class='item'> <img class='cd-schedule-modal__img' src=" + url + "> <span class='caption'>" + name + "</span> <span class='subcaption'>" + affiliation + "</span></div>";
 	         }
 
 		this.modalDate.textContent = target.getAttribute('data-start')+' - '+target.getAttribute('data-end');
@@ -429,13 +449,13 @@ function dataToTime(data, isnegative)
 				eventTop = eventPosition.top,
 				eventLeft = eventPosition.left,
 				eventHeight = target.offsetHeight,
-				eventWidth = target.offsetWidth;
+				eventWidth = target.offsetWidth*1;
 
 			var windowWidth = window.innerWidth,
 				windowHeight = window.innerHeight;
 
-			var modalWidth = ( windowWidth*.8 > self.modalMaxWidth ) ? self.modalMaxWidth : windowWidth*.8,
-				modalHeight = ( windowHeight*.8 > self.modalMaxHeight ) ? self.modalMaxHeight : windowHeight*.8;
+			var modalWidth = ( windowWidth*.7 > self.modalMaxWidth ) ? self.modalMaxWidth : windowWidth*.7,
+				modalHeight = ( windowHeight*.7 > self.modalMaxHeight ) ? self.modalMaxHeight : windowHeight*.7;
 
 			var modalTranslateX = parseInt((windowWidth - modalWidth)/2 - eventLeft),
 				modalTranslateY = parseInt((windowHeight - modalHeight)/2 - eventTop);
@@ -488,7 +508,7 @@ function dataToTime(data, isnegative)
 				eventTop = eventPosition.top,
 				eventLeft = eventPosition.left,
 				eventHeight = target.offsetHeight,
-				eventWidth = target.offsetWidth;
+				eventWidth = target.offsetWidth*1;
 
 			var modalStyle = window.getComputedStyle(self.modal),
 				modalTop = Number(modalStyle.getPropertyValue('top').replace('px', '')),
@@ -563,7 +583,7 @@ function dataToTime(data, isnegative)
 				eventTop = eventPosition.top,
 				eventLeft = eventPosition.left,
 				eventHeight = target.offsetHeight,
-				eventWidth = target.offsetWidth;
+				eventWidth = target.offsetWidth*1;
 
 			var windowWidth = window.innerWidth,
 				windowHeight = window.innerHeight;

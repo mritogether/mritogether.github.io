@@ -24,7 +24,7 @@ Topics will include, but not be limited to:
 
 
 ## When?
-The workshop will be held on **December 5 to 8, 2022**. We will have sessions in all time zones, and all the talks will be recorded and available for immediate offline use. No matter where you are in the world, you will have exciting live sessions during your daytime, and lots of contents to watch at your convenience.
+The workshop will be held on **December 5 to 8, 2022 (UTC)**. We will have sessions in all time zones, and all the talks will be recorded and available for immediate offline use. No matter where you are in the world, you will have exciting live sessions during your daytime, and lots of contents to watch at your convenience.
 We will also have a social platform to gather, discuss, and chill ☕️
 
 

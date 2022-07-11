@@ -77,12 +77,16 @@ curation, and management. <br>
 
 [![Siemens Logo](images/sponsors/Siemens_logo-01.png){:.sponsor_gold}](https://www.siemens-healthineers.com)
 [![GE Logo](images/sponsors/ge.png){:.sponsor_gold}](https://www.gehealthcare.com)
+<br>
+
 [![Flywheel Logo](images/sponsors/flywheel-01.png){:.sponsor_gold}](https://www.flywheel.io/)
 [![Deepspin Logo](images/sponsors/deepspin-01.png){:.sponsor_gold}](https://www.deepspin.io)
 
 ## Silver sponsors
 [![Skope Logo](images/sponsors/skope-01.png){:.sponsor_silver}](https://skope.swiss) 
 [![Biogen Logo](images/sponsors/biogen.png){:.sponsor_silver}](https://biogen.com/)
+<br>
+
 [![Resonint Logo](images/sponsors/resonint.png){:.sponsor_silver}](https://www.resonint.com/)
 [![Gold Standard logo](images/sponsors/goldstandardlogo-01.png){:.sponsor_silver}](https://www.goldstandardphantoms.com/)
 

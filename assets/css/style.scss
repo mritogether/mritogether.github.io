@@ -125,8 +125,15 @@ body {
 
 }
 
+/*ul a:link,*/
+p a:link {
+  text-decoration: underline !important;
+  /*opacity: 80%;*/
+}
+
 h1, h2, h3, h4, h6 {
   /*color: #5e6061;*/
+  text-decoration: none;
   color: #009080;
   font-family: "Montserrat";
   font-weight: 700;
@@ -300,12 +307,16 @@ p img {
 
 .site-footer a:hover
 {
-  text-decoration:none;
+  text-decoration:none !important;
 }
 
-a:hover {
-  opacity: 0.7;
+a:hover{
+    color: #373737;
 }
+
+/*a:hover {
+  opacity: 0.7;
+}*/
 
 .footer-links
 {
@@ -673,7 +684,7 @@ span.logo_helper {
 }
 
 .sticky_menu {
-  z-index: 9;
+  z-index: 10;
   position: fixed;
   top: 0;
   width: 100%;
@@ -774,10 +785,6 @@ span.logo_helper {
   font-weight: 600;
 }
 
-a:link {
-  text-decoration: none !important;
-  /*opacity: 80%;*/
-}
 
 /* Number text (1/3 etc) */
 .numbertext {
