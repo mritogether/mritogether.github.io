@@ -59,6 +59,16 @@ function adaptData(data)
     if(hr<10){
 		hr = String(hr).padStart(2, '0')
 	}
+
+	day = hr/24;
+	if(!Number.isInteger(day)){
+		day += 1;
+	}
+	if (hr % 24 == 0){
+		day += 1;
+	}
+	day = Math.floor(day);
+
     mn = new_data%60;
     if(mn<10)
     {
@@ -66,7 +76,7 @@ function adaptData(data)
     }
     new_time = hr + ':' + mn
     
-    return new_time
+    return [new_time, day]
 
 }
 
@@ -155,9 +165,16 @@ function dataToTime(data, isnegative)
 		hr += 1;
 	}
 	hr = Math.floor(hr);
+	day = hr/24;
+	if(isnegative && !Number.isInteger(day)){
+		day += 1;
+	}
+	day = Math.floor(day);
+
 	if(hr<10){
 		hr = String(hr).padStart(2, '0')
 	}
+
     mn = data%60;
     if(mn<10)
     {
@@ -208,10 +225,10 @@ function dataToTime(data, isnegative)
 
 	    tz_text = document.getElementById("timezone_text");
 	    if(tz_offset['tz']!=-100){
-	    	tz_text.innerHTML = '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">* All times are based on </a><a style="text-decoration: line-through; color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">' + zone_name.replaceAll('_', ' ') + '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap"> (' + "GMT" + tz_offset['tz'] + ').</a>'
+	    	tz_text.innerHTML = '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">* All times are based on </a><a style="text-decoration: line-through; color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">' + zone_name.replaceAll('_', ' ') + '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap"> (' + "GMT" + tz_offset['tz'] + ')</a>'
 
 	    } else {
-	    	tz_text.innerHTML = '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">* All times are based on ' + zone_name.replaceAll('_', ' ') + ' (' + zone + ').</a>'
+	    	tz_text.innerHTML = '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">* All times are based on ' + zone_name.replaceAll('_', ' ') + ' (' + zone + ')</a>'
 	    }
 	    if (timeZone > -2.1) {
 	       document.getElementById("Day0_all").style.display = "none"; 
@@ -258,74 +275,142 @@ function dataToTime(data, isnegative)
 		var self = this,
 			slotHeight = this.topInfoElement.offsetHeight;
 
+		var days = [];	
+		var els = [];
 		for(var i = 0; i < this.singleEvents.length; i++){
-
+			els[i] = this.singleEvents[i];
 			var anchor = this.singleEvents[i].getElementsByTagName('a')[0];
-			anchor.setAttribute('data-start', adaptData(anchor.getAttribute('data-start')));
-			anchor.setAttribute('data-end', adaptData(anchor.getAttribute('data-end')));
+			start = adaptData(anchor.getAttribute('data-start'));
+			end = adaptData(anchor.getAttribute('data-end'));
+			anchor.setAttribute('data-start', start[0]);
+			anchor.setAttribute('data-end', end[0]);
+			start_day = start[1];
+			end_day = end[1];
 
-			// if(data_start<8*60 || data_end<8*60){
-			// 	anchor.setAttribute('data-event', "event-7");
-			// }
+			var day = "#Day" + start_day;
+			days[i] = day;
+			// $(this.singleEvents[i]).appendTo(day);
+			
 			}
 
-
 		for(var i = 0; i < this.singleEvents.length; i++) {
-			var anchor = this.singleEvents[i].getElementsByTagName('a')[0];
+			$(els[i]).appendTo(days[i]);
+		}
+
+		for(var i = 0; i < els.length; i++) {
+			var anchor = els[i].getElementsByTagName('a')[0];
 			var data_start = getScheduleTimestamp(anchor.getAttribute('data-start'));
 			var data_end = getScheduleTimestamp(anchor.getAttribute('data-end'));
 			var duration = (data_end - data_start)/60;
 
-			var event = anchor.parentElement
-			var day = anchor.parentElement.parentElement.id
-			prev_day = '#Day' + (parseInt(day.slice(-1))-1);
-			next_day = '#Day' + (parseInt(day.slice(-1))+1);
+			var day = days[i];
+			prev_day = '#Day' + (parseInt(day[4])-1);
+			next_day = '#Day' + (parseInt(day[4])+1);
 
-			if(data_start<=0 && data_end<=0)
-			{
-				data_start = dataToTime(data_start + 24*60, true);
-				data_end = dataToTime(data_end + 24*60, true);
+			if(days[i] == "#Day0"){
+				data_start = dataToTime(data_start + 24*60, false);
+				data_end = dataToTime(data_end + 24*60, false);
 				anchor.setAttribute('data-start', data_start);
 				anchor.setAttribute('data-end', data_end);
-				$(this.singleEvents[i]).appendTo(prev_day);
 
-			} else if(data_start>=24*60 && data_end>=24*60)
-			{
-				data_start = dataToTime(data_start - 24*60, false);
-				data_end = dataToTime(data_end - 24*60, false);
+			} else if(days[i] == "#Day1"){
+				data_start = dataToTime(data_start - 24*60*0, false);
+				data_end = dataToTime(data_end - 24*60*0, false);
 				anchor.setAttribute('data-start', data_start);
 				anchor.setAttribute('data-end', data_end);
-				$(this.singleEvents[i]).appendTo(next_day);
 
-			} else if(data_start<24*60 && data_end>24*60){
-				data_start = dataToTime(data_start, false);
-				data_end = dataToTime(data_end - 24*60, false);
+			} else if(days[i] == "#Day2"){
+				data_start = dataToTime(data_start - 24*60*1, false);
+				data_end = dataToTime(data_end - 24*60*1, false);
+				anchor.setAttribute('data-start', data_start);
+				anchor.setAttribute('data-end', data_end);
+
+			} else if(days[i] == "#Day3"){
+				data_start = dataToTime(data_start - 24*60*2, false);
+				data_end = dataToTime(data_end - 24*60*2, false);
+				anchor.setAttribute('data-start', data_start);
+				anchor.setAttribute('data-end', data_end);
+
+			} else if(days[i] == "#Day4"){
+				data_start = dataToTime(data_start - 24*60*3, false);
+				data_end = dataToTime(data_end - 24*60*3, false);
+				anchor.setAttribute('data-start', data_start);
+				anchor.setAttribute('data-end', data_end);
+			}
+
+			else if(days[i] == "#Day5"){
+				data_start = dataToTime(data_start - 24*60*4, false);
+				data_end = dataToTime(data_end - 24*60*4, false);
+				anchor.setAttribute('data-start', data_start);
+				anchor.setAttribute('data-end', data_end);
+			}
+
+			if (data_end > "24:00"){
+				data_start = dataToTime(getScheduleTimestamp(data_start), false);
+				data_end = dataToTime(getScheduleTimestamp(data_end), false);
 				anchor.setAttribute('data-start', data_start);
 				anchor.setAttribute('data-end', "24:00" + ' (contd.)');
-				const cloned_event = this.singleEvents[i].cloneNode(true);
+				const cloned_event = els[i].cloneNode(true);
 				cloned_anchor = cloned_event.getElementsByTagName('a')[0];
-				// cloned_anchor.appendTo(next_day);
-				cloned_anchor.setAttribute('data-start', "00:00" + ' (contd.)');
+				cloned_anchor.setAttribute('data-start', dataToTime(getScheduleTimestamp("00:00")));
 				cloned_anchor.setAttribute('data-end', data_end);
+				cloned_anchor.setAttribute('data-end', dataToTime(getScheduleTimestamp(cloned_anchor.getAttribute('data-end'))-24*60));
+				// if (cloned_anchor.getAttribute('data-start') == "24:00" + ' (contd.)'){
+				// 	cloned_anchor.setAttribute('data-start', "00:00");
+				// 	cloned_anchor.setAttribute('data-end', dataToTime(getScheduleTimestamp(cloned_anchor.getAttribute('data-end'))-24*60));
+				// }
+				cloned_anchor.setAttribute('data-start', dataToTime(getScheduleTimestamp(cloned_anchor.getAttribute('data-start'))+24*60*parseInt(day[4])));
+				cloned_anchor.setAttribute('data-end', dataToTime(getScheduleTimestamp(cloned_anchor.getAttribute('data-end'))+24*60*parseInt(day[4])));
+
+				days.push(next_day)
+				els.push(cloned_event)
 				$(next_day).append(cloned_event);
+			}
 
-			} else if(data_start<0 && data_end>0){
-				data_start = dataToTime(data_start + 24*60, true);
-				data_end = dataToTime(data_end, false);
-				anchor.setAttribute('data-start', "00:00" + ' (contd.)');
-				anchor.setAttribute('data-end', data_end);
-				const cloned_event = this.singleEvents[i].cloneNode(true);
-				cloned_anchor = cloned_event.getElementsByTagName('a')[0];
-				// cloned_anchor.appendTo(next_day);
-				cloned_anchor.setAttribute('data-start', data_start);
-				cloned_anchor.setAttribute('data-end', "24:00" + ' (contd.)');
-				$(prev_day).append(cloned_event);
+			// if(data_start<=0 && data_end<=0)
+			// {
+			// 	data_start = dataToTime(data_start + 24*60, true);
+			// 	data_end = dataToTime(data_end + 24*60, true);
+			// 	anchor.setAttribute('data-start', data_start);
+			// 	anchor.setAttribute('data-end', data_end);
+			// 	$(this.singleEvents[i]).appendTo(prev_day);
 
-			} 
+			// } else if(data_start>=24*60 && data_end>=24*60)
+			// {
+			// 	data_start = dataToTime(data_start - 24*60, false);
+			// 	data_end = dataToTime(data_end - 24*60, false);
+			// 	anchor.setAttribute('data-start', data_start);
+			// 	anchor.setAttribute('data-end', data_end);
+			// 	$(this.singleEvents[i]).appendTo(next_day);
+			// } else if(data_start<24*60 && data_end>24*60){
+			// 	data_start = dataToTime(data_start, false);
+			// 	data_end = dataToTime(data_end - 24*60, false);
+			// 	anchor.setAttribute('data-start', data_start);
+			// 	anchor.setAttribute('data-end', "24:00" + ' (contd.)');
+			// 	const cloned_event = this.singleEvents[i].cloneNode(true);
+			// 	cloned_anchor = cloned_event.getElementsByTagName('a')[0];
+			// 	// cloned_anchor.appendTo(next_day);
+			// 	cloned_anchor.setAttribute('data-start', "00:00" + ' (contd.)');
+			// 	cloned_anchor.setAttribute('data-end', data_end);
+			// 	$(next_day).append(cloned_event);
+
+			// } else if(data_start<0 && data_end>0){
+			// 	data_start = dataToTime(data_start + 24*60, true);
+			// 	data_end = dataToTime(data_end, false);
+			// 	anchor.setAttribute('data-start', "00:00" + ' (contd.)');
+			// 	anchor.setAttribute('data-end', data_end);
+			// 	const cloned_event = this.singleEvents[i].cloneNode(true);
+			// 	cloned_anchor = cloned_event.getElementsByTagName('a')[0];
+			// 	// cloned_anchor.appendTo(next_day);
+			// 	cloned_anchor.setAttribute('data-start', data_start);
+			// 	cloned_anchor.setAttribute('data-end', "24:00" + ' (contd.)');
+			// 	$(prev_day).append(cloned_event);
+
+			// } 
 		}
-		for(var i = 0; i < this.singleEvents.length; i++){
+		for(var i = 0; i < els.length; i++){
 
-			var anchor = this.singleEvents[i].getElementsByTagName('a')[0];
+			var anchor = els[i].getElementsByTagName('a')[0];
 			
 			var start = getScheduleTimestamp(anchor.getAttribute('data-start')),
 				duration = getScheduleTimestamp(anchor.getAttribute('data-end')) - start;
@@ -333,7 +418,7 @@ function dataToTime(data, isnegative)
 			var eventTop = slotHeight*(start - self.timelineStart)/self.timelineUnitDuration,
 				eventHeight = slotHeight*duration/self.timelineUnitDuration;
 
-			this.singleEvents[i].setAttribute('style', 'top: '+(eventTop-1)+'px; height: '+(eventHeight +1)+'px');
+			els[i].setAttribute('style', 'top: '+(eventTop-1)+'px; height: '+(eventHeight +1)+'px');
 			}
 
 		Util.removeClass(this.element, 'cd-schedule--loading');
@@ -343,10 +428,10 @@ function dataToTime(data, isnegative)
 		var self = this;
 		for(var i = 0; i < this.singleEvents.length; i++) {
 			// open modal when user selects an event
-			this.singleEvents[i].addEventListener('click', function(event){
-				event.preventDefault();
-				if(!self.animating) self.openModal(this.getElementsByTagName('a')[0]);
-			});
+			// this.singleEvents[i].addEventListener('click', function(event){
+			// 	event.preventDefault();
+			// 	if(!self.animating) self.openModal(this.getElementsByTagName('a')[0]);
+			// });
 		}
 		//close modal window
 		this.modalClose.addEventListener('click', function(event){

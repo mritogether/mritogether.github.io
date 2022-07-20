@@ -48,7 +48,7 @@
 
   //schedule template
   --schedule-rows-number: 24;
-  --schedule-rows-height: 80px;
+  --schedule-rows-height: 50px;
 }
 
 body {
@@ -261,7 +261,7 @@ a {
   a {
     display: block;
     height: 100%;
-    padding: var(--space-sm);
+    padding: var(--space-xs);
     box-shadow: inset 0 -3px 0 rgba(#000, .2);
     text-decoration: none;
   }
@@ -284,7 +284,7 @@ a {
       margin-right: 0;
 
       a {
-        padding: var(--space-sm);
+        padding: var(--space-xs);
         box-shadow: 0 10px 20px rgba(#000, .1), inset 0 -3px 0 rgba(#000, .2);
       }
     }
@@ -311,6 +311,7 @@ a {
 .cd-schedule-modal__date { // event date in the modal element
 	display: block;
 	color: var(--color-white);
+  line-height: var(--text-xs);
 	font-weight: bold;
   font-style: normal;
   font-family: Montserrat, sans-serif;
@@ -319,7 +320,8 @@ a {
 
 .cd-schedule__name,
 .cd-schedule-modal__name {
-	/*font-size: var(--text-lg);*/
+	font-size: var(--text-xs);
+  line-height: var(--text-xs); 
   text-align: left;
   font-style: normal;
   font-weight: bold;
@@ -327,7 +329,7 @@ a {
   @include fontSmooth;
 
   @include breakpoint(md) {
-    font-size: calc(var(--text-sm));
+    font-size: calc(var(--text-xs));
   }
 }
 
@@ -470,7 +472,7 @@ a {
 	margin-bottom: var(--space-xxxs);
 
   @include breakpoint(md) {
-    font-size: calc(var(--text-xs)*1.05);
+    font-size: calc(var(--text-xs));
     margin-bottom: var(--space-xxxxs);
   }
 }
@@ -573,7 +575,7 @@ background: lightgray;
   @include breakpoint(md) {
     // reset style
     display: block;
-    padding: var(--space-sm);
+    padding: var(--space-xs);
   }
 }
 
