@@ -223,6 +223,7 @@ function dataToTime(data, isnegative)
 		this.scheduleReset();
 		this.initEvents();
 
+
 	    tz_text = document.getElementById("timezone_text");
 	    if(tz_offset['tz']!=-100){
 	    	tz_text.innerHTML = '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">* All times are based on </a><a style="text-decoration: line-through; color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap">' + zone_name.replaceAll('_', ' ') + '<a style="color: #858a8c; font-size: 15px; line-height: 22px; font-family: Asap"> (' + "GMT" + tz_offset['tz'] + ')</a>'
@@ -253,12 +254,14 @@ function dataToTime(data, isnegative)
 			//in this case you are on a mobile version (first load or resize from desktop)
 			Util.removeClass(this.element, 'cd-schedule--loading js-schedule-loaded');
 			this.resetEventsStyle();
+			this.placeEvents();
 			modalOpen && this.checkEventModal();
 		} else if( mq == 'desktop' && modalOpen ) {
 			//on a mobile version with modal open - need to resize/move modal window
 			this.checkEventModal(modalOpen);
 			Util.removeClass(this.element, 'cd-schedule--loading');
 		} else {
+			this.placeEvents();
 			Util.removeClass(this.element, 'cd-schedule--loading');
 		}
 	};
@@ -289,7 +292,6 @@ function dataToTime(data, isnegative)
 
 			var day = "#Day" + start_day;
 			days[i] = day;
-			// $(this.singleEvents[i]).appendTo(day);
 			
 			}
 
@@ -361,52 +363,10 @@ function dataToTime(data, isnegative)
 				// }
 				cloned_anchor.setAttribute('data-start', dataToTime(getScheduleTimestamp(cloned_anchor.getAttribute('data-start'))+24*60*parseInt(day[4])));
 				cloned_anchor.setAttribute('data-end', dataToTime(getScheduleTimestamp(cloned_anchor.getAttribute('data-end'))+24*60*parseInt(day[4])));
-
 				days.push(next_day)
 				els.push(cloned_event)
-				$(next_day).append(cloned_event);
-			}
-
-			// if(data_start<=0 && data_end<=0)
-			// {
-			// 	data_start = dataToTime(data_start + 24*60, true);
-			// 	data_end = dataToTime(data_end + 24*60, true);
-			// 	anchor.setAttribute('data-start', data_start);
-			// 	anchor.setAttribute('data-end', data_end);
-			// 	$(this.singleEvents[i]).appendTo(prev_day);
-
-			// } else if(data_start>=24*60 && data_end>=24*60)
-			// {
-			// 	data_start = dataToTime(data_start - 24*60, false);
-			// 	data_end = dataToTime(data_end - 24*60, false);
-			// 	anchor.setAttribute('data-start', data_start);
-			// 	anchor.setAttribute('data-end', data_end);
-			// 	$(this.singleEvents[i]).appendTo(next_day);
-			// } else if(data_start<24*60 && data_end>24*60){
-			// 	data_start = dataToTime(data_start, false);
-			// 	data_end = dataToTime(data_end - 24*60, false);
-			// 	anchor.setAttribute('data-start', data_start);
-			// 	anchor.setAttribute('data-end', "24:00" + ' (contd.)');
-			// 	const cloned_event = this.singleEvents[i].cloneNode(true);
-			// 	cloned_anchor = cloned_event.getElementsByTagName('a')[0];
-			// 	// cloned_anchor.appendTo(next_day);
-			// 	cloned_anchor.setAttribute('data-start', "00:00" + ' (contd.)');
-			// 	cloned_anchor.setAttribute('data-end', data_end);
-			// 	$(next_day).append(cloned_event);
-
-			// } else if(data_start<0 && data_end>0){
-			// 	data_start = dataToTime(data_start + 24*60, true);
-			// 	data_end = dataToTime(data_end, false);
-			// 	anchor.setAttribute('data-start', "00:00" + ' (contd.)');
-			// 	anchor.setAttribute('data-end', data_end);
-			// 	const cloned_event = this.singleEvents[i].cloneNode(true);
-			// 	cloned_anchor = cloned_event.getElementsByTagName('a')[0];
-			// 	// cloned_anchor.appendTo(next_day);
-			// 	cloned_anchor.setAttribute('data-start', data_start);
-			// 	cloned_anchor.setAttribute('data-end', "24:00" + ' (contd.)');
-			// 	$(prev_day).append(cloned_event);
-
-			// } 
+				$(next_day).prepend(cloned_event);
+			} 
 		}
 		for(var i = 0; i < els.length; i++){
 
