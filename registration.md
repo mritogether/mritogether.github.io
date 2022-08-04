@@ -7,7 +7,7 @@ layout: default
 
 Aligned with the workshop's vision of inclusivity the registeration is free. However, we encourage senior funded researchers and PIs to register as donating attendees. 
 Donations will go into a pot that also contains the contributions from our [corporate sponsors](/sponsors), and will be used to support projects and initiatives in the open-science and reproducibility sphere after covering the operational costs of the meeting. 
-As a courtesy the donor names will be acknowledged [here](/sponsors) (from which you can decide to opt out).
+The donors will be acknowledged [here](/sponsors) (from which you can decide to opt out).
 
 By participating in #MRITogether in any form you agree to the [code of conduct](/CODE_OF_CONDUCT).
 
