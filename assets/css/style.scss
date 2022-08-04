@@ -887,3 +887,23 @@ a {text-decoration: none;color: #373737;}
 @media screen and (min-width: 1301px) and (max-width: 2000px) {
   #bottom-img { display: block; }   /* hide it elsewhere */
 }
+
+.shadow_button {
+-webkit-appearance: none;
+  background-color: #03fc88;
+  border: 0px solid transparent;
+  border-radius: 5px;
+  box-shadow: 0 2px 0 #373737; // s0
+  box-sizing: border-box;
+  color: #373737;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  margin-top: 5px;
+  padding: 12px 16px; // s2
+  position: relative;
+  text-align: center;
+  vertical-align: top;
+  width: auto;
+
+}

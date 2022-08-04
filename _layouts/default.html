@@ -14,6 +14,7 @@
     <link rel="stylesheet" type="text/css" href="/assets/slick/slick.css"/>
     <link rel="stylesheet" type="text/css" href="/assets/slick/slick-theme.css"/>
     <script type="text/javascript" src="/assets/slick/slick.min.js"></script>
+    <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
     <style>
     .tablelines table, .tablelines td, .tablelines th {
             border: 1px solid black;
@@ -154,18 +155,20 @@
 <div class="slideshow-container">
   <div class="mySlides">
     <div class="text">
-      <h1 style="color:white;">#MRITogether returns!</h1>
 
-      The <a style="color: #f2f2f2; opacity: 0.8;" href="/21m/index"><u>last MRI Together wokshop</u></a> was held in <em>December 2021</em>, and it has been a fantastic journey. More than 100 outstanding speakers, almost 900 registered attendees, a total cumulated duration of more than 50 hours of <a style="color: #f2f2f2; opacity: 0.8;" href="/21m/timetable"><u>meetings and webinars</u></a>, more than <a style="color: #f2f2f2; opacity: 0.8;" href="https://www.youtube.com/playlist?list=PLeDygc8TN_J48APEUyle4Ql2uSTc74Nsg"><u>36 hours of recorded talks</u></a>...
+      <span> <h1 style="color: white;">Registration is now open!</h1></span><br>
 
-      <br><br>
-      We are excited to announce that MRI Together will be back in <strong>December 2022</strong>, and this is the space to watch for updates!
+      <button id="eventbrite-widget-modal-trigger-395763528367" type="button" class="shadow_button">Registeration (until 3 Dec)</button><br>
+
+      <span class="shadow_button"><a href="https://forms.gle/9TzLa1VySB89zirr8" target="_blank">Submit an abstract (until 9 Oct)</a></span><br>
+
+      <span class="shadow_button"><a href="https://forms.gle/iScDdun8viJftNpQ7" target="_blank">Propose a symposium (until 9 Oct)</a></span><br>
       </div>
   </div>
 
-  <div class="mySlides" style="display: flex;justify-content: center;bottom: -15%;position: relative;">
+  <!-- <div class="mySlides" style="display: flex;justify-content: center;bottom: -15%;position: relative;">
     <img src="/images/slideshow_date.png" style="margin-top: 23px;height:280px;width: auto;box-shadow:none;border: none;max-width: none;">
-  </div>
+  </div> -->
 
 </div>
 </div>
@@ -217,6 +220,20 @@
 
     });
   </script>
+
+  <script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '395763528367',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-395763528367',
+        onOrderComplete: exampleCallback
+    });
+</script>
 
   </body>
 </html>
