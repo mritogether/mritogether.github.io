@@ -2,6 +2,7 @@
 title: Supporters
 layout: default
 # javascript: jquery.flip.js
+description: Workshop sponsors, external advisors, volunteers, and supporting researcher
 --- 
 We gratefully acknowledge the following sponsors that made **#MRITogether** happen.
 

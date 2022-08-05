@@ -1,6 +1,7 @@
 --- 
 title: Job Board
 layout: default
+description: MRI Together job board
 --- 
 
 <!-- # MRI Together Job board -->

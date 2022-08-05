@@ -1,6 +1,7 @@
 --- 
 title: Code of Conduct 
 layout: default
+description: The code of conduct, enforced throughout the workshop
 --- 
 <!-- # MRI Together Code of Conduct -->
 <div style="float: center; vertical-align: top;">

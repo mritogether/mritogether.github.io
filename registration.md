@@ -1,7 +1,7 @@
 --- 
 title: Overview
 layout: default
-# javascript: eventbrite.js
+description: How to register and what to expect
 --- 
 ## Registration
 
@@ -14,7 +14,6 @@ By participating in #MRITogether in any form you agree to the [code of conduct](
 <div style="text-align: center;">
 <button id="eventbrite-widget-modal-trigger-395763528367" type="button" class="shadow_button">Registeration (until 3 Dec)</button></div>
 <!-- <div id="eventbrite-widget-container-395763528367"></div> -->
-
 
 ### Fancy to help organizing?
 

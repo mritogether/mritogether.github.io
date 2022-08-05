@@ -1,6 +1,7 @@
 --- 
 title: Organizing Committee
 layout: default
+description: Workshop's organizing committee
 --- 
 
 <div id="committee_svg">
