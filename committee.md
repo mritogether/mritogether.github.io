@@ -36,7 +36,7 @@ description: Workshop's organizing committee
     <rect x="95.1" y="236.1" class="st0" width="186" height="43.8"/>
     <text transform="matrix(1 0 0 1 95.0501 246.3567)" class="st1 st2">Nikou Louise Damestani </text>
     <text transform="matrix(1 0 0 1 237.7501 246.3567)" class="st1 st3">(she/her)</text>
-    <text transform="matrix(1 0 0 1 97.8849 260.7567)" class="st1 st2">Martinos Center for Biomedical </text>
+    <text transform="matrix(1 0 0 1 67.8849 260.7567)" class="st1 st2">Athinoula A. Martinos Center for Biomedical </text>
     <text transform="matrix(1 0 0 1 147.8949 275.1567)" class="st1 st2">Imaging, USA</text>
 </a>
 <a xlink:href="https://www.mevis.fraunhofer.de/en/employees/daniel-hoinkiss.html" >

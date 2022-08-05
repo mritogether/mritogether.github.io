@@ -12,7 +12,7 @@ The donors will be acknowledged [here](/sponsors) (from which you can decide to 
 By participating in #MRITogether in any form you agree to the [code of conduct](/CODE_OF_CONDUCT).
 
 <div style="text-align: center;">
-<button id="eventbrite-widget-modal-trigger-395763528367" type="button" class="shadow_button">Registeration (until 3 Dec)</button></div>
+<button id="eventbrite-widget-modal-trigger-395763528367" type="button" class="shadow_button">Registration (until 3 Dec)</button></div>
 <!-- <div id="eventbrite-widget-container-395763528367"></div> -->
 
 ### Fancy to help organizing?
