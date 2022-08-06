@@ -147,7 +147,7 @@ description: Workshop's organizing committee
 </tr>
 <tr>
     <td><img src="/images/committee/nikou.jpg" width=150px></td>
-    <td><strong><a href="https://twitter.com/nikou_ld?lang=en-GB">Nikou Louise Damestani <a style="font-size: smaller;">(she/her)</a></a></strong><br> Martinos Center for Biomedical Imaging, USA</td>
+    <td><strong><a href="https://twitter.com/nikou_ld?lang=en-GB">Nikou Louise Damestani <a style="font-size: smaller;">(she/her)</a></a></strong><br> Athinoula A. Martinos Center for Biomedical Imaging, USA</td>
 </tr>
 <tr>
     <td><img src="/images/committee/yan.jpg" width=150px></td>
