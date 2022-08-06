@@ -168,7 +168,7 @@ h5 {
   text-align: center;
   font-family: Montserrat;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 10pt;
 }
 
@@ -858,6 +858,16 @@ a {text-decoration: none;color: #373737;}
     height: 90px; 
     width:100%; 
     overflow:hidden;}  /* show it on small screens */
+
+    .logo_container a {display: block;
+background: url(/images/ESMRMB-logo.svg) center center no-repeat;
+  background-size: auto;
+max-width: 200px;
+width: 160px;
+height: 76px;
+background-size: cover;
+position: relative;
+float: left;}
 }
 
 @media screen and (min-width: 801px) and (max-width: 2000px) {
