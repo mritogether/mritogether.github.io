@@ -9,7 +9,7 @@ We gratefully acknowledge the following sponsors that made **#MRITogether** happ
 To learn more about ways that _you_ can support the event, please [contact us](mailto:{{site.email}}).
 <!-- ## Platform sponsor
 [![Clay10 Logo](images/sponsors/clay10.png){:.sponsor_special}](https://clay10.co.uk/)  -->
-## Platinum sponsors
+## Platinum Sponsors
 
 <!-- <div id="grid-containter">
         <div class="card-grid">
@@ -46,7 +46,7 @@ To learn more about ways that _you_ can support the event, please [contact us](m
 
 [![Skope Logo](images/sponsors/skope.png){:.sponsor_platinum}](https://skope.swiss)  -->
 
-## Gold sponsors
+## Gold Sponsors
 <!-- <div id="grid-containter">
 <div class="card-grid_gold">
   <img class="front_gold" src="images/sponsors/flywheel.png" alt="HQ Imaging Logo">
@@ -83,7 +83,7 @@ curation, and management. <br>
 [![Flywheel Logo](images/sponsors/flywheel-01.png){:.sponsor_gold}](https://www.flywheel.io/)
 [![Deepspin Logo](images/sponsors/deepspin-01.png){:.sponsor_gold}](https://www.deepspin.io)
 
-## Silver sponsors
+## Silver Sponsors
 [![Skope Logo](images/sponsors/skope-01.png){:.sponsor_silver}](https://skope.swiss) 
 [![Biogen Logo](images/sponsors/biogen.png){:.sponsor_silver}](https://biogen.com/)
 <br>
@@ -91,3 +91,12 @@ curation, and management. <br>
 [![Resonint Logo](images/sponsors/resonint.png){:.sponsor_silver}](https://www.resonint.com/)
 [![Gold Standard logo](images/sponsors/goldstandardlogo-01.png){:.sponsor_silver}](https://www.goldstandardphantoms.com/)
 
+## Mind Matching partner
+[![NM Logo](images/sponsors/neuromatch-01.png){:.sponsor_platinum}](https://neuromatch.io) 
+
+
+### Fancy to help organizing?
+
+We'll need volunteers to help us with technical aspects, the social gathering platform, video editing captioning and uploading, and communications and social media management, and we'd love to have you on board!
+
+Fill in **[this form](https://forms.gle/fVFNEWNVmfvGutUH9)** to indicate your availability -- let's #MRITogether!

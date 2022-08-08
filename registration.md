@@ -15,11 +15,11 @@ By participating in #MRITogether in any form you agree to the [code of conduct](
 <button id="eventbrite-widget-modal-trigger-395763528367" type="button" class="shadow_button">Registration (until 3 Dec)</button></div>
 <!-- <div id="eventbrite-widget-container-395763528367"></div> -->
 
-### Fancy to help organizing?
 
-We'll need volunteers to help us with technical aspects, the social gathering platform, video editing captioning and uploading, and communications and social media management, and we'd love to have you on board!
+### Mind Matching
+Meet the people most important to you! MRI Together will feature a computer-assisted networking event. 
+Participants will meet and engage in conversation with 5-6 other like-minded MRI researchers. [A magical algorithm](https://neuromatch.io) will determine who meets whom and when. If you choose to participate in this event, you will be asked to provide up to 3 abstracts that are representative of your research in the registration form. Don't miss the fun!
 
-Fill in **[this form](https://forms.gle/fVFNEWNVmfvGutUH9)** to indicate your availability -- let's #MRITogether!
 
 
 <!-- Noscript content for added SEO -->
