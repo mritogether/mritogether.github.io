@@ -846,7 +846,7 @@ span.logo_helper {
 
 a {text-decoration: none;color: #373737;}
 
-@media screen and (min-width: 0px) and (max-width: 800px) {
+@media screen and (min-width: 370px) and (max-width: 800px) {
   #sticky_slideshow { display: none; }  /* show it on small screens */
   #footer { 
     /*background: #009080; */
@@ -871,7 +871,20 @@ float: left;}
 #project_tagline{
     font-size: smaller;
   }
+ 
 }
+
+@media screen and (min-width: 370px) and (max-width: 385px) {
+  p {
+    margin: 10px 10px 10px 0;
+}
+  }
+
+@media screen and (min-width: 0px) and (max-width: 370px) {
+  p {
+    margin: 10px 24px 10px 0;
+}
+  }
 
 @media screen and (min-width: 801px) and (max-width: 2000px) {
   #sticky_slideshow { display: block; }   /* hide it elsewhere */
