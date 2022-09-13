@@ -24,6 +24,11 @@
 /*@import '../../main/assets/css/custom-style/_typography.scss';*/
 @import '../../main/assets/css/custom-style/_spacing.scss';
 
+@font-face {
+  font-family: "Atkinson";
+  src: url("assets/fonts/font/Atkinson-Hyperlegible-Regular-102.ttf");
+}
+
 // --------------------------------
 
 // Schedule Template - by CodyHouse.co
@@ -44,7 +49,7 @@
 
   // font
   //--font-primary: 'Source Sans Pro', sans-serif;
-  --font-primary: Montserrat, sans-serif;
+  --font-primary: Atkinson, Montserrat, Asap, Arial, sans-serif;
 
   //schedule template
   --schedule-rows-number: 24;
@@ -99,7 +104,7 @@ a {
         list-style-type: none;
   			position: relative;
   			height: var(--schedule-rows-height);
-        font-family: Montserrat, sans-serif;
+        font-family: Atkinson, Montserrat, Asap, Arial, sans-serif;
         font-size: var(--text-xs);
 
 
@@ -219,14 +224,14 @@ a {
   width: 100%;
   padding: 0 var(--component-padding);
   background: #f3f3f3;
-  font-family: Montserrat, sans-serif;
+  font-family: Atkinson, Montserrat, Asap, Arial, sans-serif;
 
 
   > span {
     display: inline-block;
     margin-bottom: var(--space-sm);
     font-weight: 550;
-    font-family: Montserrat, sans-serif;
+    font-family: Atkinson, Montserrat, Asap, Arial, sans-serif;
   }
   
   .js & {
@@ -314,22 +319,22 @@ a {
   line-height: var(--text-xs);
 	font-weight: bold;
   font-style: normal;
-  font-family: Montserrat, sans-serif;
+  font-family: Atkinson, Montserrat, Asap, Arial, sans-serif;
 	@include fontSmooth;
 }
 
 .cd-schedule__name,
 .cd-schedule-modal__name {
-	font-size: var(--text-xs);
-  line-height: var(--text-xs); 
+	font-size: var(--text-sm);
+  line-height: var(--text-sm); 
   text-align: left;
   font-style: normal;
   font-weight: bold;
-  font-family: Montserrat, sans-serif;
+  font-family: Atkinson, Montserrat, Asap, Arial, sans-serif;
   @include fontSmooth;
 
   @include breakpoint(md) {
-    font-size: calc(var(--text-xs));
+    font-size: calc(var(--text-sm));
   }
 }
 
@@ -348,7 +353,7 @@ a {
     position: relative;
     font-weight: 550;
     color: #cccccc;
-    font-family: Montserrat, sans-serif;
+    font-family: Atkinson, Montserrat, Asap, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: calc(var(--text-sm)*0.8);
@@ -458,7 +463,7 @@ a {
   font-style: normal;
   font-weight: 550;
   color: #cccccc;
-  font-family: Montserrat, sans-serif;
+  font-family: Atkinson, Montserrat, Asap, Arial, sans-serif;
   @include fontSmooth;
 
   @include breakpoint(md) {
@@ -878,7 +883,7 @@ background: lightgray;
   text-align: center;
   vertical-align: middle;
   line-height: 35px;
-  font-family: Montserrat, sans-serif;
+  font-family: Atkinson, Montserrat, Asap, Arial, sans-serif;
   font-weight: 600;
   /*box-shadow: 0 10px 20px rgb(0 0 0 / 10%), inset 0 -3px 0 rgb(0 0 0 / 20%);*/
 

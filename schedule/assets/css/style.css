@@ -2846,6 +2846,9 @@ mark {
     --space-xxl: calc(8.25 * var(--space-unit));
     --space-xxxl: calc(13.25 * var(--space-unit));
     --space-xxxxl: calc(21.5 * var(--space-unit)); } }
+@font-face {
+  font-family: "Atkinson";
+  src: url("assets/fonts/font/Atkinson-Hyperlegible-Regular-102.ttf"); }
 :root {
   --cd-color-event-1: hsl(199, 25%, 46%);
   --cd-color-event-1-h: 199;
@@ -2879,7 +2882,7 @@ mark {
   --cd-color-border-h: 0;
   --cd-color-border-s: 0%;
   --cd-color-border-l: 92%;
-  --font-primary: Montserrat, sans-serif;
+  --font-primary: Atkinson, Montserrat, Asap, Arial, sans-serif;
   --schedule-rows-number: 24;
   --schedule-rows-height: 50px; }
 
@@ -2919,7 +2922,7 @@ a {
         list-style-type: none;
         position: relative;
         height: var(--schedule-rows-height);
-        font-family: Montserrat, sans-serif;
+        font-family: Atkinson, Montserrat, Asap, Arial, sans-serif;
         font-size: var(--text-xs); }
         .js .cd-schedule__timeline li::after {
           content: '';
@@ -2998,12 +3001,12 @@ a {
   width: 100%;
   padding: 0 var(--component-padding);
   background: #f3f3f3;
-  font-family: Montserrat, sans-serif; }
+  font-family: Atkinson, Montserrat, Asap, Arial, sans-serif; }
   .cd-schedule__top-info > span {
     display: inline-block;
     margin-bottom: var(--space-sm);
     font-weight: 550;
-    font-family: Montserrat, sans-serif; }
+    font-family: Atkinson, Montserrat, Asap, Arial, sans-serif; }
   @media (min-width: 64rem) {
     .js .cd-schedule__top-info {
       display: flex;
@@ -3064,24 +3067,24 @@ a {
   line-height: var(--text-xs);
   font-weight: bold;
   font-style: normal;
-  font-family: Montserrat, sans-serif;
+  font-family: Atkinson, Montserrat, Asap, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
 .cd-schedule__name,
 .cd-schedule-modal__name {
-  font-size: var(--text-xs);
-  line-height: var(--text-xs);
+  font-size: var(--text-sm);
+  line-height: var(--text-sm);
   text-align: left;
   font-style: normal;
   font-weight: bold;
-  font-family: Montserrat, sans-serif;
+  font-family: Atkinson, Montserrat, Asap, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
   @media (min-width: 64rem) {
     .cd-schedule__name,
     .cd-schedule-modal__name {
-      font-size: calc(var(--text-xs)); } }
+      font-size: calc(var(--text-sm)); } }
 
 .item {
   vertical-align: top;
@@ -3098,7 +3101,7 @@ a {
   position: relative;
   font-weight: 550;
   color: #cccccc;
-  font-family: Montserrat, sans-serif;
+  font-family: Atkinson, Montserrat, Asap, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: calc(var(--text-sm)*0.8);
@@ -3192,7 +3195,7 @@ a {
   font-style: normal;
   font-weight: 550;
   color: #cccccc;
-  font-family: Montserrat, sans-serif;
+  font-family: Atkinson, Montserrat, Asap, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
   @media (min-width: 64rem) {
@@ -3537,7 +3540,7 @@ a {
   text-align: center;
   vertical-align: middle;
   line-height: 35px;
-  font-family: Montserrat, sans-serif;
+  font-family: Atkinson, Montserrat, Asap, Arial, sans-serif;
   font-weight: 600;
   /*box-shadow: 0 10px 20px rgb(0 0 0 / 10%), inset 0 -3px 0 rgb(0 0 0 / 20%);*/ }
 
