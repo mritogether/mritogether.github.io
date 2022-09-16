@@ -257,7 +257,8 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   github-pages-health-check (~> 1.17.9)
-  jekyll (~> 3.9.2)
+  jekyll (>= 3.5.0)
+  jekyll-avatar (>= 0.7.0)
   webrick (~> 1.7)
 
 BUNDLED WITH
