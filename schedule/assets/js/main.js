@@ -740,6 +740,8 @@ function dataToTime(data, isnegative)
 		function checkResize(){
 			for(var i = 0; i < scheduleTemplateArray.length; i++) {
 				scheduleTemplateArray[i].scheduleReset();
+				scheduleTemplateArray[i].initSchedule();
+				scheduleTemplateArray[i].placeEvents();
 			}
 			resizing = false;
 		};
