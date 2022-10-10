@@ -27,7 +27,7 @@ Submissions **will not be scored**, but will be evaluated on scientific integrit
 Upon acceptance, presentation format will be 3-5 min recorded videos. Videos will be made available on YouTube, unless you specify otherwise. Videos will be also accessible on the GatherTown platform for viewing and discussions. The selected best abstracts will also **get rewarded!**
 
 <div style="text-align: center;">
-<span class="shadow_button"><a href="https://forms.gle/9TzLa1VySB89zirr8" target="_blank">Submit an abstract (until 9 Oct)</a></span>
+<span class="shadow_button"><a href="https://forms.gle/9TzLa1VySB89zirr8" target="_blank">Submit an abstract (until 23 Oct)</a></span>
 </div>
 
 
