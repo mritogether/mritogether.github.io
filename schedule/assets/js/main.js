@@ -8,6 +8,8 @@ if (arr.length > 1 && arr[1] !== '') {
 	   tz_offset[decodeURIComponent(pair[0])] = decodeURIComponent(pair[1]);
 	});
 }
+days = [];	
+els = [];
 date = new Date();
 zone = date.toLocaleTimeString('en-us',{timeZoneName:'short'}).split(' ')[2];
 zone_name = Intl.DateTimeFormat('en-us',{timeZoneName:'short'}).resolvedOptions().timeZone;
@@ -211,7 +213,7 @@ function dataToTime(data, isnegative)
 		this.coverLayer = this.element.getElementsByClassName('cd-schedule__cover-layer')[0];
 
 		this.modalMaxWidth = 1000;
-		this.modalMaxHeight = 680;
+		this.modalMaxHeight = 510;
 
 		this.animating = false;
 		this.supportAnimation = Util.cssSupports('transition');
@@ -219,9 +221,9 @@ function dataToTime(data, isnegative)
 		this.initSchedule();
 	};
 
-	ScheduleTemplate.prototype.initSchedule = function() {
-		this.scheduleReset();
-		this.initEvents();
+	ScheduleTemplate.prototype.initSchedule = function(onresize=false) {
+		this.scheduleReset(onresize=onresize);
+		this.initEvents(onresize=onresize);
 
 
 	    tz_text = document.getElementById("timezone_text");
@@ -241,27 +243,27 @@ function dataToTime(data, isnegative)
 	   } 
 	};
 
-	ScheduleTemplate.prototype.scheduleReset = function() {
+	ScheduleTemplate.prototype.scheduleReset = function(onresize=false) {
 		// according to the mq value, init the style of the template
 		var mq = this.mq(),
 			loaded = Util.hasClass(this.element, 'js-schedule-loaded'),
 			modalOpen = Util.hasClass(this.modal, 'cd-schedule-modal--open');
 		if( mq == 'desktop' && !loaded ) {
 			Util.addClass(this.element, 'js-schedule-loaded');
-			this.placeEvents();
+			this.placeEvents(onresize=onresize);
 			modalOpen && this.checkEventModal(modalOpen);
 		} else if( mq == 'mobile' && loaded) {
 			//in this case you are on a mobile version (first load or resize from desktop)
 			Util.removeClass(this.element, 'cd-schedule--loading js-schedule-loaded');
 			this.resetEventsStyle();
-			this.placeEvents();
+			this.placeEvents(onresize=onresize);
 			modalOpen && this.checkEventModal();
 		} else if( mq == 'desktop' && modalOpen ) {
 			//on a mobile version with modal open - need to resize/move modal window
 			this.checkEventModal(modalOpen);
 			Util.removeClass(this.element, 'cd-schedule--loading');
 		} else {
-			this.placeEvents();
+			this.placeEvents(onresize=onresize);
 			Util.removeClass(this.element, 'cd-schedule--loading');
 		}
 	};
@@ -273,13 +275,13 @@ function dataToTime(data, isnegative)
 		}
 	};
 	var added = 0;
-	ScheduleTemplate.prototype.placeEvents = function() {
+
+	ScheduleTemplate.prototype.placeEvents = function(onresize=false) {
 		// on big devices - place events in the template according to their time/day
 		var self = this,
-			slotHeight = this.topInfoElement.offsetHeight;
+			slotHeight = 50;//this.topInfoElement.offsetHeight;
 
-		var days = [];	
-		var els = [];
+		
 		for(var i = 0; i < this.singleEvents.length; i++){
 			els[i] = this.singleEvents[i];
 			var anchor = this.singleEvents[i].getElementsByTagName('a')[0];
@@ -287,16 +289,25 @@ function dataToTime(data, isnegative)
 			end = adaptData(anchor.getAttribute('data-end'));
 			anchor.setAttribute('data-start', start[0]);
 			anchor.setAttribute('data-end', end[0]);
-			start_day = start[1];
-			end_day = end[1];
+			if (!onresize){
+				start_day = start[1];
+				end_day = end[1];
+			} else {
+				start_day = anchor.getAttribute('start_day');
+				end_day=start_day;
+			}
+			anchor.setAttribute('start_day', start_day);
 
-			var day = "#Day" + start_day;
-			days[i] = day;
+			if (!onresize){
+				var day = "#Day" + start_day;
+				days[i] = day;
+			}
 			
 			}
-
-		for(var i = 0; i < this.singleEvents.length; i++) {
-			$(els[i]).appendTo(days[i]);
+		if (!onresize){
+			for(var i = 0; i < this.singleEvents.length; i++) {
+				$(els[i]).appendTo(days[i]);
+			}
 		}
 
 		for(var i = 0; i < els.length; i++) {
@@ -309,45 +320,45 @@ function dataToTime(data, isnegative)
 			prev_day = '#Day' + (parseInt(day[4])-1);
 			next_day = '#Day' + (parseInt(day[4])+1);
 
-			if(days[i] == "#Day0"){
+			if(days[i] == "#Day0" & !onresize){
 				data_start = dataToTime(data_start + 24*60, false);
 				data_end = dataToTime(data_end + 24*60, false);
 				anchor.setAttribute('data-start', data_start);
 				anchor.setAttribute('data-end', data_end);
 
-			} else if(days[i] == "#Day1"){
+			} else if(days[i] == "#Day1" & !onresize){
 				data_start = dataToTime(data_start - 24*60*0, false);
 				data_end = dataToTime(data_end - 24*60*0, false);
 				anchor.setAttribute('data-start', data_start);
 				anchor.setAttribute('data-end', data_end);
 
-			} else if(days[i] == "#Day2"){
+			} else if(days[i] == "#Day2" & !onresize){
 				data_start = dataToTime(data_start - 24*60*1, false);
 				data_end = dataToTime(data_end - 24*60*1, false);
 				anchor.setAttribute('data-start', data_start);
 				anchor.setAttribute('data-end', data_end);
 
-			} else if(days[i] == "#Day3"){
+			} else if(days[i] == "#Day3" & !onresize){
 				data_start = dataToTime(data_start - 24*60*2, false);
 				data_end = dataToTime(data_end - 24*60*2, false);
 				anchor.setAttribute('data-start', data_start);
 				anchor.setAttribute('data-end', data_end);
 
-			} else if(days[i] == "#Day4"){
+			} else if(days[i] == "#Day4" & !onresize){
 				data_start = dataToTime(data_start - 24*60*3, false);
 				data_end = dataToTime(data_end - 24*60*3, false);
 				anchor.setAttribute('data-start', data_start);
 				anchor.setAttribute('data-end', data_end);
 			}
 
-			else if(days[i] == "#Day5"){
+			else if(days[i] == "#Day5" & !onresize){
 				data_start = dataToTime(data_start - 24*60*4, false);
 				data_end = dataToTime(data_end - 24*60*4, false);
 				anchor.setAttribute('data-start', data_start);
 				anchor.setAttribute('data-end', data_end);
 			}
 
-			if (data_end > "24:00"){
+			if (data_end > "24:00" & !onresize){
 				data_start = dataToTime(getScheduleTimestamp(data_start), false);
 				data_end = dataToTime(getScheduleTimestamp(data_end), false);
 				anchor.setAttribute('data-start', data_start);
@@ -384,14 +395,14 @@ function dataToTime(data, isnegative)
 		Util.removeClass(this.element, 'cd-schedule--loading');
 	};
 
-	ScheduleTemplate.prototype.initEvents = function() {
+	ScheduleTemplate.prototype.initEvents = function(onresize=false) {
 		var self = this;
 		for(var i = 0; i < this.singleEvents.length; i++) {
-			// open modal when user selects an event
-			// this.singleEvents[i].addEventListener('click', function(event){
-			// 	event.preventDefault();
-			// 	if(!self.animating) self.openModal(this.getElementsByTagName('a')[0]);
-			// });
+			//// open modal when user selects an event
+			this.singleEvents[i].addEventListener('click', function(event){
+				event.preventDefault();
+				if(!self.animating) self.openModal(this.getElementsByTagName('a')[0]);
+			});
 		}
 		//close modal window
 		this.modalClose.addEventListener('click', function(event){
@@ -444,8 +455,8 @@ function dataToTime(data, isnegative)
   			user = usersInfo[moderator];
   			url = user.url;
   			name = user.name;
-  			affiliation = user.affiliation;
-  			twitter = user.twitter;
+  			affiliation = user.aff;
+  			twitter = user.twt;
   			inner = "";
 
   			inner += "<div class='item'> <img class='cd-schedule-modal__img' src=" + url + "> <span class='caption'>" + name;
@@ -453,8 +464,9 @@ function dataToTime(data, isnegative)
 				    inner += " <a style='color: white;' href='https://twitter.com/" + twitter + "' target='_blank'><i class='fab fa-twitter'></i></a>";
 				}
 
-			inner += "<br><a style='text-decoration: none; font-size: calc(var(--text-sm)*0.65); line-height:9px;'>" + affiliation + "</a></span>";
+			inner += "<br><a style='text-decoration: none; font-size: calc(var(--text-sm)*0.75); line-height:9px;'>" + affiliation + "</a></span>";
 			inner += "</div>";
+
 
 			modalModeratorInfo.innerHTML += inner;
 		}
@@ -463,14 +475,21 @@ function dataToTime(data, isnegative)
 			user = usersInfo[speaker];
 			url = user.url;
   			name = user.name;
-  			affiliation = user.affiliation;
-  			twitter = user.twitter;
-  			if (twitter == null){
-				    twitter = "";
-				}
-	    	modalSpeakerInfo.innerHTML += "<div class='item'> <img class='cd-schedule-modal__img' src=" + url + "> <span class='caption'>" + name + "</span> <span class='subcaption'>" + affiliation + "</span></div>";
-	         }
+  			affiliation = user.aff;
+  			twitter = user.twt;
+  			inner = "";
 
+  			inner += "<div class='item'> <img class='cd-schedule-modal__img' src=" + url + "> <span class='caption'>" + name;
+  			if (twitter != null){
+				    inner += " <a style='color: white;' href='https://twitter.com/" + twitter + "' target='_blank'><i class='fab fa-twitter'></i></a>";
+				}
+
+			inner += "<br><a style='text-decoration: none; font-size: calc(var(--text-sm)*0.75); line-height:9px;'>" + affiliation + "</a></span>";
+			inner += "</div>";
+
+			
+			modalSpeakerInfo.innerHTML += inner;
+			}
 		this.modalDate.textContent = target.getAttribute('data-start')+' - '+target.getAttribute('data-end');
 		this.modal.setAttribute('data-event', target.getAttribute('data-event'));
 
@@ -739,9 +758,9 @@ function dataToTime(data, isnegative)
 
 		function checkResize(){
 			for(var i = 0; i < scheduleTemplateArray.length; i++) {
-				scheduleTemplateArray[i].scheduleReset();
-				scheduleTemplateArray[i].initSchedule();
-				scheduleTemplateArray[i].placeEvents();
+				// scheduleTemplateArray[i].scheduleReset();
+				scheduleTemplateArray[i].initSchedule(onresize=true);
+				scheduleTemplateArray[i].placeEvents(onresize=true);
 			}
 			resizing = false;
 		};

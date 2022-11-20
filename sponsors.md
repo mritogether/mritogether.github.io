@@ -35,8 +35,9 @@ To learn more about ways that _you_ can support the event, please [contact us](m
     </script> -->
  
 
-[![HQ Imaging Logo](images/sponsors/HQ_Imaging-01.png){:.sponsor_platinum}](http://hq-imaging.com/)
-[![CMRI Logo](images/sponsors/CMRI-logo-01.png){:.sponsor_platinum}](https://qmri.com)
+[![HQ Imaging Logo](images/sponsors/HQ_Imaging-01.png){:.sponsor_platinum}](hq-imaging.com/)
+[![CMRI Logo](images/sponsors/CMRI-logo-01.png){:.sponsor_platinum}](//qmri.com)
+[![UIh Logo](images/sponsors/UIH-logo-01.png){:.sponsor_platinum}](//www.united-imaging.com/en)
  
 <!-- [![Genentech Logo](images/sponsors/genentech.png){:.sponsor_platinum}](https://www.gene.com/)
 

@@ -77,13 +77,13 @@ db.ref().child('users/').on('value', function (snapshot) {
   snapshot.forEach(function(data) {
     usersInfo[data.key] = data.val();
 
-    var spaceRef = storageRef.child('speaker_photos/'+ data.key + '.png');
+      var spaceRef = storageRef.child('speaker_photos/'+ data.key + '.jpg');
       spaceRef.getDownloadURL().then(function(url) {
                // var test = url;
                // console.log(url);
                img_url = url;
                usersInfo[data.key]['url'] = img_url;
-        });
+        });    
         
         // console.log(data.key);
         // console.log(data.val());
