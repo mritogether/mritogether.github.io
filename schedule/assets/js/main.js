@@ -457,12 +457,16 @@ function dataToTime(data, isnegative)
   			name = user.name;
   			affiliation = user.aff;
   			twitter = user.twt;
+  			mast = user.mast;
   			inner = "";
 
   			inner += "<div class='item'> <img class='cd-schedule-modal__img' src=" + url + "> <span class='caption'>" + name;
   			if (twitter != null){
 				    inner += " <a style='color: white;' href='https://twitter.com/" + twitter + "' target='_blank'><i class='fab fa-twitter'></i></a>";
 				}
+			if (mast != null){
+			    inner += " <a style='color: white;' href='https://" + mast + "' target='_blank'><i class='fab fa-mastodon'></i></a>";
+			}
 
 			inner += "<br><a style='text-decoration: none; font-size: calc(var(--text-sm)*0.75); line-height:9px;'>" + affiliation + "</a></span>";
 			inner += "</div>";
@@ -477,13 +481,16 @@ function dataToTime(data, isnegative)
   			name = user.name;
   			affiliation = user.aff;
   			twitter = user.twt;
+  			mast = user.mast;
   			inner = "";
 
   			inner += "<div class='item'> <img class='cd-schedule-modal__img' src=" + url + "> <span class='caption'>" + name;
   			if (twitter != null){
 				    inner += " <a style='color: white;' href='https://twitter.com/" + twitter + "' target='_blank'><i class='fab fa-twitter'></i></a>";
 				}
-
+			if (mast != null){
+			    inner += " <a style='color: white;' href='https://" + mast + "' target='_blank'><i class='fab fa-mastodon'></i></a>";
+			}
 			inner += "<br><a style='text-decoration: none; font-size: calc(var(--text-sm)*0.75); line-height:9px;'>" + affiliation + "</a></span>";
 			inner += "</div>";
 
