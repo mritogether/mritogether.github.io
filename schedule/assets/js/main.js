@@ -425,9 +425,9 @@ function dataToTime(data, isnegative)
 		// this.modalEventInfo.textContent = target.getAttribute('data-speaker');
 		self.modalDate.style.transform = 'scaleX(1) scaleY(1)';
 		self.modalEventName.style.transform = 'scaleX(1) scaleY(1)';
-		self.modalModeratorInfo.style.transform = 'scaleX(0) scaleY(0)';
+		self.modalModeratorInfo.style.transform = 'scaleX(1) scaleY(1)';
 		self.modalModeratorInfoTitle.style.transform = 'scaleX(1) scaleY(1)';
-		self.modalSpeakerInfo.style.transform = 'scaleX(0) scaleY(0)';
+		self.modalSpeakerInfo.style.transform = 'scaleX(1) scaleY(1)';
 		self.modalSpeakerInfoTitle.style.transform = 'scaleX(1) scaleY(1)';
 		var speakers = target.getAttribute('data-speakers')
 		if (typeof speakers == "string" && speakers.length) {
@@ -511,6 +511,8 @@ function dataToTime(data, isnegative)
 		}, 10);
 
 		if( mq == 'mobile' ) {
+			self.modalModeratorInfo.style.transform = 'scaleX(0) scaleY(0)';
+			self.modalSpeakerInfo.style.transform = 'scaleX(0) scaleY(0)';
 			self.modal.addEventListener('transitionend', function cb(){
 				self.animating = false;
 				self.modal.removeEventListener('transitionend', cb);
