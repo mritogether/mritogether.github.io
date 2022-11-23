@@ -95,7 +95,7 @@ curation, and management. <br>
 ## Mind Matching partner
 [![NM Logo](images/sponsors/neuromatch-01.png){:.sponsor_platinum}](https://neuromatch.io) 
 
-### Individual sponsors
+### Individual Sponsors
 We greatly appreciate the contributions from our donating attendees
 * Nikola Stikov
 * Evgenios Kornaropoulos
