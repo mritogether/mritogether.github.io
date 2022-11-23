@@ -3720,6 +3720,13 @@ a {
 
   /* Make all right containers behave like the left ones */
   .right {
-    left: 0%; } }
+    left: 0%; }
+
+  .timeline::after {
+    margin-left: 12px; }
+
+  .content {
+    padding: 0px;
+    line-height: 20px; } }
 
 /*# sourceMappingURL=style.css.map */
