@@ -285,10 +285,13 @@ function dataToTime(data, isnegative)
 		for(var i = 0; i < this.singleEvents.length; i++){
 			els[i] = this.singleEvents[i];
 			var anchor = this.singleEvents[i].getElementsByTagName('a')[0];
-			start = adaptData(anchor.getAttribute('data-start'));
-			end = adaptData(anchor.getAttribute('data-end'));
-			anchor.setAttribute('data-start', start[0]);
-			anchor.setAttribute('data-end', end[0]);
+			if (!onresize){
+				start = adaptData(anchor.getAttribute('data-start'));
+				end = adaptData(anchor.getAttribute('data-end'));
+				anchor.setAttribute('data-start', start[0]);
+				anchor.setAttribute('data-end', end[0]);
+			} 
+			
 			if (!onresize){
 				start_day = start[1];
 				end_day = end[1];
@@ -766,12 +769,13 @@ function dataToTime(data, isnegative)
 		});
 
 		function checkResize(){
+			
+			resizing = false;
 			for(var i = 0; i < scheduleTemplateArray.length; i++) {
-				// scheduleTemplateArray[i].scheduleReset();
+				// scheduleTemplateArray[i].scheduleReset(onresize=true);
 				scheduleTemplateArray[i].initSchedule(onresize=true);
 				scheduleTemplateArray[i].placeEvents(onresize=true);
 			}
-			resizing = false;
 		};
 	}
 }(
