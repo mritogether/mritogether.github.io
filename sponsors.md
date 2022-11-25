@@ -99,6 +99,7 @@ curation, and management. <br>
 We greatly appreciate the contributions from our donating attendees
 * Nikola Stikov
 * Evgenios Kornaropoulos
+* Eva Scheurer
 
 ### Fancy to help organizing?
 
