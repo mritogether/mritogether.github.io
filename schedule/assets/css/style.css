@@ -2874,6 +2874,10 @@ mark {
   --cd-color-event-6-h: 81;
   --cd-color-event-6-s: 29%;
   --cd-color-event-6-l: 18%;
+  --cd-color-event-8: hsl(190, 96%, 61%);
+  --cd-color-event-8-h: 190;
+  --cd-color-event-8-s: 96%;
+  --cd-color-event-8-l: 61%;
   --cd-color-text: hsl(0, 0%, 13%);
   --cd-color-text-h: 0;
   --cd-color-text-s: 0%;
@@ -3236,6 +3240,10 @@ a {
 .cd-schedule-modal[data-event="event-6"] .cd-schedule-modal__header-bg {
   background: var(--cd-color-event-6); }
 
+.cd-schedule__event [data-event="event-8"],
+.cd-schedule-modal[data-event="event-8"] .cd-schedule-modal__header-bg {
+  background: var(--cd-color-event-8); }
+
 .cd-schedule__event [data-event="event-7"],
 .cd-schedule-modal[data-event="event-7"] .cd-schedule-modal__header-bg {
   /*background: repeating-linear-gradient(
@@ -3564,6 +3572,9 @@ a {
 
 .event-7 {
   background: repeating-linear-gradient(52deg, #9a9a9c26, #9a9a9c26 12px, #c2c2c426 12px, #c2c2c426 24px); }
+
+.event-8 {
+  background: var(--cd-color-event-8); }
 
 .column {
   margin-right: auto;

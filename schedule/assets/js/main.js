@@ -48,9 +48,6 @@ function setTimeZone()
 function adaptData(data)
 {	
 	var date = new Date();
-	// var optionBox = document.getElementById("timezone_select");
- //    var timeZone = parseInt(optionBox.value);
- 	// var timeZone = -date.getTimezoneOffset()/60;
 
     data = data.replace(/ /g,'');
 	var timeArray = data.split(':');
@@ -107,57 +104,6 @@ function deadaptData(data)
     
     return new_time
 
-}
-
-function adaptTime()
-{   
-    Array.from(document.getElementsByClassName("timezone_adapt")).forEach(function (element) {
-        var orig_date = parseInt(element.getAttribute("data-date"));
-        var orig_start_time = parseInt(element.getAttribute("data-staasrtss"));
-        var orig_end_time = parseInt(element.getAttribute("data-enddasdss"));
-        
-        console.log(orig_date + " " + orig_start_time);
-        
-        var new_time = orig_start_time + timeZone;
-        var new_date = orig_date;
-        
-        var new_end_date = orig_date;
-        var new_end_time = orig_end_time + timeZone;
-        
-        if (new_time < 0)
-        {
-            new_date--;
-            new_time += 24;
-        }
-        if (new_time >= 24)
-        {
-            new_date++;
-            new_time -= 24;
-        }
-        
-        if (new_end_time < 0)
-        {
-            new_end_date--;
-            new_end_time += 24;
-        }
-        if (new_end_time >= 24)
-        {
-            new_end_date++;
-            new_end_time -= 24;
-        }
-        
-        new_html = new_time + ":00 - ";
-        // if (new_end_date != new_date)
-        // {
-        //     new_html += "December " + new_end_date + ", ";
-        // }
-        new_html += new_end_time + ":00";
-        
-        
-        // new_html += '&nbsp;&nbsp;<span style="font-size: small;">(Selected time zone: UTC' + (timeZone<0?"":"+") + timeZone + ')</span>';
-        
-        element.innerHTML = new_html;
-    });
 }
 
 function dataToTime(data, isnegative)
@@ -288,6 +234,7 @@ function dataToTime(data, isnegative)
 			if (!onresize){
 				start = adaptData(anchor.getAttribute('data-start'));
 				end = adaptData(anchor.getAttribute('data-end'));
+
 				anchor.setAttribute('data-start', start[0]);
 				anchor.setAttribute('data-end', end[0]);
 			} 
@@ -323,6 +270,7 @@ function dataToTime(data, isnegative)
 			prev_day = '#Day' + (parseInt(day[4])-1);
 			next_day = '#Day' + (parseInt(day[4])+1);
 
+			anchor.setAttribute('data-day', days[i])
 			if(days[i] == "#Day0" & !onresize){
 				data_start = dataToTime(data_start + 24*60, false);
 				data_end = dataToTime(data_end + 24*60, false);
@@ -377,6 +325,7 @@ function dataToTime(data, isnegative)
 				// }
 				cloned_anchor.setAttribute('data-start', dataToTime(getScheduleTimestamp(cloned_anchor.getAttribute('data-start'))+24*60*parseInt(day[4])));
 				cloned_anchor.setAttribute('data-end', dataToTime(getScheduleTimestamp(cloned_anchor.getAttribute('data-end'))+24*60*parseInt(day[4])));
+				cloned_anchor.setAttribute('data-day', next_day)
 				days.push(next_day)
 				els.push(cloned_event)
 				$(next_day).prepend(cloned_event);
@@ -500,7 +449,18 @@ function dataToTime(data, isnegative)
 			
 			modalSpeakerInfo.innerHTML += inner;
 			}
+
 		this.modalDate.textContent = target.getAttribute('data-start')+' - '+target.getAttribute('data-end');
+
+
+		day = parseInt(target.getAttribute('data-day').replace('#Day', '')) + 4;
+		day = "0" + day.toString();
+		start = target.getAttribute('data-start').replace(':', '');
+		end = target.getAttribute('data-end').replace(':', '');
+		cal_url = "https://www.google.com/calendar/render?action=TEMPLATE&text=MRI+Together:+" + this.modalEventName.textContent + "&details=https%3A%2F%2Fapp.gather.town%2Fapp%2FRc37K6uzo6Jmgw03%2Fmritogether22&location=https://app.gather.town/app/Rc37K6uzo6Jmgw03/mritogether22&dates=202212" + day + "T" + start + "00Z%2F202212" + day + "T" + end + "00Z";
+		cal_html = "<a style='color: white;' href='" + cal_url + "' target='_blank' alt='add to calendar'>  <i class='far fa-calendar-plus'></i></a>";
+		this.modalDate.innerHTML += cal_html;
+
 		this.modal.setAttribute('data-event', target.getAttribute('data-event'));
 
 		//update event content

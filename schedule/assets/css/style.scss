@@ -44,6 +44,7 @@
   @include defineColorHSL(--cd-color-event-4, 0, 69%, 30%);    // Rajah
   @include defineColorHSL(--cd-color-event-5, 21, 92%, 38%);    // Rajah
   @include defineColorHSL(--cd-color-event-6, 81, 29%, 18%);    // Rajah
+  @include defineColorHSL(--cd-color-event-8, 190, 96%, 61%);    // Rajah
   @include defineColorHSL(--cd-color-text, 0, 0%, 13%);         // Black
   @include defineColorHSL(--cd-color-border, 0, 0%, 92%);       // Grey
 
@@ -513,6 +514,11 @@ a {
   background: var(--cd-color-event-6);
 }
 
+.cd-schedule__event [data-event="event-8"],
+.cd-schedule-modal[data-event="event-8"] .cd-schedule-modal__header-bg {
+  background: var(--cd-color-event-8);
+}
+
 .cd-schedule__event [data-event="event-7"],
 .cd-schedule-modal[data-event="event-7"] .cd-schedule-modal__header-bg {
   /*background: repeating-linear-gradient(
@@ -915,6 +921,10 @@ background: lightgray;
 
 .event-7 {
   background: repeating-linear-gradient(52deg,#9a9a9c26,#9a9a9c26 12px,#c2c2c426 12px,#c2c2c426 24px);
+}
+
+.event-8 {
+  background: var(--cd-color-event-8);
 }
 
 .column {
