@@ -106,3 +106,7 @@ We greatly appreciate the contributions from our donating attendees
 We'll need volunteers to help us with technical aspects, the social gathering platform, video editing captioning and uploading, and communications and social media management, and we'd love to have you on board!
 
 Fill in **[this form](https://forms.gle/fVFNEWNVmfvGutUH9)** to indicate your availability -- let's [**#MRITogether**](https://twitter.com/hashtag/MRITogether)!
+
+We greatly acknowledge our volunteers who helped up in organisation
+* Petra Landman - van Houdt
+* Sneha Majumder
