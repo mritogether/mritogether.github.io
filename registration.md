@@ -24,7 +24,7 @@ We are inviting abstract submissions prioritizing *open, reproducibile, and incl
 We aim to provide a space for *innovative open tools and initiatives* to communicate their efforts. Also, if you have *reproduced a MRI study (or have failed to do so)*, this is a great space to showcase that.
 
 Submissions **will not be scored**, but will be evaluated on scientific integrity and relevance to the workshop. Please be sure to highlight how your abstract fits within the workshop mission and detail ethical  considerations. The submitted abstracts will not be visible online.
-Upon acceptance, presentation format will be 3-5 min recorded videos. Videos will be made available on YouTube, unless you specify otherwise. Videos will be also accessible on the GatherTown platform for viewing and discussions. The selected best abstracts will also **get rewarded!**
+Upon acceptance, presentation format will be 3-5 min recorded videos. Videos will be also accessible on the GatherTown platform for viewing and discussions. The selected best abstracts will also **get rewarded!**
 
 <div style="text-align: center;">
 <button class="shadow_button_disabled"  disabled type="button" >Submit an abstract (until 23 Oct)</button><br>
