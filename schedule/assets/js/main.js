@@ -381,6 +381,12 @@ function dataToTime(data, isnegative)
 		self.modalModeratorInfoTitle.style.transform = 'scaleX(1) scaleY(1)';
 		self.modalSpeakerInfo.style.transform = 'scaleX(1) scaleY(1)';
 		self.modalSpeakerInfoTitle.style.transform = 'scaleX(1) scaleY(1)';
+
+
+		if (this.modalEventName.textContent.includes("Matching")) {
+			self.modalModeratorInfoTitle.style.transform = 'scaleX(0) scaleY(0)';
+		}
+
 		var speakers = target.getAttribute('data-speakers')
 		if (typeof speakers == "string" && speakers.length) {
 			speakers = speakers.split(" ");
