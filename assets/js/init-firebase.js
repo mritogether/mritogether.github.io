@@ -77,7 +77,7 @@ db.ref().child('users/').on('value', function (snapshot) {
   snapshot.forEach(function(data) {
     usersInfo[data.key] = data.val();
 
-      var spaceRef = storageRef.child('speaker_photos/'+ data.key + '.jpg');
+      var spaceRef = storageRef.child('speaker_photos/'+ data.key + '_200x200.jpg');
       spaceRef.getDownloadURL().then(function(url) {
                // var test = url;
                // console.log(url);
