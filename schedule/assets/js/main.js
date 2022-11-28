@@ -158,7 +158,7 @@ function dataToTime(data, isnegative)
 
 		this.coverLayer = this.element.getElementsByClassName('cd-schedule__cover-layer')[0];
 
-		this.modalMaxWidth = 560;
+		this.modalMaxWidth = 1000;
 		this.modalMaxHeight = 510;
 
 		this.animating = false;
