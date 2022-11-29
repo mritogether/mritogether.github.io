@@ -100,6 +100,7 @@ We greatly appreciate the contributions from our donating attendees
 * Nikola Stikov
 * Evgenios Kornaropoulos
 * Eva Scheurer
+* Liam Lawrence
 
 ### Fancy to help organizing?
 
