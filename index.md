@@ -10,7 +10,7 @@ layout: default
 
 What's all the buzz about **open science**, **reproducibility**, and **inclusivity**?
 
-[**#MRITogether**](https://twitter.com/hashtag/MRITogether) is a global online event on open, reproducibile, and inclusive MRI research. The meeting hosts lectures, panel discussions, and hands-on workshops by prominent speakers from industry and academia. Topics ranging from statistical tools for reproducible research, to open hardware and software practices, to data sharing policies, and the obstacles and best practices in using artificial intelligence in MRI will be covered.
+[**#MRITogether**](https://twitter.com/hashtag/MRITogether) is a global online event on open, reproducible, and inclusive MRI research. The meeting hosts lectures, panel discussions, and hands-on workshops by prominent speakers from industry and academia. Topics ranging from statistical tools for reproducible research, to open hardware and software practices, to data sharing policies, and the obstacles and best practices in using artificial intelligence in MRI will be covered.
 
 Topics will include, but not be limited to:
 

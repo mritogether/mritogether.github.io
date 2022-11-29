@@ -20,7 +20,7 @@ Detailed information about how to attend the workshop will be provided to the re
 
 ## Call for abstracts
 
-We are inviting abstract submissions prioritizing *open, reproducibile, and inclusive MR research*. We also encourage submissions highlighting *best practices for a completely open pipeline* (from data acquisition to publication). 
+We are inviting abstract submissions prioritizing *open, reproducible, and inclusive MR research*. We also encourage submissions highlighting *best practices for a completely open pipeline* (from data acquisition to publication). 
 We aim to provide a space for *innovative open tools and initiatives* to communicate their efforts. Also, if you have *reproduced a MRI study (or have failed to do so)*, this is a great space to showcase that.
 
 Submissions **will not be scored**, but will be evaluated on scientific integrity and relevance to the workshop. Please be sure to highlight how your abstract fits within the workshop mission and detail ethical  considerations. The submitted abstracts will not be visible online.
