@@ -17,3 +17,4 @@ To add your listing, please fill out [this form](https://forms.gle/3VR5hj6rkN6mc
 - [**Postdoctoral Research Associate**](/job_board_files/UCLCMI_heather_fitzke.pdf) - _University College London, London, UK_ (28 Nov)
 - [**Postdoctoral position - Signal Processing in Neuroimaging**](/job_board_files/Postdoc_SPINgroup_2023_cesar_caballero.pdf) - _Basque Center on Cognition, Brain and Language, Donostia San Sebastian (can consider remote), Spain_ (29 Nov)
 - [**4-year funded PhD position - Signal Processing in Neuroimaging**](/job_board_files/phd_SPINgroup_2023.pdf) - _Basque Center on Cognition, Brain and Language, Donostia San Sebastian, Spain_ (29 Nov)
+- [**Post-Doctoral Fellow**](/job_board_files/Job_description_uzay_emir.pdf) - _Purdue University, West Lafayette, IN_ (29 Nov)
