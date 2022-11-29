@@ -101,6 +101,7 @@ We greatly appreciate the contributions from our donating attendees
 * Evgenios Kornaropoulos
 * Eva Scheurer
 * Liam Lawrence
+* Benedikt Poser
 
 ### Fancy to help organizing?
 
