@@ -12,7 +12,7 @@ To access Gather.Town, go to *[link to appear on 1 December]*, sign-up or sign-i
 To join the sessions, head on to the ***Talks* hall in Gather.Town**, from where you will be redirected to the **CrowdCast** platform on which the live talks take place *(you need to sign-up or sign-in to this platform separately when you land there)*. Alternatively, you can view the live stream of the sessions with [**auto-generated captions on YouTube**](https://youtube.com/playlist?list=PLeDygc8TN_J6h3RbDDVPW5oTJzRBVg7BQ)
 
 ### Notes
-* the Youtube stream is a one-way communication channel and you will not be able to ask questions or participate in the discussion there.
+* the YouTube stream is a one-way communication channel and you will not be able to ask questions or participate in the discussion there.
 * Chrome is the recommended browser for both platforms. Other browsers might work but may have issues. 
 
 ### Confused or lost on Gather.Town? 
