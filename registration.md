@@ -67,7 +67,7 @@ Upon acceptance, presentation format will be 3-5 min recorded videos. Videos wil
 
 ### Mind Matching
 Meet the people most important to you! MRI Together will feature a computer-assisted networking event. 
-Participants will meet and engage in conversation with 5-6 other like-minded MRI researchers. [A magical algorithm](https://neuromatch.io) will determine who meets whom and when. If you choose to participate in this event, you will be asked to provide up to 3 abstracts that are representative of your research in the registration form. Don't miss the fun!
+Participants will meet and engage in conversation with 5-6 other like-minded MRI researchers. [A magical algorithm](https://neuromatch.io) will determine who meets whom and when. If you choose to participate in this event, you will be asked to provide up to 3 abstracts that are representative of your research in the registration form (not there anymore for new registrations). Don't miss the fun!
 
 
 
