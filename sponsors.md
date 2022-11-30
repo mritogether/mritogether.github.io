@@ -102,6 +102,7 @@ We greatly appreciate the contributions from our donating attendees
 * Eva Scheurer
 * Liam Lawrence
 * Benedikt Poser
+* Mark Chiew
 
 ### Fancy to help organizing?
 
