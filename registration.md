@@ -3,7 +3,7 @@ title: Overview and How to Access
 layout: default
 description: How to register and what to expect
 --- 
-## Accessing the conference (Gather.Town)
+## How to access
 
 MRI Together happens in **Gather.Town**, a virtual world where you can meet others, view the posters, visit the sponsor booths, and join the sessions as an attendee, speaker, or moderator. 
 
