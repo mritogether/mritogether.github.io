@@ -67,12 +67,12 @@ Upon acceptance, presentation format will be 3-5 min recorded videos. Videos wil
 
 
 
-### Mind Matching
+## Mind Matching
 Meet the people most important to you! MRI Together will feature a computer-assisted networking event. 
 Participants will meet and engage in conversation with 5-6 other like-minded MRI researchers. [A magical algorithm](https://neuromatch.io) will determine who meets whom and when. If you choose to participate in this event, you will be asked to provide up to 3 abstracts that are representative of your research in the registration form (not there anymore for new registrations). Don't miss the fun!
 
 <div id="matching_details"></div>
-#### What to expect?
+### What to expect?
 * If you have registered for mind-matching, to find your schedule enter you eventbrite ticket number (can be found on the registration confirmation email, or [here](//www.eventbrite.co.uk/mytickets/)) in [this page](/mm). 
 
 * Your schedule would contain **three of four table/coach number pairs**, and it will indicate **which of the two mind-matching session** you should attend. Please pay attention to these details so that you only attend the session that you are assigned to.
