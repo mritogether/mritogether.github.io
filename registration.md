@@ -48,13 +48,13 @@ Participants will meet and engage in conversation with 5-6 other like-minded MRI
 
 * Mind-matching takes place at the rooftop in **[Gather.Town](https://app.gather.town/app/Rc37K6uzo6Jmgw03/mritogether22)**
 
-* If you have registered for mind-matching, to find your schedule enter you eventbrite ticket number (can be found on the registration confirmation email, or [here](//www.eventbrite.co.uk/mytickets/)) in [this page](/mm). 
+* If you have registered for mind-matching, to find your schedule enter your eventbrite ticket number (can be found on the registration confirmation email, or [here](//www.eventbrite.co.uk/mytickets/)) in [this page](/mm). 
 
-* Your schedule would contain **three of four table/coach number pairs**, and it will indicate **which of the two mind-matching session** you should attend. Please pay attention to these details so that you only attend the session that you are assigned to.
+* Your schedule would contain **three of four table/couch number pairs**, and it will indicate **which of the two mind-matching sessions** you should attend. Please pay attention to these details so that you only attend the session that you are assigned to.
 
-* Every fifteen minute, you will meet someone new. What matches you two together is your shared research interests. Feel free to chat about MRI, open science, or your favuorite meals. You may embark on new collaborations, or make new friends!
+* Every fifteen minute, you will meet someone new. What matches you two together is your shared research interests. Feel free to chat about MRI, open science, or your favourite meals. You may embark on new collaborations, or make new friends!
 
-* If your schedule is something like **1a -> 12d -> 3a -> 3a** it means that in the first 15 minutes you should be at table 1 coach a, in the second 15 minutes at table/coach 12d, in the third one at table/coach 3a, and in the fourth one also remain at table/coach 3a. 
+* If your schedule is something like **1a -> 12d -> 3a -> 3a** it means that in the first 15 minutes you should be at table 1 couch a, in the second 15 minutes at table/couch 12d, in the third one at table/couch 3a, and in the fourth one also remain at table/couch 3a. 
 
 * if it looks something like  **4a -> 5d -> 10a**, containing three pairs instead of four, it means that you have three matches instead of four and your mind-matching session is 45 minutes instead of a full hour.
 
