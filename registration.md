@@ -10,7 +10,9 @@ description: How to register and what to expect
 
 To access Gather.Town **[click here](https://app.gather.town/app/Rc37K6uzo6Jmgw03/mritogether22)**, sign-up or sign-in, and enter the password that was sent to you in a separate email. Contact [mritogether@esmrmb.org](mailto:mritogether@esmrmb.org) if you have not received the password **until 4 December**.
 
-To join the sessions, head on to the ***"Talks"* hall in Gather.Town**, from where you will be redirected to the **CrowdCast** platform on which the live talks take place *(you need to sign-up or sign-in to this platform separately when you land there)*. Alternatively, you can view the live stream of the sessions with [**auto-generated captions on YouTube**](//youtube.com/playlist?list=PLeDygc8TN_J6h3RbDDVPW5oTJzRBVg7BQ)
+To join the sessions, head on to the ***"Talks"* hall in Gather.Town**, from where you will be redirected to the **CrowdCast** platform on which the live talks take place *(you need to sign-up or sign-in to this platform separately when you land there)*. Alternatively, you can view the live stream of the sessions with [**auto-generated captions on YouTube**](//youtube.com/playlist?list=PLeDygc8TN_J6h3RbDDVPW5oTJzRBVg7BQ).
+
+Recordings will be immediately available after each session, on CrowdCast and on YouTube.
 
 ### Notes
 * the YouTube stream is a one-way communication channel and you will not be able to ask questions or participate in the discussion there.
