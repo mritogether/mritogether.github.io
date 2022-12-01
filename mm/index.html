@@ -1,12 +1,58 @@
-<p id="demo"></p>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.5.0/papaparse.min.js"></script>
 
-First Name: <input type="text" id="myText" value="Mickey">
+<script type="text/javascript">
+	var data;
 
-<p>Click the button to display the value of the value attribute of the text field.</p>
+function cb(csvdata) {
 
-<div style="text-align: center;">
-<button onclick="myFunction()" type="button" >Submit an abstract (until 23 Oct)</button><br>
-</div>
-<div style="text-align: center;">
-<button onclick="myFunction()">Try it</button>
-</div>
+	data = csvdata;
+
+
+    
+	console.log(data)
+}
+function parseData(url, callBack) {
+    Papa.parse(url, {
+        download: true,
+        dynamicTyping: true,
+        complete: function(results) {
+            callBack(results.data);
+        }
+    });
+}
+
+parseData("mindmatch_minimized.csv", cb);
+
+function findEmailByName() {
+	var sched = '';
+	var session = '';
+	email = document.getElementById("email_text").value;  
+	for(var i=0; i < data.length; i++){    		
+	    if(data[i][0] == email){
+	       sched = data[i][1]; 
+	       session = data[i][3];
+	       break;
+	    }
+	}
+
+	if (sched != ''){
+	document.getElementById("schedule").innerHTML = sched;
+	document.getElementById("schedule_text").innerHTML = 'Your schedule, <u>in the Mind-Matching session <a id="session"></a> </u> is: ';
+	document.getElementById("schedule").style.display = "block";
+	document.getElementById("schedule_text").style.display = "block";
+	document.getElementById("session").innerHTML = session;
+	} else {
+		document.getElementById("schedule_text").style.display = "block";
+		document.getElementById("schedule_text").innerHTML = "schedule not found :( <br> The reason could be because you have not registered for mind-matching, <br> or you have not provided enough text for a successful matching.";
+	}
+
+	}
+
+
+</script>
+
+<h2 style="text-decoration: none; color: #009080; font-family: 'Montserrat'; font-weight: 700;"> Type your eventbrite ticket order number below to reveal your assigned matching schedule <br> (you may find your order number <a href="https://www.eventbrite.co.uk/mytickets/">here</a>)</h2>
+
+<h3 style="text-decoration: none; color: #009080; font-family: 'Montserrat'; font-weight: 500;"> <a href="https://www.eventbrite.co.uk/mytickets/">order number</a> #<input type="text" id="email_text" value=""> <button onclick="findEmailByName()" type="button" >show</button><br></h3>
+
+<div><h2 style="text-decoration: none; color: #009080; font-family: 'Montserrat'; font-weight: 700; display: none;"  id="schedule_text">Your schedule, <u>in Mind-Matching session <a id="session"></a> </u> is: </h2><h3 style="text-decoration: none; color: #009080; font-family: 'Montserrat'; font-weight: 700; display: none;" id="schedule"></h3></div>
