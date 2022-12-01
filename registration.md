@@ -71,12 +71,15 @@ Upon acceptance, presentation format will be 3-5 min recorded videos. Videos wil
 Meet the people most important to you! MRI Together will feature a computer-assisted networking event. 
 Participants will meet and engage in conversation with 5-6 other like-minded MRI researchers. [A magical algorithm](https://neuromatch.io) will determine who meets whom and when. If you choose to participate in this event, you will be asked to provide up to 3 abstracts that are representative of your research in the registration form (not there anymore for new registrations). Don't miss the fun!
 
+<div id="matching_details"></div>
 #### What to expect?
-If you have registered for mind-matching, to find your schedule enter you eventbrite ticket number (can be found on the registration confirmation email, or [here](//www.eventbrite.co.uk/mytickets/)) in [this page](/mm). 
+* If you have registered for mind-matching, to find your schedule enter you eventbrite ticket number (can be found on the registration confirmation email, or [here](//www.eventbrite.co.uk/mytickets/)) in [this page](/mm). 
 
-Your schedule would contain three of four table/coach number pairs, and it will indicate which of the two mind-matching session you should attend. If it is something like "1a -> 12d -> 3a -> 3a" it means that in the first 15 minutes you should be at table 1 coach a, in the second 15 minutes at table/coach 12d, in the third one at table/coach 3a, and in the fourth one also remain at table/coach 3a. 
+* Your schedule would contain **three of four table/coach number pairs**, and it will indicate **which of the two mind-matching session** you should attend. Please pay attention to these details so that you only attend the session that you are assigned to.
 
-if it looks something like  "4a -> 5d -> 10a" it means that you have three matches instead of four and your mind-matching session is 45 minutes.
+* If it is something like **1a -> 12d -> 3a -> 3a** it means that in the first 15 minutes you should be at table 1 coach a, in the second 15 minutes at table/coach 12d, in the third one at table/coach 3a, and in the fourth one also remain at table/coach 3a. 
+
+* if it looks something like  **4a -> 5d -> 10a**, containing three pairs instead of four, it means that you have three matches instead of four and your mind-matching session is 45 minutes instead of a full hour.
 
 
 <!-- Noscript content for added SEO -->
