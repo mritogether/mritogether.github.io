@@ -6,9 +6,9 @@ description: How to register and what to expect
 --- 
 ## How to access
 
-[**#MRITogether**](https://twitter.com/hashtag/MRITogether) happens in **Gather.Town**, a virtual world where you can meet others, view the posters, visit the sponsor booths, and join the sessions as an attendee, speaker, or moderator. 
+[**#MRITogether**](https://twitter.com/hashtag/MRITogether) happens in **[Gather.Town](https://app.gather.town/app/Rc37K6uzo6Jmgw03/mritogether22)**, a virtual world where you can meet others, view the posters, visit the sponsor booths, and join the sessions as an attendee, speaker, or moderator. 
 
-To access Gather.Town, **[click here](https://app.gather.town/app/Rc37K6uzo6Jmgw03/mritogether22)**, sign-up or sign-in, and enter the password that was sent to you in a separate email. Contact [mritogether@esmrmb.org](mailto:mritogether@esmrmb.org) if you have not received the password **until 4 December**.
+To access Gather.Town **[click here](https://app.gather.town/app/Rc37K6uzo6Jmgw03/mritogether22)**, sign-up or sign-in, and enter the password that was sent to you in a separate email. Contact [mritogether@esmrmb.org](mailto:mritogether@esmrmb.org) if you have not received the password **until 4 December**.
 
 To join the sessions, head on to the ***"Talks"* hall in Gather.Town**, from where you will be redirected to the **CrowdCast** platform on which the live talks take place *(you need to sign-up or sign-in to this platform separately when you land there)*. Alternatively, you can view the live stream of the sessions with [**auto-generated captions on YouTube**](//youtube.com/playlist?list=PLeDygc8TN_J6h3RbDDVPW5oTJzRBVg7BQ)
 
@@ -30,7 +30,7 @@ If you are experiencing difficulties, we have prepared short tutorials to naviga
 2. Make sure your browser settings are correct. Instructions [**here**](https://support.gather.town/help/browser-system-settings).
 
 #### Camera/microphone not working in CrowdCast
-1. If you are an attendee, no worries! You can watch the sessions live on YouTube instead, or you can always ask your questions in text form in the Q&A box instead.
+1. If you are an attendee, no worries! You can watch the sessions live on [**YouTube**](//youtube.com/playlist?list=PLeDygc8TN_J6h3RbDDVPW5oTJzRBVg7BQ) instead, or you can always ask your questions in text form in the Q&A box instead.
 2. If you are a moderator or speaker, run [**these CrowdCast tests**](https://www.crowdcast.io/setup) and if it still doesn’t work, contact your assigned committee contact as soon as possible.
 
 #### I can’t access the conference
