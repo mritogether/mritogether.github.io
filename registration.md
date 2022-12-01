@@ -73,6 +73,9 @@ Participants will meet and engage in conversation with 5-6 other like-minded MRI
 
 <div id="matching_details"></div>
 ### What to expect?
+
+* Mind-matching takes place at the rooftop in **[Gather.Town](https://app.gather.town/app/Rc37K6uzo6Jmgw03/mritogether22)**
+
 * If you have registered for mind-matching, to find your schedule enter you eventbrite ticket number (can be found on the registration confirmation email, or [here](//www.eventbrite.co.uk/mytickets/)) in [this page](/mm). 
 
 * Your schedule would contain **three of four table/coach number pairs**, and it will indicate **which of the two mind-matching session** you should attend. Please pay attention to these details so that you only attend the session that you are assigned to.
