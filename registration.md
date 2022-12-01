@@ -1,7 +1,6 @@
 --- 
 title: Overview and How to Access
 layout: default
-# javascript: parse_csv.js
 description: How to register and what to expect
 --- 
 ## How to access
