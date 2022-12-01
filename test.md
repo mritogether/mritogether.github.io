@@ -72,6 +72,24 @@ Upon acceptance, presentation format will be 3-5 min recorded videos. Videos wil
 Meet the people most important to you! MRI Together will feature a computer-assisted networking event. 
 Participants will meet and engage in conversation with 5-6 other like-minded MRI researchers. [A magical algorithm](https://neuromatch.io) will determine who meets whom and when. If you choose to participate in this event, you will be asked to provide up to 3 abstracts that are representative of your research in the registration form (not there anymore for new registrations). Don't miss the fun!
 
+<p id="demo"></p>
+
+First Name: <input type="text" id="myText" value="Mickey">
+
+<p>Click the button to display the value of the value attribute of the text field.</p>
+
+<div style="text-align: center;">
+<button onclick="myFunction()" type="button" >Submit an abstract (until 23 Oct)</button><br>
+</div>
+<div style="text-align: center;">
+<button onclick="myFunction()">Try it</button>
+</div>
+<span class="shadow_button"><a href="javascript:myFunction();" target="_blank">Submit an abstract (until 23 Oct)</a></span><br>
+
+<a><button name="button" style = "color: red" onclick="https://www.w3schools.com/CPP/cpp_math.asp">`cmath`on w3schools</button></a>
+
+
+
 
 <!-- Noscript content for added SEO -->
 <noscript><a href="https://mritogether.eventbrite.co.uk" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
