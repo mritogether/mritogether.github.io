@@ -58,7 +58,7 @@ Participants will meet and engage in conversation with 5-6 other like-minded MRI
 
 * if it looks something like  **4a -> 5d -> 10a**, containing three pairs instead of four, it means that you have three matches instead of four and your mind-matching session is 45 minutes instead of a full hour.
 
-* Happy networking!
+* Happy networking 🫱🏿‍🫲🏽 
 
 
 ## Registration
