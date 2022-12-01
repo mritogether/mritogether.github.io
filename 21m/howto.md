@@ -1,6 +1,5 @@
 --- 
 title: Attendance howto (MRITogether 2021)
-javascript: parse_csv.js
 layout: default
 --- 
 
