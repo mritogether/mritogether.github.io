@@ -38,12 +38,12 @@ If you are experiencing difficulties, we have prepared short tutorials to naviga
 2. As a last resort, contact the committee on [mritogether@esmrmb.org](mailto:mritogether@esmrmb.org).
 
 
-
+<a id="matching_details"></a>
 ## Mind Matching
 Meet the people most important to you! MRI Together will feature a computer-assisted networking event. 
 Participants will meet and engage in conversation with 5-6 other like-minded MRI researchers. [A magical algorithm](https://neuromatch.io) will determine who meets whom and when. If you choose to participate in this event, you will be asked to provide up to 3 abstracts that are representative of your research in the registration form (not there anymore for new registrations). Don't miss the fun!
 
-<div id="matching_details"></div>
+
 ### What to expect?
 
 * Mind-matching takes place at the rooftop in **[Gather.Town](https://app.gather.town/app/Rc37K6uzo6Jmgw03/mritogether22)**
