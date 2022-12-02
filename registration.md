@@ -32,8 +32,9 @@ If you are experiencing difficulties, we have prepared short tutorials to naviga
 2. Make sure your browser settings are correct. Instructions [**here**](https://support.gather.town/help/browser-system-settings).
 
 #### Camera/microphone not working in CrowdCast
-1. If you are an attendee, no worries! You can watch the sessions live on [**YouTube**](//youtube.com/playlist?list=PLeDygc8TN_J6h3RbDDVPW5oTJzRBVg7BQ) instead, or you can always ask your questions in text form in the Q&A box instead.
-2. If you are a moderator or speaker, run [**these CrowdCast tests**](https://www.crowdcast.io/setup) and if it still doesn’t work, contact your assigned committee contact as soon as possible.
+1. Please try the steps outlined in [**this guide**](//support.crowdcast.io/getting-started/h5eArUktcJddydYuJNBuSc/how-to-allow-screensharing-for-your-browser/nZzj1LmYH4ky6mYmanRMpB).
+2. If you are an attendee, no worries! You can watch the sessions live on [**YouTube**](//youtube.com/playlist?list=PLeDygc8TN_J6h3RbDDVPW5oTJzRBVg7BQ) instead, or you can always ask your questions in text form in the Q&A box instead.
+3. If you are a moderator or speaker, run [**these CrowdCast tests**](https://www.crowdcast.io/setup) and if it still doesn’t work, contact your assigned committee contact as soon as possible.
 
 #### I can’t access the conference
 1. Make sure that the email address that you have set in Gather.Town and CrowdCast is the same as the one that you have registered with.
