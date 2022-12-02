@@ -16,6 +16,7 @@
     <script src="https://kit.fontawesome.com/621c4d47d6.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="/assets/slick/slick.css"/>
     <link rel="stylesheet" type="text/css" href="/assets/slick/slick-theme.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/add-to-calendar-button@1/assets/css/atcb.min.css">
     <!-- <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" /> -->
     <script type="text/javascript" src="/assets/slick/slick.min.js"></script>
     <style>
@@ -89,7 +90,7 @@
   </div>
   <div id="sticky_line" class="line"></div>
   <div id="sticky_title">
-      <section id="title" class="inner" style="padding: 19px 0 9px 0!important; margin-left: 0%;
+    <section id="title" class="inner" style="padding: 19px 0 9px 0!important; margin-left: 0%;
         background-position: center;overflow: hidden;border-bottom: 2px solid #009080;">
       <div id="main_content_wrap" class="outer" style="min-height: 0px; position:relative;">
           <h1 >Meeting Program</h1> 
@@ -105,9 +106,161 @@
             </li>
           </ul> -->
       </div>
-      </section>
-    </div>
+    </section>    
+    <section id="title" class="inner" style="padding: 19px 0 9px 0!important; margin-left: 0%;
+    background-position: center;overflow: hidden;border-bottom: 2px solid #009080;">
 
+      <div class="atcb" style="display:none; text-align: center;" >
+        {
+          "name":"MRI Together",
+          "label":"Add all talks to your calendar",
+          "dates":[
+            {
+              "name":"Incentives for good science",
+              "description":"",
+              "startDate":"2022-12-05",
+              "startTime":"02:00",
+              "endTime":"04:00"
+            },
+            {
+              "name":"Open and inclusive science",
+              "description":"",
+              "startDate":"2022-12-05",
+              "startTime":"07:00",
+              "endTime":"09:00"
+            },
+            {
+              "name":"Quality-control mechanisms",
+              "description":"",
+              "startDate":"2022-12-05",
+              "startTime":"12:00",
+              "endTime":"14:00"
+            },
+            {
+              "name":"MRI hardware for everyone",
+              "description":"",
+              "startDate":"2022-12-05",
+              "startTime":"15:00",
+              "endTime":"17:00"
+            },
+            {
+              "name":"From paper to scanner",
+              "description":"",
+              "startDate":"2022-12-05",
+              "startTime":"20:00",
+              "endTime":"22:00"
+            },
+            {
+              "name":"Reproducible acquisition practices",
+              "description":"",
+              "startDate":"2022-12-06",
+              "startTime":"01:00",
+              "endTime":"03:00"
+            },
+            {
+              "name":"Open Initiatives from all corners of MRI",
+              "description":"",
+              "startDate":"2022-12-06",
+              "startTime":"06:00",
+              "endTime":"08:00"
+            },
+            {
+              "name":"Reproducibility in large-scale studies",
+              "description":"",
+              "startDate":"2022-12-06",
+              "startTime":"11:00",
+              "endTime":"13:00"
+            },
+            {
+              "name":"Reproducibility in the AI era",
+              "description":"",
+              "startDate":"2022-12-06",
+              "startTime":"16:00",
+              "endTime":"18:00"
+            },
+            {
+              "name":"Applications of big open datasets",
+              "description":"",
+              "startDate":"2022-12-06",
+              "startTime":"21:00",
+              "endTime":"23:00"
+            },
+            {
+              "name":"Open data with novel techniques",
+              "description":"",
+              "startDate":"2022-12-07",
+              "startTime":"02:00",
+              "endTime":"04:00"
+            },
+            {
+              "name":"Practicalities of open data",
+              "description":"",
+              "startDate":"2022-12-07",
+              "startTime":"07:00",
+              "endTime":"09:00"
+            },
+            {
+              "name":"Institutional reform",
+              "description":"",
+              "startDate":"2022-12-7",
+              "startTime":"12:00",
+              "endTime":"14:00"
+            },
+            {
+              "name":"Open publishing: the editors' perspective",
+              "description":"",
+              "startDate":"2022-12-07",
+              "startTime":"17:00",
+              "endTime":"19:00"
+            },
+            {
+              "name":"Publication reform",
+              "description":"",
+              "startDate":"2022-12-07",
+              "startTime":"22:00",
+              "endTime":"23:59"
+            },
+          {
+              "name":"Scientific software engineering principles",
+              "description":"",
+              "startDate":"2022-12-08",
+              "startTime":"06:00",
+              "endTime":"09:00"
+            },
+          {
+              "name":"Juggling with data",
+              "description":"",
+              "startDate":"2022-12-08",
+              "startTime":"11:00",
+              "endTime":"14:00"
+            },
+          {
+              "name":"Expanding your image reconstruction toolbox",
+              "description":"",
+              "startDate":"2022-12-08",
+              "startTime":"16:00",
+              "endTime":"19:00"
+            }
+          ],
+          "location":"https://app.gather.town/app/Rc37K6uzo6Jmgw03/mritogether22",
+          "options":[
+            "Apple",
+            "Google",
+            "iCal",
+            "Microsoft365",
+            "MicrosoftTeams",
+            "Outlook.com",
+            "Yahoo"
+          ],
+          "timeZone":"Europe/London",
+          "iCalFileName":"MRI Together"
+        }
+      </div>
+    </section>   
+  </div>
+</div>
+
+  
 <!-- MAIN CONTENT -->
 <div id="sticky_body">
     <div id="main_content_wrap" class="outer">
@@ -458,6 +611,7 @@
         <!-- </div> -->
       <!-- </div> -->
     </div>
+    <script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@1" async defer></script>
   </footer>
 </div>
   <script src="/assets/js/sticky.js"></script>
