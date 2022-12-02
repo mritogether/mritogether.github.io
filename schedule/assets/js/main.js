@@ -464,7 +464,7 @@ function dataToTime(data, isnegative)
 		start = target.getAttribute('data-start').replace(':', '');
 		end = target.getAttribute('data-end').replace(':', '');
 		cal_url = "https://www.google.com/calendar/render?action=TEMPLATE&text=MRI+Together:+" + this.modalEventName.textContent.replace('\'', '') + "&details=https://app.gather.town/app/Rc37K6uzo6Jmgw03/mritogether22&location=https://app.gather.town/app/Rc37K6uzo6Jmgw03/mritogether22&dates=202212" + day + "T" + start + "00Z%2F202212" + day + "T" + end + "00Z";
-		cal_html = "  <a style='color: white;' href='" + cal_url + "' target='_blank' alt='add to calendar'>  <i class='far fa-calendar-plus fa-lg'></i><a href='" + cal_url + "' style='color: white;'> add to calendar</a></a>";
+		cal_html = "  <a style='color: white;' href='" + cal_url + "' target='_blank' alt='add to calendar' target='_blank'>  <i class='far fa-calendar-plus fa-lg'></i><a href='" + cal_url + "' style='color: white;'  target='_blank'> add to calendar</a></a>";
 		this.modalDate.innerHTML += cal_html;
 
 		this.modal.setAttribute('data-event', target.getAttribute('data-event'));
