@@ -90,6 +90,8 @@ Upon acceptance, presentation format will be 3-5 min recorded videos. Videos wil
 <button class="shadow_button_disabled"  disabled type="button" >Submit an abstract (until 23 Oct)</button><br>
 </div>
 
+Accepted abstracts are listed [**here**](/abstracts). 
+
 
 
 
