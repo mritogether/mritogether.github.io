@@ -8,7 +8,7 @@ description: How to register and what to expect
 
 [**#MRITogether**](https://twitter.com/hashtag/MRITogether) happens in **[Gather.Town](https://app.gather.town/app/Rc37K6uzo6Jmgw03/mritogether22)**, a virtual world where you can meet others, view the posters, visit the sponsor booths, and join the sessions as an attendee, speaker, or moderator. 
 
-To access Gather.Town **[click here](https://app.gather.town/app/Rc37K6uzo6Jmgw03/mritogether22)**, sign-up or sign-in, and enter the password that was sent to you in a separate email. Contact [mritogether@esmrmb.org](mailto:mritogether@esmrmb.org) if you have not received the password **until 4 December**.
+To access Gather.Town **[click here](//app.gather.town/app/Rc37K6uzo6Jmgw03/mritogether22)**, sign-up or sign-in, and enter the password that was sent to you in a separate email. Contact [mritogether@esmrmb.org](mailto:mritogether@esmrmb.org) if you have not received the password **until 4 December**.
 
 To join the sessions, head on to the ***"Talks"* hall in Gather.Town**, from where you will be redirected to the **CrowdCast** platform on which the live talks take place *(you need to sign-up or sign-in to this platform separately when you land there)*. Alternatively, you can view the live stream of the sessions with [**auto-generated captions on YouTube**](//youtube.com/playlist?list=PLeDygc8TN_J6h3RbDDVPW5oTJzRBVg7BQ).
 
@@ -73,7 +73,7 @@ The donors will be acknowledged [here](/sponsors) (from which you can decide to 
 By participating in [**#MRITogether**](https://twitter.com/hashtag/MRITogether) in any form you agree to the [**code of conduct**](/CODE_OF_CONDUCT).
 
 <div style="text-align: center;">
-<button id="eventbrite-widget-modal-trigger-395763528367" type="button" class="shadow_button">Free registration (until 3 Dec)</button></div>
+<button type="button" class="shadow_button_disabled" disabled>Free registration (until 3 Dec)</button></div>
 <!-- <div id="eventbrite-widget-container-395763528367"></div> -->
 
 Detailed information about how to attend the workshop will be provided to the registrants closer to the date.
