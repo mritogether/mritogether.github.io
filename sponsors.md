@@ -112,4 +112,3 @@ Fill in **[this form](https://forms.gle/fVFNEWNVmfvGutUH9)** to indicate your av
 
 We greatly acknowledge our volunteers who helped up in organisation
 * Petra Landman - van Houdt
-* Sneha Majumder
