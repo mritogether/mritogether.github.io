@@ -13,8 +13,10 @@
         <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" type="text/css" href="/assets/slick/slick.css"/>
     <link rel="stylesheet" type="text/css" href="/assets/slick/slick-theme.css"/>
+    <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.0.min.js"></script> -->
     <script type="text/javascript" src="/assets/slick/slick.min.js"></script>
     <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+    <script type="text/javascript" src="/assets/js/dropdown.js"></script>
 
     <style>
     .tablelines table, .tablelines td, .tablelines th {
@@ -86,93 +88,62 @@
   </header>
   
   <div id="sticky_menu">
-    <div style="max-width:1150px; align-content: center; margin: auto;" class="outer">
         <nav class="navbar navbar-expand-lg  navbar-light" id="nav-menu">
           <div class="nav__container w-100">
             <button class="navbar-toggler float-xs-right" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" style="width: 100%;">
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
-              <ul class="navbar-nav ml-auto mr-auto" style="flex-basis: 100%;flex-grow: 1;">
-
-                {% if page.url == "/" %}
-                  <div class="menu-item_selected"><a href="/" style="color: #009080;"><i class="fas fa-home-lg-alt"></i></a></div>
-                {% else %}
-                  <div class="menu-item"><a href="/" style="color: #009080;"><i class="fas fa-home-lg-alt"></i></a></div>
-                {% endif %}
-                {% if page.url == "/overview.html" %}
-                <div class="menu-item_selected"><a href="/comingsoon">Program</a></div>
-                {% else %}
-                  <div class="menu-item"><a href="/comingsoon">Program</a></div>
-                {% endif %}
-                {% if page.url == "/registration.html" %}
-                  <div class="menu-item_selected"><a href="/comingsoon">How to Attend</a></div>
-                {% else %}
-                  <div class="menu-item"><a href="/comingsoon">How to Attend</a></div>
-                {% endif %}
-                {% if page.url == "/committee.html" %}
-                  <div class="menu-item_selected"><a href="/comingsoon">Organizers</a></div>
-                {% else %}
-                  <div class="menu-item"><a href="/comingsoon">Organizers</a></div>
-                {% endif %}
-                {% if page.url == "/sponsors.html" %}
-                  <div class="menu-item_selected"><a href="/comingsoon">Supporters</a></div>
-                {% else %}
-                  <div class="menu-item"><a href="/comingsoon">Supporters</a></div>
-                {% endif %}
-                {% if page.url == "/job_board.html" %}
-                  <div class="menu-item_selected"><a href="/comingsoon">Job Board</a></div>
-                {% else %}
-                  <div class="menu-item"><a href="/comingsoon">Job Board</a></div>
-                {% endif %}
-                {% if page.url == "/CODE_OF_CONDUCT.html" %}
-                  <div class="menu-item_selected"><a href="/CODE_OF_CONDUCT">Code of Conduct</a></div>
-                {% else %}
-                  <div class="menu-item"><a href="/CODE_OF_CONDUCT">Code of Conduct</a></div>
-                {% endif %}
-                {% if page.url == "/21m/" %}
-                  <div class="menu-item_selected"><a href="/21m/index">Past Workshops</a></div>
-                {% else %}
-                  <div class="menu-item"><a href="/21m/index">Past Workshops</a></div>
-                {% endif %}
+              <ul class="navbar-nav ml-auto mr-auto" id="menu-list" style="flex-basis: 100%;flex-grow: 1;">
+                <div class="menu-item"><a href="/" style="color: #009080;"><i class="fas fa-home-lg-alt"></i></a></div>
+                <div class="menu-item"><a href="/comingsoon">Program</a></div>
+                <div class="menu-item"><a href="/comingsoon">How to Attend</a></div>
+                <div class="menu-item"><a href="/comingsoon">Organizers</a></div>
+                <div class="menu-item"><a href="/comingsoon">Supporters</a></div>                
+                <div class="menu-item"><a href="/comingsoon">Job Board</a></div>
+                <div class="menu-item"><a href="/CODE_OF_CONDUCT">Code of Conduct</a></div>
+                <div class="menu-item dropdown-container">
+                  <a class="toggle-dropdown" href="#">Past Workshops</a>
+                  <div class="dropdown-menu">
+                    <a href="/21m">2021</a>
+                  </div>
+                </div>
                 </ul>
               </div> 
             </div>
         </nav>
     </div>
-  </div>
-
-  
-  <div id="sticky_line" class="line"></div>
-  {% unless page.title == "MRI Together" %}
-  <div id="sticky_title">
-          <section id="title" class="inner" style="padding: 19px 0 9px 0!important; margin-left: 0%;
-        background-position: center;overflow: hidden;border-bottom: 2px solid #009080;">
-        <div id="main_content_wrap" class="outer" style="min-height: 0px"><h1 >{{page.title}}</h1></div>
-      </section>
-    </div>
-          {% endunless %}
-{% if page.title == "MRI Together" %}
-<div id="sticky_slideshow">
-<div class="slideshow-container">
-  <div class="mySlides">
-    <div class="text">
-
-      <span> <h1 style="color: white;">MRI Together 2023 is coming!<br>
-        December 6-8 2023</h1></span>
-
-      <!-- <button class="shadow_button_disabled" disabled type="button" >Free registration (until 3 Dec)</button><br>
-
-      <button class="shadow_button_disabled"  disabled type="button" >Submit an abstract (until 23 Oct)</button><br>
-
-      <button class="shadow_button_disabled"  disabled type="button" >Propose a symposium (until 23 Oct)</button><br> -->
-
+    
+    <div id="sticky_line" class="line"></div>
+    {% unless page.title == "MRI Together" %}
+    <div id="sticky_title">
+            <section id="title" class="inner" style="padding: 19px 0 9px 0!important; margin-left: 0%;
+          background-position: center;overflow: hidden;border-bottom: 2px solid #009080;">
+          <div id="main_content_wrap" class="outer" style="min-height: 0px"><h1 >{{page.title}}</h1></div>
+        </section>
       </div>
-  </div>
+            {% endunless %}
+  {% if page.title == "MRI Together" %}
+  <div id="sticky_slideshow">
+  <div class="slideshow-container">
+    <div class="mySlides">
+      <div class="text">
 
-  <!-- <div class="mySlides" style="display: flex;justify-content: center;bottom: -15%;position: relative;">
-    <img src="/images/slideshow_date.png" style="margin-top: 23px;height:280px;width: auto;box-shadow:none;border: none;max-width: none;">
-  </div> -->
+        <span> <h1 style="color: white;">MRI Together 2023 is coming!<br>
+          December 6-8 2023</h1></span>
+
+        <!-- <button class="shadow_button_disabled" disabled type="button" >Free registration (until 3 Dec)</button><br>
+
+        <button class="shadow_button_disabled"  disabled type="button" >Submit an abstract (until 23 Oct)</button><br>
+
+        <button class="shadow_button_disabled"  disabled type="button" >Propose a symposium (until 23 Oct)</button><br> -->
+
+        </div>
+    </div>
+
+    <!-- <div class="mySlides" style="display: flex;justify-content: center;bottom: -15%;position: relative;">
+      <img src="/images/slideshow_date.png" style="margin-top: 23px;height:280px;width: auto;box-shadow:none;border: none;max-width: none;">
+    </div> -->
 
 </div>
 </div>
@@ -202,6 +173,7 @@
 
   <script src="/assets/js/sticky.js"></script>
   <script type="text/javascript">
+  
     $(document).ready(function(){
       $('.slideshow-container').slick({
         autoplay: true,
@@ -216,6 +188,18 @@
         // nextArrow: '<button type="button" class="slick-next slick-arrow" style="right: 0px;">Next</button>',
         // prevArrow: '<button type="button" class="slick-prev slick-arrow" style="left: 0px;">Prev</button>',
       });
+      
+      const currentURL = window.location.href;
+      const lastSlash = currentURL.lastIndexOf('/');
+      const currentPage = currentURL.substring(lastSlash);
+      
+      $("#menu-list a").each(function() {
+        if ($(this).attr("href") === currentPage) {
+          $(this).parent().addClass("menu-item_selected");
+        }
+      });
+      
+      
     
       // $('#nav-menu div').click(function(e) {
       //     $('#nav-menu div').removeClass('current_page_item');
