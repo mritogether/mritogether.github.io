@@ -1,6 +1,7 @@
 --- 
-title: Organizing committee (MRITogether 2021)
+title: Organizing committee
 layout: default
+year: 2021
 --- 
 # Workshop organizing committee
 * **Laura Bell** (co-chair) - Genentech, USA

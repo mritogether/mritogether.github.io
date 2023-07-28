@@ -1,7 +1,8 @@
 ---
-title: Past Workshops (MRITogether 2021)
+title: MRITogether 2021
 layout: default
 javascript: [ jquery-3.6.0.min.js, jQuery.scrollText.js, speaker_list.js ]
+year: 2021
 ---
 
 # MRI Together 21 lives on!

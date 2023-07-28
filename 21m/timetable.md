@@ -1,7 +1,8 @@
 ---
-title: Timetable (MRITogether 2021)
+title: Timetable
 layout: default
 javascript: [ timezone.js ]
+year: 2021
 ---
 
 # Recorded videos

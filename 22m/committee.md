@@ -2,6 +2,7 @@
 title: Organizing Committee
 layout: default
 description: Workshop's organizing committee
+year: 2022
 --- 
 
 <div id="committee_svg">
@@ -18,7 +19,7 @@ description: Workshop's organizing committee
     .st4{fill:none;stroke:#009999;stroke-width:1.5;stroke-miterlimit:10;}
     .st5{fill:#009999;}
 </style>
-<image style="overflow:visible;" width="1886" height="1018" xlink:href="/images/committee/worlddot.png"  transform="matrix(0.3181 0 0 0.3181 111.494 251.5771)">
+<image style="overflow:visible;" width="1886" height="1018" xlink:href="images/committee/worlddot.png"  transform="matrix(0.3181 0 0 0.3181 111.494 251.5771)">
 </image>
 <a xlink:href="https://moshahdloo.com/" >
     <rect x="366.4" y="255.5" class="st0" width="170.1" height="28.4"/>
@@ -59,7 +60,7 @@ description: Workshop's organizing committee
     <text transform="matrix(1 0 0 1 679.6711 283.9087)" class="st1 st3">(he/him)</text>
     <text transform="matrix(1 0 0 1 608.4628 298.1247)" class="st1 st2">United Imaging, China</text>
 </a>
-<image style="overflow:visible;enable-background:new    ;" width="500" height="500" xlink:href="/images/committee/mo.jpg"  transform="matrix(0.3007 0 0 0.3007 376.275 96.0069)">
+<image style="overflow:visible;enable-background:new    ;" width="500" height="500" xlink:href="images/committee/mo.jpg"  transform="matrix(0.3007 0 0 0.3007 376.275 96.0069)">
 </image>
 <g>
     <g>
@@ -78,7 +79,7 @@ description: Workshop's organizing committee
         </g>
     </g>
 </g>
-<image style="overflow:visible;enable-background:new    ;" width="500" height="549" xlink:href="/images/committee/nikou.jpg"  transform="matrix(0.3006 0 0 0.3006 116.7263 65.3852)">
+<image style="overflow:visible;enable-background:new    ;" width="500" height="549" xlink:href="images/committee/nikou.jpg"  transform="matrix(0.3006 0 0 0.3006 116.7263 65.3852)">
 </image>
 <g>
     <g>
@@ -88,7 +89,7 @@ description: Workshop's organizing committee
         </g>
     </g>
 </g>
-<image style="overflow:visible;enable-background:new    ;" width="500" height="500" xlink:href="/images/committee/sophie.jpg"  transform="matrix(0.301 0 0 0.301 40.0288 436.6039)">
+<image style="overflow:visible;enable-background:new    ;" width="500" height="500" xlink:href="images/committee/sophie.jpg"  transform="matrix(0.301 0 0 0.301 40.0288 436.6039)">
 </image>
 <g>
     <g>
@@ -98,7 +99,7 @@ description: Workshop's organizing committee
         </g>
     </g>
 </g>
-<image style="overflow:visible;enable-background:new    ;" width="203" height="203" xlink:href="/images/committee/hongfu.jpg"  transform="matrix(0.7395 0 0 0.7395 702.36 361.65)">
+<image style="overflow:visible;enable-background:new    ;" width="203" height="203" xlink:href="images/committee/hongfu.jpg"  transform="matrix(0.7395 0 0 0.7395 702.36 361.65)">
 </image>
 <g>
     <g>
@@ -109,7 +110,7 @@ description: Workshop's organizing committee
         </g>
     </g>
 </g>
-<image style="overflow:visible;enable-background:new    ;" width="960" height="960" xlink:href="/images/committee/yan.jpg"  transform="matrix(0.1566 0 0 0.1566 593.037 119.3728)">
+<image style="overflow:visible;enable-background:new    ;" width="960" height="960" xlink:href="images/committee/yan.jpg"  transform="matrix(0.1566 0 0 0.1566 593.037 119.3728)">
 </image>
 <g>
     <g>
@@ -120,7 +121,7 @@ description: Workshop's organizing committee
         </g>
     </g>
 </g>
-<image style="overflow:visible;enable-background:new    ;" width="400" height="400" xlink:href="/images/committee/daniel.jpg"  transform="matrix(0.3762 0 0 0.3762 386.21 415.5112)">
+<image style="overflow:visible;enable-background:new    ;" width="400" height="400" xlink:href="images/committee/daniel.jpg"  transform="matrix(0.3762 0 0 0.3762 386.21 415.5112)">
 </image>
 </svg>
 </svg>
@@ -130,27 +131,27 @@ description: Workshop's organizing committee
 <table style="width:100%">
 <tbody>
 <tr>
-    <td><img src="/images/committee/sophie.jpg" width=150px></td>
+    <td><img src="images/committee/sophie.jpg" width=150px></td>
     <td><strong><a href="https://sophieschau.github.io">Sophie Schauman <a style="font-size: smaller;">(she/her; co-chair)</a></a></strong><br> Stanford University, USA</td>
 </tr>
 <tr>
-<td><img src="/images/committee/mo.jpg" width=150px></td>
+<td><img src="images/committee/mo.jpg" width=150px></td>
 <td><strong><a href="https://moshahdloo.com">Mo Shahdloo <a style="font-size: smaller;">(he/him; co-chair)</a></a></strong><br> University of Oxford, UK</td>
 </tr>
 <tr>
-    <td><img src="/images/committee/daniel.jpg" width=150px></td>
+    <td><img src="images/committee/daniel.jpg" width=150px></td>
     <td><strong><a href="https://www.mevis.fraunhofer.de/en/employees/daniel-hoinkiss.html">Daniel Hoinkiss <a style="font-size: smaller;">(he/him)</a></a></strong><br> Fraunhofer Institute for Digital Medicine MEVIS, Germany</td>
 </tr>
 <tr>
-    <td><img src="/images/committee/hongfu.jpg" width=150px></td>
+    <td><img src="images/committee/hongfu.jpg" width=150px></td>
     <td><strong><a href="https://researchers.uq.edu.au/researcher/24057">Hongfu Sun <a style="font-size: smaller;">(he/him)</a></a></strong><br> University of Queensland, Australlia</td>
 </tr>
 <tr>
-    <td><img src="/images/committee/nikou.jpg" width=150px></td>
+    <td><img src="images/committee/nikou.jpg" width=150px></td>
     <td><strong><a href="https://twitter.com/nikou_ld?lang=en-GB">Nikou Louise Damestani <a style="font-size: smaller;">(she/her)</a></a></strong><br> Athinoula A. Martinos Center for Biomedical Imaging, USA</td>
 </tr>
 <tr>
-    <td><img src="/images/committee/yan.jpg" width=150px></td>
+    <td><img src="images/committee/yan.jpg" width=150px></td>
     <td><strong><a href="https://www.linkedin.com/in/yan-tong-6b20ba141/">Yan Tong <a style="font-size: smaller;">(he/him)</a></a></strong><br> United Imaging, China</td>
 
 </tr>

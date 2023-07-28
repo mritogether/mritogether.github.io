@@ -1,6 +1,7 @@
 --- 
-title: Attendance howto (MRITogether 2021)
+title: Attendance howto
 layout: default
+year: 2021
 --- 
 
 # How to access the MRI Together Zoom conference: tutorials and resources

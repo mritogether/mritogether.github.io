@@ -1,7 +1,7 @@
 ---
-title: MRI Together
+title: MRI Together 2022
 layout: default
-year: 2023
+year: 2022
 ---
 
 

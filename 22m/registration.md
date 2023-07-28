@@ -3,6 +3,7 @@ title: Overview and How to Access
 layout: default
 # javascript: parse_csv.js
 description: How to register and what to expect
+year: 2022
 --- 
 ## How to access
 

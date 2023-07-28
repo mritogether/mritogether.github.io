@@ -1,6 +1,7 @@
 --- 
-title: Job Board (MRITogether 2021)
+title: Job Board
 layout: default
+year: 2021
 --- 
 
 # MRI Together Job board

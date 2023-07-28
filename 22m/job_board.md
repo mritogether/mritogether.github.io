@@ -2,6 +2,7 @@
 title: Job Board
 layout: default
 description: MRI Together job board
+year: 2022
 --- 
 
 <!-- # MRI Together Job board -->

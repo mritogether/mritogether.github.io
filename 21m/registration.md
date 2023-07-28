@@ -1,6 +1,7 @@
 --- 
-title: Registration (MRITogether 2021)
+title: Registration
 layout: default
+year: 2021
 --- 
 
 # Registration

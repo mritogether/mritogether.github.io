@@ -1,6 +1,7 @@
 --- 
-title: Sponsoring (MRITogether 2021)
+title: Sponsoring
 layout: default
+year: 2021
 --- 
 
 ## Platform sponsor

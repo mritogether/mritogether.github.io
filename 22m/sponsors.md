@@ -3,6 +3,7 @@ title: Supporters
 layout: default
 # javascript: jquery.flip.js
 description: Workshop sponsors, external advisors, volunteers, and supporting researcher
+year: 2022
 --- 
 We gratefully acknowledge the following sponsors that made **#MRITogether** happen.
 
@@ -35,7 +36,7 @@ To learn more about ways that _you_ can support the event, please [contact us](m
     </script> -->
  
 
-[![HQ Imaging Logo](images/sponsors/HQ_Imaging-01.png){:.sponsor_platinum}](hq-imaging.com/)
+[![HQ Imaging Logo](images/sponsors/HQ_Imaging-01.png){:.sponsor_platinum}](//hq-imaging.com/)
 [![CMRI Logo](images/sponsors/CMRI-logo-01.png){:.sponsor_platinum}](//qmri.com)
 [![UIh Logo](images/sponsors/UIH-logo-01.png){:.sponsor_platinum}](//www.united-imaging.com/en)
  

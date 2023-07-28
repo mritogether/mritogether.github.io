@@ -2,6 +2,7 @@
 title: Accepted Abstracts
 layout: default
 description: Accepted abstracts
+year: 2022
 --- 
 
 <!-- # MRI Together Job board -->

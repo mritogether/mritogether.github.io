@@ -1,6 +1,7 @@
 --- 
-title: Site credits (MRITogether 2021)
+title: Site credits
 layout: default
+year: 2021
 --- 
 # Image credits
 

@@ -36,6 +36,10 @@
     {% include {{ js }} %}
     </script>
   {% endfor %}
+  
+  {% for ext_css_url in page.external_css %}
+    <link rel="stylesheet" type="text/css" href="{{ ext_css_url }}"/>
+  {% endfor %}
 
   {% if site.google_analytics %}
       <!-- <script>
@@ -72,8 +76,13 @@
       </div>
   </div>
   
+  {% assign year = page.year | default: 2023 %}
+  
+ {% assign preamble_file = "preamble" %}
+  
   <header id="main-header" data-height-onload="203" data-height-loaded="true" data-fixed-height-onload="203">
     <div class="et_menu_container">
+      {% include {{ preamble_file | append: year | append: ".html" }} %}
       <div class="logo_container">
         <span class="logo_helper"></span>
         <a href="https://www.esmrmb.org/">
@@ -87,32 +96,10 @@
       </div>
   </header>
   
-  <div id="sticky_menu">
-        <nav class="navbar navbar-expand-lg  navbar-light" id="nav-menu">
-          <div class="nav__container w-100">
-            <button class="navbar-toggler float-xs-right" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" style="width: 100%;">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="collapsibleNavbar">
-              <ul class="navbar-nav ml-auto mr-auto" id="menu-list" style="flex-basis: 100%;flex-grow: 1;">
-                <div class="menu-item"><a href="/" style="color: #009080;"><i class="fas fa-home-lg-alt"></i></a></div>
-                <div class="menu-item"><a href="/comingsoon">Program</a></div>
-                <div class="menu-item"><a href="/comingsoon">How to Attend</a></div>
-                <div class="menu-item"><a href="/comingsoon">Organizers</a></div>
-                <div class="menu-item"><a href="/comingsoon">Supporters</a></div>                
-                <div class="menu-item"><a href="/comingsoon">Job Board</a></div>
-                <div class="menu-item"><a href="/CODE_OF_CONDUCT">Code of Conduct</a></div>
-                <div class="menu-item dropdown-container">
-                  <a class="toggle-dropdown" href="#">Past Workshops</a>
-                  <div class="dropdown-menu">
-                    <a href="/21m">2021</a>
-                  </div>
-                </div>
-                </ul>
-              </div> 
-            </div>
-        </nav>
-    </div>
+ {% assign menu_file = "menu" %}
+  
+ {% include {{ menu_file | append: year | append: ".html" }} %}
+  
     
     <div id="sticky_line" class="line"></div>
     {% unless page.title == "MRI Together" %}
@@ -174,6 +161,15 @@
   <script src="/assets/js/sticky.js"></script>
   <script type="text/javascript">
   
+    function findPageName(url) {
+      const lastSlash = url.lastIndexOf('/');
+      if (lastSlash == -1)
+      {
+        return '/' + url;
+      }
+      return url.substring(lastSlash);
+    }
+  
     $(document).ready(function(){
       $('.slideshow-container').slick({
         autoplay: true,
@@ -189,12 +185,10 @@
         // prevArrow: '<button type="button" class="slick-prev slick-arrow" style="left: 0px;">Prev</button>',
       });
       
-      const currentURL = window.location.href;
-      const lastSlash = currentURL.lastIndexOf('/');
-      const currentPage = currentURL.substring(lastSlash);
+      const currentPage = findPageName(window.location.href);
       
       $("#menu-list a").each(function() {
-        if ($(this).attr("href") === currentPage) {
+        if (findPageName($(this).attr("href")) === currentPage) {
           $(this).parent().addClass("menu-item_selected");
         }
       });
