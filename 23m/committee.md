@@ -1,0 +1,141 @@
+--- 
+title: Organizing Committee
+layout: default
+description: Workshop's organizing committee
+year: 2023
+--- 
+
+<html>
+<head>
+<title>ProgramCommittee2023_draft2</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Save for Web Slices (ProgramCommittee2023_draft2.psd) -->
+<table id="Tabel_01" width="2101" height="1317" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="11">
+			<img src="images/ProgramCommittee2023_draft2_01.gif" width="2100" height="410" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="1" height="410" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="3" rowspan="4">
+			<img src="images/ProgramCommittee2023_draft2_02.gif" width="558" height="297" alt=""></td>
+		<td colspan="2" rowspan="2">
+			<a href="https://www.linkedin.com/in/joao-periquito/" target="_blanco">
+				<img src="images/Joao-Periquito.jpg" width="356" height="74" border="0" alt=""></a></td>
+		<td colspan="6">
+			<img src="images/ProgramCommittee2023_draft2_04.gif" width="1186" height="10" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="1" height="10" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="5">
+			<img src="images/ProgramCommittee2023_draft2_05.gif" width="92" height="438" alt=""></td>
+		<td colspan="3" rowspan="2">
+			<a href="https://www.linkedin.com/in/petra-van-houdt-a7612510/" target="_blanco">
+				<img src="images/PetravanHoudt.jpg" width="484" height="76" border="0" alt=""></a></td>
+		<td colspan="2" rowspan="7">
+			<img src="images/ProgramCommittee2023_draft2_07.gif" width="610" height="761" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="1" height="64" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2" rowspan="4">
+			<img src="images/ProgramCommittee2023_draft2_08.gif" width="356" height="374" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="1" height="12" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="3" rowspan="3">
+			<img src="images/ProgramCommittee2023_draft2_09.gif" width="484" height="362" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="1" height="211" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="5">
+			<img src="images/ProgramCommittee2023_draft2_10.gif" width="36" height="609" alt=""></td>
+		<td>
+			<a href="https://www.linkedin.com/in/marymiedema/" target="_blanco">
+				<img src="images/MaryMiedema.gif" width="370" height="97" border="0" alt=""></a></td>
+		<td rowspan="5">
+			<img src="images/ProgramCommittee2023_draft2_12.gif" width="152" height="609" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="1" height="97" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<img src="images/ProgramCommittee2023_draft2_13.gif" width="370" height="512" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="1" height="54" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="3">
+			<img src="images/ProgramCommittee2023_draft2_14.gif" width="174" height="458" alt=""></td>
+		<td colspan="3">
+			<a href="https://www.linkedin.com/in/joanacspinto/?originalSubdomain=uk" target="_blanco">
+				<img src="images/JoanaPinto.gif" width="394" height="112" border="0" alt=""></a></td>
+		<td colspan="2" rowspan="2">
+			<img src="images/ProgramCommittee2023_draft2_16.gif" width="364" height="323" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="1" height="112" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="3" rowspan="2">
+			<img src="images/ProgramCommittee2023_draft2_17.gif" width="394" height="346" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="1" height="211" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/ProgramCommittee2023_draft2_18.gif" width="176" height="135" alt=""></td>
+		<td colspan="2">
+			<a href="https://www.linkedin.com/in/erin-yufeng-wang/" target="_blanco">
+				<img src="images/ErinWang.jpg" width="448" height="135" border="0" alt=""></a></td>
+		<td>
+			<img src="images/ProgramCommittee2023_draft2_20.gif" width="350" height="135" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="1" height="135" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/spacer.gif" width="36" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="370" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="152" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="174" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="182" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="92" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="120" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="176" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="188" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="260" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="350" height="1" alt=""></td>
+		<td></td>
+	</tr>
+</table>
+<!-- End Save for Web Slices -->
+</body>
+</html>
+
+
+<p>
+ <br><br>
+ The program committee greatly appreciates the guidance and assistance of the The MRI Together Working Group of ESMRMB:
+<ul>
+ <li> Fransesco Santini- <a href="https://www.francescosantini.com/wp/" style="text-decoration: underline;">University Hospital of Basel</a></li>
+ <li> Laura Bell- <a href="https://www.linkedin.com/in/lauracbell/" style="text-decoration: underline;">Genentech</a> </li>
+ <li> Sophie Schaumann- <a href="https://sophieschau.github.io/" style="text-decoration: underline;">Stanford University</a> </li>
+ <li> Mo Shadloo- <a href="https://moshahdloo.com/" style="text-decoration: underline;">Vicon</a> </li>
+</ul> 
+</p>
