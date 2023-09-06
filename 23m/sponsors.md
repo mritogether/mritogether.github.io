@@ -7,7 +7,7 @@ year: 2023
 --- 
 We gratefully acknowledge the following sponsors that make **#MRITogether 2023** happen.
 
-To learn more about ways that _you_ can support the event, please [contact us](mailto:{{site.email}}).
+To learn more about ways that _you_ can support the event, please [contact us](mailto:mritogether@esmrmb.org).
 
 ## Platinum Sponsors
 <!-- <div id="grid-containter">
@@ -73,5 +73,5 @@ We greatly appreciate the contributions from our donating attendees-->
 ### Fancy to help organizing?
 
 We'll need volunteers to help us with technical aspects, the social gathering platform, video editing captioning and uploading, and communications and social media management, and we'd love to have you on board!
-[contact us](mailto:{{site.email}}) when you want to know more! -- let's [**#MRITogether**](https://twitter.com/hashtag/MRITogether)!
+[contact us](mailto:mritogether@esmrmb.org) when you want to know more! -- let's [**#MRITogether**](https://twitter.com/hashtag/MRITogether)!
 
