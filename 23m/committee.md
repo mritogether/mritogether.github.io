@@ -19,7 +19,7 @@ year: 2023
 </tr>
 <tr>
     <td><img src="images/committee/JoaoPeriquito.jpg" width=150px></td>
-    <td><strong><a href="https://www.linkedin.com/in/joao-periquito/">Jo&#227o Periquito <a style="font-size: smaller;">(he/him)</a></a></strong><br> University of Sheffield, UK</td>
+    <td><strong><a href="https://www.linkedin.com/in/joao-periquito/">Jo&#227;o Periquito <a style="font-size: smaller;">(he/him)</a></a></strong><br> University of Sheffield, UK</td>
 </tr>
 <tr>
     <td><img src="images/committee/MaryMiedema.jpg" width=150px></td>
@@ -51,7 +51,7 @@ year: 2023
 </tr>
 <tr>
     <td><img src="images/committee/JoaoPeriquito.jpg" width=150px></td>
-    <td><strong><a href="https://www.linkedin.com/in/joao-periquito/">Jo&#227o Periquito <a style="font-size: smaller;">(he/him)</a></a></strong><br> University of Sheffield, UK</td>
+    <td><strong><a href="https://www.linkedin.com/in/joao-periquito/">Jo&#227;o Periquito <a style="font-size: smaller;">(he/him)</a></a></strong><br> University of Sheffield, UK</td>
 </tr>
 <tr>
     <td><img src="images/committee/MaryMiedema.jpg" width=150px></td>
@@ -72,11 +72,5 @@ year: 2023
 
 <p>
  <br><br>
- The program committee greatly appreciates the guidance and assistance of the The MRI Together Working Group of ESMRMB:
-<ul>
- <li> Fransesco Santini- <a href="https://www.francescosantini.com/wp/" style="text-decoration: underline;">University Hospital of Basel</a></li>
- <li> Laura Bell- <a href="https://www.linkedin.com/in/lauracbell/" style="text-decoration: underline;">Genentech</a> </li>
- <li> Sophie Schaumann- <a href="https://sophieschau.github.io/" style="text-decoration: underline;">Stanford University</a> </li>
- <li> Mo Shadloo- <a href="https://moshahdloo.com/" style="text-decoration: underline;">Vicon</a> </li>
-</ul> 
+ The program committee greatly appreciates the guidance and assistance of the <a href="https://www.esmrmb.org/working-groups/">MRI Together Working Group of ESMRMB</a>.
 </p>
