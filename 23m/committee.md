@@ -11,7 +11,7 @@ year: 2023
 <table style="width:100%">
 <tbody>
 <tr>
-    <td><img src="images/committee/JoanaPinto.jpg" width=150px></td>
+    <td><img src="images/committee/JoanaPinto.jpeg" width=150px></td>
     <td><strong><a href="https://www.linkedin.com/in/joanacspinto/">Joana Pinto <a style="font-size: smaller;">(she/her; co-chair)</a></a></strong><br> University of Oxford, UK</td>
 </tr>
 <tr>
