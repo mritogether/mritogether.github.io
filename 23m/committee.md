@@ -1,8 +1,7 @@
----
+--- 
 title: Organizing Committee
 layout: default
 description: Workshop's organizing committee
-
 year: 2023
 --- 
 
@@ -81,8 +80,7 @@ year: 2023
 </tr>
 <tr>
     <td><img src="images/committee/ZiXuanZhou.jpg" width=150px></td>
-    <td><strong><a href="https://orcid.org/0000-0002-9894-7934">Zi-Xuan Zhou <a style="font-size: smaller;">(he/him)</a></a></strong><br> Beijing Normal University, China</td>
-
+    <td><strong><a href="https://orcid.org/0000-0002-9894-7934">Zi-Xuan Zhang <a style="font-size: smaller;">(he/him)</a></a></strong><br> Beijing Normal University, China</td>
 
 </tr>
 </tbody>
