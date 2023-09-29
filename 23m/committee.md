@@ -56,7 +56,6 @@ year: 2023
 </svg>
 </div>
 
-
 <div id="committee_table">
 <table style="width:100%">
 <tbody>
@@ -94,4 +93,3 @@ year: 2023
  <br><br>
  The program committee greatly appreciates the guidance and assistance of the <a href="https://www.esmrmb.org/working-groups/">MRI Together Working Group of ESMRMB</a>.
 </p>
-
