@@ -7,10 +7,9 @@ year: 2023
 
 
 
+![image](images/MRI together logo.png){: style="float: left; margin-right: 2em;"width: 75%; height: 75%""}
+
 ## What?
-
-![image](images/MRI together logo.png){: style="float: left; margin-right: 2em;"}
-
 What's all the buzz about **open science**, **reproducibility**, and **inclusivity**?
 
 [**#MRITogether**](https://twitter.com/hashtag/MRITogether) is a global online event on open, reproducible, and inclusive MRI research. 
@@ -26,15 +25,14 @@ Topics will include, but not be limited to:
 * Green Science
 
 
-
 ## When?
-The workshop will be held on **December 6 to 8, 2023 (UTC)**. We will have [sessions in all time zones](23m/schedule), and all the talks will be recorded and available for immediate offline use. 
+The workshop will be held on **December 6 to 8, 2023 (UTC)**. We will have [sessions in all time zones](schedule), and all the talks will be recorded and available for immediate offline use. 
 No matter where you are in the world, you will have exciting live sessions during your daytime, and lots of contents to watch at your convenience.
-We will also have networking activities and a social platform to gather, discuss, and meet our [sponsors](23m/sponsors).
+We will also have networking activities and a social platform to gather, discuss, and meet our [sponsors](sponsors).
 
 
 ## Who?
-We are a [team](23m/committee) of MRI scientists from different corners of the MRI world (as well as the physical world) with a passion for open, reproducible and inclusive science. 
+We are a [team](committee) of MRI scientists from different corners of the MRI world (as well as the physical world) with a passion for open, reproducible and inclusive science. 
 With support and endorsement from [ESMRMB](https://esmrmb.org/) this global workshop aims to bring MRI enthusiasts together.
 Whether you're a **MR scientist**, **scientific software developer**, **medical doctor**, **researcher in basic science**, or **data scientist**, there's something for you here. 
 If you are passionate about Open Science, join us!
