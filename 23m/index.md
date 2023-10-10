@@ -7,7 +7,7 @@ year: 2023
 
 
 
-![image](images/MRI together logo.png){: style="float: left; margin-right: 2em;"width: 50%; height: 50%""}
+![image](images/MRI together logo.png){: style="float: left; margin-right: 2em;width: 50%; height: 50%"}
 
 ## What?
 What's all the buzz about **open science**, **reproducibility**, and **inclusivity**?
