@@ -7,7 +7,7 @@ year: 2023
 
 
 
-![image](images/MRI together logo.png){: style="float: left; margin-right: 2em;width: 50%; height: 50%"}
+![image](images/MRI together logo circle.png){: style="float: right; margin-left: 2em; width: 40%; height: 40%"}
 
 ## What?
 What's all the buzz about **open science**, **reproducibility**, and **inclusivity**?
@@ -24,6 +24,7 @@ Topics will include, but not be limited to:
 * Perspective on open science outside academia
 * Green Science
 
+<br clear="right"/>
 
 ## When?
 The workshop will be held on **December 6 to 8, 2023 (UTC)**. We will have [sessions in all time zones](schedule), and all the talks will be recorded and available for immediate offline use. 
