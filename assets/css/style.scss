@@ -132,13 +132,15 @@ a:hover { text-decoration: none !important; }
 }
 
 #project_title {
-  color: #5e6061;
+  color: black; /*#5e6061;*/
   text-shadow: #aaa 0px 0px 0px;
 }
 
 #project_tagline {
-  color: #5e6061;
-  text-shadow: #aaa 0px 0px 10px;
+  color: #547FAF; /*#5e6061;*/
+  font-weight: bold;
+  text-shadow: none;
+  /*text-shadow: #aaa 0px 0px 10px;*/
 }
 
 #main_content_wrap {
@@ -163,7 +165,7 @@ p a:link {
 h1, h2, h3, h4, h6 {
   /*color: #5e6061;*/
   text-decoration: none;
-  color: #009080;
+  color: #547FAF; /*#009080*/
   font-family: "Montserrat";
   font-weight: 700;
 }
@@ -200,11 +202,11 @@ h5 {
   font-family: Montserrat;
   text-transform: uppercase;
   font-weight: 500;
-  font-size: 10pt;
+  font-size: 11pt;
 }
 
 .menu-item a {
-    color: #797676;
+    color: black; /*#797676;*/
 }
 
 .menu-item a:hover{
@@ -215,7 +217,7 @@ h5 {
 .menu-item a:after {
   content: '';
   height: 2px;
-  background: #009080;
+  background: #547FAF;
   display: block;
   transition: width 0.2s ease-in-out;
   margin: 0 auto;
@@ -250,7 +252,7 @@ h5 {
 .current_page_item {
   content: '';
   height: 2px;
-  background: #009080;
+  background: #547FAF;
   display: block;
   transition: width 0.1s ease-in-out;
   margin: 0 auto;
@@ -292,8 +294,8 @@ p img {
 
 .site-footer
 {
-  /*background-color:#009080;*/
-  background-image: linear-gradient(180deg, rgba(255,255,255,0) 30%, rgba(0,144,112,1) 100%);
+  background-color:#5DC7D7;
+  /*background-image: linear-gradient(180deg, rgba(255,255,255,0) 30%, rgba(136,159,194,1) 100%);*/
   padding:10px 0 10px;
   font-size:11px;
   line-height:24px;
@@ -611,7 +613,7 @@ opacity: 0.7;
 
 
 .esmrmb-login {
-    background-color: #009080;
+    background-color: #5DC7D7;
     color: #fff;
     font-family: "Montserrat", sans-serif !important;
     text-transform: uppercase;
@@ -741,7 +743,7 @@ span.logo_helper {
 }
 
 .line{
-  border-bottom: 2px solid #009080; min-height: 2px; max-height: 2px;;
+  border-bottom: 2px solid #5DC7D7; min-height: 2px; max-height: 2px;;
 }
 .sticky_line {
   position: fixed;
@@ -766,8 +768,8 @@ span.logo_helper {
   max-width: 2000px;
   position: relative;
   margin: auto;
-  height: 300px;
-  background-color: #009080;
+  height: 200px;
+  background-color: #889FC4;
 }
 
 /* Hide the images by default */
@@ -842,7 +844,7 @@ span.logo_helper {
   position: relative;
   margin: auto;
   height: 20px;
-  background-color: #009080;
+  background-color: #547FAF;
 }
 .active, .dot:hover {
   background-color: #717171;

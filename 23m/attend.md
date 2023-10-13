@@ -1,6 +1,6 @@
 ---
-title: Coming Soon
+title: How to attend MRI Together
 layout: default
 ---
 
-# Registration will open in November!
+### Stay tuned, registration will open in November!
