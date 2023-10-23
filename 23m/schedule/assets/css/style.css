@@ -2848,7 +2848,7 @@ mark {
     --space-xxxxl: calc(21.5 * var(--space-unit)); } }
 @font-face {
   font-family: "Atkinson";
-  src: url("assets/fonts/font/Atkinson-Hyperlegible-Regular-102.ttf"); }
+  src: url("Atkinson-Hyperlegible-Regular-102.ttf"); }
 :root {
   --cd-color-event-1: hsl(199, 25%, 46%);
   --cd-color-event-1-h: 199;
