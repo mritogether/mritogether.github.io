@@ -56,7 +56,7 @@ To learn more about ways that _you_ can support the event, please [contact us](m
 </script> -->
 
 [![CMRI logo](images/sponsors/CMRI-logo-01.png){:.sponsor_gold}](//qmri.com)
-[![Siemens logo](images/sponsors/Siemens-logo-01.png){:.sponsor_gold}](https://www.siemens-healthineers.com/)
+[![Siemens logo](images/sponsors/Siemens_logo-01.png){:.sponsor_gold}](https://www.siemens-healthineers.com/)
 
 <br>
 
