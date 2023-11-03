@@ -19,4 +19,4 @@ Additionally, during this session, authors of nine pre-selected ESMRMB abstracts
 
 ***3rd prize***: ”Harmonization of clinical neuro protocols on multiple systems” by Pim Pullens (Ghent University, Belgium) and colleagues.
 
-![MRItogether at ESMRMB2023](images/ESMRMB2023.jpg)
+![MRItogether at ESMRMB2023](images/ESMRMB2023.jpg){: style="float: left; width: 100%; height: 100%"}
