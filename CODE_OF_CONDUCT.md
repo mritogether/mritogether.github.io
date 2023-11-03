@@ -51,7 +51,7 @@ This Code of Conduct applies within all workshop spaces (live events and the soc
 
 ## Enforcement
 
-Please let the organizers know of any potential violations of this Code of Conduct via email to [Nikou Damestani](mailto:NDAMESTANI@mgh.harvard.edu), [mritogether@esmrmb.org](mailto:{{site.email}}), or the [ESMRMB office](mailto:office@esmrmb.org).
+Please let the organizers know of any potential violations of this Code of Conduct via email to [mritogether@esmrmb.org](mailto:{{site.email}}), or the [ESMRMB office](mailto:office@esmrmb.org).
 
 The organizers will review potential violations and will determine an appropriate response, up to and including termination of participation in the workshop. 
 
