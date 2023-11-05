@@ -3039,7 +3039,7 @@ a {
     padding: var(--space-xs);
     box-shadow: inset 0 -3px 0 rgba(0, 0, 0, 0.2);
     text-decoration: none; }
-  .cd-schedule__event a::before {
+  .cd-schedule__event a {
     content: attr(data-start) " - " attr(data-end); }
   @media (min-width: 48rem) {
     .js .cd-schedule__event {
