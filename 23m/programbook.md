@@ -98,7 +98,8 @@ Python is a modern scripting language widely used in scientific computing. This 
 ### **Connecting minds: Communities for open and reproducible science** (8:00-10:00 UTC)
 #### **Esther Warnert**: Networking for Science: the story of GliMR 2.0
 In this talk I will discuss our journey in creating a community for glioma MRI research across Europe, from getting together with a few to write an EU grant for a COST Action back in 2018 to having a network of 300 members across 30 countries in 2023.  
-#### **Stefano Moia**: title coming soon!
+#### **Stefano Moia**: The gains and hurdles of making science a community effort: the case of Physiopy
+Open science practices push toward reducing competition and increasing collaboration fostering the development of international scientific communities. We will look at the case of physiopy, an international, voluntary, community based open development project for physiological data handling in neuroimaging, to discuss how science can benefit from such realities, as well as what are their strengths and their weaknesses.
 #### **Serena Bonaretti**: Introducing the Open and Reproducible Musculoskeletal Imaging Research (ORMIR) Community
 The Open and Reproducible Musculoskeletal Imaging Research (ORMIR) community (https://ormircommunity.github.io) includes more than 40 international researchers in musculoskeletal (MSK) imaging and keeps growing. Our aims include creating and sharing computational workflows in Python with use cases in Jupyter notebooks, and standardizing data acquisitions and management. In this presentation, the focus will be on our activities, including successes and margins for improvement.
 #### **Alexandra Ljimani**: Transformation of renal imaging: From PARENCHIMA to Renalmri.org
