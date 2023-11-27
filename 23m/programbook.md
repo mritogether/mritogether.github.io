@@ -39,7 +39,7 @@ The goal of the MRI4ALL Hackathon, which took place in October 2023, was to crea
 ### **Cultivating openness: reproducible data acquisition** (1:00-2:30 UTC)
 #### **Hongjian He**: Measuring Brain Microstructure Using the Multi-Compartment T2 Model
 Our brain is comprised of complex structural components, and these components exhibit significant differences in magnetic resonance (MR) physical characteristics, providing an opportunity to analyze the brain's microstructure. In this talk, our main focus will be on MR relaxometry related mapping techniques that aim to identify these microstructure. We will begin with a demonstration of multicompartmental model of tissue signal and then introduce our development in quantitative relaxometry mapping utilizing the MR fingerprinting (MRF) technique. Additionally, we will show recent progress on a 3D ultra-short TE MRF method, which enables the direct detection of myelin-proton related signals.
-#### **	James Korte**: Magnetic resonance biomarker assessment software (MR-BIAS): an automated open-source tool for the ISMRM/NIST system phantom
+#### **James Korte**: Magnetic resonance biomarker assessment software (MR-BIAS): an automated open-source tool for the ISMRM/NIST system phantom
 Quantitative MRI phantoms are becoming an integral part of multicentre clinical trials investigating imaging biomarkers. We will present our open-source software, MR-BIAS, designed to allow anyone to analyse data from the ISMRM/NIST system phantom to quantify T1 and T2 measurements. We are currently extending the software to support the NIST/QIBA diffusion phantom.
 #### **David Waddington**: Real-time deployment of open source tools for image reconstruction
 What happens between k-space and the image you see on your screen? Often this is much more than a Fourier transform. Here, I will discuss open source tools such as the Gadgetron that we have used to implement our own image reconstruction methods that integrate artificial intelligence for real-time guidance of radiation beams on MRI-Linacs.
@@ -65,7 +65,7 @@ DIRECT Phase I pooled 2428 brain images for MDD research, and Phase II focused o
 Multi-centre, multi-vendor validation studies are key to the clinical translation of renal MRI and as such, the development of harmonised, cross-vendor protocols is crucial. Although many vendors offer tools to calculate quantitative maps on the scanner, these methods are typically closed-source and as such, not suitable for multi-vendor studies. In this talk I’ll be discussing the UK Renal Imaging Network Kidney Analysis Toolbox (UKAT), a vendor agnostic Python analysis framework that enables harmonised quantitative MRI analysis with a focus on the kidneys.
 #### **Rafael Neto Henriques**: Diffusion Imaging in Python (DIPY) and its contributions to open and reproducible research
 Diffusion Imaging in Python (DIPY) stands as a large-scale collaborative open-source imaging software library, dedicated to providing reference implementations of processing and analysis tools for diffusion MRI or even for other medical imaging modalities. This talk offers an overview of DIPY’s capabilities, delves into its continuous development, and explores its contributions to the realms of open and reproducibility research.
-#### **Carlos Castillo**: title coming soon!
+#### **Carlos Castillo**: KomaMRI.jl: Framework for MRI Simulations with GPU Acceleration
 #### **Lars Kasper**: PhysIO, UniQC and a TAPAStry of Tools: Open Source Development at the MRI Methods/Application Interface
 At the interdisciplinary interface between MRI methods development and application, complex analysis pipelines are instrumental for scientific progress, while accessibility of the tools to non-experts is required. This challenge inspired the TAPAS software package, which provides building blocks for computational assays in psychiatry. Particularly, we will highlight the PhysIO and UniQC Toolboxes therein, which support model-based fMRI via physiological noise modeling and unified quality control.
 
@@ -98,7 +98,8 @@ Python is a modern scripting language widely used in scientific computing. This 
 ### **Connecting minds: Communities for open and reproducible science** (8:00-10:00 UTC)
 #### **Esther Warnert**: Networking for Science: the story of GliMR 2.0
 In this talk I will discuss our journey in creating a community for glioma MRI research across Europe, from getting together with a few to write an EU grant for a COST Action back in 2018 to having a network of 300 members across 30 countries in 2023.  
-#### **Stefano Moia**: title coming soon!
+#### **Stefano Moia**: The gains and hurdles of making science a community effort: the case of Physiopy
+Open science practices push toward reducing competition and increasing collaboration fostering the development of international scientific communities. We will look at the case of physiopy, an international, voluntary, community based open development project for physiological data handling in neuroimaging, to discuss how science can benefit from such realities, as well as what are their strengths and their weaknesses.
 #### **Serena Bonaretti**: Introducing the Open and Reproducible Musculoskeletal Imaging Research (ORMIR) Community
 The Open and Reproducible Musculoskeletal Imaging Research (ORMIR) community (https://ormircommunity.github.io) includes more than 40 international researchers in musculoskeletal (MSK) imaging and keeps growing. Our aims include creating and sharing computational workflows in Python with use cases in Jupyter notebooks, and standardizing data acquisitions and management. In this presentation, the focus will be on our activities, including successes and margins for improvement.
 #### **Alexandra Ljimani**: Transformation of renal imaging: From PARENCHIMA to Renalmri.org
@@ -118,7 +119,7 @@ Advancing our knowledge of brain structure can benefit from combining different 
 <br>
 
 ### **Shaping the future of MRI: closing thoughts** (20:00-22:00 UTC)
-#### **	Benjamin Tendler**: Why Every Lab Needs a Handbook
+#### **Benjamin Tendler**: Why Every Lab Needs a Handbook
 A lab handbook is a flexible document describing how your lab operates. It aims to outline your lab ethos: the culture, expectations, and opportunities for members in your lab. In this talk, I will give an overview of why a lab handbook is a key document for any research group, and how it benefits members at different career stages. I will describe how our lab approached writing a handbook, and highlight several publicly available resources that we have developed to help you build your own.  
 #### **Nicola Dinsdale**: Challenges for machine learning in clinical translation of big data imaging studies
 Combining deep learning image analysis methods and large-scale imaging datasets offers many opportunities to neuroscience imaging and epidemiology. However, despite these opportunities and successes, significant barriers continue to limit the impact of large-scale datasets and analysis tools. I will examine the main challenges and the approaches that have been explored to overcome them, focusing on issues relating to data availability, interpretability, evaluation, and logistical challenges.
