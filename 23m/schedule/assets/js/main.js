@@ -463,7 +463,7 @@ function dataToTime(data, isnegative)
 		day = "0" + day.toString();
 		start = target.getAttribute('data-start').replace(':', '');
 		end = target.getAttribute('data-end').replace(':', '');
-		cal_url = "https://www.google.com/calendar/render?action=TEMPLATE&text=MRI+Together:+" + this.modalEventName.textContent.replace('\'', '') + "&ctz=" + zone_name + "&details=https://app.gather.town/app/Rc37K6uzo6Jmgw03/mritogether22&location=https://app.gather.town/app/Rc37K6uzo6Jmgw03/mritogether22&dates=202212" + day + "T" + start + "00/202212" + day + "T" + end + "00";
+		cal_url = "https://www.google.com/calendar/render?action=TEMPLATE&text=MRI+Together:+" + this.modalEventName.textContent.replace('\'', '') + "&ctz=" + zone_name + "&details=https://app.gather.town/app/z5fPWx3bfvQIRTF0/mritogether23&location=https://app.gather.town/app/z5fPWx3bfvQIRTF0/mritogether23&dates=202312" + day + "T" + start + "00/202312" + day + "T" + end + "00";
 		cal_html = "  <a style='color: white;' href='" + cal_url + "' target='_blank' alt='add to calendar' target='_blank'>  <i class='far fa-calendar-plus fa-lg'></i><a href='" + cal_url + "' style='font-size: 8pt; color: white;'  target='_blank'> add to calendar</a></a>";
 		this.modalDate.innerHTML += cal_html;
 
