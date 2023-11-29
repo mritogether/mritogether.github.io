@@ -16,7 +16,7 @@ Access to MRI still remains a challenge in low and middle income countries due t
 <br>
 
 ### **Building tomorrow's MRI: A roadmap to open source hardware** (13:00-15:00 UTC)
-#### **Tom O'Reilly**: title coming soon!
+#### **Tom O'Reilly**: The Challenges of Replicating an Open-Source MRI Scanner Around the World
 #### **Lukas Winter**: The Open Source MRI: From Dream to Reality
 More affordable MR scanners, cheaper repair and maintenance, more accessible devices, more innovations, reproducible scientific results, better educational programs, more inclusive research and development, easier and faster translation into the clinic, blueprints for regulatory approval…this and many more are the promises of having an Open-Source MRI available. First low-field MRI prototypes have been designed and tested and the next generation is being constructed for easier reproduction, more robust imaging, and systematic performance evaluations.
 #### **Kristen Zarcone**: Build my own MRI scanner? Where do I start?
@@ -60,7 +60,7 @@ DIRECT Phase I pooled 2428 brain images for MDD research, and Phase II focused o
 
 <br>
 
-### **Coding the future: open source software** (13:00-14:15 UTC)
+### **Coding the future: open source software** (13:00-14:20 UTC)
 #### **Alexander Daniel**: The UKRIN Kidney Analysis Toolbox: Data Analysis for Multi-Vendor Studies
 Multi-centre, multi-vendor validation studies are key to the clinical translation of renal MRI and as such, the development of harmonised, cross-vendor protocols is crucial. Although many vendors offer tools to calculate quantitative maps on the scanner, these methods are typically closed-source and as such, not suitable for multi-vendor studies. In this talk I’ll be discussing the UK Renal Imaging Network Kidney Analysis Toolbox (UKAT), a vendor agnostic Python analysis framework that enables harmonised quantitative MRI analysis with a focus on the kidneys.
 #### **Rafael Neto Henriques**: Diffusion Imaging in Python (DIPY) and its contributions to open and reproducible research
@@ -69,7 +69,7 @@ Diffusion Imaging in Python (DIPY) stands as a large-scale collaborative open-so
 #### **Lars Kasper**: PhysIO, UniQC and a TAPAStry of Tools: Open Source Development at the MRI Methods/Application Interface
 At the interdisciplinary interface between MRI methods development and application, complex analysis pipelines are instrumental for scientific progress, while accessibility of the tools to non-experts is required. This challenge inspired the TAPAS software package, which provides building blocks for computational assays in psychiatry. Particularly, we will highlight the PhysIO and UniQC Toolboxes therein, which support model-based fMRI via physiological noise modeling and unified quality control.
 
-### **Hands-on tutorial** (14:15-15:00 UTC)
+### **Hands-on tutorial** (14:20-15:00 UTC)
 #### **Eneko Urunuela**: Unlocking the Power of GitHub: A Guide to Open Source Collaboration
 This educational talk provides a comprehensive introduction to using GitHub for collaborative open source development. It covers key concepts, techniques, and best practices for effective collaboration, version control, issue tracking, pull requests, and more. Attendees will gain practical knowledge to confidently contribute and collaborate on open source projects using GitHub.
 
