@@ -78,4 +78,4 @@ We'll need volunteers to help us with technical aspects, the social gathering pl
 [contact us](mailto:mritogether@esmrmb.org) when you want to know more! -- let's [**#MRITogether**](https://twitter.com/hashtag/MRITogether)!
 
 
-![image](images/THgreenglobe.png){width: 20%; height: 20%"}
+![image](images/THgreenglobe.png){: style="width: 20%; height: 20%"}
