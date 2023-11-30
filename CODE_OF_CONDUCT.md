@@ -72,3 +72,5 @@ For answers to common questions about this code of conduct, see the FAQ
 [faq]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
 
+
+![image](images/THpixelatedglobe.png){width: 20%; height: 20%"}
