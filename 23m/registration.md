@@ -8,31 +8,29 @@ year: 2023
 
 [**#MRITogether23**](https://twitter.com/hashtag/MRITogether23) happens in **Gather.Town**, a virtual world where you can meet others, visit the sponsor booths, and join the sessions. 
 
-To access Gather.Town **[click here](//app.gather.town/app/Rc37K6uzo6Jmgw03/mritogether22)**, sign-up or sign-in, and enter the password that was sent to you in a separate email. Contact [mritogether@esmrmb.org](mailto:mritogether@esmrmb.org) if you have not received the password **until 4 December**.
+To access Gather.Town **[click here](https://app.gather.town/app/z5fPWx3bfvQIRTF0/mritogether23)**, sign-up or sign-in, and enter the password that was sent to you in a separate email. 
+Contact [mritogether@esmrmb.org](mailto:mritogether@esmrmb.org) if you have not received the password **until 5 December**.
 
 To join the sessions, head on to the ***"Talks"* hall in Gather.Town**, from where you will be redirected to Zoom where the live talks will be hosted.
 
 Recordings will be available on YouTube after the conference.
 
 ### Notes
-* Chrome is the recommended browser for both platforms. Other browsers might work but may have issues.
+* Chrome is the recommended browser for both platforms. Other browsers might work but may have issues or download the desktop applications of Gather.Town and Zoom.
 * If you are experiencing difficulties in registering and joining Gather.Town, please check outlast year's video (**[video here](//youtu.be/oK-CFrn4Pjc)**)
+* Camera/microphone not working in **Gather.Town**:
+  * If possible, switch to Chrome. 
+  * Make sure your browser settings are correct. Instructions [here](https://support.gather.town/help/browser-system-settings).
+* Camera/microphone not working in Zoom: 
+  * as an attendee your video and microhone will be disabled by default. The moderator can unmute you to ask a question
+  * Check out the audio and video troubleshooting for Zoom [here](https://support.zoom.com/hc/en/category?id=kb_category&kb_category=31293e9a8720391089a37408dabb35b8)
+* Issues accessing the conference?
+  * Make sure that the email address that you have set in Gather.Town and Zoom is the same as the one that you have registered with. 
+  * As a last resort, contact the committee on [mritogether@esmrmb.org](mailto:mritogether@esmrmb.org).
 
 ### Confused or lost on Gather.Town?
 Look for the walking snowmen (a.k.a., committee members) and ask your questions.
 
-### Common problems
-#### Camera/microphone not working in Gather.Town
-1. If possible, switch to Chrome.
-2. Make sure your browser settings are correct. Instructions [**here**](https://support.gather.town/help/browser-system-settings).
-
-#### Camera/microphone not working in Zoom
-1. audio and video troubleshooting: [here](https://support.zoom.com/hc/en/category?id=kb_category&kb_category=31293e9a8720391089a37408dabb35b8)
-
-
-#### I can’t access the conference
-1. Make sure that the email address that you have set in Gather.Town and Zoom is the same as the one that you have registered with.
-2. As a last resort, contact the committee on [mritogether@esmrmb.org](mailto:mritogether@esmrmb.org).
 
 <a id="matching_details"></a>
 ## Networking activities
@@ -42,21 +40,21 @@ All networking activities take place in Gather.Town. If you haven't registered f
 
 ### What to expect?
 #### Bingo (Dec 6 - 2.30PM UTC)
-Bingo will take place at the rooftop in Gather.Town.
-
-
+Come and meet your fellow open science enthusiasts with the MRI Together Get-To-Know-You Bingo
+* The Bingo will take place on the rooftop in Gather.Town
+* When the event begins, you'll introduce yourself to fellow attendees to discover facts that match squares on your bingo card
+* Your Bingo hosts will provide further instructions for filling out the card
 
 #### Mind Matching (two sessions: Dec 7 - 2.30AM UTC and Dec 8 - 2.30PM UTC)
-
-* Mind-matching takes place in the library in **[Gather.Town](https://app.gather.town/app/Rc37K6uzo6Jmgw03/mritogether22)**
-
-* If you have registered for mind-matching
-
-* If you haven't registered in advance, but still like to join....
+Networking might seem daunting, particularly for newcomers. But worry not! 
+At MRITogether MindMatching, we're here to support you. 
+We've carefully assembled groups of similar-minded individuals, crafting a tailored experience that feels as comforting as a warm embrace.
+* The MindMatching will take place in the library in Gather.Town.
+* Check the Entrance Board for your table numbers for the sessions
+* Sit down and connect with like-minded people!
 
 #### PubQuiz (Dec 7 - 10PM UTC)
-We challenge you to test your open science, MRI and general knowledge in the **MRI Together Super PubQuiz**
-
+We challenge you to test your open science, MRI and general knowledge in the MRI Together Super PubQuiz
 * The Pubquiz will take place in the library in Gather.Town.
 * Take a free seat at one of the tables and meet your other team members
 * Assign a team captain and come up with a name
