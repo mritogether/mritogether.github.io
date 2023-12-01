@@ -69,7 +69,7 @@ Diffusion Imaging in Python (DIPY) stands as a large-scale collaborative open-so
 #### **Lars Kasper**: PhysIO, UniQC and a TAPAStry of Tools: Open Source Development at the MRI Methods/Application Interface
 At the interdisciplinary interface between MRI methods development and application, complex analysis pipelines are instrumental for scientific progress, while accessibility of the tools to non-experts is required. This challenge inspired the TAPAS software package, which provides building blocks for computational assays in psychiatry. Particularly, we will highlight the PhysIO and UniQC Toolboxes therein, which support model-based fMRI via physiological noise modeling and unified quality control.
 
-### **Hands-on tutorial** (14:20-15:00 UTC)
+### **Hands-on tutorial** (14:20-15:20 UTC)
 #### **Eneko Urunuela**: Unlocking the Power of GitHub: A Guide to Open Source Collaboration
 This educational talk provides a comprehensive introduction to using GitHub for collaborative open source development. It covers key concepts, techniques, and best practices for effective collaboration, version control, issue tracking, pull requests, and more. Attendees will gain practical knowledge to confidently contribute and collaborate on open source projects using GitHub.
 
@@ -83,13 +83,15 @@ This educational talk provides a comprehensive introduction to using GitHub for 
 <br>
 
 ## Day 3: December 8th
-### **Tools for all: open source data analysis** (1:00-3:00 UTC)
+### **Tools for all: open source data analysis** (1:00-2:30 UTC)
 #### **Rob Finnegan**: Unlocking medical imaging with PlatiPy
 In the evolving landscape of medical physics, open-source software is becoming increasingly pivotal. This talk will introduce PlatiPy, a Python library designed to revolutionise medical imaging. PlatiPy  offers a comprehensive, extensible, and continually expanding suite of tools, spanning all aspects of processing and analysis such as DICOM conversion, image registration, automatic segmentation, and a powerful visualisation toolkit.
 #### **Fernanda Ribeiro**: Improving the robustness of deep learning segmentation models for medical image segmentation
 Deep learning holds immense promise for unlocking medical imaging applications, yet its full potential is hindered by challenges in model generalisability and reliability. A notable setback lies in the observed performance degradation when deploying deep learning models on unseen datasets or new populations. In this talk, I will discuss some of the new developments to address these issues and increase segmentation robustness in real-world applications.
 #### **Mingrui Xia**: Functional connectome features to study psychiatric disorders
 Functional connectome derived from MRI data provides a framework for characterizing the organizational principles of brain networks that underlie normal cognition and brain disorders. This talk will introduce fundamental concepts for analyzing the functional human connectome based on MRI data. Subsequently, the discussion will focus on highlighting topological disruptions within functional brain networks in psychiatric disorders and insights into the identification of neurosubtypes in depression based on normative models.
+
+### **Hands-on tutorial** (2:30-3:30 UTC)
 #### **Yu Sun**: From DICOM to AI models - a workflow using Python for MR image processing
 Python is a modern scripting language widely used in scientific computing. This talk will show you a workflow to extract voxel data from DICOM, apply filters, augment data and feed data to a deep learning model. It’s a close look of how Python is used in everyday clinical research. You'll find the beauty of how elegantly Python connects various pieces together. If you're relatively new to Python or want to build an automation pipeline, this talk will set you at a good position to get started.
 
