@@ -18,6 +18,7 @@ Recordings will be available on YouTube after the conference.
 ### Notes
 * Chrome is the recommended browser for both platforms. Other browsers might work but may have issues or download the desktop applications of Gather.Town and Zoom.
 * If you are experiencing difficulties in registering and joining Gather.Town, please check outlast year's video (**[video here](//youtu.be/oK-CFrn4Pjc)**)
+* To access the talks directly in Zoom, join here: https://us06web.zoom.us/j/81453955724 (check your mail for the password)
 * Camera/microphone not working in **Gather.Town**:
   * If possible, switch to Chrome. 
   * Make sure your browser settings are correct. Instructions [here](https://support.gather.town/help/browser-system-settings).
@@ -29,14 +30,16 @@ Recordings will be available on YouTube after the conference.
   * As a last resort, contact the committee on [mritogether@esmrmb.org](mailto:mritogether@esmrmb.org).
 
 ### Confused or lost on Gather.Town?
-Look for the walking snowmen (a.k.a., committee members) and ask your questions.
-
+Look for the attendee with the graduation hat on and MRITogether in the name.This attendee should be a member of the organizing committee and will be able to help you.
 
 <a id="matching_details"></a>
 ## Networking activities
-MRI Together is also about having fun together. We have organized a four networking sessions to meet the other attendees and get connected to like-minded people.
-All networking activities take place in Gather.Town. If you haven't registered for the activities, no worries, there is always place to join last-minute!
-* Happy networking 🫱🏿‍🫲🏽 
+MRI Together is also about having fun together.
+We have organized four networking sessions to meet the other attendees and get connected to like-minded people.
+All networking activities take place in Gather.Town. 
+If you haven't registered for the activities, no worries, there is always place to join last-minute!
+
+Happy networking 🫱🏿‍🫲🏽 
 
 ### What to expect?
 #### Bingo (Dec 6 - 2.30PM UTC)
@@ -55,7 +58,7 @@ We've carefully assembled groups of similar-minded individuals, crafting a tailo
 
 #### PubQuiz (Dec 7 - 10PM UTC)
 We challenge you to test your open science, MRI and general knowledge in the MRI Together Super PubQuiz
-* The Pubquiz will take place in the library in Gather.Town.
+* The Pubquiz will take place in the Pub in Gather.Town.
 * Take a free seat at one of the tables and meet your other team members
 * Assign a team captain and come up with a name
 * Wait for further instructions from the PubQuiz masters. 

@@ -71,6 +71,7 @@ To learn more about ways that _you_ can support the event, please [contact us](m
 We greatly appreciate the contributions from our donating attendees
 * Lars Kasper
 * Aad van der Lugt
+* Pierre-Antoine Eliat
 
 ### Fancy to help organizing?
 
