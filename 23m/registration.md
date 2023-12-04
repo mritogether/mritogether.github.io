@@ -52,7 +52,7 @@ Come and meet your fellow open science enthusiasts with the MRI Together Get-To-
 Networking might seem daunting, particularly for newcomers. But worry not! 
 At MRITogether MindMatching, we're here to support you. 
 We've carefully assembled groups of similar-minded individuals, crafting a tailored experience that feels as comforting as a warm embrace.
-* The MindMatching will take place in the library in Gather.Town.
+* The MindMatching will take place in the Pub in Gather.Town.
 * Check the Entrance Board for your table numbers for the sessions
 * Sit down and connect with like-minded people!
 
