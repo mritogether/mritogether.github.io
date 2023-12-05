@@ -79,7 +79,7 @@ This educational talk provides a comprehensive introduction to using GitHub for 
 #### **Clifton Fuller**: MR-guidance and biomarkers for head-and-neck adaptive therapy
 
 #### **Jade Anderson**: EDI in radiology practice
-#### **Mattieu Boudreau**: Patient & public engagement with research
+#### **Mattieu Boudreau**: Title coming soon!
 
 #### **Jason Karamchandani and Samir Das**: Open science and clinical data: The C-BIG repository
 The global sharing of clinical MRI data has encountered long standing obstacles, encompassing ethical, legal, and technical dimensions. Our examination will delve into these challenges through the lens of the C-BIG repository, an exemplar of Open Science Clinical repositories. C-BIG effectively fosters collaboration among clinicians, pharmaceutical entities, and academia, with the overarching mission of catalyzing scientific discovery.
