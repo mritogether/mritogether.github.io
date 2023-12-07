@@ -72,6 +72,9 @@ We greatly appreciate the contributions from our donating attendees
 * Lars Kasper
 * Aad van der Lugt
 * Pierre-Antoine Eliat
+* Edwin Oei
+* Fernanda Ribeiro
+* Benedikt Poser
 
 ### Fancy to help organizing?
 
