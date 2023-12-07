@@ -75,7 +75,7 @@ This educational talk provides a comprehensive introduction to using GitHub for 
 
 <br>
 
-### **Perspectives in practice: beyond academia** (20:00-22:00 UTC)
+### **Perspectives in practice: reaching beyond academia** (20:00-22:00 UTC)
 #### **Clifton Fuller**: MR-guidance and biomarkers for head-and-neck adaptive therapy
 
 #### **Jade Anderson**: EDI (DEI) and Its Importance
