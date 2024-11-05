@@ -5,15 +5,33 @@ description: Program
 year: 2024
 ---
 
-# Our global ESMRMB workshop, MRI Together, is returning in December 2024 for its fourth edition!
+# MRI Together - Staying Together! (3-5 Dec 24 - online)
 
 **MRITogether** is a global online event on open, reproducible, and inclusive MRI research. The meeting hosts lectures, panel discussions, and hands-on workshops by prominent speakers from industry and academia. Topics range from statistical tools for reproducible research to open hardware and software practices, data sharing policies, open publication, obstacles and best practices in sustainable open MRI, as well as navigating funding and job market landscapes.
 <br>
 
-This year’s edition will follow the theme of **“Staying Together”**, i.e., how to accomplish long-term support and development of Open MRI projects. We will learn from successful projects, how the initial enthusiasm and excitement about open MRI can be transformed into a sustainable workflow and what the funding landscape looks like for open-source projects. But, knowing that not all projects are fit for open science, we will also have an honest look at why people decide (not) to pursue open science in MRI and want to invite stakeholders with diverse opinions from research, industry, publishers, and regulatory bodies. We hope to inspire researchers already immersed in open science practices to become part of the broader open science community, and we want to contribute with guidelines to open science in emerging MRI Applications. 
+This year’s edition will follow the theme of **“Staying Together: Long-term support and development of open MRI projects”**, i.e., how to accomplish long-term support and development of Open MRI projects. We will learn from successful projects, how the initial enthusiasm and excitement about open MRI can be transformed into a sustainable workflow and what the funding landscape looks like for open-source projects. 
+
+But, knowing that not all projects are fit for open science, we will also have an honest look at why people decide (not) to pursue open science in MRI and want to invite stakeholders with diverse opinions from research, industry, publishers, and regulatory bodies. We hope to inspire researchers already immersed in open science practices to become part of the broader open science community, and we want to contribute with guidelines to open science in emerging MRI Applications. 
 <br>
 
-**We are actively looking for a diverse line-up of session speakers and moderators. Please reach out to <mritogether@esmrmb.org> if you are interested in contributing or would like to suggest a potential speaker we should approach.** 
+# Abstract submission is now OPEN!
+
+We are inviting abstract submissions for the 2024 edition of the **MRITogether Online Meeting**.
+
+This call will prioritize submissions focusing on **open science, reproducibility, and sustainability in MR research**. We also encourage submissions highlighting **best practices for a completely open pipeline** (from data acquisition to publication). We aim to provide a space for innovative open tools and initiatives to communicate their efforts. Also, if you have reproduced an MRI study (or have failed to do so), this is a great space to showcase that.
+
+Submission acceptance will be based on scientific integrity and relevance to the workshop. Please make sure to highlight how your abstract fits within the workshop mission and detail ethical considerations. *The submitted abstracts will not be visible online*.
+
+Upon acceptance, presentation format will be Poster Sessions in GatherTown based on 3-5 min recorded videos. Selected abstracts may be presented as proffered abstracts in our Oral Sessions, so please specify the appropriate session category during submission. Videos will also be made available on YouTube, unless you specify otherwise. The best abstracts will receive poster awards (certificates and cash prizes).
+
+Abstracts can be submitted as PDF files, based on a [docx template](https://docs.google.com/document/d/1Hr96AJyqSgXuWjllQhSWlEFUV-TkZWuj/edit?usp=sharing&ouid=114252464023784928785&rtpof=true&sd=true) (max. 2 pages, including figures). Consider writing your abstract as a pitch of your work, otherwise the traditional Background, Methods, Results, Discussion format is welcome. Your figure may also be a graphical abstract. 
+
+**Submission Deadline is 20 November 2024** - Submit [HERE](https://forms.gle/LKPN1w6un2EYSgkVA)!
+
+# Meeting Program at a glance!
+
+We are still working hard to create an inspiring program. **We are actively looking for a diverse line-up of session speakers and moderators. Please reach out to <mritogether@esmrmb.org> if you are interested in contributing or would like to suggest a potential speaker we should approach.** 
 
 Here are some of our tentative sessions:
 <br>
