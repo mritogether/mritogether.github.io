@@ -60,6 +60,7 @@ To learn more about ways that _you_ can support the event, please [contact us](m
 
 ## Silver Sponsors
 [![Resonint logo](images/sponsors/resonint.png){:.sponsor_silver}](https://www.resonint.com/)
+[!image](images/THgreenglobe.png){: style="width: 20%; height: 20%"} -->
 
 
 <br>
@@ -78,8 +79,4 @@ We greatly appreciate the contributions from our donating attendees
 We'll need volunteers to help us with technical aspects, the social gathering platform, video editing captioning and uploading, and communications and social media management, and we'd love to have you on board!
 [contact us](mailto:mritogether@esmrmb.org) when you want to know more! -- let's [**#MRITogether**](https://twitter.com/hashtag/MRITogether)!
 
-We greatly acknowledge our volunteers who helped up in organisation:
-* Jana Zhang for her great help in organizing the PubQuiz
-
-![image](images/THgreenglobe.png){: style="width: 20%; height: 20%"} -->
 
