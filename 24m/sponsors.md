@@ -60,7 +60,7 @@ To learn more about ways that _you_ can support the event, please [contact us](m
 
 ## Silver Sponsors
 [![Resonint logo](images/sponsors/resonint.png){:.sponsor_silver}](https://www.resonint.com/)
-[![THgreenglobe](images/THgreenglobe.png){:.sponsor_silver}]
+[THgreenglobe](images/THgreenglobe.png){:.sponsor_silver}
 
 <br>
 
