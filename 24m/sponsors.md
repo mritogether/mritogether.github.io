@@ -60,8 +60,7 @@ To learn more about ways that _you_ can support the event, please [contact us](m
 
 ## Silver Sponsors
 [![Resonint logo](images/sponsors/resonint.png){:.sponsor_silver}](https://www.resonint.com/)
-[!image](images/THgreenglobe.png){: style="width: 20%; height: 20%"} -->
-
+[![THgreenglobe](images/THgreenglobe.png){:.sponsor_silver}]
 
 <br>
 
@@ -72,7 +71,7 @@ We greatly appreciate the contributions from our donating attendees
 * Pierre-Antoine Eliat
 * Edwin Oei
 * Fernanda Ribeiro
-* Benedikt Poser
+* Benedikt Poser -->
 
 ### Fancy to help organizing?
 
