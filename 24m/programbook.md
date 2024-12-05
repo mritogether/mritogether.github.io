@@ -136,10 +136,22 @@ Transparency and reproducibility in scientific software development are critical
 
 ### **MRI Together 2024 Highlights** (6:00 - 8:00 UTC)
 This session will highlight the latest inspiring work of our community in the open MRI domain: tools that enable open science, reproducibility, and sustainability in MR research, as well as best practices for a completely open pipeline (from data acquisition to publication). We will hear from the Open Science Abstract Awardees at the recent ESMRMB conference 2024 in Barcelona, and give the stage to the finalists of our **MRITogether24 Poster Awards**, concluding with the award ceremony.
-#### **Andreia Gaspar**: Evaluating the repeatability of myocardial T1 mapping using Open-MOLLI at 3T 
+#### **Andreia Gaspar**: Standardization of quantitative MRI with open-source pulse programming
+The importance of quantitative MRI is grounded in its capability to have objective measures of a specific parameter. This requires the enforcement of standardization of the measurement conditions. In this context, an open-source framework allows to homogenize the methodology applied in different scanners and centers making it more robust to use in the clinic. 
+#### **Aurélien Delphin**: Open-source tools for within-exam automatic brain segmentation for accurate and reproducible geometry planning
+A user project on our MR facility required precise MR spectroscopy voxel placements on unusual anatomical targets, as well as a good reproducibility in voxel placement.  My colleagues and I developed two small tools to help alleviate these difficulties. We tried to make them low-dependency, well-documented, and user-friendly.
+<br>
 
-#### **Aurélien Delphin**: Within-exam automatic brain segmentation for accurate and reproducible geometry planning — An open source tool, illustrated with MR spectroscopy volume specification
-A user project on our MR facility required precise MR spectroscopy voxel placements on unusual anatomical targets, as well as a good reproducibility in voxel placement.  My colleagues and I developed two small tools to help alleviate these difficulties. We tried to make them low-dependency, well-documented, and user-friendly. 
+**MRITogether24 Poster Awards**
+#### **Matteo Cencini**: Open and Novel Methods for Achieving High Resolution in-vivo Paediatric Brain MRI
+#### **Marta Lancione**: mtrk – An intuitive and open-source development kit for MRI pulse sequences
+#### **Fabricio Cravo**: Multi-vendor reproducibility of joint T1-T2 transient-state relaxometry using platform-specific implementations at 3T
+#### **Anais Artiges**: Pulserver: an open-source Pulseq-based client-server framework for vendor agnostic, interactive MR sequence design
+#### **Antonio Carlos da S. Senra Filho**: Diffusion Complexity Mapping: A Novel Scalar Metric for Clinical DTI Protocols
+#### **Marshall Xu**: Guided and Privacy-Preserving DICOM Validation for Multi-Site Studies and Domain-Specific Guidelines
+#### **Brooklyn Wright**: Enabling Neurodesk Workflows on the Scanner Console
+#### **Ruby Barahona**: Classifying Dorsal V3 to Understand Variability in the Visual Cortex
+#### **Ashley Stewart**: An Empirical Web-Based fMRI Power Calculator for Increased Realibility
 
 <br>
 
