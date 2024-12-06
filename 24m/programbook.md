@@ -143,15 +143,15 @@ A user project on our MR facility required precise MR spectroscopy voxel placeme
 <br>
 
 **MRITogether24 Poster Awards**
-#### **Matteo Cencini**: Open and Novel Methods for Achieving High Resolution in-vivo Paediatric Brain MRI
-#### **Marta Lancione**: mtrk – An intuitive and open-source development kit for MRI pulse sequences
-#### **Fabricio Cravo**: Multi-vendor reproducibility of joint T1-T2 transient-state relaxometry using platform-specific implementations at 3T
-#### **Anais Artiges**: Pulserver: an open-source Pulseq-based client-server framework for vendor agnostic, interactive MR sequence design
-#### **Antonio Carlos da S. Senra Filho**: Diffusion Complexity Mapping: A Novel Scalar Metric for Clinical DTI Protocols
-#### **Marshall Xu**: Guided and Privacy-Preserving DICOM Validation for Multi-Site Studies and Domain-Specific Guidelines
-#### **Brooklyn Wright**: Enabling Neurodesk Workflows on the Scanner Console
+#### **Brooklyn Wright**: Open and Novel Methods for Achieving High Resolution in-vivo Paediatric Brain MRI
 #### **Ruby Barahona**: Classifying Dorsal V3 to Understand Variability in the Visual Cortex
-#### **Ashley Stewart**: An Empirical Web-Based fMRI Power Calculator for Increased Realibility
+#### **Ashley Stewart**: Guided and Privacy-Preserving DICOM Validation for Multi-Site Studies and Domain-Specific Guidelines
+#### **Matteo Cencini**: Pulserver: an open-source Pulseq-based client-server framework for vendor agnostic, interactive MR sequence design
+#### **Marta Lancione**: Multi-vendor reproducibility of joint T1-T2 transient-state relaxometry using platform-specific implementations at 3T
+#### **Fabricio Cravo**: An Empirical Web-Based fMRI Power Calculator for Increased Realibility
+#### **Anais Artiges**: mtrk – An intuitive and open-source development kit for MRI pulse sequences
+#### **Antonio Carlos da S. Senra Filho**: Diffusion Complexity Mapping: A Novel Scalar Metric for Clinical DTI Protocols
+#### **Marshall Xu**: Enabling Neurodesk Workflows on the Scanner Console
 
 <br>
 
