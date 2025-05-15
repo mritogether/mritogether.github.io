@@ -26,7 +26,7 @@ Topics will include, but not be limited to:
 <br clear="right"/>
 
 ## When?
-The workshop will be held on **December 3 to 6, 2024 (UTC)**. We will have [sessions in all time zones](comingsoon), and all the talks will be recorded and available for immediate offline use. 
+The workshop will be held on **December 9 to 12, 2025 (UTC)**. We will have [sessions in all time zones](comingsoon), and all the talks will be recorded and available for immediate offline use. 
 No matter where you are in the world, you will have exciting live sessions during your daytime, and lots of contents to watch at your convenience.
 We will also have networking activities and a social platform to gather, discuss, and meet our [sponsors](sponsors).
 
