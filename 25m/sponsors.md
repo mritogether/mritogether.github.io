@@ -3,7 +3,7 @@ title: Supporters
 layout: default
 # javascript: jquery.flip.js
 description: Workshop sponsors, external advisors, volunteers, and supporting researcher
-year: 2024
+year: 2025
 --- 
 We gratefully acknowledge the following sponsors that make **#MRITogether 2024** happen.
 

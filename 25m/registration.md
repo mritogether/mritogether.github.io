@@ -2,7 +2,7 @@
 title: Registration and How to Attend
 layout: default
 description: How to register
-year: 2024
+year: 2025
 --- 
 
 ## Registration
