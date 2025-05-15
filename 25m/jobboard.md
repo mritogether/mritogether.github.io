@@ -2,7 +2,7 @@
 title: Job Board
 layout: default
 description: MRI Together job board
-year: 2024
+year: 2025
 ---
 
 To advertise a position on MRI Together's job board, please [email us](mailto:mritogether@esmrmb.org) your listing.

@@ -2,7 +2,7 @@
 title: Organizing Committee
 layout: default
 description: Workshop's organizing committee
-year: 2024
+year: 2025
 --- 
 
 <div id="committee_svg">

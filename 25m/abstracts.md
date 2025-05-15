@@ -2,7 +2,7 @@
 title: Abstracts
 layout: default
 description: Abstracts
-year: 2024
+year: 2025
 --- 
 
 # Abstract submission is now OPEN!
