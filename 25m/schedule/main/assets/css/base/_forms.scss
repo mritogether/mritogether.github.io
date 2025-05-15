@@ -1,0 +1,22 @@
+// don't modify this file -> edit 📁 custom-style/_forms.scss to create your custom form elements
+
+.form-control {
+  font-size: var(--form-control-font-size, 1em);
+  padding-top: var(--form-control-padding-y, 0.5em);
+  padding-bottom: var(--form-control-padding-y, 0.5em);
+  padding-left: var(--form-control-padding-x, 0.75em);
+  padding-right: var(--form-control-padding-x, 0.75em);
+  border-radius: var(--form-control-radius, 0.25em);
+}
+
+.form-legend {
+  color: var(--color-contrast-higher, hsl(204, 28%, 7%));
+  line-height: var(--heading-line-height, 1.2);
+  font-size: var(--text-md, 1.125rem);
+  margin-bottom: var(--space-sm);
+}
+
+.form-label {
+  display: inline-block;
+  font-size: var(--text-sm, 0.75rem);
+}
