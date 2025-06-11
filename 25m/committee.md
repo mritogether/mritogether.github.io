@@ -32,9 +32,9 @@ year: 2025
     <text transform="matrix(1 0 0 1 80 515)" class="st1 st2" font-weight="bold">Pontificia Universidad Católica de Chile (CHL)</text>
 </a>
 <a xlink:href="https://www.linkedin.com/in/jackline-thairu/" >
-    <text transform="matrix(1 0 0 1 560 580)" class="st1 st2" font-weight="bold">Jackline Thairu </text>
-    <text transform="matrix(1 0 0 1 650 580)" class="st1 st3" font-weight="bold">(she/her)</text>
-    <text transform="matrix(1 0 0 1 600 595)" class="st1 st2" font-weight="bold">Sonar Imaging Center (KE)</text>
+    <text transform="matrix(1 0 0 1 620 570)" class="st1 st2" font-weight="bold">Jackline Thairu </text>
+    <text transform="matrix(1 0 0 1 720 570)" class="st1 st3" font-weight="bold">(she/her)</text>
+    <text transform="matrix(1 0 0 1 600 585)" class="st1 st2" font-weight="bold">Sonar Imaging Center (KE)</text>
 </a>
 <a xlink:href="https://scholar.google.com/citations?hl=en&user=E39NQ7gAAAAJ" >
     <text transform="matrix(1 0 0 1 735 295)" class="st1 st2" font-weight="bold">Juan Pablo Meneses-Casanova </text>
