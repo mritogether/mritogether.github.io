@@ -19,7 +19,7 @@ year: 2025
     .st4{fill:none;stroke:#009999;stroke-width:1.5;stroke-miterlimit:10;}
     .st5{fill:#009999;}
 </style>
-<image style="overflow:visible;" width="1886" height="1018" xlink:href="images/committee/commitee_25_2.png"  transform="matrix(0.5 0 0 0.5 -30 100)">
+<image style="overflow:visible;" width="1886" height="1018" xlink:href="images/committee/commitee_25.png"  transform="matrix(0.5 0 0 0.5 -30 100)">
 </image>
 <a xlink:href="https://www.linkedin.com/in/ana%C3%AFs-artiges-phd-5b825baa/" >
     <text transform="matrix(1 0 0 1 735 295)" class="st1 st2" font-weight="bold">Anais Artiges </text>
