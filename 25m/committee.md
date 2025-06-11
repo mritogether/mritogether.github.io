@@ -43,7 +43,7 @@ year: 2025
 </a>
 <a xlink:href="https://www.linkedin.com/in/evgenios-kornaropoulos-11814014/" >
     <text transform="matrix(1 0 0 1 280 450)" class="st1 st2" font-weight="bold">Evgenios Kornaropoulos </text>
-    <text transform="matrix(1 0 0 1 360 450)" class="st1 st3" font-weight="bold">(he/him) </text>
+    <text transform="matrix(1 0 0 1 410 450)" class="st1 st3" font-weight="bold">(he/him) </text>
     <text transform="matrix(1 0 0 1 300 465)" class="st1 st2" font-weight="bold">University of Liège (BE)</text>
 </a>
 <a xlink:href="https://www.linkedin.com/" >
