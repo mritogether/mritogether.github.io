@@ -33,7 +33,7 @@ year: 2025
 </a>
 <a xlink:href="https://www.linkedin.com/in/jackline-thairu/" >
     <text transform="matrix(1 0 0 1 610 570)" class="st1 st2" font-weight="bold">Jackline Thairu </text>
-    <text transform="matrix(1 0 0 1 700 570)" class="st1 st3" font-weight="bold">(she/her)</text>
+    <text transform="matrix(1 0 0 1 690 570)" class="st1 st3" font-weight="bold">(she/her)</text>
     <text transform="matrix(1 0 0 1 600 585)" class="st1 st2" font-weight="bold">Sonar Imaging Center (KE)</text>
 </a>
 <a xlink:href="https://scholar.google.com/citations?hl=en&user=E39NQ7gAAAAJ" >
