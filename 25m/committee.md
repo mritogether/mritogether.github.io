@@ -22,34 +22,34 @@ year: 2025
 <image style="overflow:visible;" width="1886" height="1018" xlink:href="images/committee/committee_25.png"  transform="matrix(0.5 0 0 0.5 -30 100)">
 </image>
 <a xlink:href="https://www.linkedin.com/in/ana%C3%AFs-artiges-phd-5b825baa/" >
-    <text transform="matrix(1 0 0 1 100 150)" class="st1 st2" font-weight="bold">Anais Artiges </text>
-    <text transform="matrix(1 0 0 1 145 150)" class="st1 st3" font-weight="bold">(she/her; co-chair)</text>
-    <text transform="matrix(1 0 0 1 5 165)" class="st1 st2" font-weight="bold">New York University Grossman School of Medicine (USA)</text>
+    <text transform="matrix(1 0 0 1 220 150)" class="st1 st2" font-weight="bold">Anais Artiges </text>
+    <text transform="matrix(1 0 0 1 293 150)" class="st1 st3" font-weight="bold">(she/her; co-chair)</text>
+    <text transform="matrix(1 0 0 1 223 165)" class="st1 st2" font-weight="bold">New York University Grossman School of Medicine (USA)</text>
 </a>
 <a xlink:href="https://www.linkedin.com/in/guillermosahonero/" >
-    <text transform="matrix(1 0 0 1 100 500)" class="st1 st2" font-weight="bold">Guillermo Sahonero </text>
-    <text transform="matrix(1 0 0 1 200 500)" class="st1 st3" font-weight="bold">(he/him; co-chair)</text>
-    <text transform="matrix(1 0 0 1 80 515)" class="st1 st2" font-weight="bold">Pontificia Universidad Católica de Chile (CHL)</text>
+    <text transform="matrix(1 0 0 1 85 530)" class="st1 st2" font-weight="bold">Guillermo Sahonero </text>
+    <text transform="matrix(1 0 0 1 195 530)" class="st1 st3" font-weight="bold">(he/him; co-chair)</text>
+    <text transform="matrix(1 0 0 1 60 545)" class="st1 st2" font-weight="bold">Pontificia Universidad Católica de Chile (CHL)</text>
 </a>
 <a xlink:href="https://www.linkedin.com/in/jackline-thairu/" >
     <text transform="matrix(1 0 0 1 605 570)" class="st1 st2" font-weight="bold">Jackline Thairu </text>
-    <text transform="matrix(1 0 0 1 695 570)" class="st1 st3" font-weight="bold">(she/her)</text>
+    <text transform="matrix(1 0 0 1 690 570)" class="st1 st3" font-weight="bold">(she/her)</text>
     <text transform="matrix(1 0 0 1 600 585)" class="st1 st2" font-weight="bold">Sonar Imaging Center (KE)</text>
 </a>
 <a xlink:href="https://scholar.google.com/citations?hl=en&user=E39NQ7gAAAAJ" >
-    <text transform="matrix(1 0 0 1 735 295)" class="st1 st2" font-weight="bold">Juan Pablo Meneses-Casanova </text>
-    <text transform="matrix(1 0 0 1 780 295)" class="st1 st3" font-weight="bold">(he/him)</text>
-    <text transform="matrix(1 0 0 1 675 310)" class="st1 st2" font-weight="bold">Monash University (AU)</text>
+    <text transform="matrix(1 0 0 1 650 515)" class="st1 st2" font-weight="bold">Juan Pablo Meneses-Casanova </text>
+    <text transform="matrix(1 0 0 1 810 515)" class="st1 st3" font-weight="bold">(he/him)</text>
+    <text transform="matrix(1 0 0 1 685 530)" class="st1 st2" font-weight="bold">Monash University (AU)</text>
 </a>
 <a xlink:href="https://www.linkedin.com/in/evgenios-kornaropoulos-11814014/" >
     <text transform="matrix(1 0 0 1 280 450)" class="st1 st2" font-weight="bold">Evgenios Kornaropoulos </text>
     <text transform="matrix(1 0 0 1 410 450)" class="st1 st3" font-weight="bold">(he/him) </text>
     <text transform="matrix(1 0 0 1 300 465)" class="st1 st2" font-weight="bold">University of Liège (BE)</text>
 </a>
-<a xlink:href="https://www.linkedin.com/" >
-    <text transform="matrix(1 0 0 1 600 295)" class="st1 st2" font-weight="bold">Zhiyi Chen </text>
-    <text transform="matrix(1 0 0 1 695 295)" class="st1 st3" font-weight="bold">(he/him)</text>
-    <text transform="matrix(1 0 0 1 590 310)" class="st1 st2" font-weight="bold">Third Military Medical University (CN)</text>
+<a xlink:href="https://www.researchgate.net/profile/Zhiyi-Chen-3" >
+    <text transform="matrix(1 0 0 1 680 255)" class="st1 st2" font-weight="bold">Zhiyi Chen </text>
+    <text transform="matrix(1 0 0 1 740 255)" class="st1 st3" font-weight="bold">(he/him)</text>
+    <text transform="matrix(1 0 0 1 625 270)" class="st1 st2" font-weight="bold">Third Military Medical University (CN)</text>
 </a>
 
 </svg>
@@ -81,7 +81,7 @@ year: 2025
 </tr>
 <tr>
     <td><img src="images/committee/ZhiyiChen.png" width=150px></td>
-    <td><strong><a href="https://www.linkedin.com/">Zhiyi Chen <a style="font-size: smaller;">(he/him)</a></a></strong><br> Third Military Medical University, China/td>
+    <td><strong><a href="https://www.researchgate.net/profile/Zhiyi-Chen-3">Zhiyi Chen <a style="font-size: smaller;">(he/him)</a></a></strong><br> Third Military Medical University, China</td>
 
 </tr>
 </tbody>
