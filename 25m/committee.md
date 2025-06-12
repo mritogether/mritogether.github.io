@@ -24,7 +24,7 @@ year: 2025
 <a xlink:href="https://www.linkedin.com/in/ana%C3%AFs-artiges-phd-5b825baa/" >
     <text transform="matrix(1 0 0 1 220 150)" class="st1 st2" font-weight="bold">Anais Artiges </text>
     <text transform="matrix(1 0 0 1 293 150)" class="st1 st3" font-weight="bold">(she/her; co-chair)</text>
-    <text transform="matrix(1 0 0 1 223 165)" class="st1 st2" font-weight="bold">New York University Grossman School of Medicine (USA)</text>
+    <text transform="matrix(1 0 0 1 223 165)" class="st1 st2" font-weight="bold">New York University (USA)</text>
 </a>
 <a xlink:href="https://www.linkedin.com/in/guillermosahonero/" >
     <text transform="matrix(1 0 0 1 85 530)" class="st1 st2" font-weight="bold">Guillermo Sahonero </text>
