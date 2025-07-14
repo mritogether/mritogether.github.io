@@ -61,7 +61,7 @@ year: 2025
 <tbody>
 <tr>
     <td><img src="images/committee/AnaisArtiges.png" width=150px></td>
-    <td><strong><a href="https://www.linkedin.com/in/ana%C3%AFs-artiges-phd-5b825baa/">Anais Artiges <a style="font-size: smaller;">(she/her)</a></a></strong><br> New York University Grossman School of Medicine, USA</td>
+    <td><strong><a href="https://www.linkedin.com/in/ana%C3%AFs-artiges-phd-5b825baa/">Anais Artiges <a style="font-size: smaller;">(she/her)</a></a></strong><br> New York University, USA</td>
 </tr>
 <tr>
 <td><img src="images/committee/GuillermoSahonero.png" width=150px></td>
