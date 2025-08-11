@@ -74,5 +74,5 @@ The closing session will feature a keynote on low-field MRI and open hardware, e
 The session *Collaboration and contributions from early-career researchers* described above will be replayed for participants in other time zones, using a recording made earlier. However, a moderator will be present to coordinate a live discussion alongside the recorded keynote video.
 <br>
 
-### **Closing session: Low-field MRI and open hardware** (06:30 - 07:30 UTC)
+### **Closing session: Low-field MRI and open hardware (recorded)** (06:30 - 07:30 UTC)
 The session *Closing session: Low-field MRI and open hardware* described above will be replayed for participants in other time zones, using a recording made earlier. However, a moderator will be present to coordinate a live discussion alongside the recorded keynote video.
