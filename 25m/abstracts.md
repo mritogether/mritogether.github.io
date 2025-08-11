@@ -5,23 +5,96 @@ description: Abstracts
 year: 2025
 --- 
 
-# Abstract submission is now OPEN!
+# Call for Poster Ideas 💡
 
-We are inviting abstract submissions for the 2024 edition of the **MRITogether Meeting**. This year's theme will be **Staying together: Long-term support and development of open MRI projects**.
+The 2025 **MRI Together** organizing committee invites all researchers at all career stages to present their ongoing work or results as a Poster in the Poster Sessions for the 2025 edition of the **MRI Together** event. This year's theme will be **Breaking Boundaries**. 
+<br>
 
-This call will prioritize submissions focusing on **open science, reproducibility, and sustainability in MR research**. We also encourage submissions highlighting **best practices for a completely open pipeline** (from data acquisition to publication). We aim to provide a space for innovative open tools and initiatives to communicate their efforts. Also, if you have reproduced an MRI study (or have failed to do so), this is a great space to showcase that.
+Whether you are a student or an already established senior researcher, we are eager to know from you and your work! 
 
-Submission acceptance will be based on scientific integrity and relevance to the workshop. Please make sure to highlight how your abstract fits within the workshop mission and detail ethical considerations. *The submitted abstracts will not be visible online*.
+<p class="hang" markdown="1"> 
+<strong>👉 What do you have to do?</strong> 
+<br>
+Simply submit a poster idea (no more than 200 words) and - if convenient - a graphical abstract.
+</p> 
 
-Upon acceptance, presentation format will be Poster Sessions in GatherTown based on 3-5 min recorded videos. Selected abstracts may be presented as proffered abstracts in our Oral Sessions, so please specify the appropriate session category during submission. Videos will also be made available on YouTube, unless you specify otherwise. The best abstracts will receive poster awards (certificates and cash prizes).
+<p class="hang" markdown="1">
+<strong>👉 What do we offer?</strong>
+<br>
+Every author will get their poster published online, if they want, of course. But that’s not all, authors who submitted their poster by **September 15th** will participate in a Mentor Matching session!
+</p>
 
-Top 5️⃣ wins:
-🥇 150 €
-🥈 100 €
-🥉 75 €
-4️⃣ 50 €
-5️⃣ 25 €
+<p class="hang" markdown="1">
+<strong>👉 Why is this different?</strong> 
+<br>
+**MRI Together** will happen virtually in every timezone, and whether you live in China or in Uganda, you will have an opportunity to present your poster without paying anything.
+</p>
 
-Abstracts can be submitted as PDF files, based on a [docx template](https://docs.google.com/document/d/1Hr96AJyqSgXuWjllQhSWlEFUV-TkZWuj/edit?usp=sharing&ouid=114252464023784928785&rtpof=true&sd=true) (max. 2 pages, including figures). Consider writing your abstract as a pitch of your work, otherwise the traditional Background, Methods, Results, Discussion format is welcome. Your figure may also be a graphical abstract. 
+<p class="hang" markdown="1">
+🧾**The topics** 
+<br>
+The theme of this year is “Breaking boundaries”, and we are definitely looking into it with our list of technical topics:
+<br>
+<span style="display:inline-block; margin-left:2em">▪️ **Open Science in MRI**</span>
+<br>
 
-**Submission Deadline is 27 November 2024** - Submit [HERE](https://forms.gle/LKPN1w6un2EYSgkVA)!
+<span style="display:inline-block; margin-left:2em">▪️ **MRI Simulation: from acquisition to motion**</span>
+<br>
+
+<span style="display:inline-block; margin-left:2em">▪️ **Body MRI**</span>
+<br>
+
+<span style="display:inline-block; margin-left:2em">▪️ **Low-field MRI**</span>
+<br>
+
+<span style="display:inline-block; margin-left:2em">▪️ **Challenges of AI in MRI**</span>
+<br>
+
+And also our more general topics:
+<br>
+<span style="display:inline-block; margin-left:2em">▪️ **MRI in Low-Middle Income Countries**</span>
+<br>
+
+<span style="display:inline-block; margin-left:2em">▪️ **MRI for everyone: from radiographers to students**</span>
+<br>
+
+<span style="display:inline-block; margin-left:2em">▪️ **Challenges of the MRI researcher**</span>
+<br>
+Not finding your topic on the list? Submit your idea anyway! **MRI Together** is about bringing MRI and people into the same space.
+</p>
+<p class="hang" markdown="1">
+🤔 Not having good results, but want to share them? Submit your idea too! We know that through failures comes learning, and sharing them allows everyone to grow. 
+</p>
+
+<p class="hang" markdown="1">
+🗓️**The dates** 
+<br>
+Want to be considered for the mentor matching session? 
+<br>
+⏱️ **Your deadline is September 15th**
+<br>
+🎈 We will notify you about your submission in mid-late October.
+</p>
+
+<p class="hang" markdown="1">
+📜 Want to just participate in the poster session? 
+<br>
+⏱️ **Your deadline is November 10th**
+<br>
+🎈 We will notify you about your submission in early December.
+<br>
+</p>
+
+<p class="hang" markdown="1">
+📭 **The submission** 
+<br>
+We convinced you? This is great! 🙌 
+<br>
+Submit your work here: [submission](https://my.liberaforms.org/mri-together-2025)
+</p>
+
+<p class="hang" markdown="1">
+✉️ **The contact** 
+<br>
+If you have questions or hesitations that are preventing you from submitting your abstract, please send an email to **mritogether@esmrmb.org**
+</p>

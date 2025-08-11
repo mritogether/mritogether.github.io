@@ -5,7 +5,7 @@ layout: default
 description: Workshop sponsors, external advisors, volunteers, and supporting researcher
 year: 2025
 --- 
-We gratefully acknowledge the following sponsors that make **#MRITogether 2024** happen.
+We gratefully acknowledge the following sponsors that make **#MRITogether 2025** happen.
 
 To learn more about ways that _you_ can support the event, please [contact us](mailto:mritogether@esmrmb.org).
 
