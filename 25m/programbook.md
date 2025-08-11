@@ -40,7 +40,7 @@ This session will highlight the realities and opportunities of advancing MRI in 
 The session *Between disruption and tradition: challenges of the MRI researcher* described above will be replayed for participants in other time zones, using a recording made earlier. However, a moderator will be present to coordinate a live discussion alongside the recorded keynote video.
 <br>
 
-## Day 3: December 5th
+## Day 3: December 11th
 ### **Challenges of AI in open science (recorded)** (04:30 - 06:00 UTC)
 The session *Challenges of AI in open science* described above will be replayed for participants in other time zones, using a recording made earlier. However, a moderator will be present to coordinate a live discussion alongside the recorded keynote video.
 <br>
@@ -61,7 +61,7 @@ This session will focus on advances in body MRI beyond the brain, featuring open
 In this session, an early career researcher will present their work on glymphatic system imaging and share their group’s initiative to launch a MICCAI challenge for developing open-source perivascular space (PVS) segmentation methods—highlighting the technical and methodological challenges involved in this endeavour.
 <br>
 
-## Day 4 December 6th
+## Day 4 December 12th
 ### **Collaboration and contributions from early-career researchers** (04:30 - 06:00 UTC)
 This session will spotlight the work and perspectives of early-career researchers from regions outside North America and Europe, featuring short talks, Q&A, and an interactive round table with senior mentors to discuss research, career development, and opportunities for global collaboration.
 <br>
