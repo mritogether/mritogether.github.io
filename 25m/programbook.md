@@ -61,7 +61,7 @@ This session will focus on advances in body MRI beyond the brain, featuring open
 In this session, an early career researcher will present their work on glymphatic system imaging and share their group’s initiative to launch a MICCAI challenge for developing open-source perivascular space (PVS) segmentation methods—highlighting the technical and methodological challenges involved in this endeavour.
 <br>
 
-## Day 4 December 12th
+## Day 4: December 12th
 ### **Collaboration and contributions from early-career researchers** (04:30 - 06:00 UTC)
 This session will spotlight the work and perspectives of early-career researchers from regions outside North America and Europe, featuring short talks, Q&A, and an interactive round table with senior mentors to discuss research, career development, and opportunities for global collaboration.
 <br>
