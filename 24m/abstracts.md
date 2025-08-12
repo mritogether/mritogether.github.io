@@ -7,7 +7,7 @@ year: 2024
 
 # Abstract submission is now OPEN!
 
-We are inviting abstract submissions for the 2024 edition of the **MRITogether Meeting**. This year's theme will be **Staying together: Long-term support and development of open MRI projects**.
+We are inviting abstract submissions for the 2025 edition of the **MRITogether Meeting**. This year's theme will be **Breaking boundaries**.
 
 This call will prioritize submissions focusing on **open science, reproducibility, and sustainability in MR research**. We also encourage submissions highlighting **best practices for a completely open pipeline** (from data acquisition to publication). We aim to provide a space for innovative open tools and initiatives to communicate their efforts. Also, if you have reproduced an MRI study (or have failed to do so), this is a great space to showcase that.
 
@@ -25,3 +25,4 @@ Top 5️⃣ wins:
 Abstracts can be submitted as PDF files, based on a [docx template](https://docs.google.com/document/d/1Hr96AJyqSgXuWjllQhSWlEFUV-TkZWuj/edit?usp=sharing&ouid=114252464023784928785&rtpof=true&sd=true) (max. 2 pages, including figures). Consider writing your abstract as a pitch of your work, otherwise the traditional Background, Methods, Results, Discussion format is welcome. Your figure may also be a graphical abstract. 
 
 **Submission Deadline is 27 November 2024** - Submit [HERE](https://forms.gle/LKPN1w6un2EYSgkVA)!
+
