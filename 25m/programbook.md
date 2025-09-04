@@ -12,7 +12,7 @@ This year marks the fifth edition of the workshop since 2021 with a focus on **"
 The opening session will host a keynote speaker talking about the current state of open science in MRI, highlighting achievements to date, identifying critical gaps, and inspiring new ways to make MRI research more transparent, collaborative, and accessible for the global community.
 <br>
 
-### **Open-minded AI deployment in MRI** (06:00-08:00 UTC)
+### **Open-minded AI deployment in MRI** (05:30-07:30 UTC)
 This session will explore how artificial intelligence can be thoughtfully integrated into MRI. Two AI experts will each give a 30-minute talk: one on deep learning approaches to enhance ultra-low-field imaging, and another on the use of AI in clinical neuroimaging. Following these talks, a one-hour poster session will feature power pitches and provide opportunities for interaction with all the speakers. 
 <br>
 
