@@ -11,7 +11,7 @@ Aligned with the workshop's vision of inclusivity the registration is free. Howe
 Donations will go into a pot that also contains the contributions from our [corporate sponsors](/24m/sponsors), and will be used to support projects and initiatives in the open-science and reproducibility sphere after covering the operational costs of the meeting. 
 The donors will be acknowledged [here](/24m/sponsors) (from which you can decide to opt out).
 
-By participating in [**#MRITogether24**](https://twitter.com/hashtag/MRITogether) in any form you agree to the [**code of conduct**](/CODE_OF_CONDUCT).
+By participating in [**#MRITogether25**](https://twitter.com/hashtag/MRITogether) in any form you agree to the [**code of conduct**](/CODE_OF_CONDUCT).
 
 <!-- Noscript content for added SEO -->
 <noscript><a href="https://www.eventbrite.com.au/e/mri-together-2024-tickets-1024428261507" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
@@ -41,9 +41,9 @@ Detailed information about how to attend the workshop will be provided to the re
 
 ## How to access Gathertown
 
-[**#MRITogether24**](https://twitter.com/hashtag/MRITogether24) happens in **Gather.Town**, a virtual world where you can meet others, visit the sponsor booths, and join the sessions. 
+[**#MRITogether25**](https://twitter.com/hashtag/MRITogether25) happens in **Gather.Town**, a virtual world where you can meet others, visit the sponsor booths, and join the sessions. 
 
-To access Gather.Town **[click here](https://app.gather.town/app/xbgBZ1HCwy9iqGq4/mritogether24)**, sign-up or sign-in, and enter the password that was sent to you in a separate email. 
+To access Gather.Town **[click here](https://app.gather.town/app/xbgBZ1HCwy9iqGq4/mritogether25)**, sign-up or sign-in, and enter the password that was sent to you in a separate email. 
 Contact [mritogether@esmrmb.org](mailto:mritogether@esmrmb.org) if you have not received the password.
 
 To join the sessions, head on to the ***"Talks"* hall in Gather.Town**, from where you will be redirected to Zoom where the live talks will be hosted.

@@ -9,8 +9,8 @@ We gratefully acknowledge the following sponsors that make **#MRITogether 2025**
 
 To learn more about ways that _you_ can support the event, please [contact us](mailto:mritogether@esmrmb.org).
 
-## Platinum Sponsors
-<!-- <div id="grid-containter">
+<!-- ## Platinum Sponsors
+<div id="grid-containter">
         <div class="card-grid">
           <img class="front_platinum" src="images/sponsors/HQ_Imaging.png" alt="HQ Imaging Logo">
           <div class="back_platinum">Back</div>
@@ -31,9 +31,9 @@ To learn more about ways that _you_ can support the event, please [contact us](m
         
       });
         
-    </script> -->
+    </script>
  
-[![HQ Imaging Logo](images/sponsors/HQ_Imaging-01.png){:.sponsor_platinum}](//hq-imaging.com/)
+[![HQ Imaging Logo](images/sponsors/HQ_Imaging-01.png){:.sponsor_platinum}](//hq-imaging.com/) -->
 
 ## Gold Sponsors
 <!-- <div id="grid-containter">
@@ -52,15 +52,14 @@ To learn more about ways that _you_ can support the event, please [contact us](m
     });
     
   });
-</script> -->
+</script> 
 
-[![Deepspin logo](images/sponsors/DEEPSPIN_logo.png){:.sponsor_gold}](https://www.deepspin.io/)
+[![Deepspin logo](images/sponsors/DEEPSPIN_logo.png){:.sponsor_gold}](https://www.deepspin.io/) -->
 [![Orbem AI logo](images/sponsors/orbem_logo_large_1024.png){:.sponsor_gold}](https://orbem.ai/)
 <br>
 
 ## Silver Sponsors
-[![Resonint logo](images/sponsors/resonint.png){:.sponsor_silver}](https://www.resonint.com/)
-[![THgreenglobe](images/THgreenglobe.png){:.sponsor_silver}]
+[![SIEMENS logo](images/sponsors/LOGO_Siemens_Healthineers.jpg){:.sponsor_silver}](https://www.siemens-healthineers.com/)
 
 <br>
 
