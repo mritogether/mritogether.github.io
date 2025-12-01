@@ -2878,6 +2878,22 @@ mark {
   --cd-color-event-8-h: 190;
   --cd-color-event-8-s: 96%;
   --cd-color-event-8-l: 61%;
+  --cd-color-event-9: hsl(167, 63%, 50%);
+  --cd-color-event-9-h: 167;
+  --cd-color-event-9-s: 63%;
+  --cd-color-event-9-l: 50%;
+  --cd-color-event-10: hsl(28, 79%, 55%);
+  --cd-color-event-10-h: 28;
+  --cd-color-event-10-s: 79%;
+  --cd-color-event-10-l: 55%;
+  --cd-color-event-11: hsl(199, 65%, 50%);  
+  --cd-color-event-11-h: 199;
+  --cd-color-event-11-s: 65%;
+  --cd-color-event-11-l: 50%;
+  --cd-color-event-12: hsl(295, 56%, 55%);  
+  --cd-color-event-12-h: 295;
+  --cd-color-event-12-s: 56%;
+  --cd-color-event-12-l: 55%;
   --cd-color-text: hsl(0, 0%, 13%);
   --cd-color-text-h: 0;
   --cd-color-text-s: 0%;
@@ -3257,6 +3273,22 @@ a {
   /*opacity: 0.5;*/
   /*background: var(--cd-color-event-5);*/ }
 
+.cd-schedule__event [data-event="event-9"],
+.cd-schedule-modal[data-event="event-9"] .cd-schedule-modal__header-bg {
+  background: var(--cd-color-event-9); }
+
+.cd-schedule__event [data-event="event-10"],
+.cd-schedule-modal[data-event="event-10"] .cd-schedule-modal__header-bg {
+  background: var(--cd-color-event-10); }
+
+.cd-schedule__event [data-event="event-11"],
+.cd-schedule-modal[data-event="event-11"] .cd-schedule-modal__header-bg {
+  background: var(--cd-color-event-11); }
+
+.cd-schedule__event [data-event="event-12"],
+.cd-schedule-modal[data-event="event-12"] .cd-schedule-modal__header-bg {
+  background: var(--cd-color-event-12); }
+
 .cd-schedule-modal {
   position: fixed;
   z-index: 8;
@@ -3576,7 +3608,19 @@ a {
 .event-8 {
   background: var(--cd-color-event-8); }
 
-.column {
+.event-9 {
+  background: var(--cd-color-event-9); }
+
+.event-10 {
+  background: var(--cd-color-event-10); }
+
+.event-11 {
+  background: var(--cd-color-event-11); }
+
+.event-12 {
+  background: var(--cd-color-event-12); }
+
+  .column {
   margin-right: auto;
   margin-left: auto;
   /*width: 25%;*/

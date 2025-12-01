@@ -8,8 +8,8 @@ year: 2025
 ## Registration
 
 Aligned with the workshop's vision of inclusivity the registration is free. However, we encourage senior funded researchers and PIs to register as donating attendees. 
-Donations will go into a pot that also contains the contributions from our [corporate sponsors](/24m/sponsors), and will be used to support projects and initiatives in the open-science and reproducibility sphere after covering the operational costs of the meeting. 
-The donors will be acknowledged [here](/24m/sponsors) (from which you can decide to opt out).
+Donations will go into a pot that also contains the contributions from our [corporate sponsors](/25m/sponsors), and will be used to support projects and initiatives in the open-science and reproducibility sphere after covering the operational costs of the meeting. 
+The donors will be acknowledged [here](/25m/sponsors) (from which you can decide to opt out).
 
 By participating in [**#MRITogether25**](https://twitter.com/hashtag/MRITogether) in any form you agree to the [**code of conduct**](/CODE_OF_CONDUCT).
 
@@ -17,10 +17,17 @@ By participating in [**#MRITogether25**](https://twitter.com/hashtag/MRITogether
 <noscript><a href="https://www.eventbrite.com.au/e/mri-together-2024-tickets-1024428261507" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
 <!-- You can customize this button any way you like -->
 
-<div style="text-align: center; width; 100%">
-<button id="eventbrite-widget-modal-trigger-1024428261507" type="button" class="shadow_button">Free Registration</button>
+<div style="text-align: center; width: 100%; margin: 20px 0;">
+  <a href="https://www.airmeet.com/e/d75829c0-c93e-11f0-8ff4-6b2f182be3b5" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     class="shadow_button"
+     style="padding: 12px 25px; font-size: 18px; display: inline-block;">
+     Free Registration
+  </a>
 </div>
 
+<!-- 
 Detailed information about how to attend the workshop will be provided to the registrants closer to the date.
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
@@ -68,3 +75,4 @@ Recordings will be available on YouTube after the conference.
 Look for the attendee with the graduation hat on and MRITogether in the name.This attendee should be a member of the organizing committee and will be able to help you.
 
 <a id="matching_details"></a>
+-->

@@ -8,11 +8,11 @@ year: 2025
 This year marks the fifth edition of the workshop since 2021 with a focus on **"Breaking boundaries"**. We want to discuss how to go beyond traditional limits in every dimension of MRI. We will explore the full spectrum of imaging—from the brain to the whole body, from ultra-high to ultra-low-field—while expanding horizons geographically and professionally, engaging participants from every corner of the globe and every role in the MRI community, including radiographers. By fostering open science, championing grassroots initiatives, and advancing science communication from academia to the wider world, we aim to create a truly inclusive, innovative, and boundary-defying forum for the future of MRI. Of course, we will also highlight the latest open source tools for acquisition, reconstruction, and analysis that have been developed by the MR community.
 
 ## Day 1: December 9th
-### **Opening session: Open science in MRI what is missing?** (04:30 - 05:00 UTC) 
+### **Opening session: Open science in MRI what is missing?** (04:30 - 05:30 UTC) 
 The opening session will host a keynote speaker talking about the current state of open science in MRI, highlighting achievements to date, identifying critical gaps, and inspiring new ways to make MRI research more transparent, collaborative, and accessible for the global community.
 <br>
 
-### **Open-minded AI deployment in MRI** (05:30-07:30 UTC)
+### **Open-minded AI deployment in MRI** (06:00-08:00 UTC)
 This session will explore how artificial intelligence can be thoughtfully integrated into MRI. Two AI experts will each give a 30-minute talk: one on deep learning approaches to enhance ultra-low-field imaging, and another on the use of AI in clinical neuroimaging. Following these talks, a one-hour poster session will feature power pitches and provide opportunities for interaction with all the speakers. 
 <br>
 

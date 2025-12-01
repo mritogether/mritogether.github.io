@@ -79,7 +79,7 @@ Want to be considered for the mentor matching session?
 <p class="hang" markdown="1">
 📜 Want to just participate in the poster session? 
 <br>
-⏱️ **Your deadline is November 10th**
+⏱️ **Your deadline is December 3rd**
 <br>
 🎈 We will notify you about your submission in early December.
 <br>

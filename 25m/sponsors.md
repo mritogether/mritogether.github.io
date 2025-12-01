@@ -63,6 +63,11 @@ To learn more about ways that _you_ can support the event, please [contact us](m
 
 <br>
 
+## Media Sponsors
+[![CaliberMRI logo](images/sponsors/LOGO_Caliber_MRI.jpg){:.sponsor_media}](https://qmri.com/)
+
+<br>
+
 <!-- ### Individual Sponsors
 We greatly appreciate the contributions from our donating attendees
 * Lars Kasper
