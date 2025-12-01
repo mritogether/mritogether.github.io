@@ -511,7 +511,7 @@ function dataToTime(data, isnegative)
 			self.modalHeader.setAttribute('style', 'width:'+eventWidth+'px');
 			//set modalBody left margin
 			self.modalBody.setAttribute('style', 'margin-left:'+eventWidth+'px');
-			//change modalBodyBg height/width ans scale it
+			//change modalBodyBg height/width and scale it
 			self.modalBodyBg.setAttribute('style', 'height:'+eventHeight+'px; width: 1px; transform: scaleY('+HeaderBgScaleY+') scaleX('+BodyBgScaleX+')');
 			//change modal modalHeaderBg height/width and scale it
 			self.modalHeaderBg.setAttribute('style', 'height: '+eventHeight+'px; width: '+eventWidth+'px; transform: scaleY('+HeaderBgScaleY+')');

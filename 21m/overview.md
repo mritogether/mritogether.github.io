@@ -28,7 +28,7 @@ On **day 2**, the ***Parallel Sessions A: Data*** will take place, with invited 
 
 Between **day 2** and **day 3**, the ***Parallel Sessions B: Basic Reproducibility*** will be about **statistics and reproducibility**, with session B1 about statistics and p-value, and session B2 about phantoms and preclinical scanning.
 
-Bwtween **day 3** and **day 4**, the ***Parallel Sessions C: Acquisition and Reconstruction*** will present open-source methods for MR acquisition (open and reproducible pulse sequence development, etc) and reconstruction (compressed sensing, reconstruction workflows, etc.)
+Between **day 3** and **day 4**, the ***Parallel Sessions C: Acquisition and Reconstruction*** will present open-source methods for MR acquisition (open and reproducible pulse sequence development, etc) and reconstruction (compressed sensing, reconstruction workflows, etc.)
 
 On the same days, at different times, the last workshop, the ***Parallel Sessions D: Postprocessing***, will present reproducible solutions for **image analysis and artificial intelligence**.
 

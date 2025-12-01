@@ -13,7 +13,7 @@ description: The code of conduct, enforced throughout the workshop
 In order to have an open and welcoming scientific environment, we as organisers pledge to make participation in the 
 MRI Together workshop a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
+identity and expression, level of experience, education, socioeconomic status,
 nationality, personal appearance, race, religion, or sexual identity
 and orientation.
 

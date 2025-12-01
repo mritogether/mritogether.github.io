@@ -320,7 +320,7 @@
           self.flipChanged(callback);
         }, 0);
       } else {
-        // If we didnt have to set the axis we can just call back.
+        // If we didn't have to set the axis we can just call back.
         self.flipChanged(callback);
       }
     }
