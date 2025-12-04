@@ -8,71 +8,136 @@ year: 2025
 This year marks the fifth edition of the workshop since 2021 with a focus on **"Breaking boundaries"**. We want to discuss how to go beyond traditional limits in every dimension of MRI. We will explore the full spectrum of imaging—from the brain to the whole body, from ultra-high to ultra-low-field—while expanding horizons geographically and professionally, engaging participants from every corner of the globe and every role in the MRI community, including radiographers. By fostering open science, championing grassroots initiatives, and advancing science communication from academia to the wider world, we aim to create a truly inclusive, innovative, and boundary-defying forum for the future of MRI. Of course, we will also highlight the latest open source tools for acquisition, reconstruction, and analysis that have been developed by the MR community.
 
 ## Day 1: December 9th
-### **Opening session: Open science in MRI what is missing?** (04:30 - 05:30 UTC) 
-The opening session will host a keynote speaker talking about the current state of open science in MRI, highlighting achievements to date, identifying critical gaps, and inspiring new ways to make MRI research more transparent, collaborative, and accessible for the global community.
+### **MRI Together Opening Session!** (04:30 - 04:45 UTC) 
+Opening words by the MRI Together 2025 Organising Committee.
+### **Open science in MRI what is missing?** (04:45 - 05:30 UTC) 
+<strong>Francesco Santini</strong>, University of Basel, Switzerland<br>
+*Open and Reproducible Science in general, and in our specific field of MR, has come a long way in the last few years, pushed both from a shift in approach of the whole scientific field, and from the increased relevance of software and computer science, fields in which openly releasing the methods is the norm. Sessions fully dedicated to open-source software and hardware are now commonplace in our congresses, and open-source tools have become irreplaceable in every researcher's toolbox. So, is the problem solved? Was the reproducibility crisis in MRI averted? Or are we fully in a reproducibility crisis right now, but we are too blind even to see it? Or, on the contrary, are open and reproducible science practices actively harming our field, putting ideology above scientific achievements and technological advances? In this talk, we will discuss what exists, what is still missing, and, even more relevantly, what is important, what is up to us, the single researcher, to do and what is outside of our hands. Regardless of anyone's opinion, open and reproducible science is currently in the zeitgeist, and we are committed to make the most of it.*
 <br>
 
-### **Open-minded AI deployment in MRI** (06:00-08:00 UTC)
-This session will explore how artificial intelligence can be thoughtfully integrated into MRI. Two AI experts will each give a 30-minute talk: one on deep learning approaches to enhance ultra-low-field imaging, and another on the use of AI in clinical neuroimaging. Following these talks, a one-hour poster session will feature power pitches and provide opportunities for interaction with all the speakers. 
+### **Deep learning techniques to enhance MRI research** (06:00-06:30 UTC)
+<strong>Jianxun Ren</strong>, Changping Laboratory, Beijing, China<br>
+### **AI Reveals a Shared Neural Signature of Distress: The Collapse of Heterogeneity in the Social Brain** (06:30-07:00 UTC)
+<strong>Guifeng Zhai</strong>, Experimental Research Center of Medical and Psychological Science, School of Psychology, Third Military Medical University, Chongqing, China<br>
+### **Poster session A: Open-minded AI deployment in MRI** (07:00-08:00 UTC)
+Coordinated by <strong>Zhiyi Chen</strong> (Third Military Medical University, Chongqing, China) and <strong>Juan Pablo Meneses</strong> (Monash University, Melbourne, Victoria, Australia)<br>
+
+### **MRI Together Opening Session! (recorded)** (15:00 - 15:15 UTC) 
+Opening words by the MRI Together 2025 Organising Committee.
+### **Open science in MRI what is missing? (recorded)** (15:15 - 16:00 UTC) 
+<strong>Francesco Santini</strong>, University of Basel, Switzerland<br>
+*Open and Reproducible Science in general, and in our specific field of MR, has come a long way in the last few years, pushed both from a shift in approach of the whole scientific field, and from the increased relevance of software and computer science, fields in which openly releasing the methods is the norm. Sessions fully dedicated to open-source software and hardware are now commonplace in our congresses, and open-source tools have become irreplaceable in every researcher's toolbox. So, is the problem solved? Was the reproducibility crisis in MRI averted? Or are we fully in a reproducibility crisis right now, but we are too blind even to see it? Or, on the contrary, are open and reproducible science practices actively harming our field, putting ideology above scientific achievements and technological advances? In this talk, we will discuss what exists, what is still missing, and, even more relevantly, what is important, what is up to us, the single researcher, to do and what is outside of our hands. Regardless of anyone's opinion, open and reproducible science is currently in the zeitgeist, and we are committed to make the most of it.*
 <br>
 
-### **Opening session: Open science in MRI what is missing? (recorded)** (15:00 - 16:00 UTC) 
-The opening session will be replayed for participants in other time zones, using a recording made earlier. However, a moderator will be present to coordinate a live discussion alongside the recorded keynote video.
-<br>
-
-### **Challenges of AI in open science** (16:30 - 18:30 UTC) 
-This session will address the opportunities, challenges, and ethical considerations of applying AI in MRI, featuring two talks: one on the pitfalls and successes of current approaches and a second on the reproducibility of AI in MRI applications. These will be followed by a one-hour poster session with power pitches, where attendees can engage with presenters and vote for the best poster to be awarded in the closing session.
+### **Fairness in Cardiac MR analysis: Tackling Biases Whilst Maintaining Performance** (16:30 - 17:00 UTC)
+<strong>Andrew King</strong>, King’s college London, UK<br>
+*AI can be used to automate the segmentation of cine cardiac MR data. However, whilst performance overall is good, a closer look reveals underperforming subgroups of patients, notably those who were underrepresented in the training data of the AI model. Bias mitigation algorithms exist to tackle these inequalities, but they often come with an assumption and expectance of a trade-off between fairness and accuracy. We show how this trade-off can be avoided by coming to a detailed understanding of the source and nature of the bias, resulting in a model that is both fair and maintains high performance for all groups.* <br> 
+### **Open Science with Sparse Data: Physics-Informed Neural Networks Applied to MRI** (17:00 - 17:30 UTC)
+<strong>Francisco Sahli Costabal</strong>, Pontificia Universidad Católica de Chile, Chile 
+### **Poster session B: Challenges of AI in open science** (17:30-18:00 UTC)
+Coordinated by <strong>Guillermo Sahonero Alvarez</strong>, Pontificia Universidad Católica de Chile, Chile<br>
 
 ## Day 2: December 10th
-### **Data sharing considerations for MRI** (04:30 - 06:30 UTC)
-This session will explore the current landscape of data sharing in MRI, from the latest legislation and its implications to key networks and initiatives that researchers should join. It will feature expert talks, interactive panel discussions, and a networking market designed to connect participants and foster collaboration in open science.
-<br>
+### **Advancing Ultra-Low-Field MRI Research Through Open Data Sharing: Lessons from the MICCAI ULF-EnC Challenge** (04:30 - 05:30 UTC)
+<strong>Kh Tohidul Islam</strong>, Monash University, Australia<br>
+*Ultra-low-field (ULF) MRI presents unique opportunities for accessible neuroimaging, but its impact depends critically on how data are collected, curated, harmonized, and shared. In this talk, I will present our experience designing the ULF-EnC MICCAI 2025 Challenge, the first initiative to release a structured, ethics-approved dataset of paired 64mT and 3T MRI scans. I will discuss practical considerations in data quality control, preprocessing, anonymisation, harmonisation, and licensing; the logistics of building a FAIR-aligned challenge; and the lessons learned in enabling reproducible evaluation while protecting participant privacy. This session will offer practical strategies for responsible data sharing in emerging MRI domains.*
+### **Guided discussion** (05:30 - 06:00 UTC)
+Coordinated by <strong>Stanley Norris</strong>, Monash Health, Australia.
+### **Data Sharing and Transferring within the European Infrastructure for Cancer Imaging** (06:00 - 06:30 UTC)
+<strong>Luis Marti-Bonmati</strong>, Hospital Universitario y Politécnico La Fe de Valencia, Spain<br>
+*EUCAIM is advancing a Europe-wide federated infrastructure that enables secure sharing and analysis of cancer imaging data. Recent developments include the completion of its core federated services, the setup of local data nodes, and the release of the Federated Analysis Toolbox for privacy-preserving, distributed AI experimentation. The project has also defined clinical use cases and a benchmarking test set to support robust validation of AI tools. This infrastructure is highly relevant for MRI data sharing, as it provides governance, interoperability, and technical mechanisms suited for multi-institutional imaging datasets. As EUCAIM moves into its sustainability phase, it is preparing to become a European Digital Infrastructure Consortium (EDIC), ensuring long-term collaboration and scalable access across Europe.*
+### **Guided discussion** (06:30 - 07:00 UTC)
+Coordinated by <strong>Stanley Norris</strong>, Monash Health, Australia.
 
-### **Between disruption and tradition: challenges of the MRI researcher** (07:00 - 09:00 UTC)
-This session will examine the evolving role of the MRI researcher in a rapidly changing landscape, from harnessing generative AI for coding and data analysis to navigating the global challenges of the tenure-track system. Through expert talks, an interactive ‘best prompt’ challenge, and a panel discussion, participants will reflect on the balance between disruption and tradition in shaping the future of MRI research careers. 
-<br>
+### **Best Prompt Challenge: GPT-4 as MR Sequence and Reconstruction Programming Assistant (GPT4MR)** (07:30-08:00 UTC)
+<strong>Moritz Zaiss</strong> University Clinic of Erlangen and Department of High Field Magnetic Resonance, Max Planck Institute for Biological Cybernetics, Tübingen, Germany
+### **Quality control of AI methods: Evidence and Evaluation** (08:00-08:30 UTC)
+<strong>Gaël Varoquax</strong>, National Institute for Research in Digital Science and Technology, France
+### **The Tenure-Track Bottleneck: Is the Academic System Broken? Compare the Struggles from Country to Country?** (08:30-09:30 UTC)
+Panel discussion among <strong>Marilou Ramos-Pamplona</strong> (University of Liege, Belgium), <strong>Andrada Ianus</strong> (King's College London, UK), and <strong>Maria Eugenia Caligiuri</strong> (University Magna Graecia Catanzaro, Italy).
 
-### **MRI in the LMICs** (14:00-16:00 UTC)
-This session will highlight the realities and opportunities of advancing MRI in low- and middle-income countries (LMICs), from transferring technology and expertise to showcasing innovations emerging from the global south. Through expert talks, panel discussions, and debates with speakers who have first-hand experience, participants will gain insight into the unique challenges and transformative potential of MRI in these settings.
-<br>
+### **Transferring Technology in a LMIC setting** (14:00 - 14:30 UTC)
+<strong> Andrew Webb</strong>, Leiden University, The Netherlands
+*One of the major goals of our and many other research groups is to enable sustainable local production and maintenance of low-field MRI units in different LMICs around the world. The first step to this goal entails designing hardware and software to obtain the highest possible image quality. The next step is to make this technology widely available via open-source repositories and educational training. However, there are a large number of factors which need to be considered for this second step to be successful, which will be the topic of the talk.*
+### **MRI Advances from the Global south** (14:30 - 15:00 UTC)
+<strong>Joshua Ametepe</strong>, Cardiff University, UK
+### **MRI in the LMICs** (15:00 - 16:00 UTC)
+Panel discussion among <strong>Cowles Chilongulo</strong> (Queen Elizabeth Central Hospital), <strong>Lydia Sekoli</strong> (University of Pretoria, South Africa), <strong>Tom Esweu</strong> (Makerere University, South Sudan), <strong>Joshua Ametepe</strong> (Cardiff University, UK)
 
-### **Between disruption and tradition: challenges of the MRI researcher (recorded)** (16:30 - 18:30 UTC)
-The session *Between disruption and tradition: challenges of the MRI researcher* described above will be replayed for participants in other time zones, using a recording made earlier. However, a moderator will be present to coordinate a live discussion alongside the recorded keynote video.
-<br>
+### **Best Prompt Challenge: GPT-4 as MR Sequence and Reconstruction Programming Assistant (GPT4MR) (recorded)** (16:30-17:00 UTC)
+<strong>Moritz Zaiss</strong> University Clinic of Erlangen and Department of High Field Magnetic Resonance, Max Planck Institute for Biological Cybernetics, Tübingen, Germany
+### **Quality control of AI methods: Evidence and Evaluation (recorded)** (17:00-17:30 UTC)
+<strong>Gaël Varoquax</strong>, National Institute for Research in Digital Science and Technology, France
+### **The Tenure-Track Bottleneck: Is the Academic System Broken? Compare the Struggles from Country to Country? (recorded)** (17:30-18:30 UTC)
+Panel discussion among <strong>Marilou Ramos-Pamplona</strong> (University of Liege, Belgium), <strong>Andrada Ianus</strong> (King's College London, UK), and <strong>Maria Eugenia Caligiuri</strong> (University Magna Graecia Catanzaro, Italy).
+
+### **IMAGINE: Building MRI Capacity Through Open-Source Low-Field Training** (19:00 - 19:300 UTC)
+<strong>Marina Fernandez-Garcia</strong>, MRILab, Institute for Molecular Imaging and Instrumentation (i3M), Consejo Superior de Investigaciones Científicas & Universitat Politècnica de València, Valencia, Spain. And Consortium for Advancement of MRI Education and Research in Africa (CAMERA), Canada <br>
+*This talk presents the IMAGINE Summer School, an ESMRMB–CAMERA initiative designed to address the global need for accessible MRI training and technology. We will discuss why initiatives like IMAGINE are necessary for strengthening MRI capacity in low-resource settings and show how two low-field, open-source MRI scanners were built in parallel by trainees in Montreal and Cape Town. The session will highlight key lessons learned—from hardware design, reproducibility, to team-based problem solving—and reflect on how hands-on training accelerates local innovation. It will conclude with our plan for expanding the program and developing sustainable pathways for accessible imaging.*
+
+### **Responsible AI for Brain MRI** (19:30 - 20:00 UTC) 
+<strong>Mariana Bento</strong>, Department of Biomedical Engineering, Department of Electrical and Software Engineering, Schulich School of Engineering, University of Calgary, Canada
+*In this presentation, Dr. Bento will discuss key principles and challenges in developing responsible AI applications for brain MRI, highlighting the importance of open, multicenter and heterogeneous datasets. The talk will showcase applications in motion mitigation and the study of sex differences, illustrating how AI can address real clinical needs while avoiding unintended biases. Dr. Bento will also cover advances in model explainability and rigorous evaluation practices that support fairness and generalizability, contributing to trustworthy deployment in neuroimaging and healthcare.*
 
 ## Day 3: December 11th
-### **Challenges of AI in open science (recorded)** (04:30 - 06:30 UTC)
-The session *Challenges of AI in open science* described above will be replayed for participants in other time zones, using a recording made earlier. However, a moderator will be present to coordinate a live discussion alongside the recorded keynote video.
-<br>
+### **AI in MRI: Pitfalls and successes** (04:30 - 05:00 UTC)
+<strong>Andrew King</strong>, King’s college London, UK<br>
+### **Reproducible AI in MRI applications** (05:00 - 05:30 UTC)
+<strong>Francisco Sahli Costabal</strong>, Pontificia Universidad Católica de Chile, Chile 
+### **Randomly matching attendees to network** (05:30-06:30 UTC)
+Coordinated by <strong>Juan Pablo Meneses</strong> (Monash University, Melbourne, Victoria, Australia)
 
-### **Open-science MRI for everyone: from radiographers to students** (07:00 - 09:00 UTC)
-This session will showcase how open science in MRI can engage and empower everyone—from radiographers to students: through effective science communication, accessible open-source educational tools, and inspiring examples of radiographer-led research, concluding with an interactive MRI artefact identification game!
-<br>
+### **Science communication from outside the research world** (07:00 - 07:40 UTC)
+<strong>Sanam Assili</strong>, Harvard Medical School, USA<br>
+### **Radiographer led MRI research** (07:40 - 08:20 UTC)
+<strong>Christian Emery</strong>, Birmingham City University, UK 
+### **MRI artifacts identification game** (08:20-09:00 UTC)
+<strong>Cliff Mokua</strong> (Sonar Imaging Centre, Kenya), <strong>Ivy Ohuma</strong> (AIC Cure International Hospital, Kenya)
 
-### **Simulation MRI: from acquisition to motion correction** (14:00-16:00 UTC)
-This session will delve into MRI simulation workflows, from sequence design in Pulseq and reconstruction with BART to advanced simulations in KomaMRI and optimization in MRZero, complemented by two hands-on sessions for practical experience in acquisition-to-motion-correction pipelines!
-<br>
+### **Cloud MR: Transitioning MRI Research From Static Infrastructure to a Fully Serverless and Scalable Cloud Native Ecosystem** (14:00 - 14:40 UTC)
+<strong>Eros Montin</strong>, New York University, USA<br>
+*Cloud MR is a cloud native open source framework designed to modernize MRI research by replacing traditional server based architectures with a fully serverless and event driven environment. In this presentation, we describe our transition from an EC2 and Kubernetes deployment to a flexible model built on AWS Lambda, AWS Fargate, API Gateway, and Amazon S3. This architecture enables automatic scaling, eliminates idle compute costs, simplifies multi center deployments, and ensures reproducible processing of MRI data across diverse environments. We highlight two components of the platform: MR Optimum, and TESS temperature estimation. Each of these tools can run in the cloud or locally using exactly the same Python code. Through practical demonstrations, including the execution of MRI raw data in Google Colab, we show how Cloud MR enables researchers to develop, test, and deploy advanced MRI pipelines with minimal setup and complete consistency. Cloud MR aims to democratize high performance MRI computation and provide a reproducible and scalable foundation for collaborative imaging research.*
+### **BART: Sequence Programming, Simulation, Reconstruction** (14:40 - 15:20 UTC)
+<strong>Martin Uecker</strong>, Graz University of Technology, Austria 
+*In this session, we will give an introduction to the BART toolbox and show features related to sequence generation, simulation, and reconstruction. Link: https://github.com/mrirecon/bart-workshop/tree/master/mri_together_2025*
+### **Go with the Flow: Using Extensible and Shareable Motion Phantoms in KomaMRI** (15:20-16:00 UTC)
+<strong>Carlos Castillo-Passi</strong>, University of Stanford, USA
+*This tutorial will show how to model realistic motion in MRI using the new phantom framework in KomaMRI. We will introduce KomaMRI’s motion model, in which motion is built from modular actions, time curves, and spin subsets. This allows us to simulate a wide range of motion, from simple translations and rotations to complex trajectories such as cardiac motion, blood flow, or head motion. We will demonstrate how to reuse existing motion phantoms and how to create new ones for testing pulse sequences and motion-robust reconstruction methods. The session will combine a guided walkthrough of key concepts with live demos in Julia, focusing on practical workflows that participants can adapt to their own applications.
+Optional preparation for attendees: install Julia and the KomaMRI.jl package in advance, following the instructions at https://juliahealth.org/KomaMRI.jl/dev/how-to/1-getting-started/.
+Other links:
+- Presentation and material: https://github.com/cncastillo/KomaMRI_MRITogether2025
+- Documentation: https://juliahealth.org/KomaMRI.jl/dev/*
 
-### **A focus on body MRI** (16:30-17:30 UTC)
-This session will focus on advances in body MRI beyond the brain, featuring open-source motion correction tools with a hands-on demonstration, and exploring the latest developments and applications in whole-body MRI!
-<br>
-
-### **Early-career researcher initiatives for advancing open science in MRI** (17:30-18:30 UTC)
-In this session, an early career researcher will present their work on glymphatic system imaging and share their group’s initiative to launch a MICCAI challenge for developing open-source perivascular space (PVS) segmentation methods—highlighting the technical and methodological challenges involved in this endeavour.
-<br>
+### **NIPREPS pipeline** (16:30 - 17:00 UTC)
+<strong>Oscar Esteban</strong>, University of Lausanne, Switzerland<br>
+### **Cardiac MRI** (17:00 - 17:30 UTC)
+<strong>Carlos Alberola</strong>, Universidad de Valladolid, Spain 
+### **Cardiac MRI with Pulseq** (17:30-18:00 UTC)
+<strong>Martin Nicoletti</strong>, Lausanne University Hospital, Switzerland
+### **How to make diffusion work in the body?** (18:00-18:30 UTC)
+<strong>Dimitrios Karampinos</strong>, École Polytechnique Fédérale de Lausanne  (EPFL)
+### **Glymphatics Collaboration** (18:30-19:00 UTC)
+<strong>Roberto Duarte Coello</strong>, The University of Edinburgh, UK
 
 ## Day 4: December 12th
-### **Collaboration and contributions from early-career researchers** (04:30 - 06:30 UTC)
-This session will spotlight the work and perspectives of early-career researchers from regions outside North America and Europe, featuring short talks, Q&A, and an interactive round table with senior mentors to discuss research, career development, and opportunities for global collaboration.
-<br>
+### **Experience from countries outside the North America/Europe sphere** (04:30 - 05:00 UTC)
+<strong>Zaixu Cui</strong>, no recording, Chinese Institute for Brain Research, Beijing, China
+### **Short talk on the collaboration and contributions from early-career researchers** (05:00 - 05:30 UTC)
+<strong>Vincent Yuan</strong> (The University of New South Wales, Sydney, Australia), <strong>Zhilin Ren</strong> (Experimental Research Center of Medical and Psychological Science, School of Psychology, Third Military Medical University, Chongqing, China), <strong>Bashir Bolaji Tiamiyu</strong> (University of llorin, llorin, Nigeria), <strong>Caleb Onoja Akogwu</strong> (Wuhan Botanical Garden, Chinese Academy of Sciences, Hubei, China
+### **Round table with mentors** (05:30 - 06:30 UTC)
+<strong>Zaixu Cui, Zhilin Ren, Caleb Onoja Akogwu, Vincent Yuan, and Bashir Bolaji Tiamiyu</strong>, and mentors for the early submitted poster ideas
 
 ### **Closing session: Low-field MRI and open hardware** (07:00 - 08:00 UTC)
-The closing session will feature a keynote on low-field MRI and open hardware, exploring how accessible technologies are reshaping the MRI landscape, followed by concluding remarks and the presentation of conference awards.
+<strong>Zhiyong Zhang</strong> School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China
 <br>
 
-### **Collaboration and contributions from early-career researchers (recorded)** (15:00 - 17:00 UTC)
-The session *Collaboration and contributions from early-career researchers* described above will be replayed for participants in other time zones, using a recording made earlier. However, a moderator will be present to coordinate a live discussion alongside the recorded keynote video.
-<br>
+### **Experience from countries outside the North America/Europe sphere (recorded)** (15:00 - 15:30 UTC)
+<strong>Zaixu Cui</strong>, no recording, Chinese Institute for Brain Research, Beijing, China
+### **Short talk on the collaboration and contributions from early-career researchers (recorded)** (15:30 - 16:00 UTC)
+<strong>Vincent Yuan</strong> (The University of New South Wales, Sydney, Australia), <strong>Zhilin Ren</strong> (Experimental Research Center of Medical and Psychological Science, School of Psychology, Third Military Medical University, Chongqing, China), <strong>Bashir Bolaji Tiamiyu</strong> (University of llorin, llorin, Nigeria), <strong>Caleb Onoja Akogwu</strong> (Wuhan Botanical Garden, Chinese Academy of Sciences, Hubei, China
+### **Round table with mentors (recorded)** (16:30 - 17:00 UTC)
+<strong>Zaixu Cui, Zhilin Ren, Caleb Onoja Akogwu, Vincent Yuan, and Bashir Bolaji Tiamiyu</strong>, and mentors for the early submitted poster ideas
 
 ### **Closing session: Low-field MRI and open hardware (recorded)** (17:30 - 18:30 UTC)
-The session *Closing session: Low-field MRI and open hardware* described above will be replayed for participants in other time zones, using a recording made earlier. However, a moderator will be present to coordinate a live discussion alongside the recorded keynote video.
+<strong>Zhiyong Zhang</strong> School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China
+<br>
