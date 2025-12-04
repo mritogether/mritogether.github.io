@@ -9,6 +9,8 @@ To advertise a position on MRI Together's job board, please [email us](mailto:mr
 
 ## Open Positions
 
+- [**Data Science Team Lead**](https://orbem.ai/career-open-positions/all-roles/#job-2201376) - Orbem is looking for a team-leader on data science. In Orbem they develop fast, accurate, and accessible imaging solutions that provide access to otherwise unattainable sources of knowledge. 
+- [**Senior MRI Scientist**](https://orbem.ai/career-open-positions/all-roles/#job-2318960) - Orbem is looking for a senior MRI scientist to join their mission to unleash AI-powered imaging for everything and everyone. 
 - [**Senior MRI Integration Engineer**](https://orbem.ai/career-open-positions/all-roles/#job-2151878) - Orbem is looking for a senior MRI integration engineer to join their imaging team to transform cutting-edge research into the next generation of AI-powered MRI solutions. 
 - [**Senior Data Scientist**](https://orbem.ai/career-open-positions/all-roles/#job-2109588) - Orbem is looking for a senior data scientist to join their imaging team to develop AI-powered imaging applications. 
 - [**MRI Application Specialist**](https://orbem.ai/career-open-positions/all-roles/#job-2026828) - Orbem is looking for a talented senior data scientist to join their mission to unleash AI-powered imaging for everything and everyone. 
