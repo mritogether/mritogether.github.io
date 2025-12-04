@@ -51,7 +51,7 @@ Open source tool development is crucial for reproducible science, but may not al
 This session will feature distinguished speakers who have successfully transitioned between academia and industry. They will share their insights on career decisions and highlight how their expertise in MRI research has been pivotal in their professional journeys. 
 #### **Ira Ktena**: Developing health AI models that are safe for the world
 This talk will cover considerations that arise when transitioning from developing ML models for narrow research applications to models that scale and perform well across geographies and populations. The talk will also cover why industry researchers should engage with academics to ensure reproducibility and build trust in new technologies.
-#### **Kevin Aquino**: Transferrable skills in the startup space
+#### **Kevin Aquino**: Transferable skills in the startup space
 While the transition to “industry” may appear daunting, the startup world can offer a sense of familiarity to those wanting to branch away from academia. In this talk, I will share my journey and some pleasant surprises along the way. 
 #### **Han Peng**: Hopping through domain walls, a physicist's perspective
 Han will share his journey of navigating through the field of physics and AI, and his personal experience in work and life in academia and industrial positions as an international scholar.
@@ -72,7 +72,7 @@ Visual and semantic processing has been studied using both hypothesis-driven and
 <br>
 
 ### **Cutting-edge MRI toolbox exhibition: Live demos and interactive sessions (Americas)** (23:00-01:00 UTC)
-In this session, we will showcase innovative MRI data processing tools in a dynamic and interactive environment. Whether you've are interested in the developement of a novel algorithm, software package, or workflow, this session is your platform to learn more about it!
+In this session, we will showcase innovative MRI data processing tools in a dynamic and interactive environment. Whether you've are interested in the development of a novel algorithm, software package, or workflow, this session is your platform to learn more about it!
 #### **Thomas Küstner**: MERLIN - Machine Enhanced Reconstruction Learning and Interpretation Networks
 Machine Learning (ML) methods have evolved tremendously during the last decade with a number of backends supporting the development. However, support for high-dimensional and complex-valued data processing is often limited. Therefore, we developed a Machine Enhanced Reconstruction Learning and Interpretation Networks (MERLIN) framework that seamlessly integrates with existing ML solutions (Tensorflow/Keras and Pytorch) and complements them by high-dimensional, complex-valued and MR-specific operators, layers, and data pipelines.
 #### **Abood Bdaiwi**: 129Xe Image Processing Pipeline (XIPline): An Open-Source, Graphical User Interface Application for the Analysis of Hyperpolarized 129Xe MRI
