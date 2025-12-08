@@ -40,23 +40,23 @@ Opening words by the MRI Together 2025 Organising Committee.
 Coordinated by <strong>Guillermo Sahonero Alvarez</strong>, Pontificia Universidad Católica de Chile, Chile<br>
 
 ## Day 2: December 10th
-### **Advancing Ultra-Low-Field MRI Research Through Open Data Sharing: Lessons from the MICCAI ULF-EnC Challenge** (04:30 - 05:30 UTC)
+### **Advancing Ultra-Low-Field MRI Research Through Open Data Sharing: Lessons from the MICCAI ULF-EnC Challenge** (04:30 - 05:00 UTC)
 <strong>Kh Tohidul Islam</strong>, Monash University, Australia<br>
 *Ultra-low-field (ULF) MRI presents unique opportunities for accessible neuroimaging, but its impact depends critically on how data are collected, curated, harmonized, and shared. In this talk, I will present our experience designing the ULF-EnC MICCAI 2025 Challenge, the first initiative to release a structured, ethics-approved dataset of paired 64mT and 3T MRI scans. I will discuss practical considerations in data quality control, preprocessing, anonymisation, harmonisation, and licensing; the logistics of building a FAIR-aligned challenge; and the lessons learned in enabling reproducible evaluation while protecting participant privacy. This session will offer practical strategies for responsible data sharing in emerging MRI domains.*
-### **Guided discussion** (05:30 - 06:00 UTC)
+### **Guided discussion** (05:00 - 05:30 UTC)
 Coordinated by <strong>Stanley Norris</strong>, Monash Health, Australia.
-### **Data Sharing and Transferring within the European Infrastructure for Cancer Imaging** (06:00 - 06:30 UTC)
+### **Data Sharing and Transferring within the European Infrastructure for Cancer Imaging** (05:30 - 06:00 UTC)
 <strong>Luis Marti-Bonmati</strong>, Hospital Universitario y Politécnico La Fe de Valencia, Spain<br>
 *EUCAIM is advancing a Europe-wide federated infrastructure that enables secure sharing and analysis of cancer imaging data. Recent developments include the completion of its core federated services, the setup of local data nodes, and the release of the Federated Analysis Toolbox for privacy-preserving, distributed AI experimentation. The project has also defined clinical use cases and a benchmarking test set to support robust validation of AI tools. This infrastructure is highly relevant for MRI data sharing, as it provides governance, interoperability, and technical mechanisms suited for multi-institutional imaging datasets. As EUCAIM moves into its sustainability phase, it is preparing to become a European Digital Infrastructure Consortium (EDIC), ensuring long-term collaboration and scalable access across Europe.*
-### **Guided discussion** (06:30 - 07:00 UTC)
+### **Guided discussion** (06:00 - 06:30 UTC)
 Coordinated by <strong>Stanley Norris</strong>, Monash Health, Australia.
 
-### **Agentic MR sequence development - Leveraging LLMs with MR tools and tests for physics-informed sequence development** (07:30-08:00 UTC)
+### **Agentic MR sequence development - Leveraging LLMs with MR tools and tests for physics-informed sequence development** (07:00-07:30 UTC)
 <strong>Moritz Zaiss</strong> University Clinic of Erlangen and Department of High Field Magnetic Resonance, Max Planck Institute for Biological Cybernetics, Tübingen, Germany<br>
 *Can LLMs code valid MR sequences in PyPulseq? Yes (most of the time) under the condition: with „thinking“, and as Agent4MR with feedback and test tools it becomes more reliable. If used naively: fails massively. Students will use it anyway, so better teach them. If used rightly: Great assistance, productivity boost. An autonomous MR researcher is at least conceivable. For better human benchmark we would need a Pulseq Olympiad.*
-### **Quality control of AI methods: Evidence and Evaluation** (08:00-08:30 UTC)
+### **Quality control of AI methods: Evidence and Evaluation** (07:30-08:00 UTC)
 <strong>Gaël Varoquaux</strong>, National Institute for Research in Digital Science and Technology, France
-### **The Tenure-Track Bottleneck: Is the Academic System Broken? Compare the Struggles from Country to Country?** (08:30-09:30 UTC)
+### **The Tenure-Track Bottleneck: Is the Academic System Broken? Compare the Struggles from Country to Country?** (08:00-09:00 UTC)
 Panel discussion among <strong>Andrada Ianus</strong> (King's College London, UK), <strong>Maria Eugenia Caligiuri</strong> (University Magna Graecia Catanzaro, Italy), and <strong>Marilou Ramos-Pamplona</strong> (University of Liege, Belgium).
 
 ### **Transferring Technology in a LMIC setting** (14:00 - 14:30 UTC)
@@ -107,7 +107,7 @@ Coordinated by <strong>Juan Pablo Meneses</strong> (Monash University, Melbourne
 <strong>Eros Montin</strong>, New York University, USA<br>
 *Cloud MR is a cloud native open source framework designed to modernize MRI research by replacing traditional server based architectures with a fully serverless and event driven environment. In this presentation, we describe our transition from an EC2 and Kubernetes deployment to a flexible model built on AWS Lambda, AWS Fargate, API Gateway, and Amazon S3. This architecture enables automatic scaling, eliminates idle compute costs, simplifies multi center deployments, and ensures reproducible processing of MRI data across diverse environments. We highlight two components of the platform: MR Optimum, and TESS temperature estimation. Each of these tools can run in the cloud or locally using exactly the same Python code. Through practical demonstrations, including the execution of MRI raw data in Google Colab, we show how Cloud MR enables researchers to develop, test, and deploy advanced MRI pipelines with minimal setup and complete consistency. Cloud MR aims to democratize high performance MRI computation and provide a reproducible and scalable foundation for collaborative imaging research.*
 ### **BART: Sequence Programming, Simulation, Reconstruction** (14:40 - 15:20 UTC)
-<strong>Martin Uecker</strong>, Graz University of Technology, Austria <br> 
+<strong>Martin Uecker and Daniel Mackner</strong>, Graz University of Technology, Austria <br> 
 *In this session, we will give an introduction to the BART toolbox and show features related to sequence generation, simulation, and reconstruction. Link: https://github.com/mrirecon/bart-workshop/tree/master/mri_together_2025*
 ### **Go with the Flow: Using Extensible and Shareable Motion Phantoms in KomaMRI** (15:20-16:00 UTC)
 <strong>Carlos Castillo-Passi</strong>, University of Stanford, USA <br>
@@ -122,13 +122,15 @@ Other links:
 ### **An Open Web Tool for Pulse Sequence Design, Simulation, and Motion Exploration in Body MRI** (17:00 - 17:30 UTC)
 <strong>Pablo Villacorta-Aylagas</strong>, Laboratorio de Procesado de Imagen, Universidad de Valladolid, Spain <br> 
 *In this talk, I will present an open-source, web-based environment for interactive pulse-sequence design and simulation, tailored to explore motion effects in body MRI. Through two hands-on examples, we will examine how flow and deformation interact with different acquisition strategies: (1) flow visualisation in GE-EPI versus bSSFP exploiting time-of-flight effects, and (2) motion sensitivity in SE-EPI with unipolar versus flow-compensated diffusion gradients in a myocardium phantom. These simulations highlight how sequence design fundamentally shapes motion sensitivity and provide an intuitive platform for researchers to understand, teach, and prototype motion-robust methods. The tool aims to lower barriers to reproducible experimentation and foster a more transparent and collaborative approach to body-MRI sequence development.*
-### **Cardiac MRI with Pulseq** (17:30-18:00 UTC)
-<strong>Martin Nicoletti</strong>, Lausanne University Hospital, Switzerland
+### **Cones for 5D Free-Running bSSFP at 0.55 T** (17:30-18:00 UTC)
+<strong>Martin Nicoletti</strong>, Lausanne University Hospital (CHUV), University of Lausanne (UNIL), Lausanne, Switzerland <br>
+*At 0.55 T, the intrinsically limited SNR increases the need for homogeneous k-space sampling in free-running 5D bSSFP. We introduce a dual-echo 3D Cones trajectory implemented in Pulseq and compare it to radial and bSTAR. Cones provides more uniform sampling and a PSF structure that is better suited for sparse reconstruction, leading to reduced artifacts and improved 5D image quality in vivo.*
 ### **How to make diffusion work in the body?** (18:00-18:30 UTC)
 <strong>Dimitrios Karampinos</strong>, École Polytechnique Fédérale de Lausanne  (EPFL)<br>
 *Diffusion is a powerful contrast mechanism in modern body MRI protocols, especially will focusing on oncological questions.  Physiological motion is a major challenge when applying diffusion in the body. The present presentation will introduce technical advances on how to deal with motion in body MRI with a focus on motion compensated diffusion encoding waveforms. Examples will be presented in the context of prostate, kidney and liver diffusion imaging.*
-### **Glymphatics Collaboration** (18:30-19:00 UTC)
-<strong>Roberto Duarte Coello</strong>, The University of Edinburgh, UK
+### **Towards a Robust Automatic Quantification of Enlarged Perivascular Spaces from Brain MRI** (18:30-19:00 UTC)
+<strong>Roberto Duarte Coello</strong>, The University of Edinburgh, UK <br>
+*Perivascular Spaces (PVS) are microscopic compartments around cerebral blood vessels, through which Cerebrospinal Fluid (CSF) can circulate. Preliminary studies have shown a possible relationship between enlarged PVS and early cognitive decline. Computational quantification remains challenging partly because these small objects’ information easily distorted by imaging artefacts. In addition, other markers of cerebrovascular dysfunction, such as White Matter Hyperintensities (WMH), often coexist, may be misclassified as, or obscure PVS.*
 
 ## Day 4: December 12th
 ### **Mapping the spatiotemporal continuum of structural connectivity development across the human connectome in youth** (04:30 - 05:00 UTC)
@@ -136,8 +138,8 @@ Other links:
 *Childhood and adolescence involve protracted remodeling of cortico-cortical structural connectivity, yet its connectome-wide developmental organization remains unclear. Using diffusion MRI across three youth cohorts, we identified a developmental continuum aligned with a sensorimotor–association (S–A) connectional axis, spanning early increases in sensorimotor connectivity to later increases in association connectivity, with a transition around age 15.5. This axis captured spatial variation in links between connectivity, cognition, and psychopathology, with psychopathological effects primarily localized to association connections. These findings provide a normative framework for understanding developmental variability in youth brain connectivity.*<br>
 ### **Short talk on the collaboration and contributions from early-career researchers** (05:00 - 05:30 UTC)
 <strong>Vincent Yuan</strong> (The University of New South Wales, Sydney, Australia), <strong>Zhilin Ren</strong> (Experimental Research Center of Medical and Psychological Science, School of Psychology, Third Military Medical University, Chongqing, China), <strong>Bashir Bolaji Tiamiyu</strong> (University of llorin, llorin, Nigeria), <strong>Caleb Onoja Akogwu</strong> (Wuhan Botanical Garden, Chinese Academy of Sciences, Hubei, China
-### **Round table with mentors** (05:30 - 06:30 UTC)
-<strong>Zaixu Cui, Zhilin Ren, Caleb Onoja Akogwu, Vincent Yuan, and Bashir Bolaji Tiamiyu</strong>, and mentors for the early submitted poster ideas
+### **Round table** (05:30 - 06:30 UTC)
+Live discussion among <strong>Zaixu Cui, Zhilin Ren, Caleb Onoja Akogwu, Vincent Yuan, and Bashir Bolaji Tiamiyu</strong>.
 
 ### **Closing session: Low-field MRI and open hardware** (07:00 - 08:00 UTC)
 <strong>Zhiyong Zhang</strong> School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China
@@ -149,8 +151,8 @@ Other links:
 
 ### **Short talk on the collaboration and contributions from early-career researchers (recorded)** (15:30 - 16:00 UTC)
 <strong>Vincent Yuan</strong> (The University of New South Wales, Sydney, Australia), <strong>Zhilin Ren</strong> (Experimental Research Center of Medical and Psychological Science, School of Psychology, Third Military Medical University, Chongqing, China), <strong>Bashir Bolaji Tiamiyu</strong> (University of llorin, llorin, Nigeria), <strong>Caleb Onoja Akogwu</strong> (Wuhan Botanical Garden, Chinese Academy of Sciences, Hubei, China
-### **Round table with mentors (recorded)** (16:30 - 17:00 UTC)
-<strong>Zaixu Cui, Zhilin Ren, Caleb Onoja Akogwu, Vincent Yuan, and Bashir Bolaji Tiamiyu</strong>, and mentors for the early submitted poster ideas
+### **Round table** (16:30 - 17:00 UTC)
+Another live discussion.
 
 ### **Closing session: Low-field MRI and open hardware (recorded)** (17:30 - 18:30 UTC)
 <strong>Zhiyong Zhang</strong> School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China
