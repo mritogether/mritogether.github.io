@@ -117,8 +117,9 @@ Other links:
 - Presentation and material: https://github.com/cncastillo/KomaMRI_MRITogether2025
 - Documentation: https://juliahealth.org/KomaMRI.jl/dev/*
 
-### **TBD** (16:30 - 17:00 UTC)
+### **Analysis‑Grade MRI at Scale: the NiPreps experience** (16:30 - 17:00 UTC)
 <strong>Oscar Esteban</strong>, University of Lausanne, Switzerland<br>
+*Consistent with this year’s call to “break boundaries,” my talk will depart from the limitations set by analytic variability in MRI. Even when two labs start from similar raw data, they can still reach incompatible conclusions because they followed different trajectories in the multiverse of reasonable research workflows. I will introduce NiPreps (www.nipreps.org), an ecosystem of open‑source preprocessing workflows designed to turn raw MRI into analysis‑grade data—minimally processed and safe to use directly in statistical modeling. By turning preprocessing into standardized infrastructure, we spend less time wrestling with pipelines and more time doing science to produce more comparable results.*
 ### **An Open Web Tool for Pulse Sequence Design, Simulation, and Motion Exploration in Body MRI** (17:00 - 17:30 UTC)
 <strong>Pablo Villacorta-Aylagas</strong>, Laboratorio de Procesado de Imagen, Universidad de Valladolid, Spain <br> 
 *In this talk, I will present an open-source, web-based environment for interactive pulse-sequence design and simulation, tailored to explore motion effects in body MRI. Through two hands-on examples, we will examine how flow and deformation interact with different acquisition strategies: (1) flow visualisation in GE-EPI versus bSSFP exploiting time-of-flight effects, and (2) motion sensitivity in SE-EPI with unipolar versus flow-compensated diffusion gradients in a myocardium phantom. These simulations highlight how sequence design fundamentally shapes motion sensitivity and provide an intuitive platform for researchers to understand, teach, and prototype motion-robust methods. The tool aims to lower barriers to reproducible experimentation and foster a more transparent and collaborative approach to body-MRI sequence development.*
