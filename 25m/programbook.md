@@ -142,9 +142,9 @@ Other links:
 ### **Round table** (05:30 - 06:30 UTC)
 Live discussion among <strong>Zaixu Cui, Zhilin Ren, Caleb Onoja Akogwu, Vincent Yuan, and Bashir Bolaji Tiamiyu</strong>.
 
-### **Closing session: Low-field MRI and open hardware** (07:00 - 08:00 UTC)
-<strong>Zhiyong Zhang</strong> School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China
-<br>
+### **Closing session: Engineering low-field MRI and translating it into clinical practice** (07:00 - 08:00 UTC)
+<strong>Zhiyong Zhang</strong> School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China<br>
+*Low-cost portable MRI has the potential to expand MRI access to rural areas and low and middle-income countries, provide population health monitoring, and be deployed in clinical settings such as intensive care units. However, lots of engineering effort are needed to increasing the clinical values. In the talk, I will brief introduce our experience to translating low field MRI techniques into diagnostic medicine and clinical practice, from hardware engineering, pulse sequence engineering to design engineering. Specially, experiences installing low field MRI and future challenges will be discussed.*
 
 ### **Mapping the spatiotemporal continuum of structural connectivity development across the human connectome in youth** (15:00 - 15:30 UTC)
 <strong>Zaixu Cui</strong>, no recording, Chinese Institute for Brain Research, Beijing, China <br>
@@ -155,6 +155,7 @@ Live discussion among <strong>Zaixu Cui, Zhilin Ren, Caleb Onoja Akogwu, Vincent
 ### **Round table** (16:30 - 17:00 UTC)
 Another live discussion.
 
-### **Closing session: Low-field MRI and open hardware (recorded)** (17:30 - 18:30 UTC)
-<strong>Zhiyong Zhang</strong> School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China
+### **Closing session: Engineering low-field MRI and translating it into clinical practice (recorded)** (17:30 - 18:30 UTC)
+<strong>Zhiyong Zhang</strong> School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China<br>
+*Low-cost portable MRI has the potential to expand MRI access to rural areas and low and middle-income countries, provide population health monitoring, and be deployed in clinical settings such as intensive care units. However, lots of engineering effort are needed to increasing the clinical values. In the talk, I will brief introduce our experience to translating low field MRI techniques into diagnostic medicine and clinical practice, from hardware engineering, pulse sequence engineering to design engineering. Specially, experiences installing low field MRI and future challenges will be discussed.*
 <br>
