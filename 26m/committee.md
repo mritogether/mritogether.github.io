@@ -5,21 +5,8 @@ description: Workshop's organizing committee
 year: 2026
 --- 
 
-<!--
-  SVG SECTION (shown on wide screens, hidden on mobile).
-  This block requires the composite committee photo: 26m/images/committee/committee_26.png
-  Once the photo is ready, update:
-    - xlink:href to point at the new image
-    - Each <a xlink:href="..."> with the member's LinkedIn/profile URL
-    - The transform="matrix(1 0 0 1 X Y)" coordinates to match each face in the photo
-  The X Y values below are copied from the 2025 layout as approximate starting points;
-  they will need manual adjustment after the photo is placed.
--->
-
-<!-- SVG map hidden until committee_26.png is ready
 <div id="committee_svg">
 <svg width="1000" height="800">
-<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
      viewBox="0 0 875.1 692.8" style="enable-background:new 0 0 875.1 692.8;" xml:space="preserve">
 <style type="text/css">
@@ -30,132 +17,143 @@ year: 2026
     .st4{fill:none;stroke:#009999;stroke-width:1.5;stroke-miterlimit:10;}
     .st5{fill:#009999;}
 </style>
-<image style="overflow:visible;" width="1886" height="1018" xlink:href="images/committee/committee_26.png"  transform="matrix(0.5 0 0 0.5 -30 100)">
+
+<!-- World map background (same asset as 2022 edition) -->
+<image style="overflow:visible;" width="1886" height="1018" xlink:href="images/committee/worlddot.png"
+       transform="matrix(0.3181 0 0 0.3181 111.494 251.5771)">
 </image>
 
-<!-- Maria Mora — adjust X Y after photo is placed -->
-<a xlink:href="LINKEDIN_MARIA_MORA" >
-    <text transform="matrix(1 0 0 1 220 150)" class="st1 st2" font-weight="bold">Maria Mora </text>
-    <text transform="matrix(1 0 0 1 290 150)" class="st1 st3" font-weight="bold">(PRONOUNS)</text>
-    <text transform="matrix(1 0 0 1 223 165)" class="st1 st2" font-weight="bold">Children's National Hospital (USA)</text>
+<!--
+  Dot coordinates calibrated empirically from 2022 SVG ground-truth positions:
+    x = 1.909 * lon + 381.5   (lon positive East)
+    y = -2.273 * lat + 449.3  (lat positive North)
+
+  Stanford CA  (37.4N, 122.2W) → (148, 364)
+  Washington DC (38.9N,  77.0W) → (235, 361)
+  Liège        (50.6N,   5.6E) → (392, 334)
+  Basel        (47.6N,   7.6E) → (396, 341)
+  Pisa         (43.7N,  10.4E) → (401, 350)
+  Shanghai     (31.2N, 121.5E) → (613, 378)
+  Nairobi      ( 1.3S,  36.8E) → (452, 452)
+  Santiago CHL (33.5S,  70.6W) → (247, 525)
+-->
+
+<!-- Connecting lines (drawn first so dots render on top) -->
+<path class="st4" d="M 40,200 Q 80,280 148,364"/>    <!-- Carlos → Stanford -->
+<path class="st4" d="M 80,340 Q 160,350 235,361"/>   <!-- Maria → DC -->
+<path class="st4" d="M 300,140 Q 340,235 392,334"/>  <!-- Jiqing → Liège -->
+<path class="st4" d="M 435,140 Q 415,240 396,341"/>  <!-- Marta → Basel -->
+<path class="st4" d="M 560,140 Q 495,240 401,350"/>  <!-- Matteo → Pisa -->
+<path class="st4" d="M 750,155 Q 690,260 613,378"/>  <!-- Yueqi → Shanghai -->
+<path class="st4" d="M 750,445 Q 600,450 452,452"/>  <!-- Cliff → Nairobi -->
+<path class="st4" d="M 80,530 Q 160,528 247,525"/>   <!-- Javier → Santiago -->
+
+<!-- Geographic dots -->
+<circle cx="148" cy="364" r="4.5" class="st5"/>
+<circle cx="235" cy="361" r="4.5" class="st5"/>
+<circle cx="392" cy="334" r="4.5" class="st5"/>
+<circle cx="396" cy="341" r="4.5" class="st5"/>
+<circle cx="401" cy="350" r="4.5" class="st5"/>
+<circle cx="613" cy="378" r="4.5" class="st5"/>
+<circle cx="452" cy="452" r="4.5" class="st5"/>
+<circle cx="247" cy="525" r="4.5" class="st5"/>
+
+<!-- ===== HEADSHOTS & LABELS ===== -->
+
+<!-- Carlos Castillo-Passi | Stanford, USA -->
+<a xlink:href="https://www.linkedin.com/in/carlos-castillo-passi-468367146/">
+<text transform="matrix(1 0 0 1 0 103)" class="st1 st3">Carlos Castillo-Passi (he/him)</text>
+<text transform="matrix(1 0 0 1 0 116)" class="st1 st3">Stanford University (USA)</text>
+<image xlink:href="images/committee/CarlosCastilloPassi.png" x="0" y="120" width="80" height="80"/>
 </a>
 
-<!-- Anais Artiges — adjust X Y after photo is placed -->
-<a xlink:href="https://www.linkedin.com/in/ana%C3%AFs-artiges-phd-5b825baa/" >
-    <text transform="matrix(1 0 0 1 85 530)" class="st1 st2" font-weight="bold">Anais Artiges </text>
-    <text transform="matrix(1 0 0 1 170 530)" class="st1 st3" font-weight="bold">(she/her)</text>
-    <text transform="matrix(1 0 0 1 60 545)" class="st1 st2" font-weight="bold">King's College London (UK)</text>
+<!-- Maria Mora | Children's National Hospital, Washington DC -->
+<a xlink:href="https://www.linkedin.com/in/maria-mora-alvarez-phd/?locale=en">
+<image xlink:href="images/committee/MariaMora.png" x="0" y="300" width="80" height="80"/>
+<text transform="matrix(1 0 0 1 0 392)" class="st1 st3">Maria Mora (she/her)</text>
+<text transform="matrix(1 0 0 1 0 405)" class="st1 st3">Children's Natl. Hospital (USA)</text>
 </a>
 
-<!-- Marta Brigid Maggioni — adjust X Y after photo is placed -->
-<a xlink:href="LINKEDIN_MARTA_MAGGIONI" >
-    <text transform="matrix(1 0 0 1 605 570)" class="st1 st2" font-weight="bold">Marta Brigid Maggioni </text>
-    <text transform="matrix(1 0 0 1 740 570)" class="st1 st3" font-weight="bold">(PRONOUNS)</text>
-    <text transform="matrix(1 0 0 1 600 585)" class="st1 st2" font-weight="bold">University of Basel (CH)</text>
+<!-- Jiqing Huang | University of Liège -->
+<a xlink:href="https://www.linkedin.com/in/jiqing-alain-huang-2a3279269/">
+<text transform="matrix(1 0 0 1 255 43)" class="st1 st3">Jiqing Huang (he/him)</text>
+<text transform="matrix(1 0 0 1 255 56)" class="st1 st3">Univ. de Liège (BE)</text>
+<image xlink:href="images/committee/JiqingHuang.png" x="255" y="60" width="80" height="80"/>
 </a>
 
-<!-- Matteo Cencini — adjust X Y after photo is placed -->
-<a xlink:href="LINKEDIN_MATTEO_CENCINI" >
-    <text transform="matrix(1 0 0 1 650 515)" class="st1 st2" font-weight="bold">Matteo Cencini </text>
-    <text transform="matrix(1 0 0 1 740 515)" class="st1 st3" font-weight="bold">(he/him)</text>
-    <text transform="matrix(1 0 0 1 685 530)" class="st1 st2" font-weight="bold">IRCCS Stella Maris (IT)</text>
+<!-- Marta Brigid Maggioni | University of Basel (co-chair) -->
+<a xlink:href="https://www.linkedin.com/in/marta-brigid-maggioni-56751727a/">
+<text transform="matrix(1 0 0 1 397 43)" class="st1 st3">M. Maggioni (she/her; co-chair)</text>
+<text transform="matrix(1 0 0 1 397 56)" class="st1 st3">Univ. of Basel (CH)</text>
+<image xlink:href="images/committee/MartaBrigidMaggioni.png" x="400" y="60" width="80" height="80"/>
 </a>
 
-<!-- Yueqi Qiu — adjust X Y after photo is placed -->
-<a xlink:href="LINKEDIN_YUEQI_QIU" >
-    <text transform="matrix(1 0 0 1 280 450)" class="st1 st2" font-weight="bold">Yueqi Qiu </text>
-    <text transform="matrix(1 0 0 1 350 450)" class="st1 st3" font-weight="bold">(PRONOUNS)</text>
-    <text transform="matrix(1 0 0 1 300 465)" class="st1 st2" font-weight="bold">Shanghai Jiao Tong University (CN)</text>
+<!-- Matteo Cencini | IRCCS Stella Maris, Pisa -->
+<a xlink:href="https://www.linkedin.com/in/matteo-cencini-b17482141/">
+<text transform="matrix(1 0 0 1 540 43)" class="st1 st3">Matteo Cencini (he/him)</text>
+<text transform="matrix(1 0 0 1 540 56)" class="st1 st3">IRCCS Stella Maris (IT)</text>
+<image xlink:href="images/committee/MatteoCencini.png" x="540" y="60" width="80" height="80"/>
 </a>
 
-<!-- Guillermo Sahonero — adjust X Y after photo is placed -->
-<a xlink:href="https://www.linkedin.com/in/guillermosahonero/" >
-    <text transform="matrix(1 0 0 1 680 255)" class="st1 st2" font-weight="bold">Guillermo Sahonero </text>
-    <text transform="matrix(1 0 0 1 790 255)" class="st1 st3" font-weight="bold">(he/him)</text>
-    <text transform="matrix(1 0 0 1 625 270)" class="st1 st2" font-weight="bold">UC Chile (CHL)</text>
+<!-- Yueqi Qiu | Shanghai Jiao Tong University (co-chair) -->
+<a xlink:href="https://www.linkedin.com/in/yueqi-qiu-02608b307/">
+<image xlink:href="images/committee/YueqiQiu.png" x="750" y="115" width="80" height="80"/>
+<text transform="matrix(1 0 0 1 750 207)" class="st1 st3">Yueqi Qiu (she/her; co-chair)</text>
+<text transform="matrix(1 0 0 1 750 220)" class="st1 st3">Shanghai JTU (CN)</text>
 </a>
 
-<!-- Jiqing Huang — adjust X Y after photo is placed -->
-<a xlink:href="LINKEDIN_JIQING_HUANG" >
-    <text transform="matrix(1 0 0 1 100 300)" class="st1 st2" font-weight="bold">Jiqing Huang </text>
-    <text transform="matrix(1 0 0 1 190 300)" class="st1 st3" font-weight="bold">(PRONOUNS)</text>
-    <text transform="matrix(1 0 0 1 90 315)" class="st1 st2" font-weight="bold">University of Liège (BE)</text>
+<!-- Cliff Mokua | Sonar Imaging Centre, Nairobi -->
+<a xlink:href="https://www.linkedin.com/in/cliff-mokua-8810a7187/">
+<image xlink:href="images/committee/CliffMokua.png" x="750" y="400" width="80" height="80"/>
+<text transform="matrix(1 0 0 1 750 492)" class="st1 st3">Cliff Mokua (he/him)</text>
+<text transform="matrix(1 0 0 1 750 505)" class="st1 st3">Sonar Imaging Ctr. (KE)</text>
 </a>
 
-<!-- Cliff Mokua — adjust X Y after photo is placed -->
-<a xlink:href="LINKEDIN_CLIFF_MOKUA" >
-    <text transform="matrix(1 0 0 1 500 600)" class="st1 st2" font-weight="bold">Cliff Mokua </text>
-    <text transform="matrix(1 0 0 1 575 600)" class="st1 st3" font-weight="bold">(PRONOUNS)</text>
-    <text transform="matrix(1 0 0 1 490 615)" class="st1 st2" font-weight="bold">Sonar Imaging Centre (KE)</text>
-</a>
-
-<!-- Carlos Castillo-Passi — adjust X Y after photo is placed -->
-<a xlink:href="LINKEDIN_CARLOS_CASTILLO" >
-    <text transform="matrix(1 0 0 1 130 420)" class="st1 st2" font-weight="bold">Carlos Castillo-Passi </text>
-    <text transform="matrix(1 0 0 1 265 420)" class="st1 st3" font-weight="bold">(PRONOUNS)</text>
-    <text transform="matrix(1 0 0 1 145 435)" class="st1 st2" font-weight="bold">Stanford University (USA)</text>
-</a>
-
-<!-- Javier Bisbal — adjust X Y after photo is placed -->
-<a xlink:href="LINKEDIN_JAVIER_BISBAL" >
-    <text transform="matrix(1 0 0 1 130 480)" class="st1 st2" font-weight="bold">Javier Bisbal </text>
-    <text transform="matrix(1 0 0 1 215 480)" class="st1 st3" font-weight="bold">(PRONOUNS)</text>
-    <text transform="matrix(1 0 0 1 120 495)" class="st1 st2" font-weight="bold">UC Chile (CHL)</text>
+<!-- Javier Bisbal | UC Chile, Santiago -->
+<a xlink:href="https://www.linkedin.com/in/javier-bisbal-zenteno-b7380713b/">
+<image xlink:href="images/committee/JavierBisbal.png" x="0" y="490" width="80" height="80"/>
+<text transform="matrix(1 0 0 1 0 582)" class="st1 st3">Javier Bisbal (he/him)</text>
+<text transform="matrix(1 0 0 1 0 595)" class="st1 st3">UC Chile (CHL)</text>
 </a>
 
 </svg>
 </svg>
 </div>
--->
-
-<!--
-  TABLE SECTION (shown on mobile / narrow screens).
-  Headshot images go in: 26m/images/committee/
-  Naming convention (no spaces): FirstnameLastname.png
--->
 
 <div id="committee_table">
 <table style="width:100%">
 <tbody>
 <tr>
     <td><img src="images/committee/MariaMora.png" width=150px></td>
-    <td><strong><a href="LINKEDIN_MARIA_MORA">Maria Mora <a style="font-size: smaller;">(PRONOUNS)</a></a></strong><br> Children's National Hospital, Washington DC, USA</td>
-</tr>
-<tr>
-    <td><img src="images/committee/AnaisArtiges.png" width=150px></td>
-    <td><strong><a href="https://www.linkedin.com/in/ana%C3%AFs-artiges-phd-5b825baa/">Anais Artiges <a style="font-size: smaller;">(she/her)</a></a></strong><br> King's College London, UK</td>
+    <td><strong><a href="https://www.linkedin.com/in/maria-mora-alvarez-phd/?locale=en">Maria Mora <a style="font-size: smaller;">(she/her)</a></a></strong><br> Children's National Hospital, Washington DC, USA</td>
 </tr>
 <tr>
     <td><img src="images/committee/MartaBrigidMaggioni.png" width=150px></td>
-    <td><strong><a href="LINKEDIN_MARTA_MAGGIONI">Marta Brigid Maggioni <a style="font-size: smaller;">(PRONOUNS)</a></a></strong><br> University of Basel, Switzerland</td>
+    <td><strong><a href="https://www.linkedin.com/in/marta-brigid-maggioni-56751727a/">Marta Brigid Maggioni <a style="font-size: smaller;">(she/her; co-chair)</a></a></strong><br> University of Basel, Switzerland</td>
 </tr>
 <tr>
     <td><img src="images/committee/MatteoCencini.png" width=150px></td>
-    <td><strong><a href="LINKEDIN_MATTEO_CENCINI">Matteo Cencini <a style="font-size: smaller;">(he/him)</a></a></strong><br> IRCCS Stella Maris, Pisa, Italy</td>
+    <td><strong><a href="https://www.linkedin.com/in/matteo-cencini-b17482141/">Matteo Cencini <a style="font-size: smaller;">(he/him)</a></a></strong><br> IRCCS Stella Maris, Pisa, Italy</td>
 </tr>
 <tr>
     <td><img src="images/committee/YueqiQiu.png" width=150px></td>
-    <td><strong><a href="LINKEDIN_YUEQI_QIU">Yueqi Qiu <a style="font-size: smaller;">(PRONOUNS)</a></a></strong><br> Shanghai Jiao Tong University, Shanghai, China</td>
-</tr>
-<tr>
-    <td><img src="images/committee/GuillermoSahonero.png" width=150px></td>
-    <td><strong><a href="https://www.linkedin.com/in/guillermosahonero/">Guillermo Sahonero <a style="font-size: smaller;">(he/him)</a></a></strong><br> UC Chile, Santiago, Chile</td>
+    <td><strong><a href="https://www.linkedin.com/in/yueqi-qiu-02608b307/">Yueqi Qiu <a style="font-size: smaller;">(she/her; co-chair)</a></a></strong><br> Shanghai Jiao Tong University, Shanghai, China</td>
 </tr>
 <tr>
     <td><img src="images/committee/JiqingHuang.png" width=150px></td>
-    <td><strong><a href="LINKEDIN_JIQING_HUANG">Jiqing Huang <a style="font-size: smaller;">(PRONOUNS)</a></a></strong><br> University of Liège, Liège, Belgium</td>
+    <td><strong><a href="https://www.linkedin.com/in/jiqing-alain-huang-2a3279269/">Jiqing Huang <a style="font-size: smaller;">(he/him)</a></a></strong><br> University of Liège, Liège, Belgium</td>
 </tr>
 <tr>
     <td><img src="images/committee/CliffMokua.png" width=150px></td>
-    <td><strong><a href="LINKEDIN_CLIFF_MOKUA">Cliff Mokua <a style="font-size: smaller;">(PRONOUNS)</a></a></strong><br> Sonar Imaging Centre, Nairobi, Kenya</td>
+    <td><strong><a href="https://www.linkedin.com/in/cliff-mokua-8810a7187/">Cliff Mokua <a style="font-size: smaller;">(he/him)</a></a></strong><br> Sonar Imaging Centre, Nairobi, Kenya</td>
 </tr>
 <tr>
     <td><img src="images/committee/CarlosCastilloPassi.png" width=150px></td>
-    <td><strong><a href="LINKEDIN_CARLOS_CASTILLO">Carlos Castillo-Passi <a style="font-size: smaller;">(PRONOUNS)</a></a></strong><br> Stanford University, USA</td>
+    <td><strong><a href="https://www.linkedin.com/in/carlos-castillo-passi-468367146/">Carlos Castillo-Passi <a style="font-size: smaller;">(he/him)</a></a></strong><br> Stanford University, USA</td>
 </tr>
 <tr>
     <td><img src="images/committee/JavierBisbal.png" width=150px></td>
-    <td><strong><a href="LINKEDIN_JAVIER_BISBAL">Javier Bisbal <a style="font-size: smaller;">(PRONOUNS)</a></a></strong><br> UC Chile, Santiago, Chile</td>
+    <td><strong><a href="https://www.linkedin.com/in/javier-bisbal-zenteno-b7380713b/">Javier Bisbal <a style="font-size: smaller;">(he/him)</a></a></strong><br> UC Chile, Santiago, Chile</td>
 </tr>
 </tbody>
 </table>
