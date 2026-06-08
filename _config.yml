@@ -17,3 +17,9 @@ plugins:
 - jekyll-redirect-from
 - jekyll-sitemap
 - jemoji
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      year: 2026
