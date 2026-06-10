@@ -14,8 +14,6 @@ In 2026, MRI Together is becoming a **hackathon**: **MRI TogetherThon -  Refocus
 
 Whether you are an acquisition specialist, a reconstruction wizard, a software developer, or a clinical researcher, there is a role for you. The hackathon will be structured into focused sub-projects that span the full pipeline — from sequence design to final analysis — using open-source tools already trusted by the community.
 
-If the work is impactful enough, it may lead to a community publication.
-
 <br clear="right"/>
 
 ## When?
