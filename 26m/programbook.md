@@ -4,58 +4,230 @@ layout: default
 description: Program
 year: 2026
 ---
-# MRITogether26 - "MRI TogetherThon - Refocusing the community"
-This year, MRI Together is becoming a hackathon. The goal is to bring the community together around a shared, practical challenge — building a fully open-source, end-to-end MRI pipeline for prenatal imaging that benefits the entire field.
 
-## Day 1 — 30 November  
-### Sequence programming
+<style>
+.schedule {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 2rem 0;
+  border: 1px solid #c8c8c8;
+  border-radius: 8px;
+  overflow: hidden;
+  font-size: 0.96rem;
+}
 
-| Type | Session |
-|---|---|
-| Opening | Introduction to MRItogether and the hackathon |
-| Talk | Open-source sequence programming |
-| Talk | Optimisation of MRI sequences for prenatal imaging<br>Nahla M. Elkaid — Children's National Hospital, Washington DC |
-| Hands-on | Program and optimise a sequence together (in groups) |
+.schedule td {
+  padding: 0.7rem 0.9rem;
+  border-top: 1px solid #e2e2e2;
+  vertical-align: top;
+}
 
----
+.schedule tr:first-child td {
+  border-top: none;
+}
 
-## Day 2 — 1 December  
-### Reconstruction and Simulation
+.schedule .header td {
+  background: #d9def8;
+  font-weight: 600;
+}
 
-| Type | Session |
-|---|---|
-| Talk | Reconstruction |
-| Talk | Introduction to numerical phantoms and MRI sequence simulation with KomaMRI |
-| Hands-on | Run your sequence on a digital phantom and reconstruct data |
+.schedule .day {
+  color: #3f51b5;
+  font-weight: 700;
+}
 
----
+.schedule .date {
+  color: #666;
+  font-weight: 400;
+  margin-left: .5em;
+}
 
-## Day 3 — 2 December  
-### Motion correction & post-processing
+.schedule .topic {
+  margin-left: 1.5em;
+  font-weight: 700;
+}
 
-| Type | Session |
-|---|---|
-| Talk | Motion correction in MRI |
-| Talk | Motion correction in prenatal imaging |
-| Hands-on | Simulate motion-affected k-space data, then correct them |
+.schedule .type {
+  width: 110px;
+  font-size: .76rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  white-space: nowrap;
+}
 
----
+.schedule .opening {
+  background: #dff2eb;
+  color: #0b6b53;
+}
 
-## Day 4 — 3 December  
-### Analysis
+.schedule .talk {
+  background: #ece9ff;
+  color: #5b44b5;
+}
 
-| Type | Session |
-|---|---|
-| Talk | Quality metrics and reconstruction quality assessment |
-| Talk | Applications in prenatal body imaging |
-| Hands-on | Apply quality metrics to assess and compare reconstruction outputs |
+.schedule .handson {
+  background: #e7f3ff;
+  color: #0b63b5;
+}
 
----
+.schedule .workshop {
+  background: #dfeeff;
+  color: #0b63b5;
+}
 
-## Day 5 — 4 December  
-### Pipeline assembly
+.schedule .closing {
+  background: #dff2eb;
+  color: #0b6b53;
+}
 
-| Type | Session |
-|---|---|
-| Workshop | Full fetal MRI pipeline: integrating sequence programming, simulation, reconstruction, and analysis |
-| Closing | Closing talk |
+.schedule .speaker {
+  display: block;
+  margin-top: .3rem;
+  color: #666;
+  font-size: .88em;
+}
+</style>
+
+# MRITogether26 — *MRI TogetherThon: Refocusing the Community*
+
+This year, MRI Together becomes a collaborative hackathon. The goal is to bring the community together around a shared practical challenge: building a fully open-source, end-to-end MRI pipeline for prenatal imaging—from sequence programming to image analysis.
+
+<table class="schedule">
+
+<tr class="header">
+<td colspan="2">
+<span class="day">Day 1</span>
+<span class="date">30 November</span>
+<span class="topic">Sequence Programming</span>
+</td>
+</tr>
+
+<tr>
+<td class="type opening">Opening</td>
+<td>Introduction to MRITogether and the hackathon</td>
+</tr>
+
+<tr>
+<td class="type talk">Talk</td>
+<td>Open-source sequence programming</td>
+</tr>
+
+<tr>
+<td class="type talk">Talk</td>
+<td>
+Optimisation of MRI sequences for prenatal imaging
+<span class="speaker">Nahla M. Elkaid — Children's National Hospital, Washington DC</span>
+</td>
+</tr>
+
+<tr>
+<td class="type handson">Hands-on</td>
+<td>Program and optimise a sequence together (group exercise)</td>
+</tr>
+
+</table>
+
+<table class="schedule">
+
+<tr class="header">
+<td colspan="2">
+<span class="day">Day 2</span>
+<span class="date">1 December</span>
+<span class="topic">Reconstruction &amp; Simulation</span>
+</td>
+</tr>
+
+<tr>
+<td class="type talk">Talk</td>
+<td>Reconstruction</td>
+</tr>
+
+<tr>
+<td class="type talk">Talk</td>
+<td>Introduction to numerical phantoms and MRI sequence simulation with KomaMRI</td>
+</tr>
+
+<tr>
+<td class="type handson">Hands-on</td>
+<td>Run your sequence on a digital phantom and reconstruct data</td>
+</tr>
+
+</table>
+
+<table class="schedule">
+
+<tr class="header">
+<td colspan="2">
+<span class="day">Day 3</span>
+<span class="date">2 December</span>
+<span class="topic">Motion Correction &amp; Post-processing</span>
+</td>
+</tr>
+
+<tr>
+<td class="type talk">Talk</td>
+<td>Motion correction in MRI</td>
+</tr>
+
+<tr>
+<td class="type talk">Talk</td>
+<td>Motion correction in prenatal imaging</td>
+</tr>
+
+<tr>
+<td class="type handson">Hands-on</td>
+<td>Simulate motion-affected k-space data and correct them</td>
+</tr>
+
+</table>
+
+<table class="schedule">
+
+<tr class="header">
+<td colspan="2">
+<span class="day">Day 4</span>
+<span class="date">3 December</span>
+<span class="topic">Analysis</span>
+</td>
+</tr>
+
+<tr>
+<td class="type talk">Talk</td>
+<td>Quality metrics and reconstruction quality assessment</td>
+</tr>
+
+<tr>
+<td class="type talk">Talk</td>
+<td>Applications in prenatal body imaging</td>
+</tr>
+
+<tr>
+<td class="type handson">Hands-on</td>
+<td>Apply quality metrics to assess and compare reconstruction outputs</td>
+</tr>
+
+</table>
+
+<table class="schedule">
+
+<tr class="header">
+<td colspan="2">
+<span class="day">Day 5</span>
+<span class="date">4 December</span>
+<span class="topic">Pipeline Assembly</span>
+</td>
+</tr>
+
+<tr>
+<td class="type workshop">Workshop</td>
+<td>Full fetal MRI pipeline: integrating sequence programming, simulation, reconstruction and analysis</td>
+</tr>
+
+<tr>
+<td class="type closing">Closing</td>
+<td>Closing talk</td>
+</tr>
+
+</table>
