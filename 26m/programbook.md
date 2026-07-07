@@ -8,6 +8,7 @@ year: 2026
 <style>
 .schedule {
   width: 100%;
+  table-layout: fixed;
   border-collapse: separate;
   border-spacing: 0;
   margin: 2rem 0;
@@ -15,6 +16,14 @@ year: 2026
   border-radius: 8px;
   overflow: hidden;
   font-size: 0.96rem;
+}
+
+.schedule col.type-col {
+  width: 12%;
+}
+
+.schedule col.text-col {
+  width: 88%;
 }
 
 .schedule td {
@@ -49,7 +58,6 @@ year: 2026
 }
 
 .schedule .type {
-  width: 110px;
   font-size: .76rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -88,6 +96,24 @@ year: 2026
   color: #666;
   font-size: .88em;
 }
+
+@media (max-width: 600px) {
+  .schedule {
+    font-size: 0.85rem;
+  }
+
+  .schedule .type {
+    white-space: normal !important;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    font-size: .65rem;
+    line-height: 1.1;
+  }
+
+  .schedule td {
+    padding: 0.5rem 0.3rem;
+  }
+}
 </style>
 
 # MRITogether26 — *MRI TogetherThon: Refocusing the Community*
@@ -95,6 +121,10 @@ year: 2026
 This year, MRI Together becomes a collaborative hackathon. The goal is to bring the community together around a shared practical challenge: building a fully open-source, end-to-end MRI pipeline for prenatal imaging—from sequence programming to image analysis.
 
 <table class="schedule">
+<colgroup>
+  <col class="type-col">
+  <col class="text-col">
+</colgroup>
 
 <tr class="header">
 <td colspan="2">
@@ -130,6 +160,10 @@ Optimisation of MRI sequences for prenatal imaging
 </table>
 
 <table class="schedule">
+<colgroup>
+  <col class="type-col">
+  <col class="text-col">
+</colgroup>
 
 <tr class="header">
 <td colspan="2">
@@ -157,6 +191,10 @@ Optimisation of MRI sequences for prenatal imaging
 </table>
 
 <table class="schedule">
+<colgroup>
+  <col class="type-col">
+  <col class="text-col">
+</colgroup>
 
 <tr class="header">
 <td colspan="2">
@@ -184,6 +222,10 @@ Optimisation of MRI sequences for prenatal imaging
 </table>
 
 <table class="schedule">
+<colgroup>
+  <col class="type-col">
+  <col class="text-col">
+</colgroup>
 
 <tr class="header">
 <td colspan="2">
@@ -211,6 +253,10 @@ Optimisation of MRI sequences for prenatal imaging
 </table>
 
 <table class="schedule">
+<colgroup>
+  <col class="type-col">
+  <col class="text-col">
+</colgroup>
 
 <tr class="header">
 <td colspan="2">
