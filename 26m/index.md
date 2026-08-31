@@ -10,7 +10,7 @@ year: 2026
 
 [**#MRITogether**](https://twitter.com/hashtag/MRITogether) is a global online event on open, reproducible, and inclusive MRI research.
 
-In 2026, MRI Together is becoming a **hackathon**: the **MRI TogetherThon**. The goal is to bring the community together around a shared, practical challenge — building a fully open-source, end-to-end MRI pipeline that benefits the entire field.
+In 2026, MRI Together is becoming a **hackathon**: **MRI TogetherThon -  Refocusing the community**. The goal is to bring the community together around a shared, practical challenge — building a fully open-source, end-to-end MRI pipeline that benefits the entire field.
 
 Whether you are an acquisition specialist, a reconstruction wizard, a software developer, or a clinical researcher, there is a role for you. The hackathon will be structured into focused sub-projects that span the full pipeline — from sequence design to final analysis — using open-source tools already trusted by the community.
 
