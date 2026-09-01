@@ -147,14 +147,14 @@ This year, MRI Together becomes a collaborative hackathon. The goal is to bring 
 <tr>
 <td class="type talk">Talk</td>
 <td>
-Optimisation of MRI sequences for prenatal imaging
+Optimisation of MRI sequences for diffusion placenta imaging
 <span class="speaker">Nahla M. Elkaid — Children's National Hospital, Washington DC</span>
 </td>
 </tr>
 
 <tr>
 <td class="type handson">Hands-on</td>
-<td>Program and optimise a sequence together (group exercise)</td>
+<td>Program and optimise a diffusion sequence for placenta application</td>
 </tr>
 
 </table>
@@ -185,7 +185,7 @@ Optimisation of MRI sequences for prenatal imaging
 
 <tr>
 <td class="type handson">Hands-on</td>
-<td>Run your sequence on a digital phantom and reconstruct data</td>
+<td>Building a Digital Placenta Phantom, Simulating Data, and Running Reconstructions </td>
 </tr>
 
 </table>
@@ -206,17 +206,17 @@ Optimisation of MRI sequences for prenatal imaging
 
 <tr>
 <td class="type talk">Talk</td>
-<td>Motion correction in MRI</td>
+<td>Addressing Motion Artifacts in (prenatal) MRI</td>
 </tr>
 
 <tr>
 <td class="type talk">Talk</td>
-<td>Motion correction in prenatal imaging</td>
+<td>Advanced Diffusion Post-Processing Pipelines for Prenatal Imaging</td>
 </tr>
 
 <tr>
 <td class="type handson">Hands-on</td>
-<td>Simulate motion-affected k-space data and correct them</td>
+<td>Correct motion-affected k-space data</td>
 </tr>
 
 </table>
@@ -242,12 +242,12 @@ Optimisation of MRI sequences for prenatal imaging
 
 <tr>
 <td class="type talk">Talk</td>
-<td>Applications in prenatal body imaging</td>
+<td>Applications in placenta diffusion imaging</td>
 </tr>
 
 <tr>
 <td class="type handson">Hands-on</td>
-<td>Apply quality metrics to assess and compare reconstruction outputs</td>
+<td>Applying image quality metrics and extracting quantitative parameters</td>
 </tr>
 
 </table>
@@ -268,12 +268,12 @@ Optimisation of MRI sequences for prenatal imaging
 
 <tr>
 <td class="type workshop">Workshop</td>
-<td>Full fetal MRI pipeline: integrating sequence programming, simulation, reconstruction and analysis</td>
+<td>Full Placenta MRI pipeline: integrating sequence programming, simulation, reconstruction, and analysis</td>
 </tr>
 
 <tr>
 <td class="type closing">Closing</td>
-<td>Closing talk</td>
+<td>Prize Announcements and closing talk</td>
 </tr>
 
 </table>
