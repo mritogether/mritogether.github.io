@@ -148,7 +148,7 @@ This year, MRI Together becomes a collaborative hackathon. The goal is to bring 
 <td class="type talk">Talk</td>
 <td>
 Optimisation of MRI sequences for diffusion placenta imaging
-<span class="speaker">Nahla M. Elkaid — Children's National Hospital, Washington DC</span>
+<span class="speaker">Nahla M.H. Elsaid — Children's National Hospital, Washington DC</span>
 </td>
 </tr>
 
