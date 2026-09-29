@@ -142,13 +142,15 @@ This year, MRI Together becomes a collaborative hackathon. The goal is to bring 
 <tr>
 <td class="type talk">Talk</td>
 <td>Open-source sequence programming</td>
+<span class="speaker">Maxim Zeitsev - University Medical Center Freiburg, Freiburg, Germany</span>
+<span class="speaker">Jon F. Nielsen — University of Michigan, Ann Arbor, USA</span>
 </tr>
 
 <tr>
 <td class="type talk">Talk</td>
 <td>
 Optimisation of MRI sequences for diffusion placenta imaging
-<span class="speaker">Nahla M. Elkaid — Children's National Hospital, Washington DC</span>
+<span class="speaker">Nahla M. Elkaid — Children's National Hospital, Washington DC, USA</span>
 </td>
 </tr>
 
@@ -181,6 +183,8 @@ Optimisation of MRI sequences for diffusion placenta imaging
 <tr>
 <td class="type talk">Talk</td>
 <td>Introduction to numerical phantoms and MRI sequence simulation with KomaMRI</td>
+<span class="speaker">Carlos Castillo-Passi — Stanford University, Stanford, USA</span>
+<span class="speaker">Pablo Villacorta-Aylagas — Universidad de Valladolid, Valladolid, Spain</span>
 </tr>
 
 <tr>
@@ -207,11 +211,13 @@ Optimisation of MRI sequences for diffusion placenta imaging
 <tr>
 <td class="type talk">Talk</td>
 <td>Addressing Motion Artifacts in (prenatal) MRI</td>
+<span class="speaker">Thomas Küstner — University Hospital of Tübingen, Tübingen, Germany</span>
 </tr>
 
 <tr>
 <td class="type talk">Talk</td>
 <td>Advanced Diffusion Post-Processing Pipelines for Prenatal Imaging</td>
+<span class="speaker">Jana Hutter — Leibniz University Hannover, Hannover, Germany</span>
 </tr>
 
 <tr>
@@ -238,6 +244,8 @@ Optimisation of MRI sequences for diffusion placenta imaging
 <tr>
 <td class="type talk">Talk</td>
 <td>Quality metrics and reconstruction quality assessment</td>
+<span class="speaker">Martin Styner — The University of North Carolina at Chapel Hill, Chapel Hill, USA</span>
+<span class="speaker">Steven Meisler — University of Pennsylvania, Philadelphia, USA</span>
 </tr>
 
 <tr>
