@@ -134,6 +134,16 @@ function dataToTime(data, isnegative)
 
 (function() {
 	// Schedule Template - by CodyHouse.co
+	function getSpeakerImageUrl(key) {
+		if (!key || key === 'speaker_empty' || key === 'MRITogether') {
+			return '/25m/images/speaker_empty.png';
+		}
+		if (key === 'CowlesChilongulo' || key === 'CowlesChilingulo') {
+			return '/25m/images/speakers/CowlesChilingulo.png';
+		}
+		return '/25m/images/speakers/' + key + '_200x200.jpg';
+	}
+
 	function ScheduleTemplate( element ) {
 		this.element = element;
 		this.timelineItems = this.element.getElementsByClassName('cd-schedule__timeline')[0].getElementsByTagName('li');
@@ -410,15 +420,15 @@ function dataToTime(data, isnegative)
   //     var d = snapshot.child("name/middle").exists(); // false
   //   }); 
   		for (const moderator of moderators) {
-  			user = usersInfo[moderator];
-  			url = user.url;
-  			name = user.name;
-  			affiliation = user.aff;
-  			twitter = user.twt;
-  			mast = user.mast;
-  			inner = "";
+  			var user = (typeof usersInfo !== 'undefined' && usersInfo[moderator]) ? usersInfo[moderator] : {};
+  			var url = getSpeakerImageUrl(moderator);
+  			var name = user.name || moderator;
+  			var affiliation = user.aff || "";
+  			var twitter = user.twt || null;
+  			var mast = user.mast || null;
+  			var inner = "";
 
-  			inner += "<div class='item'> <img class='cd-schedule-modal__img' src=" + url + "> <span class='caption'>" + name;
+  			inner += "<div class='item'> <img class='cd-schedule-modal__img' src='" + url + "' onerror=\"this.onerror=null; this.src='/25m/images/speaker_empty.png';\"> <span class='caption'>" + name;
   			if (twitter != null){
 				    inner += " <a style='color: white;' href='https://twitter.com/" + twitter + "' target='_blank'><i class='fab fa-twitter'></i></a>";
 				}
@@ -434,15 +444,15 @@ function dataToTime(data, isnegative)
 		}
 		// modalEventInfo.innerHTML += "<br><span class='cd-schedule-modal__info'>Speakers</span>";
 		for (const speaker of speakers) {
-			user = usersInfo[speaker];
-			url = user.url;
-  			name = user.name;
-  			affiliation = user.aff;
-  			twitter = user.twt;
-  			mast = user.mast;
-  			inner = "";
+			var user = (typeof usersInfo !== 'undefined' && usersInfo[speaker]) ? usersInfo[speaker] : {};
+			var url = getSpeakerImageUrl(speaker);
+  			var name = user.name || speaker;
+  			var affiliation = user.aff || "";
+  			var twitter = user.twt || null;
+  			var mast = user.mast || null;
+  			var inner = "";
 
-  			inner += "<div class='item'> <img class='cd-schedule-modal__img' src=" + url + "> <span class='caption'>" + name;
+  			inner += "<div class='item'> <img class='cd-schedule-modal__img' src='" + url + "' onerror=\"this.onerror=null; this.src='/25m/images/speaker_empty.png';\"> <span class='caption'>" + name;
   			if (twitter != null){
 				    inner += " <a style='color: white;' href='https://twitter.com/" + twitter + "' target='_blank'><i class='fab fa-twitter'></i></a>";
 				}
