@@ -23,4 +23,6 @@ The hackathon will be held **November 30 – December 4, 2026 (UTC)**. Sessions 
 We are a [team](committee) of MRI scientists from different corners of the MRI world with a passion for open, reproducible, and inclusive science.
 With support and endorsement from [ESMRMB](https://esmrmb.org/), this event aims to produce something the community can use, build on, and publish.
 
+<p align="center"><img src="images/ISMRM_endorsed.jpg" alt="ISMRM endorsed" style="width: 150px;"></p>
+
 Whether you're a **sequence developer**, **reconstruction engineer**, **image analysis expert**, **software developer**, or **clinical researcher**, there is a project for you here.
