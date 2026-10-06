@@ -152,7 +152,7 @@ Open-source sequence programming
 <td class="type talk">Talk</td>
 <td>
 Optimisation of MRI sequences for diffusion placenta imaging
-<span class="speaker">Nahla M.H. Elsaid — Children's National Hospital, Washington DC</span>
+<span class="speaker">Nahla M.H. Elsaid — Children's National Hospital, Washington DC, USA</span>
 </td>
 </tr>
 
@@ -260,7 +260,10 @@ Quality metrics and reconstruction quality assessment
 
 <tr>
 <td class="type talk">Talk</td>
-<td>Applications in placenta diffusion imaging</td>
+<td>
+Applications in placenta diffusion imaging
+<span class="speaker">Esra Abaci Turk — Boston Children's Hospital, Boston, USA</span>
+</td>
 </tr>
 
 <tr>
