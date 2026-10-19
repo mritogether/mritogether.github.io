@@ -179,16 +179,16 @@ Optimisation of MRI sequences for diffusion placenta imaging
 
 <tr>
 <td class="type talk">Talk</td>
-<td>Reconstruction</td>
-</tr>
-
-<tr>
-<td class="type talk">Talk</td>
 <td>
 Introduction to numerical phantoms and MRI sequence simulation with KomaMRI
 <span class="speaker">Carlos Castillo-Passi — Stanford University, Stanford, USA</span>
 <span class="speaker">Pablo Villacorta-Aylagas — Universidad de Valladolid, Valladolid, Spain</span>
 </td>
+</tr>
+
+<tr>
+<td class="type talk">Talk</td>
+<td>Reconstruction</td>
 </tr>
 
 <tr>
