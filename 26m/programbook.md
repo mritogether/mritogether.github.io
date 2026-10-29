@@ -182,7 +182,7 @@ Optimisation of MRI sequences for diffusion placenta imaging
 <td class="type talk">Talk</td>
 <td>Reconstruction (BART, EPI reconstruction)
 <span class="speaker">Martin Uecker — Institute of Biomedical Imaging, Graz University of Technology, Graz, Austria</span>
-<span class="speaker">Mengye Lyu — Shenzhen Technology Univerity, Shenzhen, China</span>
+<span class="speaker">Mengye Lyu — Shenzhen Technology University, Shenzhen, China</span>
 </td>
 </tr>
 
