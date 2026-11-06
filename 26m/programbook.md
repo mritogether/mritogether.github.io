@@ -259,8 +259,8 @@ Advanced Diffusion Post-Processing Pipelines for Prenatal Imaging
 <td class="type talk">Talk</td>
 <td>
 Quality metrics and reconstruction quality assessment
-<span class="speaker">Martin Styner — The University of North Carolina at Chapel Hill, Chapel Hill, USA</span>
-<span class="speaker">Steven Meisler — University of Pennsylvania, Philadelphia, USA</span>
+<span class="speaker">Martin Styner — The University of North Carolina at Chapel Hill, Chapel Hill, USA (UTC 09:00 - 09:30)</span>
+<span class="speaker">Steven Meisler — University of Pennsylvania, Philadelphia, USA (UTC 17:00-17:30)</span>
 </td>
 </tr>
 
@@ -268,13 +268,14 @@ Quality metrics and reconstruction quality assessment
 <td class="type talk">Talk</td>
 <td>
 Applications in placenta diffusion imaging
-<span class="speaker">Esra Abaci Turk — Boston Children's Hospital, Boston, USA</span>
+<span class="speaker">Esra Abaci Turk — Boston Children's Hospital, Boston, USA (UTC 17:30 - 18:00)</span>
 </td>
 </tr>
 
 <tr>
 <td class="type handson">Hands-on</td>
-<td>Applying image quality metrics and extracting quantitative parameters</td>
+<td>Applying image quality metrics and extracting quantitative parameters (UTC 10:00 - 13:00 & 18:00 - 21:00)
+</td>
 </tr>
 
 </table>
@@ -295,12 +296,14 @@ Applications in placenta diffusion imaging
 
 <tr>
 <td class="type workshop">Workshop</td>
-<td>Full Placenta MRI pipeline: integrating sequence programming, simulation, reconstruction, and analysis</td>
+<td>Full Placenta MRI pipeline: integrating sequence programming, simulation, reconstruction, and analysis
+<span class="speaker">Jo Hajnal — King's College London, London, UK (UTC TBD)</span>
+</td>
 </tr>
 
 <tr>
 <td class="type closing">Closing</td>
-<td>Prize Announcements and closing talk</td>
+<td>Prize Announcements and closing talk (UTC TBD)</td>
 </tr>
 
 </table>
