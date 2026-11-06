@@ -143,8 +143,8 @@ This year, MRI Together becomes a collaborative hackathon. The goal is to bring 
 <td class="type talk">Talk</td>
 <td>
 Open-source sequence programming
-<span class="speaker">Maxim Zeitsev — University Medical Center Freiburg, Freiburg, Germany</span>
-<span class="speaker">Jon-Fredrik Nielsen — University of Michigan, Ann Arbor, USA</span>
+<span class="speaker">Maxim Zeitsev — University Medical Center Freiburg, Freiburg, Germany (UTC 09:30 - 10:00)</span>
+<span class="speaker">Jon-Fredrik Nielsen — University of Michigan, Ann Arbor, USA (UTC 17:30 - 18:00)</span>
 </td>
 </tr>
 
@@ -152,14 +152,14 @@ Open-source sequence programming
 <td class="type talk">Talk</td>
 <td>
 Optimisation of MRI sequences for diffusion placenta imaging
-<span class="speaker">Nahla M.H. Elsaid — Children's National Hospital, Washington DC, USA</span>
-<span class="speaker">Paddy Slator — Cardiff University, Cardiff, UK</span>
+<span class="speaker">Paddy Slator — Cardiff University, Cardiff, UK (UTC 10:00 - 10:30)</span>
+<span class="speaker">Nahla M.H. Elsaid — Children's National Hospital, Washington DC, USA (UTC 17:00 - 17:30)</span>
 </td>
 </tr>
 
 <tr>
 <td class="type handson">Hands-on</td>
-<td>Program and optimise a diffusion sequence for placenta application</td>
+<td>Program and optimise a diffusion sequence for placenta application (UTC 10:30 - 13:00 & 18:00 - 21:00)</td>
 </tr>
 
 </table>
@@ -181,8 +181,8 @@ Optimisation of MRI sequences for diffusion placenta imaging
 <tr>
 <td class="type talk">Talk</td>
 <td>Reconstruction (BART, EPI reconstruction)
-<span class="speaker">Martin Uecker — Institute of Biomedical Imaging, Graz University of Technology, Graz, Austria</span>
-<span class="speaker">Mengye Lyu — Shenzhen Technology University, Shenzhen, China</span>
+<span class="speaker">Martin Uecker — Institute of Biomedical Imaging, Graz University of Technology, Graz, Austria (UTC TBD - TBD+30')</span>
+<span class="speaker">Mengye Lyu — Shenzhen Technology University, Shenzhen, China (UTC 10:00 - 10:30)</span>
 </td>
 </tr>
 
@@ -190,14 +190,14 @@ Optimisation of MRI sequences for diffusion placenta imaging
 <td class="type talk">Talk</td>
 <td>
 Introduction to numerical phantoms and MRI sequence simulation with KomaMRI
-<span class="speaker">Carlos Castillo-Passi — Stanford University, Stanford, USA</span>
-<span class="speaker">Pablo Villacorta-Aylagas — Universidad de Valladolid, Valladolid, Spain</span>
+<span class="speaker">Pablo Villacorta-Aylagas — Universidad de Valladolid, Valladolid, Spain (UTC 09:30 - 10:00)</span>
+<span class="speaker">Carlos Castillo-Passi — Stanford University, Stanford, USA (UTC 16:00 - 16:30)</span>
 </td>
 </tr>
 
 <tr>
 <td class="type handson">Hands-on</td>
-<td>Building a Digital Placenta Phantom, Simulating Data, and Running Reconstructions </td>
+<td>Building a Digital Placenta Phantom, Simulating Data, and Running Reconstructions (UTC TBD - TBD+3h & 16:30 - 19:30)</td>
 </tr>
 
 </table>
@@ -220,8 +220,8 @@ Introduction to numerical phantoms and MRI sequence simulation with KomaMRI
 <td class="type talk">Talk</td>
 <td>
 Addressing Motion Artifacts in (prenatal) MRI
-<span class="speaker">Thomas Küstner — University Hospital of Tübingen, Tübingen, Germany</span>
-<span class="speaker">Dimitra Flouri — CYENSE Centre of Excellence, Nicosia, Cyprus</span>
+<span class="speaker">Dimitra Flouri — CYENSE Centre of Excellence, Nicosia, Cyprus (UTC 09:00 - 09:30)</span>
+<span class="speaker">Thomas Küstner — University Hospital of Tübingen, Tübingen, Germany (UTC 15:00 - 15:30)</span>
 </td>
 </tr>
 
@@ -229,14 +229,14 @@ Addressing Motion Artifacts in (prenatal) MRI
 <td class="type talk">Talk</td>
 <td>
 Advanced Diffusion Post-Processing Pipelines for Prenatal Imaging
-<span class="speaker">Jana Hutter — Leibniz University Hannover, Hannover, Germany</span>
-<span class="speaker">Penny Anne Gowland — University of Nottingham, Nottingham, UK</span>
+<span class="speaker">Jana Hutter — Leibniz University Hannover, Hannover, Germany (UTC 09:30 - 10:00)</span>
+<span class="speaker">Penny Anne Gowland — University of Nottingham, Nottingham, UK (UTC 15:30 - 16:00)</span>
 </td>
 </tr>
 
 <tr>
 <td class="type handson">Hands-on</td>
-<td>Correct motion-affected k-space data</td>
+<td>Correct motion-affected k-space data (UTC 10:00 - 13:00 & 18:00 - 21:00)</td>
 </tr>
 
 </table>
