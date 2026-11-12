@@ -81,9 +81,9 @@ year: 2026
 <image xlink:href="images/committee/JiqingHuang.png" x="255" y="60" width="80" height="80"/>
 </a>
 
-<!-- Marta Brigid Maggioni | University of Basel (co-chair) -->
+<!-- Marta Brigid Maggioni | University of Basel (chair) -->
 <a xlink:href="https://www.linkedin.com/in/marta-brigid-maggioni-56751727a/">
-<text transform="matrix(1 0 0 1 397 43)" class="st1 st3">M. Maggioni (she/her; co-chair)</text>
+<text transform="matrix(1 0 0 1 397 43)" class="st1 st3">M. Maggioni (she/her; chair)</text>
 <text transform="matrix(1 0 0 1 397 56)" class="st1 st3">Univ. of Basel (CH)</text>
 <image xlink:href="images/committee/MartaBrigidMaggioni.png" x="400" y="60" width="80" height="80"/>
 </a>
@@ -95,10 +95,10 @@ year: 2026
 <image xlink:href="images/committee/MatteoCencini.png" x="540" y="60" width="80" height="80"/>
 </a>
 
-<!-- Yueqi Qiu | Shanghai Jiao Tong University (co-chair) -->
+<!-- Yueqi Qiu | Shanghai Jiao Tong University -->
 <a xlink:href="https://www.linkedin.com/in/yueqi-qiu-02608b307/">
 <image xlink:href="images/committee/YueqiQiu.png" x="750" y="115" width="80" height="80"/>
-<text transform="matrix(1 0 0 1 750 207)" class="st1 st3">Yueqi Qiu (she/her; co-chair)</text>
+<text transform="matrix(1 0 0 1 750 207)" class="st1 st3">Yueqi Qiu (she/her)</text>
 <text transform="matrix(1 0 0 1 750 220)" class="st1 st3">Shanghai JTU (CN)</text>
 </a>
 
@@ -129,7 +129,7 @@ year: 2026
 </tr>
 <tr>
     <td><img src="images/committee/MartaBrigidMaggioni.png" width=150px></td>
-    <td><strong><a href="https://www.linkedin.com/in/marta-brigid-maggioni-56751727a/">Marta Brigid Maggioni <a style="font-size: smaller;">(she/her; co-chair)</a></a></strong><br> University of Basel, Switzerland</td>
+    <td><strong><a href="https://www.linkedin.com/in/marta-brigid-maggioni-56751727a/">Marta Brigid Maggioni <a style="font-size: smaller;">(she/her; chair)</a></a></strong><br> University of Basel, Switzerland</td>
 </tr>
 <tr>
     <td><img src="images/committee/MatteoCencini.png" width=150px></td>
@@ -137,7 +137,7 @@ year: 2026
 </tr>
 <tr>
     <td><img src="images/committee/YueqiQiu.png" width=150px></td>
-    <td><strong><a href="https://www.linkedin.com/in/yueqi-qiu-02608b307/">Yueqi Qiu <a style="font-size: smaller;">(she/her; co-chair)</a></a></strong><br> Shanghai Jiao Tong University, Shanghai, China</td>
+    <td><strong><a href="https://www.linkedin.com/in/yueqi-qiu-02608b307/">Yueqi Qiu <a style="font-size: smaller;">(she/her)</a></a></strong><br> Shanghai Jiao Tong University, Shanghai, China</td>
 </tr>
 <tr>
     <td><img src="images/committee/JiqingHuang.png" width=150px></td>
