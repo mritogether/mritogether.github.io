@@ -159,7 +159,7 @@ Optimisation of MRI sequences for diffusion placenta imaging
 
 <tr>
 <td class="type handson">Hands-on</td>
-<td>Program and optimise a diffusion sequence for placenta application (UTC 10:30 - 13:00 & 18:00 - 21:00)</td>
+<td>Program and optimise a diffusion sequence for placenta application (UTC 10:30 - 13:30 & 18:00 - 21:00)</td>
 </tr>
 
 </table>
@@ -181,8 +181,8 @@ Optimisation of MRI sequences for diffusion placenta imaging
 <tr>
 <td class="type talk">Talk</td>
 <td>Reconstruction (BART, EPI reconstruction)
-<span class="speaker">Martin Uecker — Institute of Biomedical Imaging, Graz University of Technology, Graz, Austria (UTC TBD - TBD+30')</span>
 <span class="speaker">Mengye Lyu — Shenzhen Technology University, Shenzhen, China (UTC 10:00 - 10:30)</span>
+<span class="speaker">Martin Uecker — Institute of Biomedical Imaging, Graz University of Technology, Graz, Austria (UTC 16:30 - 17:00)</span>
 </td>
 </tr>
 
@@ -197,7 +197,7 @@ Introduction to numerical phantoms and MRI sequence simulation with KomaMRI
 
 <tr>
 <td class="type handson">Hands-on</td>
-<td>Building a Digital Placenta Phantom, Simulating Data, and Running Reconstructions (UTC TBD - TBD+3h & 16:30 - 19:30)</td>
+<td>Building a Digital Placenta Phantom, Simulating Data, and Running Reconstructions (UTC 10:30 - 13:30 & 17:00 - 20:00)</td>
 </tr>
 
 </table>
