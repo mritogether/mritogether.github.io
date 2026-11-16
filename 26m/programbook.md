@@ -51,8 +51,8 @@ This year, MRI Together becomes a collaborative hackathon. The goal is to bring 
 <div class="item handson"><div class="item-head"><span class="type">Hands-on</span><span class="t-utc" data-start="2026-11-30T10:30:00Z" data-end="2026-11-30T13:30:00Z">10:30–13:30 UTC</span><span class="t-local"></span></div><div class="item-body">Program and optimise a diffusion sequence for placenta application</div></div>
 </div>
 <div class="cycle"><div class="cycle-title">Cycle 2</div>
-<div class="item talk"><div class="item-head"><span class="type">Talk</span><span class="t-utc" data-start="2026-11-30T17:00:00Z" data-end="2026-11-30T17:30:00Z">17:00–17:30 UTC</span><span class="t-local"></span></div><div class="item-body">Optimisation of MRI sequences for diffusion placenta imaging<span class="speaker">Nahla M.H. Elsaid — Children's National Hospital, Washington DC, USA</span></div></div>
-<div class="item talk"><div class="item-head"><span class="type">Talk</span><span class="t-utc" data-start="2026-11-30T17:30:00Z" data-end="2026-11-30T18:00:00Z">17:30–18:00 UTC</span><span class="t-local"></span></div><div class="item-body">Open-source sequence programming<span class="speaker">Jon-Fredrik Nielsen — University of Michigan, Ann Arbor, USA</span></div></div>
+<div class="item talk"><div class="item-head"><span class="type">Talk</span><span class="t-utc" data-start="2026-11-30T17:30:00Z" data-end="2026-11-30T18:00:00Z">17:00–17:30 UTC</span><span class="t-local"></span></div><div class="item-body">Open-source sequence programming<span class="speaker">Jon-Fredrik Nielsen — University of Michigan, Ann Arbor, USA</span></div></div>
+<div class="item talk"><div class="item-head"><span class="type">Talk</span><span class="t-utc" data-start="2026-11-30T17:00:00Z" data-end="2026-11-30T17:30:00Z">17:30–18:00 UTC</span><span class="t-local"></span></div><div class="item-body">Optimisation of MRI sequences for diffusion placenta imaging<span class="speaker">Nahla M.H. Elsaid — Children's National Hospital, Washington DC, USA</span></div></div>
 <div class="item handson"><div class="item-head"><span class="type">Hands-on</span><span class="t-utc" data-start="2026-11-30T18:00:00Z" data-end="2026-11-30T21:00:00Z">18:00–21:00 UTC</span><span class="t-local"></span></div><div class="item-body">Program and optimise a diffusion sequence for placenta application</div></div>
 </div>
 </div>
@@ -107,8 +107,8 @@ This year, MRI Together becomes a collaborative hackathon. The goal is to bring 
 
 <section class="day-block">
 <div class="day-head"><span class="day">Day 5</span><span class="date">4 December</span><span class="topic">Pipeline Assembly</span></div>
-<div class="single"><div class="item workshop"><div class="item-head"><span class="type">Workshop</span><span class="t-utc">Time to be announced</span></div><div class="item-body">Full Placenta MRI pipeline: integrating sequence programming, simulation, reconstruction, and analysis<span class="speaker">Jo Hajnal — King's College London, London, UK</span></div></div>
-<div class="item closing"><div class="item-head"><span class="type">Closing</span><span class="t-utc">Time to be announced</span></div><div class="item-body">Prize Announcements and closing talk</div></div></div>
+<div class="single"><div class="item workshop"><div class="item-head"><span class="type">Workshop</span><span class="t-utc">TBD</span></div><div class="item-body">Full Placenta MRI pipeline: integrating sequence programming, simulation, reconstruction, and analysis<span class="speaker">Jo Hajnal — King's College London, London, UK</span></div></div>
+<div class="item closing"><div class="item-head"><span class="type">Closing</span><span class="t-utc">TBD</span></div><div class="item-body">Prize Announcements and closing talk</div></div></div>
 </section>
 
 <script>
