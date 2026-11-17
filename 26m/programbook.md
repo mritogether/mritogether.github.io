@@ -85,7 +85,7 @@ This year, MRI Together becomes a collaborative hackathon. The goal is to bring 
 <div class="cycle"><div class="cycle-title">Cycle 2</div>
 <div class="item talk"><div class="item-head"><span class="type">Talk</span><span class="t-utc" data-start="2026-12-02T15:00:00Z" data-end="2026-12-02T15:30:00Z">15:00–15:30 UTC</span><span class="t-local"></span></div><div class="item-body">Addressing Motion Artifacts in (prenatal) MRI<span class="speaker">Thomas Küstner — University Hospital of Tübingen, Tübingen, Germany</span></div></div>
 <div class="item talk"><div class="item-head"><span class="type">Talk</span><span class="t-utc" data-start="2026-12-02T15:30:00Z" data-end="2026-12-02T16:00:00Z">15:30–16:00 UTC</span><span class="t-local"></span></div><div class="item-body">Advanced Diffusion Post-Processing Pipelines for Prenatal Imaging<span class="speaker">Penny Anne Gowland — University of Nottingham, Nottingham, UK</span></div></div>
-<div class="item handson"><div class="item-head"><span class="type">Hands-on</span><span class="t-utc" data-start="2026-12-02T18:00:00Z" data-end="2026-12-02T21:00:00Z">18:00–21:00 UTC</span><span class="t-local"></span></div><div class="item-body">Motion correction, denoising and post-processing of real and simulated MRI data</div></div>
+<div class="item handson"><div class="item-head"><span class="type">Hands-on</span><span class="t-utc" data-start="2026-12-02T18:00:00Z" data-end="2026-12-02T21:00:00Z">16:00–19:00 UTC</span><span class="t-local"></span></div><div class="item-body">Motion correction, denoising and post-processing of real and simulated MRI data</div></div>
 </div>
 </div>
 </section>
