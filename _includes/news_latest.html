@@ -1,0 +1,14 @@
+{% assign latest_done = false %}
+{% for n in site.data.news2026 %}
+  {% assign show = false %}
+  {% if n.pinned %}{% assign show = true %}
+  {% elsif latest_done == false and n.homepage != false %}{% assign show = true %}{% assign latest_done = true %}
+  {% endif %}
+  {% if show %}
+<div class="alert alert-warning" role="alert" style="margin: 1em 0; border-left: 5px solid #f0ad4e;">
+  <strong>{% if n.pinned %}&#128204; {% endif %}{{ n.date | date: "%B %-d, %Y" }} &middot; {{ n.title }}</strong>
+  {{ n.body | markdownify }}
+  <a href="news">All news &raquo;</a>
+</div>
+  {% endif %}
+{% endfor %}

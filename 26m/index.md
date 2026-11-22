@@ -4,6 +4,8 @@ layout: default
 year: 2026
 ---
 
+{% include news_latest.html %}
+
 ![image](images/MRI together logo circle.png){: style="float: right; margin-left: 2em; width: 40%; height: 40%"}
 
 ## What?
