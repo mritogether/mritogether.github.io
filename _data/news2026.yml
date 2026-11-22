@@ -1,0 +1,12 @@
+# Newest first. All entries appear on /26m/news.
+# Homepage banner: every entry with `pinned: true`, then the newest unpinned entry
+# (skipped if it has `homepage: false`).
+- date: 2026-11-22
+  pinned: true
+  title: Missing team assignment email
+  body: |
+    MRI TogetherThon 2026 participants: we've heard that some of you didn't receive your team assignment email, due to technical issues with our email server. We're sorry it didn't reach you.
+
+    If you're missing yours, enter the email address you registered with in our team finder. You'll see your proposed team and instructions for confirming your participation.
+
+    👉 [https://mritogether-team-finder.vercel.app/](https://mritogether-team-finder.vercel.app/)

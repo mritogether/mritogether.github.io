@@ -7,3 +7,6 @@ _site/
 .DS_Store/*
 *.DS_Store/*
 Gemfile.lock
+
+# local participant list (contains emails)
+MRItogether_schedule*.csv
