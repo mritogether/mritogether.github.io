@@ -13,7 +13,7 @@ The 2026 edition of MRI Together is a hackathon that builds an open-source, end-
 
 ## Environment
 
-Every hands-on session runs in one environment on your own computer: JupyterLab with Python and Julia kernels and a bash shell, holding all the tools below. Set it up before 23 November from the setup repository **[here](https://mcencini.github.io/mritogetherthon)**.
+Every hands-on session runs in one environment on your own computer: JupyterLab with Python and Julia kernels and a bash shell, holding all the tools below. Set it up before the hackathon starts on 30 November from the setup repository **[here](https://mcencini.github.io/mritogetherthon)**.
 
 ## Packages
 
