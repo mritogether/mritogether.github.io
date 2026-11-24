@@ -1,6 +1,16 @@
 # Newest first. All entries appear on /26m/news.
 # Homepage banner: every entry with `pinned: true`, then the newest unpinned entry
 # (skipped if it has `homepage: false`).
+- date: 2026-11-24
+  pinned: true
+  title: Set up the hackathon environment
+  body: |
+    Every hands-on session runs in one environment on your own computer: JupyterLab with Python and Julia, and all the tools of the week. Please install it before the hackathon starts on 30 November, following the setup page:
+
+    👉 [https://mcencini.github.io/mritogetherthon](https://mcencini.github.io/mritogetherthon)
+
+    You need Docker and about 25 GB of free disk. If you have installed it already, it updates itself the next time you start it.
+
 - date: 2026-11-22
   pinned: true
   title: Missing team assignment email
