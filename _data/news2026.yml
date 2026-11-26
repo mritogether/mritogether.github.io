@@ -1,6 +1,16 @@
 # Newest first. All entries appear on /26m/news.
 # Homepage banner: every entry with `pinned: true`, then the newest unpinned entry
 # (skipped if it has `homepage: false`).
+- date: 2026-11-26
+  pinned: true
+  title: Your final team
+  body: |
+    Please use the [MRI TogetherThon Team Finder](https://mritogether-team-finder.vercel.app/) to see your final team lineup and find your teammates' contact details.
+
+    We'll soon send you an invitation to join us on Airmeet and share the resources you'll need for the hackathon.
+
+    We look forward to seeing you at MRI TogetherThon 2026!
+
 - date: 2026-11-24
   pinned: true
   title: Set up the hackathon environment
@@ -11,12 +21,3 @@
 
     You need Docker and about 25 GB of free disk. If you have installed it already, it updates itself the next time you start it.
 
-- date: 2026-11-22
-  pinned: true
-  title: Missing team assignment email
-  body: |
-    MRI TogetherThon 2026 participants: we've heard that some of you didn't receive your team assignment email, due to technical issues with our email server. We're sorry it didn't reach you.
-
-    If you're missing yours, enter the email address you registered with in our team finder. You'll see your proposed team and instructions for confirming your participation.
-
-    👉 [https://mritogether-team-finder.vercel.app/](https://mritogether-team-finder.vercel.app/)
