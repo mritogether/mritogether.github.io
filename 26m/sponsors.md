@@ -4,12 +4,6 @@ layout: default
 description: Workshop sponsors, external advisors, volunteers, and supporting researchers
 year: 2026
 --- 
-## Live stream
-
-The streaming of the sessions will happen here: [stream link]().
-
-The link will be added as soon as it is available.
-
 ## Sponsors
 
 We gratefully acknowledge the following sponsors that make **#MRITogether 2026** happen.

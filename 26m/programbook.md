@@ -39,6 +39,12 @@ year: 2026
 
 This year, MRI Together becomes a collaborative hackathon. The goal is to bring the community together around a shared practical challenge: building a fully open-source, end-to-end MRI pipeline for prenatal imaging—from sequence programming to image analysis.
 
+## Live stream
+
+The streaming of the sessions will happen here: [stream link]().
+
+The link will be added as soon as it is available.
+
 <p class="tz-note">Each day runs twice, in two cycles at different hours, so that you can follow the one that suits your timezone. Times are in UTC, with the conversion to <strong>your timezone</strong> (<span id="tz-name">detected automatically</span>) shown beneath.</p>
 
 <section class="day-block">
