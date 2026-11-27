@@ -42,7 +42,7 @@ This year, MRI Together becomes a collaborative hackathon. The goal is to bring 
 
 ## Live stream
 
-The streaming of the sessions will happen here: [stream link]().
+The streaming of the sessions will happen [here]().
 
 The link will be added as soon as it is available.
 
@@ -53,7 +53,7 @@ The link will be added as soon as it is available.
 <div class="cycles">
 <div class="cycle"><div class="cycle-title">Cycle 1</div>
 <div class="item support"><div class="item-head"><span class="type">Tech support</span><span class="t-utc" data-start="2026-11-30T07:30:00Z" data-end="2026-11-30T09:00:00Z">07:30–09:00 UTC</span><span class="t-local"></span></div><div class="item-body">Technical support: setting up the <a href="https://mcencini.github.io/mritogetherthon">hackathon environment</a></div></div>
-<div class="item opening"><div class="item-head"><span class="type">Opening</span><span class="t-utc" data-start="2026-11-30T09:00:00Z" data-end="2026-11-30T09:30:00Z">09:00–09:30 UTC</span><span class="t-local"></span></div><div class="item-body">Introduction to MRITogether and the hackathon<span class="speaker">Marta Brigid Maggioni — University of Basel, Basel, Switzerland</span></div></div>
+<div class="item opening"><div class="item-head"><span class="type">Opening</span><span class="t-utc" data-start="2026-11-30T09:00:00Z" data-end="2026-11-30T09:30:00Z">09:00–09:30 UTC</span><span class="t-local"></span></div><div class="item-body">Introduction to MRITogether and the hackathon<span class="speaker">Marta Brigid Maggioni — University of Basel, Basel, Switzerland</span><span class="speaker">Anais Artiges — King's College London, London, UK</span></div></div>
 <div class="item talk"><div class="item-head"><span class="type">Talk</span><span class="t-utc" data-start="2026-11-30T09:30:00Z" data-end="2026-11-30T10:00:00Z">09:30–10:00 UTC</span><span class="t-local"></span></div><div class="item-body">Open-source sequence programming<span class="speaker">Maxim Zaitsev — University Medical Center Freiburg, Freiburg, Germany</span></div></div>
 <div class="item talk"><div class="item-head"><span class="type">Talk</span><span class="t-utc" data-start="2026-11-30T10:00:00Z" data-end="2026-11-30T10:30:00Z">10:00–10:30 UTC</span><span class="t-local"></span></div><div class="item-body">Optimisation of MRI sequences for diffusion placenta imaging<span class="speaker">Paddy Slator — Cardiff University, Cardiff, UK</span></div></div>
 <div class="item handson"><div class="item-head"><span class="type">Hands-on</span><span class="t-utc" data-start="2026-11-30T10:30:00Z" data-end="2026-11-30T13:30:00Z">10:30–13:30 UTC</span><span class="t-local"></span></div><div class="item-body">Program and optimise a diffusion sequence for placenta application<span class="speaker">Tutors: Andreas Holl, Mojtaba Shafiekhani — University Medical Center Freiburg, Freiburg, Germany</span><span class="speaker">Tutors: Finnlay Gough — Cardiff University, Cardiff, UK</span></div></div>
