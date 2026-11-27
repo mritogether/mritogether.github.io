@@ -27,6 +27,7 @@ year: 2026
 .item-body { padding: .6rem .7rem; font-weight: 600; }
 .item .speaker { display: block; margin-top: .3rem; color: #666; font-size: .88em; font-weight: 400; }
 .opening .item-head, .closing .item-head { background: #dff2eb; color: #0b6b53; }
+.support .item-head { background: #f1f1f1; color: #555; }
 .talk .item-head { background: #ece9ff; color: #5b44b5; }
 .handson .item-head, .workshop .item-head { background: #e7f3ff; color: #0b63b5; }
 @media (max-width: 700px) {
@@ -39,18 +40,27 @@ year: 2026
 
 This year, MRI Together becomes a collaborative hackathon. The goal is to bring the community together around a shared practical challenge: building a fully open-source, end-to-end MRI pipeline for prenatal imaging—from sequence programming to image analysis.
 
+## Live stream
+
+The streaming of the sessions will happen here: [stream link]().
+
+The link will be added as soon as it is available.
+
 <p class="tz-note">Each day runs twice, in two cycles at different hours, so that you can follow the one that suits your timezone. Times are in UTC, with the conversion to <strong>your timezone</strong> (<span id="tz-name">detected automatically</span>) shown beneath.</p>
 
 <section class="day-block">
 <div class="day-head"><span class="day">Day 1</span><span class="date">30 November</span><span class="topic">Sequence Programming</span></div>
-<div class="single"><div class="item opening"><div class="item-head"><span class="type">Opening</span><span class="t-utc" data-start="2026-11-30T09:00:00Z" data-end="2026-11-30T09:30:00Z">09:00–09:30 UTC</span><span class="t-local"></span></div><div class="item-body">Introduction to MRITogether and the hackathon</div></div></div>
 <div class="cycles">
 <div class="cycle"><div class="cycle-title">Cycle 1</div>
+<div class="item support"><div class="item-head"><span class="type">Tech support</span><span class="t-utc" data-start="2026-11-30T07:30:00Z" data-end="2026-11-30T09:00:00Z">07:30–09:00 UTC</span><span class="t-local"></span></div><div class="item-body">Technical support: setting up the <a href="https://mcencini.github.io/mritogetherthon">hackathon environment</a></div></div>
+<div class="item opening"><div class="item-head"><span class="type">Opening</span><span class="t-utc" data-start="2026-11-30T09:00:00Z" data-end="2026-11-30T09:30:00Z">09:00–09:30 UTC</span><span class="t-local"></span></div><div class="item-body">Introduction to MRITogether and the hackathon<span class="speaker">Marta Brigid Maggioni — University of Basel, Basel, Switzerland</span></div></div>
 <div class="item talk"><div class="item-head"><span class="type">Talk</span><span class="t-utc" data-start="2026-11-30T09:30:00Z" data-end="2026-11-30T10:00:00Z">09:30–10:00 UTC</span><span class="t-local"></span></div><div class="item-body">Open-source sequence programming<span class="speaker">Maxim Zaitsev — University Medical Center Freiburg, Freiburg, Germany</span></div></div>
 <div class="item talk"><div class="item-head"><span class="type">Talk</span><span class="t-utc" data-start="2026-11-30T10:00:00Z" data-end="2026-11-30T10:30:00Z">10:00–10:30 UTC</span><span class="t-local"></span></div><div class="item-body">Optimisation of MRI sequences for diffusion placenta imaging<span class="speaker">Paddy Slator — Cardiff University, Cardiff, UK</span></div></div>
 <div class="item handson"><div class="item-head"><span class="type">Hands-on</span><span class="t-utc" data-start="2026-11-30T10:30:00Z" data-end="2026-11-30T13:30:00Z">10:30–13:30 UTC</span><span class="t-local"></span></div><div class="item-body">Program and optimise a diffusion sequence for placenta application<span class="speaker">Tutors: Andreas Holl, Mojtaba Shafiekhani — University Medical Center Freiburg, Freiburg, Germany</span><span class="speaker">Tutors: Finnlay Gough — Cardiff University, Cardiff, UK</span></div></div>
 </div>
 <div class="cycle"><div class="cycle-title">Cycle 2</div>
+<div class="item support"><div class="item-head"><span class="type">Tech support</span><span class="t-utc" data-start="2026-11-30T15:00:00Z" data-end="2026-11-30T16:30:00Z">15:00–16:30 UTC</span><span class="t-local"></span></div><div class="item-body">Technical support: setting up the <a href="https://mcencini.github.io/mritogetherthon">hackathon environment</a></div></div>
+<div class="item opening"><div class="item-head"><span class="type">Opening</span><span class="t-utc" data-start="2026-11-30T16:30:00Z" data-end="2026-11-30T17:00:00Z">16:30–17:00 UTC</span><span class="t-local"></span></div><div class="item-body">Introduction to MRITogether and the hackathon<span class="speaker">Matteo Cencini — IRCCS Stella Maris, Pisa, Italy</span><span class="speaker">Jo Hajnal — King's College London, London, UK</span></div></div>
 <div class="item talk"><div class="item-head"><span class="type">Talk</span><span class="t-utc" data-start="2026-11-30T17:00:00Z" data-end="2026-11-30T17:30:00Z">17:00–17:30 UTC</span><span class="t-local"></span></div><div class="item-body">Open-source sequence programming<span class="speaker">Jon-Fredrik Nielsen — University of Michigan, Ann Arbor, USA</span></div></div>
 <div class="item talk"><div class="item-head"><span class="type">Talk</span><span class="t-utc" data-start="2026-11-30T17:30:00Z" data-end="2026-11-30T18:00:00Z">17:30–18:00 UTC</span><span class="t-local"></span></div><div class="item-body">Optimisation of MRI sequences for diffusion placenta imaging<span class="speaker">Nahla M.H. Elsaid — Children's National Hospital, Washington DC, USA</span></div></div>
 <div class="item handson"><div class="item-head"><span class="type">Hands-on</span><span class="t-utc" data-start="2026-11-30T18:00:00Z" data-end="2026-11-30T21:00:00Z">18:00–21:00 UTC</span><span class="t-local"></span></div><div class="item-body">Program and optimise a diffusion sequence for placenta application<span class="speaker">Tutors: Rex Fung — University of Michigan, Ann Arbor, USA</span></div></div>
@@ -85,7 +95,7 @@ This year, MRI Together becomes a collaborative hackathon. The goal is to bring 
 <div class="cycle"><div class="cycle-title">Cycle 2</div>
 <div class="item talk"><div class="item-head"><span class="type">Talk</span><span class="t-utc" data-start="2026-12-02T15:00:00Z" data-end="2026-12-02T15:30:00Z">15:00–15:30 UTC</span><span class="t-local"></span></div><div class="item-body">Addressing Motion Artifacts in (prenatal) MRI<span class="speaker">Thomas Küstner — University Hospital of Tübingen, Tübingen, Germany</span></div></div>
 <div class="item talk"><div class="item-head"><span class="type">Talk</span><span class="t-utc" data-start="2026-12-02T15:30:00Z" data-end="2026-12-02T16:00:00Z">15:30–16:00 UTC</span><span class="t-local"></span></div><div class="item-body">Advanced Diffusion Post-Processing Pipelines for Prenatal Imaging<span class="speaker">Penny Anne Gowland — University of Nottingham, Nottingham, UK</span></div></div>
-<div class="item handson"><div class="item-head"><span class="type">Hands-on</span><span class="t-utc" data-start="2026-12-02T16:00:00Z" data-end="2026-12-02T19:00:00Z">16:00–19:00 UTC</span><span class="t-local"></span></div><div class="item-body">Motion correction, denoising and post-processing of real and simulated MRI data<span class="speaker">Tutors: George Jack Hutchinson — University of Nottingham, Nottingham, UK</span></div></div>
+<div class="item handson"><div class="item-head"><span class="type">Hands-on</span><span class="t-utc" data-start="2026-12-02T16:00:00Z" data-end="2026-12-02T19:00:00Z">16:00–19:00 UTC</span><span class="t-local"></span></div><div class="item-body">Motion correction, denoising and post-processing of real and simulated MRI data<span class="speaker">Tutors: George Jack Hutchinson — University of Nottingham, Nottingham, UK</span><span class="speaker">Tutors: Aya Ghoul — University Hospital of Tübingen, Tübingen, Germany</span></div></div>
 </div>
 </div>
 </section>
@@ -107,8 +117,16 @@ This year, MRI Together becomes a collaborative hackathon. The goal is to bring 
 
 <section class="day-block">
 <div class="day-head"><span class="day">Day 5</span><span class="date">4 December</span><span class="topic">Pipeline Assembly</span></div>
-<div class="single"><div class="item workshop"><div class="item-head"><span class="type">Workshop</span><span class="t-utc">TBD</span></div><div class="item-body">Full Placenta MRI pipeline: integrating sequence programming, simulation, reconstruction, and analysis<span class="speaker">Jo Hajnal — King's College London, London, UK</span></div></div>
-<div class="item closing"><div class="item-head"><span class="type">Closing</span><span class="t-utc">TBD</span></div><div class="item-body">Prize Announcements and closing talk</div></div></div>
+<div class="single"><div class="item talk"><div class="item-head"><span class="type">Talk</span><span class="t-utc" data-start="2026-12-04T09:00:00Z" data-end="2026-12-04T09:10:00Z">09:00–09:10 UTC</span><span class="t-local"></span></div><div class="item-body">Full Placenta MRI pipeline: integrating sequence programming, simulation, reconstruction, and analysis<span class="speaker">Jo Hajnal — King's College London, London, UK</span></div></div></div>
+<div class="cycles">
+<div class="cycle"><div class="cycle-title">Cycle 1</div>
+<div class="item handson"><div class="item-head"><span class="type">Hands-on</span><span class="t-utc" data-start="2026-12-04T09:10:00Z" data-end="2026-12-04T13:10:00Z">09:10–13:10 UTC</span><span class="t-local"></span></div><div class="item-body">Pipeline assembly: the teams' stages joined into the full placenta MRI pipeline</div></div>
+</div>
+<div class="cycle"><div class="cycle-title">Cycle 2</div>
+<div class="item handson"><div class="item-head"><span class="type">Hands-on</span><span class="t-utc" data-start="2026-12-04T15:00:00Z" data-end="2026-12-04T19:00:00Z">15:00–19:00 UTC</span><span class="t-local"></span></div><div class="item-body">Pipeline assembly: the teams' stages joined into the full placenta MRI pipeline</div></div>
+</div>
+</div>
+<div class="single"><div class="item closing"><div class="item-head"><span class="type">Closing</span><span class="t-utc" data-start="2026-12-04T20:00:00Z" data-end="2026-12-04T20:30:00Z">20:00–20:30 UTC</span><span class="t-local"></span></div><div class="item-body">Closing remarks and prize announcements</div></div></div>
 </section>
 
 <script>
