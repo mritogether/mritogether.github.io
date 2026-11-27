@@ -1,6 +1,13 @@
 # Newest first. All entries appear on /26m/news.
 # Homepage banner: every entry with `pinned: true`, then the newest unpinned entry
 # (skipped if it has `homepage: false`).
+- date: 2026-11-27
+  title: Run the launcher once more
+  body: |
+    If you installed the hackathon environment before 27 November, please run the launcher once more, from the setup page: the new version also opens the port of KomaMRI's browser interface, which day 2 uses. Your work is kept.
+
+    👉 [https://mcencini.github.io/mritogetherthon](https://mcencini.github.io/mritogetherthon)
+
 - date: 2026-11-26
   pinned: true
   title: Your final team
